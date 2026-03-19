@@ -11,6 +11,10 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 import pandas as pd
+import os
+
+# data 폴더가 없으면 새로 생성 (이미 있으면 무시)
+os.makedirs("data", exist_ok=True)
 
 TICKERS = ["AAPL", "MSFT", "AMZN", "NVDA"]
 
