@@ -2,9 +2,8 @@ name: Daily Stock News Crawl
 
 on:
   schedule:
-    # 매일 한국 시간 오전 9시 (UTC 기준 00:00) 실행
     - cron: '0 0 * * *'
-  workflow_dispatch: # 수동으로 실행하고 싶을 때 버튼 활성화
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -12,10 +11,10 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4 # v3 -> v4로 업그레이드
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5 # v4 -> v5로 업그레이드
       with:
         python-version: '3.11'
 
@@ -24,13 +23,19 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
+    - name: Create data directory # 미리 폴더를 만들어주는 안전장치 추가
+      run: mkdir -p data
+
     - name: Run crawler
       run: python news_crawl.py
+      # 여기서 에러가 나면 상세 로그를 보기 위해 환경 변수 추가 가능
+      env:
+        PYTHONUNBUFFERED: 1 
 
     - name: Commit and Push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add data/*.csv
-        git commit -m "뉴스데이터 업데이트✅ $(date +'%Y-%m-%d')" || exit 0
+        git commit -m "Update news data $(date +'%Y-%m-%d')" || exit 0
         git push
