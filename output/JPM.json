@@ -1,0 +1,6899 @@
+{
+  "meta": {
+    "symbol": "JPM",
+    "sector": "금융_핀테크",
+    "collected_at": "2026-03-25T06:30:15.788931Z",
+    "note": "income/cashflow TTM → annual limit=1 로 대체"
+  },
+  "analyst": {
+    "grades_consensus": {
+      "description": "애널리스트 등급 합산 (Strong Buy ~ Strong Sell)",
+      "data": [
+        {
+          "symbol": "JPM",
+          "strongBuy": 1,
+          "buy": 32,
+          "hold": 25,
+          "sell": 2,
+          "strongSell": 0
+        }
+      ]
+    },
+    "price_target_consensus": {
+      "description": "목표주가 컨센서스 (High/Low/Median/Consensus)",
+      "data": [
+        {
+          "symbol": "JPM",
+          "targetHigh": 391,
+          "targetLow": 280,
+          "targetConsensus": 336.1,
+          "targetMedian": 332.5
+        }
+      ]
+    },
+    "analyst_estimates": {
+      "description": "향후 실적 추정치 (매출·EPS·EBITDA) – 3개년",
+      "data": [
+        {
+          "symbol": "JPM",
+          "date": "2028-12-31"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2027-12-31"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2026-12-31"
+        }
+      ]
+    },
+    "stock_grades": {
+      "description": "개별 증권사 최신 등급 (최근 10건)",
+      "data": [
+        {
+          "symbol": "JPM",
+          "date": "2026-02-17",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2026-01-06",
+          "gradingCompany": "Truist Securities",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2026-01-05",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-12-18",
+          "gradingCompany": "Truist Securities",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-12-17",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-11-03",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-10-15",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-10-15",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-10-07",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-09-30",
+          "gradingCompany": "Evercore ISI Group",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-09-29",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-09-24",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-09-24",
+          "gradingCompany": "Truist Securities",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-09-16",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-07-16",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-07-16",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-07-16",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-07-16",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-07-15",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-07-09",
+          "gradingCompany": "Truist Securities",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-07-03",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-07-02",
+          "gradingCompany": "Evercore ISI Group",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-06-26",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-06-23",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-06-18",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-06-10",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-06-02",
+          "gradingCompany": "Truist Securities",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-05-23",
+          "gradingCompany": "Truist Securities",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-05-20",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-05-20",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-05-20",
+          "gradingCompany": "Baird",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-05-20",
+          "gradingCompany": "TD Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-05-20",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-04-17",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-04-14",
+          "gradingCompany": "Truist Securities",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-04-04",
+          "gradingCompany": "Truist Securities",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-04-02",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-04-01",
+          "gradingCompany": "Evercore ISI Group",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-01-16",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-01-16",
+          "gradingCompany": "Truist Securities",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-01-16",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-01-16",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-01-07",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2025-01-06",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-12-03",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-12-03",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-11-20",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-11-19",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-11-15",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-11-05",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-10-14",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-10-14",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-10-14",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-10-14",
+          "gradingCompany": "Evercore ISI Group",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-10-02",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-09-12",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-09-03",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-30",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-15",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-15",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-15",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-15",
+          "gradingCompany": "Evercore ISI Group",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-15",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-15",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-15",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-15",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-09",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-03",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-07-03",
+          "gradingCompany": "Evercore ISI Group",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-05-21",
+          "gradingCompany": "Baird",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-05-21",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-05-21",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-05-21",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-05-21",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-05-21",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-04-16",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-04-15",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-04-15",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-04-15",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-04-15",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-04-14",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-04-08",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-04-05",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-04-04",
+          "gradingCompany": "Evercore ISI Group",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-03-20",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-03-20",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-03-19",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-03-13",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-03-08",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-02-01",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-01-30",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-01-30",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-01-16",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-01-16",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-01-16",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-01-09",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-01-04",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-01-02",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-12-18",
+          "gradingCompany": "Daiwa Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-11-16",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-10-16",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-10-16",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-10-16",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-10-16",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-10-15",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-10-15",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-10-15",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-10-15",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-10-03",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-10-02",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-09-26",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-09-25",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-09-12",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-09-12",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-09-11",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-09-11",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-09-08",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-09-07",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-08-18",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-08-17",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-08-01",
+          "gradingCompany": "Atlantic Equities",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-31",
+          "gradingCompany": "Atlantic Equities",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-18",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-17",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-17",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-17",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-17",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-16",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-16",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-16",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-12",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-12",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-11",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-11",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-10",
+          "gradingCompany": "Societe Generale",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-10",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-09",
+          "gradingCompany": "Societe Generale",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-07",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-07",
+          "gradingCompany": "Wolfe Research",
+          "previousGrade": "Peer Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-06",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-07-06",
+          "gradingCompany": "Wolfe Research",
+          "previousGrade": "Peer Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-06-26",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-06-25",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-06-15",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-06-14",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-05-23",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-05-22",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-05-15",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-05-14",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-05-12",
+          "gradingCompany": "Evercore ISI Group",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-05-11",
+          "gradingCompany": "Evercore ISI Group",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-05-02",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-05-02",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-05-02",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-05-01",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-05-01",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-17",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-17",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-17",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-17",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-17",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-17",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-17",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-16",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-16",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-16",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-16",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-16",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-16",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-16",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-12",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-11",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-05",
+          "gradingCompany": "Evercore ISI Group",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-05",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-04",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-04-04",
+          "gradingCompany": "Evercore ISI Group",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-03-24",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-03-23",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-03-23",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-03-22",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-03-13",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-03-12",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-02-24",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-02-23",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-02-02",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-02-01",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-01-17",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-01-17",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-01-17",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-01-16",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-01-16",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-01-16",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-01-06",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-01-05",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-01-03",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-01-02",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-12-28",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-12-27",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-12-12",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-12-11",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-12-08",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-12-06",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-12-05",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-10-17",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-10-16",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-10-05",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-10-04",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-10-04",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-10-03",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-09-12",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-09-11",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-18",
+          "gradingCompany": "Berenberg",
+          "previousGrade": "Sell",
+          "newGrade": "Hold",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-17",
+          "gradingCompany": "Berenberg",
+          "previousGrade": "Sell",
+          "newGrade": "Hold",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-15",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-15",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-15",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-15",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-15",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-14",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-14",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-14",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-14",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-14",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-12",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-12",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-11",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-11",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-11",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-10",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-01",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-07-01",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-06-30",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-06-30",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-06-24",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-06-23",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-24",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-24",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-24",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-24",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-23",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-23",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-23",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-23",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-19",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-18",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-03",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-05-02",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-14",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-14",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-14",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-14",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-13",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-13",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-13",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-13",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-05",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-04",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-04",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-04-03",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Equal Weight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-03-28",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-03-27",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-02-14",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-02-13",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-01-18",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-01-18",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-01-17",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-01-17",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-01-05",
+          "gradingCompany": "Seaport Global",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-01-04",
+          "gradingCompany": "Wolfe Research",
+          "previousGrade": "Outperform",
+          "newGrade": "Peer Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-01-04",
+          "gradingCompany": "Seaport Global",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-01-03",
+          "gradingCompany": "Wolfe Research",
+          "previousGrade": "Outperform",
+          "newGrade": "Peer Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-01-03",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2022-01-02",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-12-06",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-12-05",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-10-25",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-10-24",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-10-15",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-10-14",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-10-14",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-10-13",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-10-11",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-10-10",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-07-29",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-07-28",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-07-14",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-07-13",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-06-08",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-06-07",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-30",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-29",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-27",
+          "gradingCompany": "Atlantic Equities",
+          "previousGrade": "Overweight",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-26",
+          "gradingCompany": "Atlantic Equities",
+          "previousGrade": "Overweight",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-15",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-15",
+          "gradingCompany": "DA Davidson",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-15",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-14",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-14",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-14",
+          "gradingCompany": "DA Davidson",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-09",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-08",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-04-01",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-03-31",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-03-22",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-03-21",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-03-15",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-03-14",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-03-01",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-02-28",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Underweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-01-19",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-01-18",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-01-07",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-01-07",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-01-06",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2021-01-06",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-12-03",
+          "gradingCompany": "Independent Research",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-12-02",
+          "gradingCompany": "Independent Research",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-11-30",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Underweight",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-11-29",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Underweight",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-11-19",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-11-18",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-10-14",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-10-13",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-09-29",
+          "gradingCompany": "Independent Research",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-09-28",
+          "gradingCompany": "Independent Research",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-09-17",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-09-16",
+          "gradingCompany": "RBC Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-09-03",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-09-02",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-07-22",
+          "gradingCompany": "Atlantic Equities",
+          "previousGrade": "Neutral",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-07-21",
+          "gradingCompany": "Atlantic Equities",
+          "previousGrade": "Neutral",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-07-09",
+          "gradingCompany": "Wolfe Research",
+          "previousGrade": "Peer Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-07-09",
+          "gradingCompany": "DA Davidson",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-07-08",
+          "gradingCompany": "DA Davidson",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-07-08",
+          "gradingCompany": "Wolfe Research",
+          "previousGrade": "Peer Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-07-08",
+          "gradingCompany": "Seaport Global",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-06-25",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-06-24",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-05-04",
+          "gradingCompany": "UBS",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-05-03",
+          "gradingCompany": "UBS",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-15",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-15",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-14",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-14",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-06",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-06",
+          "gradingCompany": "UBS",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-05",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-05",
+          "gradingCompany": "UBS",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-03",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-02",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-02",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-02",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-01",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-04-01",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-31",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-27",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-27",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-26",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-26",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-20",
+          "gradingCompany": "DZ Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-19",
+          "gradingCompany": "DZ Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-10",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-09",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-09",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-08",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-02",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-02",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Neutral",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-01",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-03-01",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Neutral",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-02-26",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-02-25",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-02-03",
+          "gradingCompany": "Odeon Capital",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-02-02",
+          "gradingCompany": "Odeon Capital",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-16",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-15",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-15",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-15",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-15",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-14",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-14",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-14",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-09",
+          "gradingCompany": "DA Davidson",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-08",
+          "gradingCompany": "DA Davidson",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-06",
+          "gradingCompany": "Wolfe Research",
+          "previousGrade": "Outperform",
+          "newGrade": "Peer Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2020-01-05",
+          "gradingCompany": "Wolfe Research",
+          "previousGrade": "Outperform",
+          "newGrade": "Peer Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-12-20",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-12-19",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-12-16",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-12-15",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-12-10",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-12-09",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-11-26",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-11-25",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-11-18",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-11-17",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-10-29",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-10-28",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-10-16",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-10-16",
+          "gradingCompany": "Baird",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-10-16",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-10-15",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-10-15",
+          "gradingCompany": "Baird",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-10-15",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-10-03",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-10-02",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-09-16",
+          "gradingCompany": "Buckingham Research",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-09-16",
+          "gradingCompany": "Buckingham",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-09-15",
+          "gradingCompany": "Buckingham Research",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-08-21",
+          "gradingCompany": "DZ Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-08-20",
+          "gradingCompany": "DZ Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-04-15",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-04-15",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-04-15",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-04-14",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-04-14",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-04-14",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-02-28",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-02-27",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-02-14",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-02-13",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-01-16",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-01-15",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-01-08",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-01-08",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-01-07",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2019-01-07",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-12-07",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-12-06",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-09-26",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-09-25",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-09-17",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-09-17",
+          "gradingCompany": "Bank of America",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-09-16",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-07-19",
+          "gradingCompany": "DZ Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-07-18",
+          "gradingCompany": "DZ Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-07-16",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-07-15",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-05-05",
+          "gradingCompany": "Argus",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-04-30",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-04-29",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-04-11",
+          "gradingCompany": "HSBC",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-03-19",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-03-18",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-02-28",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-02-28",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-02-27",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-02-27",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-02-21",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-02-20",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-02-13",
+          "gradingCompany": "Keefe Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-02-13",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-02-12",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-02-02",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-02-01",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-01-17",
+          "gradingCompany": "DZ Bank",
+          "previousGrade": "Sell",
+          "newGrade": "Hold",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2018-01-16",
+          "gradingCompany": "DZ Bank",
+          "previousGrade": "Sell",
+          "newGrade": "Hold",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-12-21",
+          "gradingCompany": "Buckingham Research",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-12-21",
+          "gradingCompany": "Buckingham",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-12-20",
+          "gradingCompany": "Buckingham Research",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-13",
+          "gradingCompany": "Baird",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-13",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-13",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-13",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-13",
+          "gradingCompany": "Bank of America",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-13",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-13",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-12",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-12",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-12",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-12",
+          "gradingCompany": "Baird",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-12",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-12",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-06",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-10-05",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-09-26",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-09-25",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-07-17",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-07-16",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-04-25",
+          "gradingCompany": "Guggenheim",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-04-25",
+          "gradingCompany": "Guggenheim",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-04-24",
+          "gradingCompany": "Guggenheim",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-01-17",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-01-17",
+          "gradingCompany": "Keefe Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-01-16",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2017-01-11",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-11-30",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-11-29",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-11-09",
+          "gradingCompany": "Baird",
+          "previousGrade": "Outperform",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-11-08",
+          "gradingCompany": "Baird",
+          "previousGrade": "Outperform",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-10-17",
+          "gradingCompany": "Buckingham",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-10-17",
+          "gradingCompany": "Buckingham Research",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-10-17",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-10-16",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-10-16",
+          "gradingCompany": "Buckingham Research",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-10-10",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-10-09",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-10-06",
+          "gradingCompany": "Sandler O'Neill",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-10-06",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-10-05",
+          "gradingCompany": "Piper Sandler",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-09-23",
+          "gradingCompany": "CLSA",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-09-22",
+          "gradingCompany": "CLSA",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-09-09",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Outperform",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-09-08",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Outperform",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-09-07",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-09-06",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-08-16",
+          "gradingCompany": "Bernstein",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-08-15",
+          "gradingCompany": "Bernstein",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-08-08",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-08-07",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-07-15",
+          "gradingCompany": "Keefe Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-07-15",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-07-14",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-07-13",
+          "gradingCompany": "Berenberg",
+          "previousGrade": "Sell",
+          "newGrade": "Sell",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-05-16",
+          "gradingCompany": "Keefe Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-05-16",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-05-15",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-04-25",
+          "gradingCompany": "Erste Group",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-04-24",
+          "gradingCompany": "Erste Group",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-04-14",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-04-14",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-04-14",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-04-13",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-04-13",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-04-13",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-24",
+          "gradingCompany": "Keefe Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-24",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-24",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-24",
+          "gradingCompany": "Buckingham Research",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-24",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-23",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-23",
+          "gradingCompany": "Buckingham Research",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-23",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-23",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-22",
+          "gradingCompany": "Portales Partners",
+          "previousGrade": "Sector Perform",
+          "newGrade": "Underperform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-21",
+          "gradingCompany": "Portales Partners",
+          "previousGrade": "Sector Perform",
+          "newGrade": "Underperform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-05",
+          "gradingCompany": "UBS",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-02-04",
+          "gradingCompany": "UBS",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-26",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-25",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-25",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-24",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-15",
+          "gradingCompany": "Argus",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-15",
+          "gradingCompany": "Atlantic Equities",
+          "previousGrade": "Neutral",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-15",
+          "gradingCompany": "Argus Research",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-15",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-14",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-14",
+          "gradingCompany": "Atlantic Equities",
+          "previousGrade": "Neutral",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-14",
+          "gradingCompany": "Argus Research",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-11",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-11",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-10",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2016-01-10",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-10-14",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-10-14",
+          "gradingCompany": "Keefe Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-10-13",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-10-07",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-10-06",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-10-05",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-10-04",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-09-16",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-09-15",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-08-25",
+          "gradingCompany": "CLSA",
+          "previousGrade": "Outperform",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-08-24",
+          "gradingCompany": "CLSA",
+          "previousGrade": "Outperform",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-08-17",
+          "gradingCompany": "Keefe Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-08-17",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-08-16",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-07-20",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-07-19",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-07-15",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-07-15",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-07-15",
+          "gradingCompany": "Keefe Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-07-14",
+          "gradingCompany": "BMO Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-07-14",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-06-29",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-06-28",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-05-11",
+          "gradingCompany": "MKM Partners",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-05-10",
+          "gradingCompany": "MKM Partners",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-04-15",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-04-15",
+          "gradingCompany": "Keefe Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-04-15",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-04-14",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-04-14",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-04-07",
+          "gradingCompany": "Bernstein",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-04-06",
+          "gradingCompany": "Bernstein",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-03-13",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-03-12",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-02-26",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-02-25",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-01-15",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-01-14",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-01-14",
+          "gradingCompany": "HSBC",
+          "previousGrade": "Neutral",
+          "newGrade": "Underweight",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-01-13",
+          "gradingCompany": "HSBC",
+          "previousGrade": "Neutral",
+          "newGrade": "Underweight",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-01-08",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-01-05",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2015-01-04",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-11-11",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-11-10",
+          "gradingCompany": "Keefe, Bruyette & Woods",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-10-15",
+          "gradingCompany": "Argus Capital",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-10-15",
+          "gradingCompany": "Argus Research",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-10-14",
+          "gradingCompany": "Argus Research",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-10-02",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-10-01",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-09-03",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-09-02",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-07-21",
+          "gradingCompany": "FBR Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-07-20",
+          "gradingCompany": "FBR Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-07-15",
+          "gradingCompany": "Rafferty",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-07-15",
+          "gradingCompany": "Rafferty Capital",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-07-15",
+          "gradingCompany": "Portales Partners",
+          "previousGrade": "Underperform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-07-14",
+          "gradingCompany": "Portales Partners",
+          "previousGrade": "Underperform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-07-14",
+          "gradingCompany": "Rafferty Capital",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-05-21",
+          "gradingCompany": "MKM Partners",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-05-12",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-05-11",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-05-05",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-05-04",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-21",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-20",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-14",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-14",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-14",
+          "gradingCompany": "FBR Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-14",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-13",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-13",
+          "gradingCompany": "Wells Fargo",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-13",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-13",
+          "gradingCompany": "FBR Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Market Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-04",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Neutral",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-04-03",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Neutral",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-02-26",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-02-26",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-02-25",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-02-25",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-02-10",
+          "gradingCompany": "Societe Generale",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-02-09",
+          "gradingCompany": "Societe Generale",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-01-28",
+          "gradingCompany": "Mediobanca Securities",
+          "previousGrade": "Outperform",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-01-27",
+          "gradingCompany": "Mediobanca Securities",
+          "previousGrade": "Outperform",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-01-15",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-01-14",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-01-09",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-01-08",
+          "gradingCompany": "Jefferies",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-01-02",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2014-01-01",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-12-19",
+          "gradingCompany": "SunTrust Robinson Humphrey",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-12-18",
+          "gradingCompany": "SunTrust Robinson Humphrey",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-12-17",
+          "gradingCompany": "SunTrust Robinson Humphrey",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-09-19",
+          "gradingCompany": "Societe Generale",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-08-26",
+          "gradingCompany": "Rafferty",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-08-26",
+          "gradingCompany": "Rafferty Capital",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-08-25",
+          "gradingCompany": "Rafferty Capital",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-07-24",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-07-23",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-07-02",
+          "gradingCompany": "Raymond James",
+          "previousGrade": "Outperform",
+          "newGrade": "Strong Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-07-01",
+          "gradingCompany": "Raymond James",
+          "previousGrade": "Outperform",
+          "newGrade": "Strong Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-06-07",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Outperform",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-06-06",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Outperform",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-04-24",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-04-23",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-04-15",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-04-14",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-04-14",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-04-13",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-02-27",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-02-27",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-02-26",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-02-26",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-02-25",
+          "gradingCompany": "ISI Group",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-02-24",
+          "gradingCompany": "ISI Group",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-25",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-24",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-17",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-17",
+          "gradingCompany": "ISI Group",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-17",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-16",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-16",
+          "gradingCompany": "ISI Group",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-16",
+          "gradingCompany": "Oppenheimer",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-10",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-09",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-09",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-08",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-08",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-07",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-04",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-04",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-03",
+          "gradingCompany": "Sterne Agee",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-03",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-03",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-03",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-02",
+          "gradingCompany": "Sterne Agee",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2013-01-02",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-11-16",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-11-15",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-10-02",
+          "gradingCompany": "Drexel Hamilton",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-09-17",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-09-16",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-09-14",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-09-13",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-07-30",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-07-29",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-07-13",
+          "gradingCompany": "ISI Group",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-07-12",
+          "gradingCompany": "ISI Group",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-06-26",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-06-25",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-22",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-22",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-22",
+          "gradingCompany": "Sterne Agee",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-21",
+          "gradingCompany": "JMP Securities",
+          "previousGrade": "Underperform",
+          "newGrade": "Underperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-21",
+          "gradingCompany": "Sterne Agee",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-21",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-21",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-21",
+          "gradingCompany": "JMP Securities",
+          "previousGrade": "Market Perform",
+          "newGrade": "Underperform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-21",
+          "gradingCompany": "Guggenheim",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-20",
+          "gradingCompany": "Guggenheim",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-20",
+          "gradingCompany": "JMP Securities",
+          "previousGrade": "Market Perform",
+          "newGrade": "Underperform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-14",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-14",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-13",
+          "gradingCompany": "Standpoint Research",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-11",
+          "gradingCompany": "FBR Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-11",
+          "gradingCompany": "Stifel Nicolaus",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-11",
+          "gradingCompany": "Stifel",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-11",
+          "gradingCompany": "FBR Capital",
+          "previousGrade": "Market Perform",
+          "newGrade": "Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-10",
+          "gradingCompany": "Stifel",
+          "previousGrade": "Buy",
+          "newGrade": "Hold",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-05-10",
+          "gradingCompany": "FBR Capital",
+          "previousGrade": "Outperform",
+          "newGrade": "Market Perform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-04-02",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-04-01",
+          "gradingCompany": "UBS",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-30",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-29",
+          "gradingCompany": "Deutsche Bank",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-29",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-28",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-27",
+          "gradingCompany": "Bank oferica",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-27",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-26",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-19",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-18",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-08",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-07",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-03-01",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-02-29",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "JPM",
+          "date": "2012-02-28",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        }
+      ]
+    },
+    "stock_grades_historical": {
+      "description": "등급 업/다운그레이드 이력 (최근 20건)",
+      "data": null
+    },
+    "price_target_summary": {
+      "description": "1·3·6개월 평균 목표주가 추이",
+      "data": [
+        {
+          "symbol": "JPM",
+          "lastMonthAvgPriceTarget": 0,
+          "lastQuarterAvgPriceTarget": 322.5,
+          "lastYearAvgPriceTarget": 313.58,
+          "allTimeAvgPriceTarget": 218.91,
+          "publishers": "[\"TheFly\",\"StreetInsider\",\"Benzinga\",\"Pulse 2.0\",\"TipRanks Contributor\",\"TipRanks\"]"
+        }
+      ]
+    }
+  },
+  "fundamental": {
+    "key_metrics_ttm": {
+      "description": "핵심 밸류에이션 지표 TTM",
+      "data": [
+        {
+          "symbol": "JPM",
+          "evToSalesTTM": 3.3719050787813063,
+          "returnOnTangibleAssetsTTM": 0.0130830773577541,
+          "netDebtToEBITDATTM": 1.9239952834823622,
+          "earningsYieldTTM": 0.06996184572711535,
+          "freeCashFlowYieldTTM": 0.12790442691699525,
+          "enterpriseValueTTM": 945256266450
+        }
+      ]
+    },
+    "financial_ratios_ttm": {
+      "description": "재무 비율 TTM",
+      "data": [
+        {
+          "symbol": "JPM",
+          "grossProfitMarginTTM": 0.5999828775063942,
+          "operatingProfitMarginTTM": 0.25895987985716984,
+          "netProfitMarginTTM": 0.20350083650515638,
+          "currentRatioTTM": 14.853263554402865,
+          "quickRatioTTM": 14.853263554402865,
+          "assetTurnoverTTM": 0.06335352211349408,
+          "inventoryTurnoverTTM": 0,
+          "receivablesTurnoverTTM": 2.5119669531088986,
+          "dividendYieldTTM": 0.01983584,
+          "priceToBookRatioTTM": 2.24980791197391,
+          "priceToSalesRatioTTM": 2.8131267687000814,
+          "freeCashFlowPerShareTTM": 36.1698999533833
+        }
+      ]
+    },
+    "financial_statement_growth": {
+      "description": "매출·EPS·FCF 성장률 YoY (최근 3개년)",
+      "data": [
+        {
+          "symbol": "JPM",
+          "date": "2025-12-31",
+          "period": "FY",
+          "revenueGrowth": 0.03307372160612137,
+          "grossProfitGrowth": 0.05555940422583997,
+          "operatingIncomeGrowth": -0.03311090688722846,
+          "netIncomeGrowth": -0.02433685074652392,
+          "epsgrowth": 0.01515917129863571,
+          "freeCashFlowGrowth": 3.4009092640198038,
+          "operatingCashFlowGrowth": 3.4009092640198038
+        },
+        {
+          "symbol": "JPM",
+          "date": "2024-12-31",
+          "period": "FY",
+          "revenueGrowth": 0.14608524884349883,
+          "grossProfitGrowth": 0.09003226470790142,
+          "operatingIncomeGrowth": 0.21861001103681102,
+          "netIncomeGrowth": 0.17999273490474652,
+          "epsgrowth": 0.2178461538461538,
+          "freeCashFlowGrowth": -4.238168644982272,
+          "operatingCashFlowGrowth": -4.238168644982272
+        },
+        {
+          "symbol": "JPM",
+          "date": "2023-12-31",
+          "period": "FY",
+          "revenueGrowth": 0.5359956833784065,
+          "grossProfitGrowth": 0.1999967048899433,
+          "operatingIncomeGrowth": 0.3345752285231556,
+          "netIncomeGrowth": 0.3152139292918569,
+          "epsgrowth": 0.34297520661157027,
+          "freeCashFlowGrowth": -0.878882364473156,
+          "operatingCashFlowGrowth": -0.878882364473156
+        }
+      ]
+    },
+    "income_statement_annual": {
+      "description": "손익계산서 연간 최신 (income_statement_ttm 대체)",
+      "data": [
+        {
+          "symbol": "JPM",
+          "date": "2025-12-31",
+          "period": "FY",
+          "revenue": 279745000000,
+          "grossProfit": 167607000000,
+          "operatingIncome": 72595000000,
+          "netIncome": 57048000000,
+          "eps": 20.09,
+          "epsDiluted": 20.05,
+          "ebitda": 81416000000,
+          "researchAndDevelopmentExpenses": 0,
+          "weightedAverageShsOut": 2788700000
+        }
+      ]
+    },
+    "cash_flow_statement_annual": {
+      "description": "현금흐름표 연간 최신 (cash_flow_statement_ttm 대체)",
+      "data": [
+        {
+          "symbol": "JPM",
+          "date": "2025-12-31",
+          "period": "FY",
+          "operatingCashFlow": 100867000000,
+          "capitalExpenditure": 0,
+          "freeCashFlow": 100867000000,
+          "netCashProvidedByOperatingActivities": 100867000000,
+          "cashAtEndOfPeriod": 343338000000,
+          "commonStockRepurchased": -34591000000
+        }
+      ]
+    }
+  },
+  "valuation": {
+    "ratings_snapshot": {
+      "description": "FMP 종합 등급 + 항목별 점수",
+      "data": [
+        {
+          "symbol": "JPM",
+          "rating": "B"
+        }
+      ]
+    },
+    "financial_scores": {
+      "description": "Altman Z-Score + Piotroski F-Score",
+      "data": [
+        {
+          "symbol": "JPM",
+          "altmanZScore": 0.6079678793357429,
+          "piotroskiScore": 6,
+          "workingCapital": 897359000000,
+          "totalAssets": 4424900000000,
+          "retainedEarnings": 416055000000,
+          "ebit": 72595000000,
+          "marketCap": 781896655836,
+          "totalLiabilities": 4062462000000,
+          "revenue": 280333000000
+        }
+      ]
+    },
+    "dcf_valuation": {
+      "description": "DCF 내재가치 vs 현재가",
+      "data": [
+        {
+          "symbol": "JPM",
+          "date": "2026-03-24",
+          "dcf": 665.9771214334068
+        }
+      ]
+    },
+    "enterprise_values": {
+      "description": "EV, EV/EBITDA, EV/Sales",
+      "data": [
+        {
+          "symbol": "JPM",
+          "date": "2025-12-31",
+          "stockPrice": 322.22,
+          "numberOfShares": 2788700000,
+          "marketCapitalization": 898574914000,
+          "minusCashAndCashEquivalents": 343338000000,
+          "addTotalDebt": 499982000000,
+          "enterpriseValue": 1055218914000
+        }
+      ]
+    },
+    "owner_earnings": {
+      "description": "오너이익 (버핏식 실질 수익력)",
+      "data": [
+        {
+          "symbol": "JPM",
+          "date": "2025-12-31",
+          "averagePPE": 0.15397,
+          "maintenanceCapex": 400629940,
+          "ownersEarnings": 368773629940,
+          "growthCapex": -400629940,
+          "ownersEarningsPerShare": 132
+        }
+      ]
+    }
+  },
+  "market_context": {
+    "sector_pe_snapshot": {
+      "description": "섹터별 PER 스냅샷",
+      "data": [
+        {
+          "date": "2026-03-25",
+          "sector": "Basic Materials",
+          "exchange": "NASDAQ",
+          "pe": 29.87192244625767
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Communication Services",
+          "exchange": "NASDAQ",
+          "pe": 32.07678211187432
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Consumer Cyclical",
+          "exchange": "NASDAQ",
+          "pe": 86.41895717903964
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Consumer Defensive",
+          "exchange": "NASDAQ",
+          "pe": 40.023618532280814
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Energy",
+          "exchange": "NASDAQ",
+          "pe": 25.85516101910245
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Financial Services",
+          "exchange": "NASDAQ",
+          "pe": 23.74130605408494
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Healthcare",
+          "exchange": "NASDAQ",
+          "pe": 26.05191478287775
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Industrials",
+          "exchange": "NASDAQ",
+          "pe": 46.72321108525704
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Real Estate",
+          "exchange": "NASDAQ",
+          "pe": 61.04778506012227
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Technology",
+          "exchange": "NASDAQ",
+          "pe": 43.20237340561005
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Utilities",
+          "exchange": "NASDAQ",
+          "pe": 26.07806071238518
+        }
+      ]
+    },
+    "treasury_rates": {
+      "description": "미국 국채 금리",
+      "data": [
+        {
+          "date": "2026-03-24",
+          "month1": 3.74,
+          "month3": 3.74,
+          "month6": 3.78,
+          "year1": 3.81,
+          "year2": 3.9,
+          "year5": 4.03,
+          "year10": 4.39,
+          "year30": 4.94
+        },
+        {
+          "date": "2026-03-23",
+          "month1": 3.73,
+          "month3": 3.74,
+          "month6": 3.77,
+          "year1": 3.76,
+          "year2": 3.83,
+          "year5": 3.95,
+          "year10": 4.34,
+          "year30": 4.91
+        },
+        {
+          "date": "2026-03-20",
+          "month1": 3.73,
+          "month3": 3.74,
+          "month6": 3.79,
+          "year1": 3.8,
+          "year2": 3.88,
+          "year5": 4.01,
+          "year10": 4.39,
+          "year30": 4.96
+        },
+        {
+          "date": "2026-03-19",
+          "month1": 3.73,
+          "month3": 3.73,
+          "month6": 3.76,
+          "year1": 3.73,
+          "year2": 3.79,
+          "year5": 3.88,
+          "year10": 4.25,
+          "year30": 4.83
+        },
+        {
+          "date": "2026-03-18",
+          "month1": 3.73,
+          "month3": 3.73,
+          "month6": 3.74,
+          "year1": 3.68,
+          "year2": 3.76,
+          "year5": 3.87,
+          "year10": 4.26,
+          "year30": 4.88
+        },
+        {
+          "date": "2026-03-17",
+          "month1": 3.74,
+          "month3": 3.72,
+          "month6": 3.71,
+          "year1": 3.63,
+          "year2": 3.68,
+          "year5": 3.79,
+          "year10": 4.2,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-03-16",
+          "month1": 3.75,
+          "month3": 3.72,
+          "month6": 3.72,
+          "year1": 3.64,
+          "year2": 3.68,
+          "year5": 3.8,
+          "year10": 4.23,
+          "year30": 4.86
+        },
+        {
+          "date": "2026-03-13",
+          "month1": 3.75,
+          "month3": 3.72,
+          "month6": 3.7,
+          "year1": 3.66,
+          "year2": 3.73,
+          "year5": 3.87,
+          "year10": 4.28,
+          "year30": 4.9
+        },
+        {
+          "date": "2026-03-12",
+          "month1": 3.76,
+          "month3": 3.72,
+          "month6": 3.7,
+          "year1": 3.66,
+          "year2": 3.76,
+          "year5": 3.88,
+          "year10": 4.27,
+          "year30": 4.88
+        },
+        {
+          "date": "2026-03-11",
+          "month1": 3.75,
+          "month3": 3.71,
+          "month6": 3.68,
+          "year1": 3.6,
+          "year2": 3.64,
+          "year5": 3.79,
+          "year10": 4.21,
+          "year30": 4.86
+        },
+        {
+          "date": "2026-03-10",
+          "month1": 3.75,
+          "month3": 3.71,
+          "month6": 3.68,
+          "year1": 3.56,
+          "year2": 3.57,
+          "year5": 3.73,
+          "year10": 4.15,
+          "year30": 4.78
+        },
+        {
+          "date": "2026-03-09",
+          "month1": 3.75,
+          "month3": 3.71,
+          "month6": 3.68,
+          "year1": 3.56,
+          "year2": 3.56,
+          "year5": 3.71,
+          "year10": 4.12,
+          "year30": 4.72
+        },
+        {
+          "date": "2026-03-06",
+          "month1": 3.75,
+          "month3": 3.69,
+          "month6": 3.66,
+          "year1": 3.55,
+          "year2": 3.56,
+          "year5": 3.72,
+          "year10": 4.15,
+          "year30": 4.77
+        },
+        {
+          "date": "2026-03-05",
+          "month1": 3.75,
+          "month3": 3.7,
+          "month6": 3.68,
+          "year1": 3.59,
+          "year2": 3.57,
+          "year5": 3.72,
+          "year10": 4.13,
+          "year30": 4.74
+        },
+        {
+          "date": "2026-03-04",
+          "month1": 3.75,
+          "month3": 3.71,
+          "month6": 3.68,
+          "year1": 3.58,
+          "year2": 3.54,
+          "year5": 3.67,
+          "year10": 4.09,
+          "year30": 4.72
+        },
+        {
+          "date": "2026-03-03",
+          "month1": 3.75,
+          "month3": 3.71,
+          "month6": 3.68,
+          "year1": 3.55,
+          "year2": 3.51,
+          "year5": 3.63,
+          "year10": 4.06,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-03-02",
+          "month1": 3.74,
+          "month3": 3.72,
+          "month6": 3.68,
+          "year1": 3.54,
+          "year2": 3.47,
+          "year5": 3.62,
+          "year10": 4.05,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-02-27",
+          "month1": 3.74,
+          "month3": 3.67,
+          "month6": 3.6,
+          "year1": 3.48,
+          "year2": 3.38,
+          "year5": 3.51,
+          "year10": 3.97,
+          "year30": 4.64
+        },
+        {
+          "date": "2026-02-26",
+          "month1": 3.74,
+          "month3": 3.68,
+          "month6": 3.61,
+          "year1": 3.52,
+          "year2": 3.42,
+          "year5": 3.57,
+          "year10": 4.02,
+          "year30": 4.67
+        },
+        {
+          "date": "2026-02-25",
+          "month1": 3.71,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.53,
+          "year2": 3.45,
+          "year5": 3.61,
+          "year10": 4.05,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-02-24",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.52,
+          "year2": 3.43,
+          "year5": 3.61,
+          "year10": 4.04,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-02-23",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.5,
+          "year2": 3.43,
+          "year5": 3.59,
+          "year10": 4.03,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-02-20",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.61,
+          "year1": 3.51,
+          "year2": 3.48,
+          "year5": 3.65,
+          "year10": 4.08,
+          "year30": 4.72
+        },
+        {
+          "date": "2026-02-19",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.6,
+          "year1": 3.5,
+          "year2": 3.47,
+          "year5": 3.65,
+          "year10": 4.08,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-02-18",
+          "month1": 3.71,
+          "month3": 3.7,
+          "month6": 3.6,
+          "year1": 3.49,
+          "year2": 3.47,
+          "year5": 3.66,
+          "year10": 4.09,
+          "year30": 4.71
+        },
+        {
+          "date": "2026-02-17",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.59,
+          "year1": 3.48,
+          "year2": 3.43,
+          "year5": 3.63,
+          "year10": 4.05,
+          "year30": 4.68
+        },
+        {
+          "date": "2026-02-13",
+          "month1": 3.72,
+          "month3": 3.68,
+          "month6": 3.59,
+          "year1": 3.42,
+          "year2": 3.4,
+          "year5": 3.61,
+          "year10": 4.04,
+          "year30": 4.69
+        },
+        {
+          "date": "2026-02-12",
+          "month1": 3.72,
+          "month3": 3.7,
+          "month6": 3.58,
+          "year1": 3.45,
+          "year2": 3.47,
+          "year5": 3.67,
+          "year10": 4.09,
+          "year30": 4.72
+        },
+        {
+          "date": "2026-02-11",
+          "month1": 3.71,
+          "month3": 3.7,
+          "month6": 3.6,
+          "year1": 3.47,
+          "year2": 3.52,
+          "year5": 3.75,
+          "year10": 4.18,
+          "year30": 4.82
+        },
+        {
+          "date": "2026-02-10",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.58,
+          "year1": 3.4,
+          "year2": 3.45,
+          "year5": 3.7,
+          "year10": 4.16,
+          "year30": 4.78
+        },
+        {
+          "date": "2026-02-09",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.59,
+          "year1": 3.43,
+          "year2": 3.48,
+          "year5": 3.75,
+          "year10": 4.22,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-02-06",
+          "month1": 3.72,
+          "month3": 3.68,
+          "month6": 3.59,
+          "year1": 3.45,
+          "year2": 3.5,
+          "year5": 3.76,
+          "year10": 4.22,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-02-05",
+          "month1": 3.72,
+          "month3": 3.67,
+          "month6": 3.58,
+          "year1": 3.44,
+          "year2": 3.47,
+          "year5": 3.74,
+          "year10": 4.21,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-02-04",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.49,
+          "year2": 3.57,
+          "year5": 3.83,
+          "year10": 4.29,
+          "year30": 4.91
+        },
+        {
+          "date": "2026-02-03",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.49,
+          "year2": 3.57,
+          "year5": 3.83,
+          "year10": 4.28,
+          "year30": 4.9
+        },
+        {
+          "date": "2026-02-02",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.49,
+          "year2": 3.57,
+          "year5": 3.83,
+          "year10": 4.29,
+          "year30": 4.9
+        },
+        {
+          "date": "2026-01-30",
+          "month1": 3.72,
+          "month3": 3.67,
+          "month6": 3.61,
+          "year1": 3.48,
+          "year2": 3.52,
+          "year5": 3.79,
+          "year10": 4.26,
+          "year30": 4.87
+        },
+        {
+          "date": "2026-01-29",
+          "month1": 3.72,
+          "month3": 3.67,
+          "month6": 3.62,
+          "year1": 3.5,
+          "year2": 3.53,
+          "year5": 3.8,
+          "year10": 4.24,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-01-28",
+          "month1": 3.76,
+          "month3": 3.68,
+          "month6": 3.63,
+          "year1": 3.52,
+          "year2": 3.56,
+          "year5": 3.83,
+          "year10": 4.26,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-01-27",
+          "month1": 3.77,
+          "month3": 3.67,
+          "month6": 3.61,
+          "year1": 3.5,
+          "year2": 3.53,
+          "year5": 3.81,
+          "year10": 4.24,
+          "year30": 4.83
+        },
+        {
+          "date": "2026-01-26",
+          "month1": 3.77,
+          "month3": 3.67,
+          "month6": 3.62,
+          "year1": 3.52,
+          "year2": 3.56,
+          "year5": 3.82,
+          "year10": 4.22,
+          "year30": 4.8
+        },
+        {
+          "date": "2026-01-23",
+          "month1": 3.78,
+          "month3": 3.7,
+          "month6": 3.61,
+          "year1": 3.53,
+          "year2": 3.6,
+          "year5": 3.84,
+          "year10": 4.24,
+          "year30": 4.82
+        },
+        {
+          "date": "2026-01-22",
+          "month1": 3.79,
+          "month3": 3.71,
+          "month6": 3.61,
+          "year1": 3.53,
+          "year2": 3.61,
+          "year5": 3.85,
+          "year10": 4.26,
+          "year30": 4.84
+        },
+        {
+          "date": "2026-01-21",
+          "month1": 3.75,
+          "month3": 3.7,
+          "month6": 3.62,
+          "year1": 3.53,
+          "year2": 3.6,
+          "year5": 3.83,
+          "year10": 4.26,
+          "year30": 4.87
+        },
+        {
+          "date": "2026-01-20",
+          "month1": 3.75,
+          "month3": 3.7,
+          "month6": 3.61,
+          "year1": 3.53,
+          "year2": 3.6,
+          "year5": 3.86,
+          "year10": 4.3,
+          "year30": 4.91
+        },
+        {
+          "date": "2026-01-16",
+          "month1": 3.75,
+          "month3": 3.67,
+          "month6": 3.6,
+          "year1": 3.55,
+          "year2": 3.59,
+          "year5": 3.82,
+          "year10": 4.24,
+          "year30": 4.83
+        },
+        {
+          "date": "2026-01-15",
+          "month1": 3.75,
+          "month3": 3.68,
+          "month6": 3.6,
+          "year1": 3.54,
+          "year2": 3.56,
+          "year5": 3.77,
+          "year10": 4.17,
+          "year30": 4.79
+        },
+        {
+          "date": "2026-01-14",
+          "month1": 3.72,
+          "month3": 3.67,
+          "month6": 3.58,
+          "year1": 3.5,
+          "year2": 3.51,
+          "year5": 3.72,
+          "year10": 4.15,
+          "year30": 4.79
+        },
+        {
+          "date": "2026-01-13",
+          "month1": 3.72,
+          "month3": 3.67,
+          "month6": 3.59,
+          "year1": 3.51,
+          "year2": 3.53,
+          "year5": 3.75,
+          "year10": 4.18,
+          "year30": 4.83
+        },
+        {
+          "date": "2026-01-12",
+          "month1": 3.71,
+          "month3": 3.67,
+          "month6": 3.58,
+          "year1": 3.53,
+          "year2": 3.54,
+          "year5": 3.77,
+          "year10": 4.19,
+          "year30": 4.83
+        },
+        {
+          "date": "2026-01-09",
+          "month1": 3.7,
+          "month3": 3.62,
+          "month6": 3.57,
+          "year1": 3.52,
+          "year2": 3.54,
+          "year5": 3.75,
+          "year10": 4.18,
+          "year30": 4.82
+        },
+        {
+          "date": "2026-01-08",
+          "month1": 3.7,
+          "month3": 3.62,
+          "month6": 3.56,
+          "year1": 3.48,
+          "year2": 3.49,
+          "year5": 3.74,
+          "year10": 4.19,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-01-07",
+          "month1": 3.7,
+          "month3": 3.62,
+          "month6": 3.56,
+          "year1": 3.48,
+          "year2": 3.47,
+          "year5": 3.7,
+          "year10": 4.15,
+          "year30": 4.82
+        },
+        {
+          "date": "2026-01-06",
+          "month1": 3.7,
+          "month3": 3.63,
+          "month6": 3.56,
+          "year1": 3.48,
+          "year2": 3.47,
+          "year5": 3.72,
+          "year10": 4.18,
+          "year30": 4.86
+        },
+        {
+          "date": "2026-01-05",
+          "month1": 3.71,
+          "month3": 3.64,
+          "month6": 3.57,
+          "year1": 3.47,
+          "year2": 3.46,
+          "year5": 3.71,
+          "year10": 4.17,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-01-02",
+          "month1": 3.72,
+          "month3": 3.65,
+          "month6": 3.58,
+          "year1": 3.47,
+          "year2": 3.47,
+          "year5": 3.74,
+          "year10": 4.19,
+          "year30": 4.86
+        },
+        {
+          "date": "2025-12-31",
+          "month1": 3.74,
+          "month3": 3.67,
+          "month6": 3.59,
+          "year1": 3.48,
+          "year2": 3.47,
+          "year5": 3.73,
+          "year10": 4.18,
+          "year30": 4.84
+        },
+        {
+          "date": "2025-12-30",
+          "month1": 3.65,
+          "month3": 3.65,
+          "month6": 3.59,
+          "year1": 3.47,
+          "year2": 3.45,
+          "year5": 3.68,
+          "year10": 4.14,
+          "year30": 4.81
+        },
+        {
+          "date": "2025-12-29",
+          "month1": 3.69,
+          "month3": 3.68,
+          "month6": 3.59,
+          "year1": 3.48,
+          "year2": 3.45,
+          "year5": 3.67,
+          "year10": 4.12,
+          "year30": 4.8
+        },
+        {
+          "date": "2025-12-26",
+          "month1": 3.7,
+          "month3": 3.64,
+          "month6": 3.58,
+          "year1": 3.49,
+          "year2": 3.46,
+          "year5": 3.68,
+          "year10": 4.14,
+          "year30": 4.81
+        }
+      ]
+    },
+    "earnings_report": {
+      "description": "EPS 실제치 vs 추정치 (최근 8분기)",
+      "data": null
+    }
+  }
+}

@@ -1,0 +1,2003 @@
+{
+  "meta": {
+    "symbol": "TSM",
+    "sector": "테크_AI",
+    "collected_at": "2026-03-25T06:29:55.056372Z",
+    "note": "income/cashflow TTM → annual limit=1 로 대체"
+  },
+  "analyst": {
+    "grades_consensus": {
+      "description": "애널리스트 등급 합산 (Strong Buy ~ Strong Sell)",
+      "data": [
+        {
+          "symbol": "TSM",
+          "strongBuy": 0,
+          "buy": 16,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 0
+        }
+      ]
+    },
+    "price_target_consensus": {
+      "description": "목표주가 컨센서스 (High/Low/Median/Consensus)",
+      "data": [
+        {
+          "symbol": "TSM",
+          "targetHigh": 450,
+          "targetLow": 330,
+          "targetConsensus": 408,
+          "targetMedian": 410
+        }
+      ]
+    },
+    "analyst_estimates": {
+      "description": "향후 실적 추정치 (매출·EPS·EBITDA) – 3개년",
+      "data": [
+        {
+          "symbol": "TSM",
+          "date": "2029-12-31"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2028-12-31"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2027-12-31"
+        }
+      ]
+    },
+    "stock_grades": {
+      "description": "개별 증권사 최신 등급 (최근 10건)",
+      "data": [
+        {
+          "symbol": "TSM",
+          "date": "2026-01-16",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2026-01-16",
+          "gradingCompany": "TD Cowen",
+          "previousGrade": "Hold",
+          "newGrade": "Hold",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2026-01-15",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-12-08",
+          "gradingCompany": "Bernstein",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-10-27",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-10-17",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-10-16",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-10-10",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-10-09",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-09-16",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-07-17",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-07-14",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-07-01",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-06-17",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-06-03",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-04-21",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-04-17",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-04-17",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-02-18",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-01-17",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2025-01-16",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-11-18",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-10-23",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-10-18",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-10-17",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-08-14",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-08-06",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-07-18",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-07-15",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-07-11",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-06-20",
+          "gradingCompany": "Bernstein",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-06-17",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-06-05",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-05-22",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-04-19",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-04-18",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-04-10",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-04-02",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-04-02",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-03-11",
+          "gradingCompany": "Bernstein",
+          "previousGrade": "Outperform",
+          "newGrade": "Outperform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-02-13",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-01-19",
+          "gradingCompany": "Barclays",
+          "previousGrade": "Overweight",
+          "newGrade": "Overweight",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-10-20",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-10-19",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-07-21",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-07-20",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-07-20",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-07-19",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-07-14",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-07-13",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-06-16",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-06-15",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Positive",
+          "newGrade": "Positive",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-06-01",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-04-24",
+          "gradingCompany": "Erste Group",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-04-24",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-04-20",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-04-17",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Neutral",
+          "newGrade": "Positive",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-04-16",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Neutral",
+          "newGrade": "Positive",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-03-10",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2022-11-18",
+          "gradingCompany": "Erste Group",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2022-11-17",
+          "gradingCompany": "Erste Group",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2022-10-13",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2022-10-12",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2022-07-14",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2022-07-13",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2022-01-13",
+          "gradingCompany": "Atlantic Equities",
+          "previousGrade": "Neutral",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2022-01-12",
+          "gradingCompany": "Atlantic Equities",
+          "previousGrade": "Neutral",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2021-10-11",
+          "gradingCompany": "Cowen & Co.",
+          "previousGrade": "Market Perform",
+          "newGrade": "Perform",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2021-07-13",
+          "gradingCompany": "Needham",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2021-06-30",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Negative",
+          "newGrade": "Neutral",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2021-06-29",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Negative",
+          "newGrade": "Neutral",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2021-06-22",
+          "gradingCompany": "Argus Research",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2021-04-12",
+          "gradingCompany": "Atlantic Equities",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2021-01-12",
+          "gradingCompany": "Bernstein",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2021-01-11",
+          "gradingCompany": "Bernstein",
+          "previousGrade": "Market Perform",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2020-08-28",
+          "gradingCompany": "New Street",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2020-07-24",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Neutral",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2020-07-23",
+          "gradingCompany": "Macquarie",
+          "previousGrade": "Neutral",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2019-12-17",
+          "gradingCompany": "China Renaissance",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2019-12-16",
+          "gradingCompany": "China Renaissance",
+          "previousGrade": "Hold",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2019-09-30",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2019-09-05",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2019-09-04",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2019-07-19",
+          "gradingCompany": "CLSA",
+          "previousGrade": "Underperform",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2019-07-18",
+          "gradingCompany": "CLSA",
+          "previousGrade": "Underperform",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2019-05-07",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2018-11-16",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Equal Weight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2018-11-15",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Underweight",
+          "newGrade": "Equal Weight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2018-07-02",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Neutral",
+          "newGrade": "Positive",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2018-07-01",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Neutral",
+          "newGrade": "Positive",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2018-01-22",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2018-01-21",
+          "gradingCompany": "Goldman Sachs",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2018-01-19",
+          "gradingCompany": "HSBC",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2018-01-16",
+          "gradingCompany": "HSBC",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2018-01-16",
+          "gradingCompany": "HSBC",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2018-01-15",
+          "gradingCompany": "HSBC",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2017-11-27",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Equal Weight",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2017-11-26",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Equal Weight",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2016-10-14",
+          "gradingCompany": "Pacific Crest",
+          "previousGrade": "Underweight",
+          "newGrade": "Sector Weight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2016-10-13",
+          "gradingCompany": "Pacific Crest",
+          "previousGrade": "Underweight",
+          "newGrade": "Sector Weight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2016-10-04",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Negative",
+          "newGrade": "Neutral",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2016-10-03",
+          "gradingCompany": "Susquehanna",
+          "previousGrade": "Negative",
+          "newGrade": "Neutral",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2016-07-12",
+          "gradingCompany": "JP Morgan",
+          "previousGrade": "Overweight",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2016-07-12",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2016-07-11",
+          "gradingCompany": "Nomura",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2016-07-11",
+          "gradingCompany": "JP Morgan",
+          "previousGrade": "Overweight",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2016-02-18",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2016-02-17",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Equal Weight",
+          "newGrade": "Overweight",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2015-12-01",
+          "gradingCompany": "HSBC",
+          "previousGrade": "Buy",
+          "newGrade": "Buy",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2015-03-26",
+          "gradingCompany": "Citigroup",
+          "previousGrade": "Neutral",
+          "newGrade": "Neutral",
+          "action": "maintain"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2015-03-09",
+          "gradingCompany": "Pacific Crest",
+          "previousGrade": "Sector Perform",
+          "newGrade": "Underperform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2015-03-08",
+          "gradingCompany": "Pacific Crest",
+          "previousGrade": "Sector Perform",
+          "newGrade": "Underperform",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2015-01-08",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2015-01-07",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Buy",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2014-12-08",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2014-12-08",
+          "gradingCompany": "Bank of America",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2014-12-07",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Neutral",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2013-04-14",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Equal Weight",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2013-04-13",
+          "gradingCompany": "Morgan Stanley",
+          "previousGrade": "Overweight",
+          "newGrade": "Equal Weight",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2013-02-21",
+          "gradingCompany": "Bank of America",
+          "previousGrade": "Underperform",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2013-02-21",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Underperform",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2013-02-20",
+          "gradingCompany": "B of A Securities",
+          "previousGrade": "Underperform",
+          "newGrade": "Buy",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2012-12-06",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Neutral",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2012-12-05",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Neutral",
+          "newGrade": "Outperform",
+          "action": "upgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2012-10-08",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        },
+        {
+          "symbol": "TSM",
+          "date": "2012-10-07",
+          "gradingCompany": "Credit Suisse",
+          "previousGrade": "Outperform",
+          "newGrade": "Neutral",
+          "action": "downgrade"
+        }
+      ]
+    },
+    "stock_grades_historical": {
+      "description": "등급 업/다운그레이드 이력 (최근 20건)",
+      "data": null
+    },
+    "price_target_summary": {
+      "description": "1·3·6개월 평균 목표주가 추이",
+      "data": [
+        {
+          "symbol": "TSM",
+          "lastMonthAvgPriceTarget": 0,
+          "lastQuarterAvgPriceTarget": 436.67,
+          "lastYearAvgPriceTarget": 353.64,
+          "allTimeAvgPriceTarget": 251.09,
+          "publishers": "[\"TheFly\",\"Benzinga\",\"StreetInsider\",\"Pulse 2.0\"]"
+        }
+      ]
+    }
+  },
+  "fundamental": {
+    "key_metrics_ttm": {
+      "description": "핵심 밸류에이션 지표 TTM",
+      "data": [
+        {
+          "symbol": "TSM",
+          "evToSalesTTM": 12.113818601941583,
+          "returnOnTangibleAssetsTTM": 0.21723161620145137,
+          "netDebtToEBITDATTM": -0.6295661682046102,
+          "earningsYieldTTM": 0.03590171635350627,
+          "freeCashFlowYieldTTM": 0.019576528599760112,
+          "enterpriseValueTTM": 46142189201000
+        }
+      ]
+    },
+    "financial_ratios_ttm": {
+      "description": "재무 비율 TTM",
+      "data": [
+        {
+          "symbol": "TSM",
+          "grossProfitMarginTTM": 0.5989135360118286,
+          "operatingProfitMarginTTM": 0.5082911809598919,
+          "netProfitMarginTTM": 0.45099994066768284,
+          "currentRatioTTM": 2.6180255538508073,
+          "quickRatioTTM": 2.420421818920055,
+          "assetTurnoverTTM": 0.4801515790195517,
+          "inventoryTurnoverTTM": 5.30269688660581,
+          "receivablesTurnoverTTM": 13.51730183007974,
+          "dividendYieldTTM": 0.01111116,
+          "priceToBookRatioTTM": 8.828999442024829,
+          "priceToSalesRatioTTM": 12.560982989477177,
+          "freeCashFlowPerShareTTM": 36.11556453141554
+        }
+      ]
+    },
+    "financial_statement_growth": {
+      "description": "매출·EPS·FCF 성장률 YoY (최근 3개년)",
+      "data": [
+        {
+          "symbol": "TSM",
+          "date": "2025-12-31",
+          "period": "FY",
+          "revenueGrowth": 0.3296825869948879,
+          "grossProfitGrowth": 0.4189796688406591,
+          "operatingIncomeGrowth": 0.4792870005967991,
+          "netIncomeGrowth": 0.4983664948693011,
+          "epsgrowth": 0.4977618621307073,
+          "freeCashFlowGrowth": 0.26134434191020145,
+          "operatingCashFlowGrowth": 0.30500798334444035
+        },
+        {
+          "symbol": "TSM",
+          "date": "2024-12-31",
+          "period": "FY",
+          "revenueGrowth": 0.33888134351280635,
+          "grossProfitGrowth": 0.3822983530917505,
+          "operatingIncomeGrowth": 0.43472792267972993,
+          "netIncomeGrowth": 0.36001620212740976,
+          "epsgrowth": 0.3601217656012176,
+          "freeCashFlowGrowth": 2.0365123361257975,
+          "operatingCashFlowGrowth": 0.470390565033395
+        },
+        {
+          "symbol": "TSM",
+          "date": "2023-12-31",
+          "period": "FY",
+          "revenueGrowth": -0.04512376543873816,
+          "grossProfitGrowth": -0.12848532151923217,
+          "operatingIncomeGrowth": -0.17820089185661123,
+          "netIncomeGrowth": -0.14218961905822744,
+          "epsgrowth": -0.1420736484721859,
+          "freeCashFlowGrowth": -0.4499349344065094,
+          "operatingCashFlowGrowth": -0.22887872460544167
+        }
+      ]
+    },
+    "income_statement_annual": {
+      "description": "손익계산서 연간 최신 (income_statement_ttm 대체)",
+      "data": [
+        {
+          "symbol": "TSM",
+          "date": "2025-12-31",
+          "period": "FY",
+          "revenue": 3848510949000,
+          "grossProfit": 2304925301000,
+          "operatingIncome": 1955695817000,
+          "netIncome": 1735678080000,
+          "eps": 334.6,
+          "epsDiluted": 334.65,
+          "ebitda": 2752481885000,
+          "researchAndDevelopmentExpenses": 248979670000,
+          "weightedAverageShsOut": 5186949600
+        }
+      ]
+    },
+    "cash_flow_statement_annual": {
+      "description": "현금흐름표 연간 최신 (cash_flow_statement_ttm 대체)",
+      "data": [
+        {
+          "symbol": "TSM",
+          "date": "2025-12-31",
+          "period": "FY",
+          "operatingCashFlow": 2383175564000,
+          "capitalExpenditure": -1285591558000,
+          "freeCashFlow": 1097584006000,
+          "netCashProvidedByOperatingActivities": 2383175564000,
+          "cashAtEndOfPeriod": 2760059967000,
+          "commonStockRepurchased": 0
+        }
+      ]
+    }
+  },
+  "valuation": {
+    "ratings_snapshot": {
+      "description": "FMP 종합 등급 + 항목별 점수",
+      "data": [
+        {
+          "symbol": "TSM",
+          "rating": "B+"
+        }
+      ]
+    },
+    "financial_scores": {
+      "description": "Altman Z-Score + Piotroski F-Score",
+      "data": [
+        {
+          "symbol": "TSM",
+          "altmanZScore": 16.353984308257754,
+          "piotroskiScore": 8,
+          "workingCapital": 2352467249000,
+          "totalAssets": 7910679587000,
+          "retainedEarnings": 4691817547000,
+          "ebit": 2043087129000,
+          "marketCap": 56831539506677.48,
+          "totalLiabilities": 2465265640000,
+          "revenue": 3818940591000
+        }
+      ]
+    },
+    "dcf_valuation": {
+      "description": "DCF 내재가치 vs 현재가",
+      "data": [
+        {
+          "symbol": "TSM",
+          "date": "2026-03-24",
+          "dcf": 154.97456631073626
+        }
+      ]
+    },
+    "enterprise_values": {
+      "description": "EV, EV/EBITDA, EV/Sales",
+      "data": [
+        {
+          "symbol": "TSM",
+          "date": "2025-12-31",
+          "stockPrice": 9521.48,
+          "numberOfShares": 5186949600,
+          "marketCapitalization": 49387444554093,
+          "minusCashAndCashEquivalents": 2760059967000,
+          "addTotalDebt": 1064582701000,
+          "enterpriseValue": 47691967288093
+        }
+      ]
+    },
+    "owner_earnings": {
+      "description": "오너이익 (버핏식 실질 수익력)",
+      "data": [
+        {
+          "symbol": "TSM",
+          "date": "2025-12-31",
+          "averagePPE": 1.17,
+          "maintenanceCapex": -134162128530,
+          "ownersEarnings": 607566333470,
+          "growthCapex": -219393241470,
+          "ownersEarningsPerShare": 23.43
+        }
+      ]
+    }
+  },
+  "market_context": {
+    "sector_pe_snapshot": {
+      "description": "섹터별 PER 스냅샷",
+      "data": [
+        {
+          "date": "2026-03-25",
+          "sector": "Basic Materials",
+          "exchange": "NASDAQ",
+          "pe": 29.87192244625767
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Communication Services",
+          "exchange": "NASDAQ",
+          "pe": 32.07678211187432
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Consumer Cyclical",
+          "exchange": "NASDAQ",
+          "pe": 86.41895717903964
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Consumer Defensive",
+          "exchange": "NASDAQ",
+          "pe": 40.023618532280814
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Energy",
+          "exchange": "NASDAQ",
+          "pe": 25.85516101910245
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Financial Services",
+          "exchange": "NASDAQ",
+          "pe": 23.74130605408494
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Healthcare",
+          "exchange": "NASDAQ",
+          "pe": 26.05191478287775
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Industrials",
+          "exchange": "NASDAQ",
+          "pe": 46.72321108525704
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Real Estate",
+          "exchange": "NASDAQ",
+          "pe": 61.04778506012227
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Technology",
+          "exchange": "NASDAQ",
+          "pe": 43.20237340561005
+        },
+        {
+          "date": "2026-03-25",
+          "sector": "Utilities",
+          "exchange": "NASDAQ",
+          "pe": 26.07806071238518
+        }
+      ]
+    },
+    "treasury_rates": {
+      "description": "미국 국채 금리",
+      "data": [
+        {
+          "date": "2026-03-24",
+          "month1": 3.74,
+          "month3": 3.74,
+          "month6": 3.78,
+          "year1": 3.81,
+          "year2": 3.9,
+          "year5": 4.03,
+          "year10": 4.39,
+          "year30": 4.94
+        },
+        {
+          "date": "2026-03-23",
+          "month1": 3.73,
+          "month3": 3.74,
+          "month6": 3.77,
+          "year1": 3.76,
+          "year2": 3.83,
+          "year5": 3.95,
+          "year10": 4.34,
+          "year30": 4.91
+        },
+        {
+          "date": "2026-03-20",
+          "month1": 3.73,
+          "month3": 3.74,
+          "month6": 3.79,
+          "year1": 3.8,
+          "year2": 3.88,
+          "year5": 4.01,
+          "year10": 4.39,
+          "year30": 4.96
+        },
+        {
+          "date": "2026-03-19",
+          "month1": 3.73,
+          "month3": 3.73,
+          "month6": 3.76,
+          "year1": 3.73,
+          "year2": 3.79,
+          "year5": 3.88,
+          "year10": 4.25,
+          "year30": 4.83
+        },
+        {
+          "date": "2026-03-18",
+          "month1": 3.73,
+          "month3": 3.73,
+          "month6": 3.74,
+          "year1": 3.68,
+          "year2": 3.76,
+          "year5": 3.87,
+          "year10": 4.26,
+          "year30": 4.88
+        },
+        {
+          "date": "2026-03-17",
+          "month1": 3.74,
+          "month3": 3.72,
+          "month6": 3.71,
+          "year1": 3.63,
+          "year2": 3.68,
+          "year5": 3.79,
+          "year10": 4.2,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-03-16",
+          "month1": 3.75,
+          "month3": 3.72,
+          "month6": 3.72,
+          "year1": 3.64,
+          "year2": 3.68,
+          "year5": 3.8,
+          "year10": 4.23,
+          "year30": 4.86
+        },
+        {
+          "date": "2026-03-13",
+          "month1": 3.75,
+          "month3": 3.72,
+          "month6": 3.7,
+          "year1": 3.66,
+          "year2": 3.73,
+          "year5": 3.87,
+          "year10": 4.28,
+          "year30": 4.9
+        },
+        {
+          "date": "2026-03-12",
+          "month1": 3.76,
+          "month3": 3.72,
+          "month6": 3.7,
+          "year1": 3.66,
+          "year2": 3.76,
+          "year5": 3.88,
+          "year10": 4.27,
+          "year30": 4.88
+        },
+        {
+          "date": "2026-03-11",
+          "month1": 3.75,
+          "month3": 3.71,
+          "month6": 3.68,
+          "year1": 3.6,
+          "year2": 3.64,
+          "year5": 3.79,
+          "year10": 4.21,
+          "year30": 4.86
+        },
+        {
+          "date": "2026-03-10",
+          "month1": 3.75,
+          "month3": 3.71,
+          "month6": 3.68,
+          "year1": 3.56,
+          "year2": 3.57,
+          "year5": 3.73,
+          "year10": 4.15,
+          "year30": 4.78
+        },
+        {
+          "date": "2026-03-09",
+          "month1": 3.75,
+          "month3": 3.71,
+          "month6": 3.68,
+          "year1": 3.56,
+          "year2": 3.56,
+          "year5": 3.71,
+          "year10": 4.12,
+          "year30": 4.72
+        },
+        {
+          "date": "2026-03-06",
+          "month1": 3.75,
+          "month3": 3.69,
+          "month6": 3.66,
+          "year1": 3.55,
+          "year2": 3.56,
+          "year5": 3.72,
+          "year10": 4.15,
+          "year30": 4.77
+        },
+        {
+          "date": "2026-03-05",
+          "month1": 3.75,
+          "month3": 3.7,
+          "month6": 3.68,
+          "year1": 3.59,
+          "year2": 3.57,
+          "year5": 3.72,
+          "year10": 4.13,
+          "year30": 4.74
+        },
+        {
+          "date": "2026-03-04",
+          "month1": 3.75,
+          "month3": 3.71,
+          "month6": 3.68,
+          "year1": 3.58,
+          "year2": 3.54,
+          "year5": 3.67,
+          "year10": 4.09,
+          "year30": 4.72
+        },
+        {
+          "date": "2026-03-03",
+          "month1": 3.75,
+          "month3": 3.71,
+          "month6": 3.68,
+          "year1": 3.55,
+          "year2": 3.51,
+          "year5": 3.63,
+          "year10": 4.06,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-03-02",
+          "month1": 3.74,
+          "month3": 3.72,
+          "month6": 3.68,
+          "year1": 3.54,
+          "year2": 3.47,
+          "year5": 3.62,
+          "year10": 4.05,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-02-27",
+          "month1": 3.74,
+          "month3": 3.67,
+          "month6": 3.6,
+          "year1": 3.48,
+          "year2": 3.38,
+          "year5": 3.51,
+          "year10": 3.97,
+          "year30": 4.64
+        },
+        {
+          "date": "2026-02-26",
+          "month1": 3.74,
+          "month3": 3.68,
+          "month6": 3.61,
+          "year1": 3.52,
+          "year2": 3.42,
+          "year5": 3.57,
+          "year10": 4.02,
+          "year30": 4.67
+        },
+        {
+          "date": "2026-02-25",
+          "month1": 3.71,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.53,
+          "year2": 3.45,
+          "year5": 3.61,
+          "year10": 4.05,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-02-24",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.52,
+          "year2": 3.43,
+          "year5": 3.61,
+          "year10": 4.04,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-02-23",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.5,
+          "year2": 3.43,
+          "year5": 3.59,
+          "year10": 4.03,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-02-20",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.61,
+          "year1": 3.51,
+          "year2": 3.48,
+          "year5": 3.65,
+          "year10": 4.08,
+          "year30": 4.72
+        },
+        {
+          "date": "2026-02-19",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.6,
+          "year1": 3.5,
+          "year2": 3.47,
+          "year5": 3.65,
+          "year10": 4.08,
+          "year30": 4.7
+        },
+        {
+          "date": "2026-02-18",
+          "month1": 3.71,
+          "month3": 3.7,
+          "month6": 3.6,
+          "year1": 3.49,
+          "year2": 3.47,
+          "year5": 3.66,
+          "year10": 4.09,
+          "year30": 4.71
+        },
+        {
+          "date": "2026-02-17",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.59,
+          "year1": 3.48,
+          "year2": 3.43,
+          "year5": 3.63,
+          "year10": 4.05,
+          "year30": 4.68
+        },
+        {
+          "date": "2026-02-13",
+          "month1": 3.72,
+          "month3": 3.68,
+          "month6": 3.59,
+          "year1": 3.42,
+          "year2": 3.4,
+          "year5": 3.61,
+          "year10": 4.04,
+          "year30": 4.69
+        },
+        {
+          "date": "2026-02-12",
+          "month1": 3.72,
+          "month3": 3.7,
+          "month6": 3.58,
+          "year1": 3.45,
+          "year2": 3.47,
+          "year5": 3.67,
+          "year10": 4.09,
+          "year30": 4.72
+        },
+        {
+          "date": "2026-02-11",
+          "month1": 3.71,
+          "month3": 3.7,
+          "month6": 3.6,
+          "year1": 3.47,
+          "year2": 3.52,
+          "year5": 3.75,
+          "year10": 4.18,
+          "year30": 4.82
+        },
+        {
+          "date": "2026-02-10",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.58,
+          "year1": 3.4,
+          "year2": 3.45,
+          "year5": 3.7,
+          "year10": 4.16,
+          "year30": 4.78
+        },
+        {
+          "date": "2026-02-09",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.59,
+          "year1": 3.43,
+          "year2": 3.48,
+          "year5": 3.75,
+          "year10": 4.22,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-02-06",
+          "month1": 3.72,
+          "month3": 3.68,
+          "month6": 3.59,
+          "year1": 3.45,
+          "year2": 3.5,
+          "year5": 3.76,
+          "year10": 4.22,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-02-05",
+          "month1": 3.72,
+          "month3": 3.67,
+          "month6": 3.58,
+          "year1": 3.44,
+          "year2": 3.47,
+          "year5": 3.74,
+          "year10": 4.21,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-02-04",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.49,
+          "year2": 3.57,
+          "year5": 3.83,
+          "year10": 4.29,
+          "year30": 4.91
+        },
+        {
+          "date": "2026-02-03",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.49,
+          "year2": 3.57,
+          "year5": 3.83,
+          "year10": 4.28,
+          "year30": 4.9
+        },
+        {
+          "date": "2026-02-02",
+          "month1": 3.72,
+          "month3": 3.69,
+          "month6": 3.62,
+          "year1": 3.49,
+          "year2": 3.57,
+          "year5": 3.83,
+          "year10": 4.29,
+          "year30": 4.9
+        },
+        {
+          "date": "2026-01-30",
+          "month1": 3.72,
+          "month3": 3.67,
+          "month6": 3.61,
+          "year1": 3.48,
+          "year2": 3.52,
+          "year5": 3.79,
+          "year10": 4.26,
+          "year30": 4.87
+        },
+        {
+          "date": "2026-01-29",
+          "month1": 3.72,
+          "month3": 3.67,
+          "month6": 3.62,
+          "year1": 3.5,
+          "year2": 3.53,
+          "year5": 3.8,
+          "year10": 4.24,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-01-28",
+          "month1": 3.76,
+          "month3": 3.68,
+          "month6": 3.63,
+          "year1": 3.52,
+          "year2": 3.56,
+          "year5": 3.83,
+          "year10": 4.26,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-01-27",
+          "month1": 3.77,
+          "month3": 3.67,
+          "month6": 3.61,
+          "year1": 3.5,
+          "year2": 3.53,
+          "year5": 3.81,
+          "year10": 4.24,
+          "year30": 4.83
+        },
+        {
+          "date": "2026-01-26",
+          "month1": 3.77,
+          "month3": 3.67,
+          "month6": 3.62,
+          "year1": 3.52,
+          "year2": 3.56,
+          "year5": 3.82,
+          "year10": 4.22,
+          "year30": 4.8
+        },
+        {
+          "date": "2026-01-23",
+          "month1": 3.78,
+          "month3": 3.7,
+          "month6": 3.61,
+          "year1": 3.53,
+          "year2": 3.6,
+          "year5": 3.84,
+          "year10": 4.24,
+          "year30": 4.82
+        },
+        {
+          "date": "2026-01-22",
+          "month1": 3.79,
+          "month3": 3.71,
+          "month6": 3.61,
+          "year1": 3.53,
+          "year2": 3.61,
+          "year5": 3.85,
+          "year10": 4.26,
+          "year30": 4.84
+        },
+        {
+          "date": "2026-01-21",
+          "month1": 3.75,
+          "month3": 3.7,
+          "month6": 3.62,
+          "year1": 3.53,
+          "year2": 3.6,
+          "year5": 3.83,
+          "year10": 4.26,
+          "year30": 4.87
+        },
+        {
+          "date": "2026-01-20",
+          "month1": 3.75,
+          "month3": 3.7,
+          "month6": 3.61,
+          "year1": 3.53,
+          "year2": 3.6,
+          "year5": 3.86,
+          "year10": 4.3,
+          "year30": 4.91
+        },
+        {
+          "date": "2026-01-16",
+          "month1": 3.75,
+          "month3": 3.67,
+          "month6": 3.6,
+          "year1": 3.55,
+          "year2": 3.59,
+          "year5": 3.82,
+          "year10": 4.24,
+          "year30": 4.83
+        },
+        {
+          "date": "2026-01-15",
+          "month1": 3.75,
+          "month3": 3.68,
+          "month6": 3.6,
+          "year1": 3.54,
+          "year2": 3.56,
+          "year5": 3.77,
+          "year10": 4.17,
+          "year30": 4.79
+        },
+        {
+          "date": "2026-01-14",
+          "month1": 3.72,
+          "month3": 3.67,
+          "month6": 3.58,
+          "year1": 3.5,
+          "year2": 3.51,
+          "year5": 3.72,
+          "year10": 4.15,
+          "year30": 4.79
+        },
+        {
+          "date": "2026-01-13",
+          "month1": 3.72,
+          "month3": 3.67,
+          "month6": 3.59,
+          "year1": 3.51,
+          "year2": 3.53,
+          "year5": 3.75,
+          "year10": 4.18,
+          "year30": 4.83
+        },
+        {
+          "date": "2026-01-12",
+          "month1": 3.71,
+          "month3": 3.67,
+          "month6": 3.58,
+          "year1": 3.53,
+          "year2": 3.54,
+          "year5": 3.77,
+          "year10": 4.19,
+          "year30": 4.83
+        },
+        {
+          "date": "2026-01-09",
+          "month1": 3.7,
+          "month3": 3.62,
+          "month6": 3.57,
+          "year1": 3.52,
+          "year2": 3.54,
+          "year5": 3.75,
+          "year10": 4.18,
+          "year30": 4.82
+        },
+        {
+          "date": "2026-01-08",
+          "month1": 3.7,
+          "month3": 3.62,
+          "month6": 3.56,
+          "year1": 3.48,
+          "year2": 3.49,
+          "year5": 3.74,
+          "year10": 4.19,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-01-07",
+          "month1": 3.7,
+          "month3": 3.62,
+          "month6": 3.56,
+          "year1": 3.48,
+          "year2": 3.47,
+          "year5": 3.7,
+          "year10": 4.15,
+          "year30": 4.82
+        },
+        {
+          "date": "2026-01-06",
+          "month1": 3.7,
+          "month3": 3.63,
+          "month6": 3.56,
+          "year1": 3.48,
+          "year2": 3.47,
+          "year5": 3.72,
+          "year10": 4.18,
+          "year30": 4.86
+        },
+        {
+          "date": "2026-01-05",
+          "month1": 3.71,
+          "month3": 3.64,
+          "month6": 3.57,
+          "year1": 3.47,
+          "year2": 3.46,
+          "year5": 3.71,
+          "year10": 4.17,
+          "year30": 4.85
+        },
+        {
+          "date": "2026-01-02",
+          "month1": 3.72,
+          "month3": 3.65,
+          "month6": 3.58,
+          "year1": 3.47,
+          "year2": 3.47,
+          "year5": 3.74,
+          "year10": 4.19,
+          "year30": 4.86
+        },
+        {
+          "date": "2025-12-31",
+          "month1": 3.74,
+          "month3": 3.67,
+          "month6": 3.59,
+          "year1": 3.48,
+          "year2": 3.47,
+          "year5": 3.73,
+          "year10": 4.18,
+          "year30": 4.84
+        },
+        {
+          "date": "2025-12-30",
+          "month1": 3.65,
+          "month3": 3.65,
+          "month6": 3.59,
+          "year1": 3.47,
+          "year2": 3.45,
+          "year5": 3.68,
+          "year10": 4.14,
+          "year30": 4.81
+        },
+        {
+          "date": "2025-12-29",
+          "month1": 3.69,
+          "month3": 3.68,
+          "month6": 3.59,
+          "year1": 3.48,
+          "year2": 3.45,
+          "year5": 3.67,
+          "year10": 4.12,
+          "year30": 4.8
+        },
+        {
+          "date": "2025-12-26",
+          "month1": 3.7,
+          "month3": 3.64,
+          "month6": 3.58,
+          "year1": 3.49,
+          "year2": 3.46,
+          "year5": 3.68,
+          "year10": 4.14,
+          "year30": 4.81
+        }
+      ]
+    },
+    "earnings_report": {
+      "description": "EPS 실제치 vs 추정치 (최근 8분기)",
+      "data": null
+    }
+  }
+}
