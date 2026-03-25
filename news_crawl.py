@@ -16,7 +16,7 @@ import os
 # data 폴더가 없으면 새로 생성 (이미 있으면 무시)
 os.makedirs("data", exist_ok=True)
 
-TICKERS = ["AAPL"]
+TICKERS = ["NVDA", "MSFT", "TSM", "JPM", "V", "GS", "XOM", "CVX", "ABBV", "UNH"]
 
 def setup_driver():
     chrome_options = Options()
@@ -79,9 +79,6 @@ def main():
         
         try:
             for i, item in enumerate(news_items):
-                # 너무 많으면 상위 30개만 끊어서 진행 (테스트용)
-                if i >= 40: break 
-                
                 print(f"[{i+1}/{len(news_items)}] 추출 중: {item['title'][:30]}...")
                 real_url, content = fast_extract(driver, item['link'])
                 
