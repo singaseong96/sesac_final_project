@@ -16,7 +16,7 @@ import os
 # data 폴더가 없으면 새로 생성 (이미 있으면 무시)
 os.makedirs("data", exist_ok=True)
 
-TICKERS = ["AAPL", "MSFT", "AMZN", "NVDA"]
+TICKERS = ["AAPL"]
 
 def setup_driver():
     chrome_options = Options()
