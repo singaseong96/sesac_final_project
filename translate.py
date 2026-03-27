@@ -8,6 +8,7 @@ import json
 
 # ============================================================
 MY_OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
+print(f"키 길이: {len(MY_OPENAI_API_KEY)}, 앞 10자리: {MY_OPENAI_API_KEY[:10]}") # ← 추가
 TICKER_LIST = ["JPM", "MSFT", "XOM", "NVDA", "TSM", "V", "GS", "CVX", "ABBV", "UNH"]
 MODEL_NAME  = "gpt-5.4-mini"
 INPUT_DIR   = "data"
