@@ -7,6 +7,9 @@ on:
       - completed
   workflow_dispatch:  # ← GitHub Actions 탭에서 수동 실행 가능
 
+env:
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
 concurrency:
   group: daily-news-translate-analyze
   cancel-in-progress: true
