@@ -26,6 +26,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Debug secret
+        run: echo "Secret 길이 = ${#OPENAI_API_KEY}"
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+    
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
