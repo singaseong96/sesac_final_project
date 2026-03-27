@@ -40,6 +40,8 @@ def call_openai(system: str, user: str) -> str:
         "https://api.openai.com/v1/chat/completions",
         headers=headers, json=body, timeout=120
     )
+    if not resp.ok:
+        print(f"API 에러: {resp.status_code} / {resp.text}")  # ← 이 줄 추가
     resp.raise_for_status()
     return resp.json()["choices"][0]["message"]["content"].strip()
 
