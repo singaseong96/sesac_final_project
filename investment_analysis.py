@@ -290,7 +290,7 @@ def build_analyst_block(data: dict) -> str:
 def main(SYMBOL):
     FILE_DATE_STR = datetime.now().strftime("%y%m%d")
     CSV_PATH  = f"./data/{SYMBOL}_{FILE_DATE_STR}_translated.csv"
-    JSON_PATH = f"./data/{SYMBOL}.json"
+    JSON_PATH = f"./output/{SYMBOL}.json"
     
     print("=" * 56)
     print(f" 투자 분석 파이프라인 — {SYMBOL}")
