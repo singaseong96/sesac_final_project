@@ -49,13 +49,19 @@ SENTIMENT_KO = {
 with st.sidebar:
     st.title("📊 주식 투자 분석")
     st.markdown("---")
+    model_choice = st.radio(
+        "🤖 분석 모델",
+        options=["GPT", "Claude"],
+        horizontal=True,
+    )
+    st.markdown("---")
     sector = st.selectbox("섹터", list(STOCKS.keys()))
     symbol = st.selectbox(
         "종목", STOCKS[sector],
         format_func=lambda s: f"{s}  |  {COMPANY_NAME.get(s, '')}",
     )
     st.markdown("---")
-    st.caption("데이터: FMP · OpenAI")
+    st.caption(f"데이터: FMP · {model_choice}")
 
 company = COMPANY_NAME.get(symbol, symbol)
 
@@ -80,13 +86,14 @@ def safe_get(d, section, key):
 
 fmp      = load_json(os.path.join(OUTPUT_DIR, f"{symbol}.json"))
 df_sent  = load_csv(os.path.join(OUTPUT_DIR, f"{symbol}_sentiment.csv"))
-analysis = load_json(os.path.join(OUTPUT_DIR, f"{symbol}_analysis.json"))
+model_suffix = "GPT" if model_choice == "GPT" else "claude"
+analysis = load_json(os.path.join(OUTPUT_DIR, f"{symbol}_analysis_{model_suffix}.json"))
 
 # ─────────────────────────────────────────────────────────
 # 헤더
 # ─────────────────────────────────────────────────────────
 st.title(f"📊 {symbol}  |  {company}")
-st.caption(f"섹터: {sector}  ·  데이터 기준: FMP + OpenAI 분석")
+st.caption(f"섹터: {sector}  ·  데이터 기준: FMP + {model_choice} 분석")
 st.markdown("---")
 
 # ═════════════════════════════════════════════════════════
@@ -95,7 +102,7 @@ st.markdown("---")
 st.header("🎯 투자 판단")
 
 if analysis is None:
-    st.warning(f"`output/{symbol}_analysis.json` 파일이 없습니다. investment_analysis.py를 먼저 실행하세요.")
+    st.warning(f"`output/{symbol}_analysis_{model_suffix}.json` 파일이 없습니다. 해당 모델 분석 파일을 먼저 실행하세요.")
 else:
     meta = analysis.get("meta", {})
     m1, m2, m3 = st.columns(3)
@@ -173,7 +180,7 @@ else:
             st.markdown(content)
             st.markdown("")
 
-    with st.expander("GPT 원문 전체 보기"):
+    with st.expander(f"{model_choice} 원문 전체 보기"):
         st.text(jt)
 
 st.markdown("---")
