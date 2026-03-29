@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "symbol": "UNH",
+    "analysis_date": "2026-03-29T00:25:00.393160+00:00",
+    "news_period": "2026-03-24 ~ 2026-03-26",
+    "news_count": 29,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Neutral": 19,
+    "Negative": 3,
+    "Growth": 3,
+    "Risk": 3,
+    "Positive": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-24": {
+      "Neutral": 10,
+      "Growth": 2,
+      "Positive": 1,
+      "Risk": 1
+    },
+    "2026-03-25": {
+      "Neutral": 4,
+      "Risk": 1
+    },
+    "2026-03-26": {
+      "Neutral": 5,
+      "Negative": 3,
+      "Growth": 1,
+      "Risk": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-26 20:07:00",
+      "title": "Former Ocean Spray CEO to deliver UNH commencement address - New Hampshire Public Radio",
+      "url": "https://www.nhpr.org/nh-news/2026-03-26/unh-newhampshire-2026-commencement-address",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 18:07:07",
+      "title": "UnitedHealth Group (UNH) Valuation Check After Recent Weak Share Performance - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-unh-valuation-check-180707391.html",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-26 17:31:07",
+      "title": "Mark Cuban Calls $30,000 Corporate Healthcare Burden 'Insane,' Backs Bill To Break Up Big Medicine Giants UNH, CVS, CI - Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/mark-cuban-calls-30-000-173107714.html",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-26 16:11:00",
+      "title": "Adobe, PayPal, UnitedHealth Just Got 2X ETFs — Direxion Builds Out The Leverage Trade - Benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/03/51487844/adobe-paypal-unitedhealth-just-got-2x-etfs-direxion-builds-out-the-leverage-trade",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 13:00:02",
+      "title": "UnitedHealth Group Incorporated (UNH) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance Singapore",
+      "url": "https://sg.finance.yahoo.com/news/unitedhealth-group-incorporated-unh-trending-130002118.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAACnoId530s8CVSQvtsHgyf1lre7y6OGDM4B_Exewpsi0kygHHfUzpnb2JyPWxwzUsBgbtyqaG_CbtVAktX1ePrJw1LcOhnjkskjbG_sEv_UtY6mb74BE4kODgXyIfT_D7pMC8-R8xjUlhEh_8-bBMxOcvcYw_vZ2Wh5YPchFf_ux",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 12:13:05",
+      "title": "UnitedHealth - Plans $1.6 Bln AI Investment T - Moomoo",
+      "url": "https://www.moomoo.com/news/flash/22154012/unitedhealth-plans-1-6-bln-ai-investment-this-year?level=1&data_ticket=1774573993196744",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-26 10:02:00",
+      "title": "UNH 2026 commencement speakers announced - Seacoastonline.com",
+      "url": "https://www.seacoastonline.com/story/news/education/2026/03/26/former-ocean-spray-ceo-unh-graduation/89304398007/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 05:11:49",
+      "title": "Faith-Based Lawsuit Puts UnitedHealth Vertical Integration And Valuation Under Scrutiny - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/healthcare/nyse-unh/unitedhealth-group/news/faith-based-lawsuit-puts-unitedhealth-vertical-integration-a/amp",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 04:32:16",
+      "title": "UNHU Stock Fund Price and Chart — AMEX:UNHU - TradingView",
+      "url": "https://www.tradingview.com/symbols/AMEX-UNHU/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 02:47:00",
+      "title": "Deputy chief would 'never' send daughter to UNH if guns allowed on campus - Seacoastonline.com",
+      "url": "https://www.seacoastonline.com/story/news/local/2026/03/25/unh-guns-college-campus-carry-house-bill-1793/89313541007/?gca-cat=p&gnt-cfr=1",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-25 20:34:58",
+      "title": "Virginia Stuart Obituary - Foster's Daily Democrat",
+      "url": "https://www.fosters.com/obituaries/pprt1441893",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 19:56:31",
+      "title": "UNH WLAX v. UAlbany 3/14 - University of New Hampshire Athletics",
+      "url": "https://unhwildcats.com/galleries/womens-lacrosse/unh-wlax-v-ualbany-3-14/2613",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 09:33:57",
+      "title": "Nordea Investment Management AB Boosts Stock Position in UnitedHealth Group Incorporated $UNH - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nordea-investment-management-ab-boosts-stock-position-in-unitedhealth-group-incorporated-unh-2026-03-25/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 07:10:16",
+      "title": "Rep. Josh Gottheimer Buys UnitedHealth Group Incorporated (NYSE:UNH) Shares - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/25/rep-josh-gottheimer-buys-unitedhealth-group-incorporated-nyseunh-shares.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 02:24:38",
+      "title": "Can UnitedHealth (UNH) Balance Antitrust Scrutiny With Its Ambitious Capital Return and AI Efficiency Plans? - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/healthcare/nyse-unh/unitedhealth-group/news/can-unitedhealth-unh-balance-antitrust-scrutiny-with-its-amb/amp",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-24 22:17:17",
+      "title": "Central Bank & Trust Co. Trims Position in UnitedHealth Group Incorporated $UNH - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/24/central-bank-trust-co-trims-position-in-unitedhealth-group-incorporated-unh.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 21:45:21",
+      "title": "UnitedHealth Group (NYSE:UNH) Shares Up 1% - Still a Buy? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-nyseunh-shares-up-1-still-a-buy-2026-03-24/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 20:36:35",
+      "title": "UNH Graduate Student Union Continues Efforts for Better Conditions - The New Hampshire",
+      "url": "https://www.tnhdigital.com/article/2026/03/unh-graduate-student-union-continues-efforts-for-better-conditions",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 19:59:22",
+      "title": "UnitedHealth Group Incorporated $UNH Stock Position Raised by Diversified Trust Co. - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/24/unitedhealth-group-incorporated-unh-stock-position-raised-by-diversified-trust-co.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 19:52:20",
+      "title": "Service Credit Union Student-Athletes of the Week: Mady Harvey and Rose Pavuk - University of New Hampshire Athletics",
+      "url": "https://unhwildcats.com/news/2026/3/24/womens-gymnastics-service-credit-union-student-athletes-of-the-week-mady-harvey-and-rose-pavuk",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 18:49:20",
+      "title": "Assenagon Asset Management S.A. Sells 278,705 Shares of UnitedHealth Group Incorporated $UNH - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/24/assenagon-asset-management-s-a-sells-278705-shares-of-unitedhealth-group-incorporated-unh.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 18:49:20",
+      "title": "UnitedHealth Group Incorporated $UNH Shares Sold by Appleton Partners Inc. MA - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/24/unitedhealth-group-incorporated-unh-shares-sold-by-appleton-partners-inc-ma.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 18:49:20",
+      "title": "Constitution Capital LLC Sells 3,085 Shares of UnitedHealth Group Incorporated $UNH - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/24/constitution-capital-llc-sells-3085-shares-of-unitedhealth-group-incorporated-unh.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 13:30:02",
+      "title": "Is It Worth Investing in UnitedHealth (UNH) Based on Wall Street's Bullish Views? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-unitedhealth-unh-based-133002556.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-24 11:33:19",
+      "title": "UnitedHealth (UNH) Expands AI Investments to Boost Efficiency - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/unitedhealth-unh-expands-ai-investments-to-boost-efficiency-1723251/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-24 11:26:58",
+      "title": "UnitedHealth (UNH) Expands AI Investments to Boost Efficiency - Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-unh-expands-ai-investments-112658049.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-24 10:31:02",
+      "title": "UnitedHealth Group Incorporated $UNH Shares Sold by Seilern Investment Management Ltd - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-unitedhealth-group-incorporated-unh-shares-sold-by-seilern-investment-management-ltd-2026-03-24/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 08:42:22",
+      "title": "6,902 Shares in UnitedHealth Group Incorporated $UNH Acquired by Clear Trail Advisors LLC - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-6902-shares-in-unitedhealth-group-incorporated-unh-acquired-by-clear-trail-advisors-llc-2026-03-24/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 03:06:00",
+      "title": "DOJ Antitrust Probe Puts Focus On UnitedHealth Valuation And Integrated Model - Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/doj-antitrust-probe-puts-focus-030638086.html",
+      "sentiment": "Risk"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-24 ──\n  [Neutral] Central Bank & Trust Co. Trims Position in UnitedHealth Group Incorporated $UNH - Defense World\n  [Neutral] UnitedHealth Group (NYSE:UNH) Shares Up 1% - Still a Buy? - MarketBeat\n  [Neutral] UNH Graduate Student Union Continues Efforts for Better Conditions - The New Hampshire\n  [Neutral] UnitedHealth Group Incorporated $UNH Stock Position Raised by Diversified Trust Co. - Defense World\n  [Neutral] Service Credit Union Student-Athletes of the Week: Mady Harvey and Rose Pavuk - University of New Hampshire Athletics\n  [Neutral] Assenagon Asset Management S.A. Sells 278,705 Shares of UnitedHealth Group Incorporated $UNH - Defense World\n  [Neutral] UnitedHealth Group Incorporated $UNH Shares Sold by Appleton Partners Inc. MA - Defense World\n  [Neutral] Constitution Capital LLC Sells 3,085 Shares of UnitedHealth Group Incorporated $UNH - Defense World\n  [Positive] Is It Worth Investing in UnitedHealth (UNH) Based on Wall Street's Bullish Views? - Yahoo Finance\n  [Growth] UnitedHealth (UNH) Expands AI Investments to Boost Efficiency - Insider Monkey\n  [Growth] UnitedHealth (UNH) Expands AI Investments to Boost Efficiency - Yahoo Finance\n  [Neutral] UnitedHealth Group Incorporated $UNH Shares Sold by Seilern Investment Management Ltd - MarketBeat\n  [Neutral] 6,902 Shares in UnitedHealth Group Incorporated $UNH Acquired by Clear Trail Advisors LLC - MarketBeat\n  [Risk] DOJ Antitrust Probe Puts Focus On UnitedHealth Valuation And Integrated Model - Yahoo Finance\n\n── 2026-03-25 ──\n  [Neutral] Virginia Stuart Obituary - Foster's Daily Democrat\n  [Neutral] UNH WLAX v. UAlbany 3/14 - University of New Hampshire Athletics\n  [Neutral] Nordea Investment Management AB Boosts Stock Position in UnitedHealth Group Incorporated $UNH - MarketBeat\n  [Neutral] Rep. Josh Gottheimer Buys UnitedHealth Group Incorporated (NYSE:UNH) Shares - Defense World\n  [Risk] Can UnitedHealth (UNH) Balance Antitrust Scrutiny With Its Ambitious Capital Return and AI Efficiency Plans? - simplywall.st\n\n── 2026-03-26 ──\n  [Neutral] Former Ocean Spray CEO to deliver UNH commencement address - New Hampshire Public Radio\n  [Negative] UnitedHealth Group (UNH) Valuation Check After Recent Weak Share Performance - Yahoo Finance\n  [Negative] Mark Cuban Calls $30,000 Corporate Healthcare Burden 'Insane,' Backs Bill To Break Up Big Medicine Giants UNH, CVS, CI - Yahoo Finance\n  [Neutral] Adobe, PayPal, UnitedHealth Just Got 2X ETFs — Direxion Builds Out The Leverage Trade - Benzinga\n  [Neutral] UnitedHealth Group Incorporated (UNH) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance Singapore\n  [Growth] UnitedHealth - Plans $1.6 Bln AI Investment T - Moomoo\n  [Neutral] UNH 2026 commencement speakers announced - Seacoastonline.com\n  [Risk] Faith-Based Lawsuit Puts UnitedHealth Vertical Integration And Valuation Under Scrutiny - simplywall.st\n  [Neutral] UNHU Stock Fund Price and Chart — AMEX:UNHU - TradingView\n  [Negative] Deputy chief would 'never' send daughter to UNH if guns allowed on campus - Seacoastonline.com",
+    "sentiment_block": "총 뉴스 29건 분석 결과:\n  Positive     1건 (  3.4%) \n  Growth       3건 ( 10.3%) ██\n  Neutral     19건 ( 65.5%) █████████████\n  Mixed        0건 (  0.0%) \n  Risk         3건 ( 10.3%) ██\n  Negative     3건 ( 10.3%) ██\n\n날짜별 감정 흐름:\n  2026-03-24: Neutral:10, Growth:2, Positive:1, Risk:1\n  2026-03-25: Neutral:4, Risk:1\n  2026-03-26: Neutral:5, Negative:3, Growth:1, Risk:1",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 1  Buy: 40  Hold: 7  Sell: 4  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $444  Low: $327  Consensus: $385.38  Median: $390.5\n▶ DCF 내재가치\n  DCF: $213.24694651127882  현재가: $N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
+  },
+  "investment_judgment": "# UnitedHealth Group (UNH) 투자 분석 보고서\n\n## [핵심 요약]\n\n최근 3일간 UnitedHealth Group은 **AI 투자 확대와 반독점 규제 우려가 공존**하는 상황에 직면했습니다. 3월 24일 긍정적 AI 투자 뉴스로 시작했으나, 3월 25-26일 DOJ 반독점 조사와 신앙 기반 소송 등 규제 리스크가 부각되며 부정적 뉴스가 증가했습니다.\n\n---\n\n## [전체 흐름 분석]\n\n**시간 경과에 따른 감정 악화**\n- 3월 24일: 긍정적 시작 (Positive 1건, Growth 2건, Risk 1건)\n- 3월 25일: 위험 신호 대두 (Risk 1건 추가)\n- 3월 26일: **부정적 전환** (Negative 3건 발생, 주가 약세 언급)\n\n**규제 환경 악화의 가속화**\n일반적인 기관 투자자의 포지션 조정(매도 vs 매수 혼재)을 넘어서, 본질적인 **비즈니스 모델 자체에 대한 의문**이 제기되고 있습니다. DOJ 반독점 조사, 신앙 기반 소송, Mark Cuban 등 유명 인사의 대형 의료 기업 분할 주장이 동시다발적으로 나타나고 있습니다.\n\n---\n\n## [긍정 요인]\n\n* **AI 투자 확대를 통한 효율성 강화**: 3월 24일-26일 연속으로 $1.6B AI 투자 발표 (중복 보도로 볼 때 시장의 관심사항)\n  \n* **강력한 애널리스트 컨센서스**: Buy 40건(최다), Strong Buy 1건으로 총 41명(85.4%)의 애널리스트가 긍정적 평가\n\n* **목표주가의 상향여유**: 컨센서스 $385.38 (중간값 $390.5)로 현재가 대비 20~80% 상향 가능성 (고평가 $444까지)\n\n* **기관 투자자의 지속적 관심**: Nordea, Diversified Trust Co. 등의 신규 포지션 증가\n\n---\n\n## [부정 요인]\n\n* **DOJ 반독점 조사 본격화**: 단순한 규제 감시가 아닌 **회사의 수직통합 모델 자체에 대한 법적 검토** 시작. 분할 가능성 내포\n\n* **규제 리스크의 다층화**: \n  - 연방 차원 DOJ 조사\n  - 신앙 기반 소송 (수직통합 및 밸류에이션 심문)\n  - 의원 차원의 분할 입법 움직임 (Mark Cuban 등)\n\n* **감정 분석의 악화 추세**: 3일 누적 기준 Negative 3건(10.3%)이 3월 26일에 집중 발생하며 **최근 심화 추세** 명확\n\n* **주가 약세 신호**: \"Weak Share Performance\" 표현으로 실제 주가 하락 확인 (수치는 미제공이나 감정 분석과 일치)\n\n* **밸류에이션 의문 제기**: \"Valuation Check After Recent Weak Share Performance\" - 애널리스트 컨센서스와 현물가격 간의 정렬 문제 발생\n\n---\n\n## [투자 인사이트]\n\n**1. 단기 vs 중장기 괴리**\n- 애널리스트 의견: 85.4%의 긍정적 평가 (평가 기준: 현재의 비즈니스 모델 유지 가정)\n- 시장 현실: 3일 단위의 부정적 뉴스 가속화, 주가 약세\n- **해석**: 규제 불확실성에 의한 시장 선할인(선제적 가격 조정) 진행 중\n\n**2. 비즈니스 모델 리스크의 실체화**\nAI 효율성 투자($1.6B)는 현재의 수직통합된 사업 구조를 전제로 한 계획입니다. 만약 DOJ가 회사의 분할을 명령할 경우, 이 투자의 **시너지 가치가 급격히 훼손될 수 있습니다**.\n\n**3. 애널리스트 컨센서스의 한계**\n- 현재 애널리스트들의 목표주가($385-390)는 **반독점 리스크가 현재 가격에 충분히 반영되지 않았을 가능성** 시사\n- DCF 내재가치($213)와 애널리스트 컨센서스 간 약 80% 차이는 평가 방법론의 근본적 차이"
+}

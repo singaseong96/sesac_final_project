@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "symbol": "GS",
+    "analysis_date": "2026-03-29T00:22:26.228812+00:00",
+    "news_period": "2026-03-24 ~ 2026-03-26",
+    "news_count": 47,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Neutral": 31,
+    "Growth": 8,
+    "Positive": 4,
+    "Risk": 2,
+    "Negative": 1,
+    "Mixed": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-24": {
+      "Neutral": 9,
+      "Growth": 3,
+      "Mixed": 1
+    },
+    "2026-03-25": {
+      "Neutral": 10,
+      "Positive": 2,
+      "Risk": 1
+    },
+    "2026-03-26": {
+      "Neutral": 12,
+      "Growth": 5,
+      "Positive": 2,
+      "Negative": 1,
+      "Risk": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-26 23:20:00",
+      "title": "Deputy PM meets GS Energy leader, encourages renewable investment - Báo VietNamNet",
+      "url": "https://vietnamnet.vn/en/deputy-pm-meets-gs-energy-leader-encourages-renewable-investment-2500835.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-26 22:18:00",
+      "title": "Coach G’s Corner: Iowa State - Local 3 News",
+      "url": "https://www.local3news.com/local-sports/coach-g-s-corner-iowa-state/article_3450c1b7-57b0-43bf-9f51-21bdd834fd63.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 21:48:19",
+      "title": "Silva's 40 Points Propel GS Caltex to Playoff Lead - 조선일보",
+      "url": "https://www.chosun.com/english/sports-en/2026/03/27/AINGQ5VS5NGVLGXT7CVURLVRMI/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 21:28:36",
+      "title": "Eagles Fall To Lumberjacks, 4-2, On Thursday - Georgia Southern University Athletics",
+      "url": "https://gseagles.com/news/2026/3/26/womens-tennis-eagles-fall-to-lumberjacks-4-2-on-thursday",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-26 20:41:38",
+      "title": "Modi to hold virtual meet with CMs, L-Gs today on W Asia crisis - Tribune India",
+      "url": "https://www.tribuneindia.com/news/india/modi-to-hold-virtual-meet-with-cms-l-gs-today-on-w-asia-crisis/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 20:30:05",
+      "title": "CryptoLab Earns Top-Tier GS Certification, Targets Public Sector AI Security Market - 서울경제신문",
+      "url": "https://en.sedaily.com/technology/2026/03/27/cryptolab-earns-top-tier-gs-certification-targets-public",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-26 19:18:17",
+      "title": "Daheyi, GS, CN Temperature forecast - The Weather Network",
+      "url": "https://www.theweathernetwork.com/en/city/cn/gansu/daheyi/temperature",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 16:59:00",
+      "title": "ABGBLXX Seasonals Chart - TradingView",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ABGBLXX/seasonals/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 16:07:26",
+      "title": "Reviewed: BMW F 450 GS - Carole Nash",
+      "url": "https://www.carolenash.com/tips-guides/bike-reviews/detail/reviewed-bmw-f-450-gs",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 15:11:00",
+      "title": "The new Broadband Battery from GS Yuasa Energy Solutions Provides High Performance and Long Life Even in the Hottest Climates - PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/the-new-broadband-battery-from-gs-yuasa-energy-solutions-provides-high-performance-and-long-life-even-in-the-hottest-climates-302722166.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-26 14:32:14",
+      "title": "Birdie G’s returns: Chef Jeremy Fox to open new flagship at Fairmont Century Plaza - Santa Monica Mirror",
+      "url": "https://smmirror.com/2026/03/birdie-gs-returns-chef-jeremy-fox-to-open-new-flagship-at-fairmont-century-plaza/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-26 12:47:21",
+      "title": "GS Caltex Secures 100% Final Chance with Silva's Dominance - 조선일보",
+      "url": "https://www.chosun.com/english/sports-en/2026/03/26/V3R4MVLMSVEILLBHVHT5AVZFAY/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 12:42:00",
+      "title": "Silva powers GS Caltex to win, clinch championship berth - CHOSUNBIZ - Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-sports/2026/03/26/EFQYTNC27JBXLFA5MDYZYYZO3E/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 11:47:45",
+      "title": "[Photo] \"Got the first set.\" GS - starnewskorea.com",
+      "url": "https://www.starnewskorea.com/en/sports/2026/03/26/2026032620472014899",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 11:33:21",
+      "title": "[Photo] \"Cheering GS players.\" - starnewskorea.com",
+      "url": "https://www.starnewskorea.com/en/sports/2026/03/26/2026032620330411640",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 09:59:30",
+      "title": "GS MODULAR to Debut at the 139th Canton Fair, Leading the Future of Modular Buildings - 24-7 Press Release Newswire",
+      "url": "https://www.24-7pressrelease.com/press-release/533147/gs-modular-to-debut-at-the-139th-canton-fair-leading-the-future-of-modular-buildings",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-26 06:24:40",
+      "title": "GS Engineering & Construction CEO Advances Physical AI in Construction - 조선일보",
+      "url": "https://www.chosun.com/english/industry-en/2026/03/26/KTBTFAVC3ZC25GVNR4V7IM6R7M/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-26 05:15:12",
+      "title": "Warriors 109-106 Nets (26 Mar, 2026) Game Recap - ESPN",
+      "url": "https://www.espn.com.au/nba/recap?gameId=401810915",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 02:36:47",
+      "title": "Warriors 109-106 Nets (26 Mar, 2026) Final Score - ESPN Philippines",
+      "url": "https://www.espn.ph/nba/game?gameId=401810915",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 02:04:52",
+      "title": "ABEDOXX Stock Price and Chart — NASDAQ:ABEDOXX - TradingView",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ABEDOXX/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 00:30:56",
+      "title": "Birdie G’s Will Reopen at Fairmont Century Plaza - lamag.com",
+      "url": "https://lamag.com/food/birdie-gs-will-reopen-at-fairmont-century-plaza/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-25 22:09:59",
+      "title": "Canada’s Valerie Grenier Wins in Hafjell, Norway, as Shiffrin Secures 6th Overall Globe in Dramatic GS Finale - SnowBrains",
+      "url": "https://snowbrains.com/canadas-valerie-grenier-wins-in-hafjell-norway-as-shiffrin-secures-6th-overall-globe-in-dramatic-gs-finale/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 22:01:55",
+      "title": "GS logistics team makes top 4 at Colorado event - Statesboro Herald",
+      "url": "https://www.statesboroherald.com/local/gs-logistics-team-makes-top-4-at-colorado-event/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 21:15:00",
+      "title": "Shiffrin claims sixth-career overall crystal globe after finishing 11th in World Cup finals GS - AspenTimes.com",
+      "url": "https://www.aspentimes.com/news/mikaela-shiffrin-claims-sixth-career-overall-crystal-globe-after-finishing-11th-in-world-cup-finals-gs/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-25 16:56:08",
+      "title": "Quick Bites: Bella G's Pizza & Pasta House - The Retrospect",
+      "url": "https://www.theretrospect.com/abouttown/quick-bites-bella-gs-pizza-pasta-house-0030a7f2",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 16:00:00",
+      "title": "Birdie G’s Comes Back to Life as an All-Day Restaurant in Century City - Eater Los Angeles",
+      "url": "https://la.eater.com/coming-attractions/300925/birdie-gs-reopening-fairmont-century-plaza-jeremy-fox",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-25 14:48:51",
+      "title": "Stunning Shiffrin crowned Overall champion as Scheib delights in GS Globe - FIS",
+      "url": "https://www.fis-ski.com/alpine-skiing/news/2025-26/shiffrin-crowned-overall-champion-as-scheib-delights-in-gs-globe-win",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 14:30:11",
+      "title": "Buick Gave A Famous Nameplate An Impressive Swansong - CarBuzz",
+      "url": "https://carbuzz.com/buick-regal-gs-impressive-swansong/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 13:40:03",
+      "title": "Why Goldman Sachs (GS) is a Top Value Stock for the Long-Term - Yahoo! Finance Canada",
+      "url": "https://ca.finance.yahoo.com/news/why-goldman-sachs-gs-top-134003815.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 13:09:58",
+      "title": "Does Goldman's New Macro Playbook Alter the Bull Case for Goldman Sachs Group (GS)? - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-gs/goldman-sachs-group/news/does-goldmans-new-macro-playbook-alter-the-bull-case-for-gol/amp",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-25 12:00:00",
+      "title": "NBA Power Rankings: The Thunder reign while East teams rise - ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/48296257/nba-power-rankings-thunder-reign-celtics-pistons-rise",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 11:04:01",
+      "title": "Minnesota Submits Bid to Host 2028 NFL Draft - Minnesota Vikings",
+      "url": "https://www.vikings.com/news/nfl-draft-2028-host-minnesota-bid-submission",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 03:00:00",
+      "title": "Gile sweeps GS at Highlands in NorAms finals - Aspen Daily News",
+      "url": "https://www.aspendailynews.com/news/gile-sweeps-gs-at-highlands-in-norams-finals/article_a06d587c-cd02-4ea7-b7e9-5f33e89e1d84.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-25 00:24:30",
+      "title": "Storm vs. Valkyries (26 Apr, 2026) Live Score - ESPN Philippines",
+      "url": "https://www.espn.ph/wnba/game/_/gameId/401866514",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 20:59:59",
+      "title": "The JWST Advanced Deep Extragalactic Survey (JADES), JADES-GS-z13-1 (NIRCam Close-Up)Untitled - NASA SVS (.gov)",
+      "url": "https://svs.gsfc.nasa.gov/31373/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 20:19:37",
+      "title": "Restored 1965 Buick Riviera GS With 360 BHP Nailhead V8 - Motorious",
+      "url": "https://www.motorious.com/articles/news/restored-1965-buick-riviera-gs-with-360-bhp-nailhead-v8/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 20:15:50",
+      "title": "Restored 1965 Buick Riviera GS With 360 BHP Nailhead V8 - Yahoo! Finance Canada",
+      "url": "https://ca.finance.yahoo.com/news/restored-1965-buick-riviera-gs-201550850.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 19:47:09",
+      "title": "Women’s GS Start List Hafjell Finals: Shiffrin vs Aicher for Overall Title - Ski Racing Media",
+      "url": "https://skiracing.com/womens-gs-start-list-hafjell-how-to-watch-finals-2026/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 18:29:48",
+      "title": "MagGo GS Launches on Kickstarter as the First Magnetic Gaming Sling for Switch and Steam Deck - The National Law Review",
+      "url": "https://natlawreview.com/press-releases/maggo-gs-launches-kickstarter-first-magnetic-gaming-sling-switch-and-steam",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-24 14:45:27",
+      "title": "Shiffrin on verge of record-equalling Overall title after ninth Slalom win - FIS",
+      "url": "https://www.fis-ski.com/alpine-skiing/news/2025-26/shiffrin-on-verge-of-record-equalling-overall-title-after-ninth-slalom-season-win",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-24 14:22:25",
+      "title": "Silva's 42 Points Propel GS Caltex to Playoff Victory - 조선일보",
+      "url": "https://www.chosun.com/english/sports-en/2026/03/24/L4DBQFCWN5H3NK2MUPXQJOD5SU/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 14:19:53",
+      "title": "Lucas Pinheiro Braathen Wins GS Globe in Last Run of Season After Odermatt DNF in Hafjell - Ski Racing Media",
+      "url": "https://skiracing.com/lucas-pinheiro-braathen-wins-gs-globe-hafjell-odermatt-crash/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 14:14:21",
+      "title": "Shiffrin on cusp of title as Pinheiro Braathen snatches GS globe - Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/shiffrin-cusp-title-pinheiro-braathen-141421249.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-24 13:45:26",
+      "title": "Emotional Pinheiro Braathen makes Brazilian ski history by sealing GS Globe - FIS",
+      "url": "https://www.fis-ski.com/alpine-skiing/news/2025-26/emotional-pinheiro-braathen-makes-brazilian-ski-history-by-sealing-gs-globe",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 12:33:40",
+      "title": "Marco Odermatt DNF as Pinheiro Braathen Takes Control of GS Title in Hafjell - Ski Racing Media",
+      "url": "https://skiracing.com/marco-odermatt-dnf-pinheiro-braathen-gs-title-hafjell/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-24 08:15:13",
+      "title": "Is It Too Late To Consider Goldman Sachs Group (GS) After Its Strong Multi‑Year Rally? - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-gs/goldman-sachs-group/news/is-it-too-late-to-consider-goldman-sachs-group-gs-after-its/amp",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-24 07:00:00",
+      "title": "Warriors 111-85 Timberwolves (Jan 25, 2026) Final Score - ESPN",
+      "url": "https://www.espn.com/nba/game/_/gameId/401857824/warriors-timberwolves",
+      "sentiment": "Neutral"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-24 ──\n  [Neutral] The JWST Advanced Deep Extragalactic Survey (JADES), JADES-GS-z13-1 (NIRCam Close-Up)Untitled - NASA SVS (.gov)\n  [Neutral] Restored 1965 Buick Riviera GS With 360 BHP Nailhead V8 - Motorious\n  [Neutral] Restored 1965 Buick Riviera GS With 360 BHP Nailhead V8 - Yahoo! Finance Canada\n  [Neutral] Women’s GS Start List Hafjell Finals: Shiffrin vs Aicher for Overall Title - Ski Racing Media\n  [Growth] MagGo GS Launches on Kickstarter as the First Magnetic Gaming Sling for Switch and Steam Deck - The National Law Review\n  [Growth] Shiffrin on verge of record-equalling Overall title after ninth Slalom win - FIS\n  [Neutral] Silva's 42 Points Propel GS Caltex to Playoff Victory - 조선일보\n  [Neutral] Lucas Pinheiro Braathen Wins GS Globe in Last Run of Season After Odermatt DNF in Hafjell - Ski Racing Media\n  [Growth] Shiffrin on cusp of title as Pinheiro Braathen snatches GS globe - Yahoo Sports\n  [Neutral] Emotional Pinheiro Braathen makes Brazilian ski history by sealing GS Globe - FIS\n  [Neutral] Marco Odermatt DNF as Pinheiro Braathen Takes Control of GS Title in Hafjell - Ski Racing Media\n  [Mixed] Is It Too Late To Consider Goldman Sachs Group (GS) After Its Strong Multi‑Year Rally? - simplywall.st\n  [Neutral] Warriors 111-85 Timberwolves (Jan 25, 2026) Final Score - ESPN\n\n── 2026-03-25 ──\n  [Neutral] Canada’s Valerie Grenier Wins in Hafjell, Norway, as Shiffrin Secures 6th Overall Globe in Dramatic GS Finale - SnowBrains\n  [Neutral] GS logistics team makes top 4 at Colorado event - Statesboro Herald\n  [Positive] Shiffrin claims sixth-career overall crystal globe after finishing 11th in World Cup finals GS - AspenTimes.com\n  [Neutral] Quick Bites: Bella G's Pizza & Pasta House - The Retrospect\n  [Positive] Birdie G’s Comes Back to Life as an All-Day Restaurant in Century City - Eater Los Angeles\n  [Neutral] Stunning Shiffrin crowned Overall champion as Scheib delights in GS Globe - FIS\n  [Neutral] Buick Gave A Famous Nameplate An Impressive Swansong - CarBuzz\n  [Neutral] Why Goldman Sachs (GS) is a Top Value Stock for the Long-Term - Yahoo! Finance Canada\n  [Risk] Does Goldman's New Macro Playbook Alter the Bull Case for Goldman Sachs Group (GS)? - simplywall.st\n  [Neutral] NBA Power Rankings: The Thunder reign while East teams rise - ESPN\n  [Neutral] Minnesota Submits Bid to Host 2028 NFL Draft - Minnesota Vikings\n  [Neutral] Gile sweeps GS at Highlands in NorAms finals - Aspen Daily News\n  [Neutral] Storm vs. Valkyries (26 Apr, 2026) Live Score - ESPN Philippines\n\n── 2026-03-26 ──\n  [Growth] Deputy PM meets GS Energy leader, encourages renewable investment - Báo VietNamNet\n  [Neutral] Coach G’s Corner: Iowa State - Local 3 News\n  [Neutral] Silva's 40 Points Propel GS Caltex to Playoff Lead - 조선일보\n  [Negative] Eagles Fall To Lumberjacks, 4-2, On Thursday - Georgia Southern University Athletics\n  [Risk] Modi to hold virtual meet with CMs, L-Gs today on W Asia crisis - Tribune India\n  [Growth] CryptoLab Earns Top-Tier GS Certification, Targets Public Sector AI Security Market - 서울경제신문\n  [Neutral] Daheyi, GS, CN Temperature forecast - The Weather Network\n  [Neutral] ABGBLXX Seasonals Chart - TradingView\n  [Neutral] Reviewed: BMW F 450 GS - Carole Nash\n  [Positive] The new Broadband Battery from GS Yuasa Energy Solutions Provides High Performance and Long Life Even in the Hottest Climates - PR Newswire\n  [Positive] Birdie G’s returns: Chef Jeremy Fox to open new flagship at Fairmont Century Plaza - Santa Monica Mirror\n  [Neutral] GS Caltex Secures 100% Final Chance with Silva's Dominance - 조선일보\n  [Neutral] Silva powers GS Caltex to win, clinch championship berth - CHOSUNBIZ - Chosunbiz\n  [Neutral] [Photo] \"Got the first set.\" GS - starnewskorea.com\n  [Neutral] [Photo] \"Cheering GS players.\" - starnewskorea.com\n  [Growth] GS MODULAR to Debut at the 139th Canton Fair, Leading the Future of Modular Buildings - 24-7 Press Release Newswire\n  [Growth] GS Engineering & Construction CEO Advances Physical AI in Construction - 조선일보\n  [Neutral] Warriors 109-106 Nets (26 Mar, 2026) Game Recap - ESPN\n  [Neutral] Warriors 109-106 Nets (26 Mar, 2026) Final Score - ESPN Philippines\n  [Neutral] ABEDOXX Stock Price and Chart — NASDAQ:ABEDOXX - TradingView\n  [Growth] Birdie G’s Will Reopen at Fairmont Century Plaza - lamag.com",
+    "sentiment_block": "총 뉴스 47건 분석 결과:\n  Positive     4건 (  8.5%) █\n  Growth       8건 ( 17.0%) ███\n  Neutral     31건 ( 66.0%) █████████████\n  Mixed        1건 (  2.1%) \n  Risk         2건 (  4.3%) \n  Negative     1건 (  2.1%) \n\n날짜별 감정 흐름:\n  2026-03-24: Neutral:9, Growth:3, Mixed:1\n  2026-03-25: Neutral:10, Positive:2, Risk:1\n  2026-03-26: Neutral:12, Growth:5, Positive:2, Negative:1, Risk:1",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 22  Hold: 29  Sell: 3  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $1100  Low: $604  Consensus: $915.15  Median: $990\n▶ DCF 내재가치\n  DCF: $878.8132286857374  현재가: $N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
+  },
+  "investment_judgment": "# Goldman Sachs Group (GS) 투자 분석 보고서\n\n## [핵심 요약]\n\n최근 3일간 GS 관련 뉴스 47건 분석 결과, 긍정적 신호(Growth 8건, Positive 4건 = 25.5%)가 부정적 신호(Risk 2건, Negative 1건 = 6.4%)를 상당히 상회하고 있습니다. 다만 중립적 뉴스(66%)가 대다수를 차지하며, 현재가 정보 부재로 인한 실질적 평가에 제약이 있습니다.\n\n---\n\n## [전체 흐름 분석]\n\n**3일간의 감정 변화 추세:**\n- **3월 24일**: Growth 신호 시작(3건), 중립적 뉴스 우세(9건)\n- **3월 25일**: Positive 신호 등장(2건), Risk 신호 1건 발생 - 혼합 신호 단계\n- **3월 26일**: Growth 신호 강화(5건), 긍정적 신호 유지(2건) - 긍정 모멘텀 확대\n\n**뉴스 성격 분석:**\nGS 관련 뉴스는 크게 3가지 카테고리로 분류:\n1. **금융/투자 관점 뉴스** (3건): 주가 강세 랠리 후 평가 현황, 매크로 변수 영향 검토\n2. **GS 산하 사업부 실적 뉴스** (8건): GS Energy(재생에너지), GS Yuasa(배터리), GS Engineering(건설), GS Modular(모듈식 건물) 등 긍정적 사업 확장\n3. **스포츠/레스토랑/자동차 등 GS 약자 활용** (36건): 투자 관점과 무관한 노이즈\n\n**의미 있는 신호 분석:**\n- GS Energy의 재생에너지 투자 확대(3월 26일, Growth)\n- GS Yuasa의 고성능 배터리 신제품(3월 26일, Positive)\n- GS Engineering의 AI 기술 적용(3월 26일, Growth)\n- 이들 신사업 활동은 다각화 전략 강화 신호\n\n---\n\n## [긍정 요인]\n\n* **신사업 부문의 성장 모멘텀**: GS Energy의 재생에너지 투자, GS Yuasa의 배터리 신제품 출시, GS Modular의 국제 진출(Canton Fair 참가) 등 다각화 전략이 실질적 성과로 나타남\n\n* **기술 혁신 추진**: GS Engineering이 Physical AI 기술을 건설 분야에 도입하는 등 미래 산업으로의 전환 노력 확인\n\n* **애널리스트 긍정 평가**: 22건의 Buy 등급이 29건의 Hold를 뒷받침하며, Sell 3건으로 제한적 - 전반적으로 강한 매수 심리 유지\n\n* **목표주가와 DCF 내재가치의 괴리**: 컨센서스 $915.15 vs DCF $878.81로 상향 모멘텀 암시\n\n---\n\n## [부정 요인]\n\n* **현재가 정보 부재**: 투자 판단의 핵심인 현재가가 \"N/A\"로 표기되어 절대 평가 불가능 - 밸류에이션 판단 어려움\n\n* **금융 부문 거시변수 우려**: \"Goldman's New Macro Playbook\" 검토 뉴스와 Risk 등급 표기로 글로벌 경제 변수에 따른 금융주 변동성 시사\n\n* **제한적 비판적 신호**: Risk 2건, Negative 1건으로 소수이나, 강세 랠리 후 평가 시점의 우려(simplywall.st \"Is It Too Late To Consider...\") 반영\n\n* **밸류에이션 정보 부족**: P/E, P/B, EV/EBITDA, ROE 모두 \"N/A\" - 상대 평가 기준 제시 불가\n\n---\n\n## [투자 인사이트]\n\n1. **포트폴리오 다각화 성공 신호**: 전통 투자은행 수익성에만 의존하지 않고, 재생에너지, 배터리, 첨단 건설 기술 등 미래 산업 진입으로 장기 성장성 강화 중\n\n2. **강세장 국면의 평가 신중**: 현재 주가 강세장(Multi-Year Rally) 이후 진입 시점이라는 점에서 수익 실현과 신규 매수의 균형점 필요\n\n3. **데이터 품질 이슈**: 47개 뉴스 중 36개(76.6%)가 GS 약자의 무관한 내용(스포츠, 음식점, 자동차)이므로,"
+}

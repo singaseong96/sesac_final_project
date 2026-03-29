@@ -1,0 +1,381 @@
+{
+  "meta": {
+    "symbol": "MSFT",
+    "analysis_date": "2026-03-29T00:16:38.423428+00:00",
+    "news_period": "2026-03-24 ~ 2026-03-26",
+    "news_count": 56,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Neutral": 19,
+    "Risk": 14,
+    "Growth": 9,
+    "Mixed": 8,
+    "Negative": 5,
+    "Positive": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-24": {
+      "Risk": 3,
+      "Mixed": 3,
+      "Growth": 1
+    },
+    "2026-03-25": {
+      "Growth": 5,
+      "Risk": 4,
+      "Mixed": 2,
+      "Positive": 1
+    },
+    "2026-03-26": {
+      "Neutral": 19,
+      "Risk": 7,
+      "Negative": 5,
+      "Growth": 3,
+      "Mixed": 3
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-26 21:45:04",
+      "title": "Microsoft (MSFT) Stock Moves -1.37%: What You Should Know - Yahoo! Finance Canada",
+      "url": "https://ca.finance.yahoo.com/news/microsoft-msft-stock-moves-1-214504710.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 21:25:26",
+      "title": "Microsoft (MSFT) Stock Drops 30% From Highs — But Cramer Stays Bullish - MEXC",
+      "url": "https://www.mexc.com/news/984978",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 21:18:54",
+      "title": "Microsoft (MSFT) Stock Plunges 32% from Peak — Has It Hit Bottom? - MEXC",
+      "url": "https://www.mexc.com/news/984100",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 21:06:52",
+      "title": "Microsoft (MSFT) Stock Plunges 32% as AI Copilot Struggles Disappoint Wall Street - MEXC",
+      "url": "https://www.mexc.com/news/984885",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-26 21:03:24",
+      "title": "Microsoft (MSFT) Stock; Dips Slightly as Copilot Frontier Strategy Targets Korean Firms - MEXC",
+      "url": "https://www.mexc.com/news/983369",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-26 20:59:53",
+      "title": "Microsoft (NASDAQ:MSFT) Trading Down 1.4% on Analyst Downgrade - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/microsoft-nasdaqmsft-trading-down-14-on-analyst-downgrade-2026-03-26/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 19:22:37",
+      "title": "Alphabet Relies on AI to Boost Search Growth: More Upside Ahead? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/990004/alphabet-relies-on-ai-to-boost-search-growth-more-upside-ahead/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-26 19:06:32",
+      "title": "Microsoft (MSFT) Stock Plunges 32% as AI Copilot Struggles Disappoint Wall Street - Blockonomi",
+      "url": "https://blockonomi.com/microsoft-msft-stock-plunges-32-as-ai-copilot-struggles-disappoint-wall-street/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-26 18:17:10",
+      "title": "Microsoft Stock Gains After Revamping HR Department - TradingView",
+      "url": "https://www.tradingview.com/news/gurufocus:e6b5cb28d094b:0-microsoft-stock-gains-after-revamping-hr-department/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 17:44:14",
+      "title": "Microsoft freezes hiring in major cloud, sales groups, The Information reports - TradingView",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N40E1HM:0-microsoft-freezes-hiring-in-major-cloud-sales-groups-the-information-reports/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-26 17:39:37",
+      "title": "Microsoft Just Made A Move Most Investors Will Miss - TradingView",
+      "url": "https://www.tradingview.com/news/gurufocus:5acc171dc094b:0-microsoft-just-made-a-move-most-investors-will-miss/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 17:01:00",
+      "title": "What's Going On With Microsoft Stock Thursday? - Microsoft (NASDAQ:MSFT) - Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/03/51489419/microsoft-opens-new-datacenter-region-in-denmark",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 15:54:33",
+      "title": "Alphabet and Amazon Are Quietly Winning the Artificial Intelligence (AI) Race While Microsoft Stumbles. Should You Buy Either Stock Right Now? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/987144/alphabet-and-amazon-are-quietly-winning-the-artificial-intelligence-ai-race-while-microsoft-stumbles-should-you-buy-either-stock-right-now/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-26 15:51:00",
+      "title": "Microsoft and NVIDIA's AI-Nuclear Play: ETFs That May Gain - TradingView",
+      "url": "https://www.tradingview.com/news/zacks:d4ff44044094b:0-microsoft-and-nvidia-s-ai-nuclear-play-etfs-that-may-gain/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-26 14:22:48",
+      "title": "Microsoft (MSFT) Stock Falls 32% from All Time-High — Is the Worst Over? - CoinCentral",
+      "url": "https://coincentral.com/microsoft-msft-stock-falls-32-from-all-time-high-is-the-worst-over/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-26 13:14:23",
+      "title": "Did New AI Partnerships and OpenAI Reliance Just Shift Microsoft's (MSFT) Investment Narrative? - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-msft/microsoft/news/did-new-ai-partnerships-and-openai-reliance-just-shift-micro",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-26 12:10:44",
+      "title": "Microsoft (MSFT) Up or Down on March 27? Trading Odds & Predictions (Mar. 27, 2026) - Polymarket",
+      "url": "https://polymarket.com/event/msft-up-or-down-on-march-27-2026",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 11:55:00",
+      "title": "Microsoft Is Having Its Worst Start to a Year Since 2008. Is That a Red Flag or a Once-in-a-Decade Buying Opportunity? - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/26/microsoft-is-having-its-worst-start-to-year-since/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 11:34:00",
+      "title": "$Microsoft (MSFT.US)$[Grin] - Moomoo",
+      "url": "https://www.moomoo.com/community/feed/microsoft-msft-us-116297326526470?chain_id=Name1K9-3FXPhg.1ksbb30&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A109%2C%22f%22%3A%22www.moomoo.com%2Fsectors%2FQuantum-Computing-BK2594%22%7D",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 11:21:37",
+      "title": "Microsoft Is Having Its Worst Start to a Year Since 2008. Is That a Red Flag or a Once-in-a-Decade Buying Opportunity? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/976364/microsoft-is-having-its-worst-start-to-a-year-since-2008-is-that-a-red-flag-or-a-once-in-a-decade-buying-opportunity/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-26 09:55:46",
+      "title": "Microsoft Corporation $MSFT Shares Bought by Procyon Advisors LLC - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-shares-bought-by-procyon-advisors-llc-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 09:53:53",
+      "title": "Magnus Financial Group LLC Has $16.07 Million Stock Holdings in Microsoft Corporation $MSFT - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-magnus-financial-group-llc-has-1607-million-stock-holdings-in-microsoft-corporation-msft-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 09:53:51",
+      "title": "Microsoft Corporation $MSFT Position Raised by New England Research & Management Inc. - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-position-raised-by-new-england-research-management-inc-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 09:33:46",
+      "title": "Microsoft Corporation $MSFT is Harbor Investment Advisory LLC's 3rd Largest Position - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-is-harbor-investment-advisory-llcs-3rd-largest-position-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 09:33:46",
+      "title": "MassMutual Private Wealth & Trust FSB Reduces Stake in Microsoft Corporation $MSFT - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-massmutual-private-wealth-trust-fsb-reduces-stake-in-microsoft-corporation-msft-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 09:33:46",
+      "title": "Henrickson Nauta Wealth Advisors Inc. Buys 2,595 Shares of Microsoft Corporation $MSFT - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-henrickson-nauta-wealth-advisors-inc-buys-2595-shares-of-microsoft-corporation-msft-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 09:33:46",
+      "title": "Microsoft Corporation $MSFT Shares Sold by Tealwood Asset Management Inc. - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-shares-sold-by-tealwood-asset-management-inc-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 09:33:45",
+      "title": "Microsoft Corporation $MSFT Stock Position Lessened by VERITY Wealth Advisors - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-stock-position-lessened-by-verity-wealth-advisors-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 08:33:38",
+      "title": "$Microsoft (MSFT.US)$ 365 suite coming? - Moomoo",
+      "url": "https://www.moomoo.com/community/feed/microsoft-msft-us-365-suite-coming-116294550683654?chain_id=Name1K9-3FXPhg.1ks9tcg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FMSFT-CA%22%7D",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 07:48:52",
+      "title": "Everpar Advisors LLC Purchases 1,411 Shares of Microsoft Corporation $MSFT - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-everpar-advisors-llc-purchases-1411-shares-of-microsoft-corporation-msft-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 07:48:52",
+      "title": "Cyndeo Wealth Partners LLC Purchases 5,355 Shares of Microsoft Corporation $MSFT - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cyndeo-wealth-partners-llc-purchases-5355-shares-of-microsoft-corporation-msft-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 07:48:51",
+      "title": "Microsoft Corporation $MSFT Stock Position Increased by CWA Asset Management Group LLC - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-stock-position-increased-by-cwa-asset-management-group-llc-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 07:22:45",
+      "title": "24,421 Shares in Microsoft Corporation $MSFT Acquired by Aventura Private Wealth LLC - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-24421-shares-in-microsoft-corporation-msft-acquired-by-aventura-private-wealth-llc-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 06:40:00",
+      "title": "MSFT: Microsoft Stock Slumps 33% from Record. Big Support Looms at $369. - TradingView",
+      "url": "https://www.tradingview.com/news/tradingview:491702b3c094b:0-msft-microsoft-stock-slumps-33-from-record-big-support-looms-at-369/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-26 05:05:36",
+      "title": "Microsoft (MSFT) Stock; Falls as AI Spending Concerns Worry Investors - MEXC",
+      "url": "https://www.mexc.com/news/980051",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 04:23:58",
+      "title": "MSFT Stock Today: Essex Police Teams Misuse Puts Gov SaaS in Focus March 26 - Meyka",
+      "url": "https://meyka.com/blog/msft-stock-today-essex-police-teams-misuse-puts-gov-saas-in-focus-march-26-2603/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 02:07:34",
+      "title": "UBS Group: Microsoft (MSFT.US) office software outlook needs improvement to boost stock price; target price downgraded to $510. - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67430887/ubs-group-microsoft-msftus-office-software-outlook-needs-improvement-to?level=1&data_ticket=1774573993196744",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-25 22:00:00",
+      "title": "2 AI Stocks Down 20% or More That Are Screaming Buys - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/25/2-ai-stocks-down-20-or-more-that-are-screaming-buy/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-25 20:51:13",
+      "title": "Will Microsoft (MSFT) finish week of March 23 above___? Trading Odds & Predictions - Polymarket",
+      "url": "https://polymarket.com/event/msft-above-on-march-27-2026",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-25 16:30:00",
+      "title": "Is Microsoft Stock a Buy Right Now? Here's What the Data Says. - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/25/is-microsoft-stock-a-buy-right-now-heres-what-the/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-25 15:38:00",
+      "title": "Why Microsoft (MSFT) Stock Is Ripe for a Turnaround - TradingView",
+      "url": "https://www.tradingview.com/news/zacks:186038027094b:0-why-microsoft-msft-stock-is-ripe-for-a-turnaround/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-25 15:15:43",
+      "title": "Is Microsoft Stock Poised for a Rally? - Trefis",
+      "url": "https://www.trefis.com/stock/msft/articles2/594697/is-microsoft-stock-poised-for-a-rally-2/2026-03-25",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-25 15:10:25",
+      "title": "Microsoft (MSFT) Declines Amid Investor Concerns Over Guidance and Capital Expenditure Intensity - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-declines-amid-investor-151025673.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-25 14:50:42",
+      "title": "4 Consumer Favorites Look Oversold Right Now: Disney, McDonald’s and More - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/03/25/4-consumer-favorites-look-oversold-right-now-disney-mcdonalds-and-more/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-25 13:00:28",
+      "title": "Microsoft Stock Today (MSFT): $372.74 Price, Analysis & Outlook | March 2026 - techi.com",
+      "url": "https://www.techi.com/microsoft-stock-today/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-25 10:44:00",
+      "title": "Analysts Offer Insights on Technology Companies: IBIDEN CO (OtherIBIDF) and Microsoft (MSFT) - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/939090/analysts-offer-insights-on-technology-companies-ibiden-co-otheribidf-and-microsoft-msft/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-25 10:13:09",
+      "title": "Microsoft Reorganization Highlights OpenAI Reliance Copilot Challenges And AI CapEx Risks - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-msft/microsoft/news/microsoft-reorganization-highlights-openai-reliance-copilot",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-25 08:34:04",
+      "title": "Microsoft (MSFT) Stock; Falls as AI Spending Concerns Worry Investors - CoinCentral",
+      "url": "https://coincentral.com/microsoft-msft-stock-falls-ai-spending-concerns/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-25 04:30:00",
+      "title": "Is Microsoft a Drop-Dead Bargain? 1 Wall Street Analyst Thinks So - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/24/is-microsoft-a-drop-dead-bargain-1-wall-street-ana/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-24 22:32:00",
+      "title": "Microsoft’s Next AI Leg: Can MSFT Still Outperform From Here? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-next-ai-leg-msft-223200882.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-24 19:52:00",
+      "title": "Microsoft Hits New Low Amid Weak Outlook; Is The Stock A Buy Or Sell Now? - Investor's Business Daily",
+      "url": "https://www.investors.com/research/microsoft-msft-stock-ai-software/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-24 18:43:10",
+      "title": "Microsoft Slips as OpenAI Bet Starts to Worry Investors - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/03/24/microsoft-slips-as-openai-bet-starts-to-worry-investors/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-24 18:18:23",
+      "title": "Jim Cramer Says Microsoft (MSFT) Is an ‘Elite’ AI Stock to Buy – Here’s Why - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-microsoft-msft-181823185.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-24 16:36:14",
+      "title": "Why Microsoft stock crashes today? MSFT stock falls 2.75% – Why BofA still gives a Buy signal despite AI s - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-microsoft-stock-crashes-today-msft-stock-falls-2-75-today-why-bofa-still-gives-a-buy-signal-despite-ai-spending-fears/articleshow/129781704.cms?from=mdr",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-24 14:03:00",
+      "title": "Microsoft Stock (MSFT) Opinions on OpenAI IPO Reliance Disclosure - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Microsoft+Stock+%28MSFT%29+Opinions+on+OpenAI+IPO+Reliance+Disclosure",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-24 07:00:00",
+      "title": "Is Microsoft a Buy, Sell, or Hold After Its Massive Drop in 2026? - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/25/is-microsoft-a-buy-sell-or-hold-after-its-massive/",
+      "sentiment": "Mixed"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-24 ──\n  [Risk] Microsoft’s Next AI Leg: Can MSFT Still Outperform From Here? - Yahoo Finance\n  [Risk] Microsoft Hits New Low Amid Weak Outlook; Is The Stock A Buy Or Sell Now? - Investor's Business Daily\n  [Mixed] Microsoft Slips as OpenAI Bet Starts to Worry Investors - 24/7 Wall St.\n  [Growth] Jim Cramer Says Microsoft (MSFT) Is an ‘Elite’ AI Stock to Buy – Here’s Why - Yahoo Finance\n  [Mixed] Why Microsoft stock crashes today? MSFT stock falls 2.75% – Why BofA still gives a Buy signal despite AI s - The Economic Times\n  [Risk] Microsoft Stock (MSFT) Opinions on OpenAI IPO Reliance Disclosure - Quiver Quantitative\n  [Mixed] Is Microsoft a Buy, Sell, or Hold After Its Massive Drop in 2026? - The Motley Fool\n\n── 2026-03-25 ──\n  [Growth] 2 AI Stocks Down 20% or More That Are Screaming Buys - The Motley Fool\n  [Growth] Will Microsoft (MSFT) finish week of March 23 above___? Trading Odds & Predictions - Polymarket\n  [Risk] Is Microsoft Stock a Buy Right Now? Here's What the Data Says. - The Motley Fool\n  [Growth] Why Microsoft (MSFT) Stock Is Ripe for a Turnaround - TradingView\n  [Growth] Is Microsoft Stock Poised for a Rally? - Trefis\n  [Risk] Microsoft (MSFT) Declines Amid Investor Concerns Over Guidance and Capital Expenditure Intensity - Yahoo Finance\n  [Mixed] 4 Consumer Favorites Look Oversold Right Now: Disney, McDonald’s and More - 24/7 Wall St.\n  [Risk] Microsoft Stock Today (MSFT): $372.74 Price, Analysis & Outlook | March 2026 - techi.com\n  [Positive] Analysts Offer Insights on Technology Companies: IBIDEN CO (OtherIBIDF) and Microsoft (MSFT) - The Globe and Mail\n  [Mixed] Microsoft Reorganization Highlights OpenAI Reliance Copilot Challenges And AI CapEx Risks - simplywall.st\n  [Risk] Microsoft (MSFT) Stock; Falls as AI Spending Concerns Worry Investors - CoinCentral\n  [Growth] Is Microsoft a Drop-Dead Bargain? 1 Wall Street Analyst Thinks So - The Motley Fool\n\n── 2026-03-26 ──\n  [Neutral] Microsoft (MSFT) Stock Moves -1.37%: What You Should Know - Yahoo! Finance Canada\n  [Risk] Microsoft (MSFT) Stock Drops 30% From Highs — But Cramer Stays Bullish - MEXC\n  [Risk] Microsoft (MSFT) Stock Plunges 32% from Peak — Has It Hit Bottom? - MEXC\n  [Negative] Microsoft (MSFT) Stock Plunges 32% as AI Copilot Struggles Disappoint Wall Street - MEXC\n  [Growth] Microsoft (MSFT) Stock; Dips Slightly as Copilot Frontier Strategy Targets Korean Firms - MEXC\n  [Risk] Microsoft (NASDAQ:MSFT) Trading Down 1.4% on Analyst Downgrade - MarketBeat\n  [Growth] Alphabet Relies on AI to Boost Search Growth: More Upside Ahead? - The Globe and Mail\n  [Negative] Microsoft (MSFT) Stock Plunges 32% as AI Copilot Struggles Disappoint Wall Street - Blockonomi\n  [Neutral] Microsoft Stock Gains After Revamping HR Department - TradingView\n  [Negative] Microsoft freezes hiring in major cloud, sales groups, The Information reports - TradingView\n  [Neutral] Microsoft Just Made A Move Most Investors Will Miss - TradingView\n  [Neutral] What's Going On With Microsoft Stock Thursday? - Microsoft (NASDAQ:MSFT) - Benzinga\n  [Mixed] Alphabet and Amazon Are Quietly Winning the Artificial Intelligence (AI) Race While Microsoft Stumbles. Should You Buy Either Stock Right Now? - The Globe and Mail\n  [Growth] Microsoft and NVIDIA's AI-Nuclear Play: ETFs That May Gain - TradingView\n  [Negative] Microsoft (MSFT) Stock Falls 32% from All Time-High — Is the Worst Over? - CoinCentral\n  [Mixed] Did New AI Partnerships and OpenAI Reliance Just Shift Microsoft's (MSFT) Investment Narrative? - simplywall.st\n  [Neutral] Microsoft (MSFT) Up or Down on March 27? Trading Odds & Predictions (Mar. 27, 2026) - Polymarket\n  [Risk] Microsoft Is Having Its Worst Start to a Year Since 2008. Is That a Red Flag or a Once-in-a-Decade Buying Opportunity? - The Motley Fool\n  [Neutral] $Microsoft (MSFT.US)$[Grin] - Moomoo\n  [Mixed] Microsoft Is Having Its Worst Start to a Year Since 2008. Is That a Red Flag or a Once-in-a-Decade Buying Opportunity? - The Globe and Mail\n  [Neutral] Microsoft Corporation $MSFT Shares Bought by Procyon Advisors LLC - MarketBeat\n  [Neutral] Magnus Financial Group LLC Has $16.07 Million Stock Holdings in Microsoft Corporation $MSFT - MarketBeat\n  [Neutral] Microsoft Corporation $MSFT Position Raised by New England Research & Management Inc. - MarketBeat\n  [Neutral] Microsoft Corporation $MSFT is Harbor Investment Advisory LLC's 3rd Largest Position - MarketBeat\n  [Neutral] MassMutual Private Wealth & Trust FSB Reduces Stake in Microsoft Corporation $MSFT - MarketBeat\n  [Neutral] Henrickson Nauta Wealth Advisors Inc. Buys 2,595 Shares of Microsoft Corporation $MSFT - MarketBeat\n  [Neutral] Microsoft Corporation $MSFT Shares Sold by Tealwood Asset Management Inc. - MarketBeat\n  [Neutral] Microsoft Corporation $MSFT Stock Position Lessened by VERITY Wealth Advisors - MarketBeat\n  [Neutral] $Microsoft (MSFT.US)$ 365 suite coming? - Moomoo\n  [Neutral] Everpar Advisors LLC Purchases 1,411 Shares of Microsoft Corporation $MSFT - MarketBeat\n  [Neutral] Cyndeo Wealth Partners LLC Purchases 5,355 Shares of Microsoft Corporation $MSFT - MarketBeat\n  [Neutral] Microsoft Corporation $MSFT Stock Position Increased by CWA Asset Management Group LLC - MarketBeat\n  [Neutral] 24,421 Shares in Microsoft Corporation $MSFT Acquired by Aventura Private Wealth LLC - MarketBeat\n  [Negative] MSFT: Microsoft Stock Slumps 33% from Record. Big Support Looms at $369. - TradingView\n  [Risk] Microsoft (MSFT) Stock; Falls as AI Spending Concerns Worry Investors - MEXC\n  [Risk] MSFT Stock Today: Essex Police Teams Misuse Puts Gov SaaS in Focus March 26 - Meyka\n  [Risk] UBS Group: Microsoft (MSFT.US) office software outlook needs improvement to boost stock price; target price downgraded to $510. - Moomoo",
+    "sentiment_block": "총 뉴스 56건 분석 결과:\n  Positive     1건 (  1.8%) \n  Growth       9건 ( 16.1%) ███\n  Neutral     19건 ( 33.9%) ██████\n  Mixed        8건 ( 14.3%) ██\n  Risk        14건 ( 25.0%) █████\n  Negative     5건 (  8.9%) █\n\n날짜별 감정 흐름:\n  2026-03-24: Risk:3, Mixed:3, Growth:1\n  2026-03-25: Growth:5, Risk:4, Mixed:2, Positive:1\n  2026-03-26: Neutral:19, Risk:7, Negative:5, Growth:3, Mixed:3",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 62  Hold: 16  Sell: 0  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $675  Low: $392  Consensus: $583.67  Median: $600\n▶ DCF 내재가치\n  DCF: $321.67465848211185  현재가: $N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
+  },
+  "investment_judgment": "# Microsoft (MSFT) 투자 분석 보고서\n\n## [핵심 요약]\n\n* **급락장 진입**: 3월 24-26일 3일간 32-33% 낙폭 기록, 2008년 이후 최악의 연초 실적\n* **AI 전략 실패 우려**: OpenAI 의존도 높아지면서 Copilot 성능 부진이 투자자 신뢰 훼손\n* **높은 자본지출 부담**: AI 인프라 투자 강도에 대한 수익성 의문 제기\n* **채용 동결**: 클라우드·영업 부서 대규모 인력 감축 소식으로 전망 약세 심화\n\n---\n\n## [전체 흐름 분석]\n\n**3월 24일**: 초기 약세 신호 (Risk 3건, Mixed 3건)\n- 약한 전망과 OpenAI 의존도 문제로 인한 주가 2.75% 하락 시작\n- 엘리트 AI 종목이라는 긍정 평가도 있으나 소수 의견\n\n**3월 25일**: 분석가 의견 양분 (Growth 5건, Risk 4건)\n- \"저가 매수 기회\" vs \"자본지출·가이던스 우려\" 상충하는 평가\n- 여전히 상승 관점의 분석가 존재\n\n**3월 26일**: 급락 심화 및 시장 신뢰 붕괴 (Neutral 19건, Risk 7건, Negative 5건)\n- 32% 낙폭 확대, 시장의 중립적 반응으로 변화 (감정 분석이 Neutral 집중)\n- Copilot 실패 보도, 채용 동결 발표로 구조적 문제 대두\n- **애널리스트는 여전히 매수(Buy 62건) 추천하지만 현실과 괴리**\n\n**핵심 상충**: 애널리스트 목표가(컨센서스 $583.67)는 현재가대비 매력적이나, 시장은 AI 전략 실패와 높은 CapEx의 ROI 부재를 이유로 매도 중\n\n---\n\n## [긍정 요인]\n\n* **가치 회복 논리**: 컨센서스 목표가 $583.67 vs 현재가 $372.74는 56% 상승 여력 시사\n* **매수 의견 압도적**: 애널리스트 62건 매수 평가 (Sell 0건)\n* **기관 수급 움직임**: 3월 26일 다수 자산운용사의 신규/증액 매수 기록 (Procyon Advisors, Henrickson Nauta Wealth Advisors, Cyndeo Wealth Partners 등)\n* **저가 매수 기회론**: \"30년 만의 저가\" \"바닥일 가능성\" 등 역발상 매수 의견 다수\n* **핵심 사업 건재**: 클라우드 & Office 365 등 기존 수익원은 여전히 유효\n\n---\n\n## [부정 요인]\n\n* **AI 전략 구조적 실패**: Copilot 성능 미흡, OpenAI 과도 의존으로 차별성 상실\n  - 경쟁사(Google, Amazon) 대비 AI 경쟁력 약화 인식\n* **지속 불가능한 CapEx**: AI 인프라 투자 규모 > 예상 수익 창출, ROI 의문\n  - UBS 등 분석기관도 수익성 개선 필요 지적\n* **전망 악화 신호들**:\n  - 채용 동결 (클라우드, 영업 부서) → 성장성 약화 우려\n  - 약한 가이던스 공시\n  - HR 부서 개편 등 조직 구조 조정\n* **2008년 이후 최악의 연초 실적**: 3일 만에 32% 급락은 투자자 신뢰 회복 어려움\n* **밸류에이션 불일치**: DCF 내재가치 $321.67은 현재가보다 낮음 (추가 하락 가능성)\n* **시장 심리 악화**: 뉴스 감정이 Positive 1건 → Negative 5건으로 급격한 악화\n\n---\n\n## [투자 인사이트]\n\n**가치함정 vs 진정한 구조적 위기**\n- 애널리스트는 과거 실적 기반 \"저평가\" 평가를 유지 중\n- 그러나 시장은 **AI 시대 Microsoft의 경쟁력 약화**를 선제적으로 반영 중\n- 금리 인상 국면에서 높은 CapEx 부담은 신성장 가치주보다 가치주 특성\n\n**기관 투자자의 이중성**\n- 매도 압력 속에서도 소수 기관의 매수 지속 (차익 매수 vs 손절"
+}
