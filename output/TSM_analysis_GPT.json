@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "symbol": "TSM",
+    "analysis_date": "2026-03-29T04:45:05.291839+00:00",
+    "news_period": "2026-03-26 ~ 2026-03-28",
+    "news_count": 17,
+    "model": "gpt-5.4-nano"
+  },
+  "sentiment_summary": {
+    "Neutral": 10,
+    "Growth": 3,
+    "Risk": 2,
+    "Negative": 1,
+    "Positive": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-26": {
+      "Neutral": 4,
+      "Risk": 1,
+      "Growth": 1
+    },
+    "2026-03-27": {
+      "Growth": 2,
+      "Neutral": 2,
+      "Negative": 1,
+      "Positive": 1
+    },
+    "2026-03-28": {
+      "Neutral": 4,
+      "Risk": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-28 15:18:40",
+      "title": "대만 반도체(TSM), 타이트한 생산능력 조건 속에서도 강세 지속 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/taiwan-semiconductor-tsm-going-strong-151840195.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-28 08:41:19",
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식, Generali Investments CEE investicni spolecnost a.s.가 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-generali-investments-cee-investicni-spolecnost-as-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 08:38:02",
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM 포지션, Eagle Rock Investment Company LLC가 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-position-lifted-by-eagle-rock-investment-company-llc-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 08:19:17",
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식, Generate Investment Management Ltd가 매입 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-acquired-by-generate-investment-management-ltd-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 03:42:06",
+      "title": "¡TSM에서의 비, 열정 그리고 축구! 🌧⚽ | Santos Laguna 대 Toluca. [8b0a94] - fathomjournal.org",
+      "url": "https://fathomjournal.org/068cdce2smm/3d188a7f-djoLJZufFV4.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 17:08:06",
+      "title": "최근 조정과 상충하는 적정가치 신호 이후 대만반도체(TSM) 밸류에이션 점검 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-taiwan-semiconductor-nyse-tsm-170806521.html",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-27 15:49:45",
+      "title": "강한 AI 칩 수요에 힘입어 대만반도체제조(TSM) 급등 - insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/taiwan-semiconductor-manufacturing-tsm-soared-on-strong-ai-chip-demand-1726013/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 13:42:00",
+      "title": "TSM의 공격적인 설비투자 계획이 파운드리 지배력을 강화할까? - TradingView",
+      "url": "https://www.tradingview.com/news/zacks:5b2a732e5094b:0-will-tsm-s-aggressive-capex-plan-strengthen-its-foundry-dominance/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 12:06:14",
+      "title": "대만반도체제조유한회사(TSM) 주식, Well Done LLC가 매입 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-acquired-by-well-done-llc-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 07:15:06",
+      "title": "Argentarii LLC, 대만반도체제조유한회사(TSM) 주식 2,792주 매입 - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/27/argentarii-llc-buys-shares-of-2792-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 06:34:55",
+      "title": "TSM Roofing, 새 피닉스 본사로 확장 - National Today",
+      "url": "https://nationaltoday.com/us/az/prescott/news/2026/03/27/tsm-roofing-expands-with-new-phoenix-headquarters/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-26 21:25:57",
+      "title": "Taiwan Semiconductor Manufacturing(NYSE:TSM) 주가 6.3% 하락 - 지금 매도할 때인가? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/taiwan-semiconductor-manufacturing-nysetsm-stock-price-down-63-time-to-sell-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 14:15:59",
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd 주식(TSM), 3월 26일 3.50% 하락: 하락 배경 분석 - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261723779-market-movers-tsm-20260326",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 11:24:16",
+      "title": "Paragon Advisors LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 비중 축소 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-paragon-advisors-llc-trims-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 11:02:22",
+      "title": "HWG Holdings LP, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-hwg-holdings-lp-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 09:17:23",
+      "title": "머스크의 Terafab 계획, TSMC의 AI 칩 역할을 부각시켜 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/musks-terafab-plan-puts-tsmcs-ai-chip-role-in-focus/amp",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-26 08:20:55",
+      "title": "DAVENPORT & Co LLC, Taiwan Semiconductor Manufacturing Company Ltd. 주식 1,815주 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-davenport-co-llc-sells-1815-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-26/",
+      "sentiment": "Neutral"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-26 ──\n  [Neutral] Taiwan Semiconductor Manufacturing(NYSE:TSM) 주가 6.3% 하락 - 지금 매도할 때인가? - MarketBeat\n  [Risk] Taiwan Semiconductor Manufacturing Co Ltd 주식(TSM), 3월 26일 3.50% 하락: 하락 배경 분석 - TradingKey\n  [Neutral] Paragon Advisors LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 비중 축소 - MarketBeat\n  [Neutral] HWG Holdings LP, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 매도 - MarketBeat\n  [Growth] 머스크의 Terafab 계획, TSMC의 AI 칩 역할을 부각시켜 - simplywall.st\n  [Neutral] DAVENPORT & Co LLC, Taiwan Semiconductor Manufacturing Company Ltd. 주식 1,815주 매도 - MarketBeat\n\n── 2026-03-27 ──\n  [Negative] 최근 조정과 상충하는 적정가치 신호 이후 대만반도체(TSM) 밸류에이션 점검 - Yahoo Finance\n  [Growth] 강한 AI 칩 수요에 힘입어 대만반도체제조(TSM) 급등 - insidermonkey.com\n  [Growth] TSM의 공격적인 설비투자 계획이 파운드리 지배력을 강화할까? - TradingView\n  [Neutral] 대만반도체제조유한회사(TSM) 주식, Well Done LLC가 매입 - MarketBeat\n  [Neutral] Argentarii LLC, 대만반도체제조유한회사(TSM) 주식 2,792주 매입 - Defense World\n  [Positive] TSM Roofing, 새 피닉스 본사로 확장 - National Today\n\n── 2026-03-28 ──\n  [Risk] 대만 반도체(TSM), 타이트한 생산능력 조건 속에서도 강세 지속 - Yahoo Finance\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식, Generali Investments CEE investicni spolecnost a.s.가 매도 - MarketBeat\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM 포지션, Eagle Rock Investment Company LLC가 확대 - MarketBeat\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식, Generate Investment Management Ltd가 매입 - MarketBeat\n  [Neutral] ¡TSM에서의 비, 열정 그리고 축구! 🌧⚽ | Santos Laguna 대 Toluca. [8b0a94] - fathomjournal.org",
+    "sentiment_block": "총 뉴스 17건 분석 결과:\n  Positive     1건 (  5.9%) █\n  Growth       3건 ( 17.6%) ███\n  Neutral     10건 ( 58.8%) ███████████\n  Mixed        0건 (  0.0%) \n  Risk         2건 ( 11.8%) ██\n  Negative     1건 (  5.9%) █\n\n날짜별 감정 흐름:\n  2026-03-26: Neutral:4, Risk:1, Growth:1\n  2026-03-27: Growth:2, Neutral:2, Negative:1, Positive:1\n  2026-03-28: Neutral:4, Risk:1",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 16  Hold: 7  Sell: 0  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $450  Low: $330  Consensus: $408  Median: $410\n▶ 실적 추정치 (2029-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $154.97456631073626  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B+  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
+  },
+  "investment_judgment": "[핵심 요약]\n* 최근 3일간 TSM은 **AI 칩 수요 기대(급등/수요 강세)**와 **공격적 설비투자(파운드리 지배력 강화 가능성)**가 긍정적으로 작용\n* 동시에 **3월 26일 하락(3.5~6.3% 하락 언급)**, **밸류에이션 점검/조정 신호(적정가치 관련 경고)**, **타이트한 생산능력 조건 속 강세 지속(공급 제약 리스크)**이 함께 관측\n* 종합적으로 애널리스트 컨센서스는 **Buy 우위(16 Buy, 7 Hold, Sell 없음)**지만, 단기 변동성/밸류에이션 민감도가 커진 흐름\n\n[전체 흐름 분석]\n* **3/26:** 주가가 하락하며 단기 조정 압력이 먼저 나타남(여러 기사에서 “하락 배경 분석”, “매도할 때인가” 톤).\n* **3/27:** 이후 AI 수요 기대와 관련 이슈(“AI 칩 역할”, “강한 AI 칩 수요로 급등”)가 재차 강하게 반영되며 회복/상승 흐름이 나타남.\n* **3/28:** 공급/생산능력 제약(“타이트한 생산능력 조건 속에서도 강세”)이 거론되며, 상승은 유지되지만 **공급 제약이 기대를 제한할 수 있는 프레임**이 함께 존재.\n\n[긍정 요인]\n* **AI 칩 수요 드라이브(성장 뉴스 3건):** AI 칩 수요가 TSM의 실적 기대를 지지하는 서사로 반복 등장.\n* **설비투자/생산능력 강화 기대:** 공격적 설비투자 계획이 파운드리 지배력 강화로 연결될 수 있다는 관점이 제시됨.\n* **기관/포지션 변화는 혼재:** 일부는 보유 축소/매도(Neutral)도 있으나, 다른 기사들에서는 매입/포지션 확대(Neutral)가 동시 존재 → “완전한 부정 전환”보다는 **재조정 성격**에 가까움.\n\n[부정 요인]\n* **단기 조정 흔적(하락 기사 다수):** 3/26에 3.50~6.3% 하락이 언급되며, 시장이 기대 대비/밸류에이션 민감하게 반응했음을 시사.\n* **밸류에이션 점검 신호(Neutral~Negative 톤):** “적정가치 신호 이후 점검” 류의 언급이 있어, 상승의 지속성에 대해 시장이 경계하는 구간이 존재.\n* **공급능력 제약 리스크:** “타이트한 생산능력 조건 속에서도 강세”는 결국 **공급 제약이 단기 성과/성장 가시성을 제한**할 수 있음을 포함.\n\n[투자 인사이트]\n* 이번 3일 흐름의 핵심은 **“AI 수요 기대(상방 재료) vs 단기 밸류에이션/공급 제약(상방의 속도 제한)”의 충돌**입니다.  \n* 따라서 투자 접근은 단순 매수/매도가 아니라,\n  * **(1) AI 모멘텀이 반영되는 구간에서는 분할 접근**,  \n  * **(2) 밸류에이션 점검/조정 신호가 재부각될 경우 추가 매수 타이밍을 기다리는** 전략이 유리합니다.\n* 애널리스트 의견이 **Sell 0, Buy 16 + Hold 7**로 “장기 관점의 방향성은 대체로 우호적”이지만, 최근 단기 하락과 밸류에이션 경고가 있어 **단기 변동성(가격 조정 가능성)**을 감안해야 합니다.\n\n[투자 판단]\n* **보류(관망) 권고**: “지금 당장 공격적 매수”보다는, 단기 조정/밸류에이션 민감도가 확인된 뒤 **분할 매수 관점으로 접근**하는 것이 합리적입니다.\n\n[판단 근거]\n* **상방 재료(성장/AI 수요, 설비투자 기대)**가 분명하지만, 동일 기간에 **하락(3/26)과 적정가치/밸류에이션 점검(3/27), 생산능력 제약 언급(3/28)**이 동시 존재합니다.\n* 감정분포는 Positive 5.9%로 낮고, Neutral 58.8% 및 Risk 11.8%, Negative 5.9%가 있어 **명확한 추세 단일 방향성보다는 “혼재/변동성”** 쪽에 무게가 실립니다.\n* 애널리스트 컨센서스는 Buy 우위이나(Strong Sell 없음), 제공된 애널리스트 데이터에 **현재가 대비 DCF/밸류에이션 수치가 명확히 연결되지 않아(현재가 N/A, P/E 등 N/A)** “즉시 투자 결단을 뒷받침할 만큼의 가격(밸류에이션) 확신”이 부족합니다."
+}

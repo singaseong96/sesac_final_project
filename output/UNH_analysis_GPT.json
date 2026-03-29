@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "symbol": "UNH",
+    "analysis_date": "2026-03-29T04:48:01.559966+00:00",
+    "news_period": "2026-03-26 ~ 2026-03-28",
+    "news_count": 41,
+    "model": "gpt-5.4-nano"
+  },
+  "sentiment_summary": {
+    "Neutral": 21,
+    "Risk": 10,
+    "Growth": 5,
+    "Positive": 2,
+    "Mixed": 2,
+    "Negative": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-26": {
+      "Neutral": 9,
+      "Risk": 4,
+      "Positive": 1,
+      "Growth": 1
+    },
+    "2026-03-27": {
+      "Neutral": 7,
+      "Risk": 6,
+      "Growth": 3,
+      "Mixed": 2,
+      "Negative": 1
+    },
+    "2026-03-28": {
+      "Neutral": 5,
+      "Growth": 1,
+      "Positive": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-28 21:23:25",
+      "title": "Avery AI 출시로 다시 주목받는 유나이티드헬스 그룹(UNH) 밸류에이션 살펴보기 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/healthcare/nyse-unh/unitedhealth-group/news/a-look-at-unitedhealth-group-unh-valuation-as-avery-ai-launc",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-28 12:02:29",
+      "title": "Wealthcare Capital Partners LLC, 유나이티드헬스 그룹(UnitedHealth Group Incorporated) 주식 37,566주 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthcare-capital-partners-llc-sells-37566-shares-of-unitedhealth-group-incorporated-unh-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 11:08:20",
+      "title": "Mirador Capital Partners LP, 유나이티드헬스 그룹 Incorporated $UNH 포지션 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mirador-capital-partners-lp-raises-position-in-unitedhealth-group-incorporated-unh-2026-03-28/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-28 10:46:09",
+      "title": "KMG Fiduciary Partners LLC, 유나이티드헬스 그룹 Incorporated $UNH 주식 3,895주 매수 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kmg-fiduciary-partners-llc-buys-3895-shares-of-unitedhealth-group-incorporated-unh-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 10:38:00",
+      "title": "Generate Investment Management Ltd, 유나이티드헬스 그룹 Incorporated $UNH 주식 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-unitedhealth-group-incorporated-unh-shares-sold-by-generate-investment-management-ltd-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 08:19:17",
+      "title": "Dakota Wealth Management, UnitedHealth Group Incorporated $UNH 보유 비중 축소 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-dakota-wealth-management-lowers-holdings-in-unitedhealth-group-incorporated-unh-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 06:05:12",
+      "title": "UnitedHealth 주식, 780억달러를 배당·지급 - 투자자 주목 - Trefis",
+      "url": "https://www.trefis.com/data/companies/UNH/no-login-required/5Ig6cB0P/UnitedHealth-Stock-Pays-Out-78-Bil-Investors-Take-Note",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 23:39:30",
+      "title": "지지선 이탈 후 UNH 주가 2025년 저점으로 향해… UnitedHealth의 재정비 국면 - FXLeaders",
+      "url": "https://www.fxleaders.com/news/2026/03/27/unh-stock-heads-to-2025-lows-after-breaking-support-as-unitedhealth-faces-a-reset/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 21:58:17",
+      "title": "UnitedHealth Group(NYSE:UNH), 3.3% 하락 - 매도해야 할까? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-nyseunh-trading-down-33-should-you-sell-2026-03-27/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-27 21:50:06",
+      "title": "UnitedHealth Group(UNH), 시장보다 더 하락: 투자자를 위한 정보 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-unh-declines-more-215006005.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 20:21:40",
+      "title": "직원 표창 행사 후보 추천 - 뉴햄프셔 대학교",
+      "url": "https://www.unh.edu/dining/employment/employee-recognition-ceremony-nomination",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 20:20:31",
+      "title": "4월 실적 발표를 앞두고 유나이티드헬스 주가 다시 하락, UNH 밸류에이션에 대한 새로운 검토 촉발 - TechStock²",
+      "url": "https://ts2.tech/en/unitedhealth-stock-slides-again-as-april-earnings-loom-putting-unh-valuation-under-new-scrutiny/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-27 20:04:15",
+      "title": "세계적으로 유명한 법의학자이자 오랜 뉴헤이븐대학교 교수였던 헨리 리 사망 - The Middletown Press",
+      "url": "https://www.middletownpress.com/news/article/ct-henry-lee-forensic-scientist-unh-professor-dies-22156045.php",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 18:58:40",
+      "title": "Avery 헬스케어 비서에 16억달러 AI 베팅에도 유나이티드헬스(UNH) 주가 3% 하락 - Swikblog",
+      "url": "https://swikblog.com/unitedhealth-unh-stock-falls-260-avery-ai-bet/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 18:27:02",
+      "title": "Avery와 함께한 유나이티드헬스의 AI 도입, 침체된 밸류에이션 기대와 맞물리다 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/healthcare/nyse-unh/unitedhealth-group/news/unitedhealth-ai-rollout-with-avery-meets-depressed-valuation",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 17:52:23",
+      "title": "Unh 주가: 2026년 하락세 뒤의 3가지 압박 요인 — 그리고 투자자들이 다음에 주목해야 할 것 - el-balad.com",
+      "url": "https://www.el-balad.com/16894037",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 17:16:08",
+      "title": "Unitedhealth Group Inc 주식(UNH), 3월 27일 4.73% 하락: 변동 배경 - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261729048-market-movers-unh-20260327",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 16:49:42",
+      "title": "전 Ocean Spray CEO, UNH 졸업식 연사로 나선다 - nhbr.com",
+      "url": "https://www.nhbr.com/former-ocean-spray-ceo-to-serve-as-unh-commencement-speaker/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 15:35:00",
+      "title": "UnitedHealth의 Avery는 대규모로 의료 네비게이션을 재정의할 수 있을까? - TradingView",
+      "url": "https://www.tradingview.com/news/zacks:8d3d991fc094b:0-can-unitedhealth-s-avery-redefine-healthcare-navigation-at-scale/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 15:20:14",
+      "title": "$UnitedHealth (UNH.US)$ - Moomoo",
+      "url": "https://www.moomoo.com/community/feed/unitedhealth-unh-us-116301811810310?chain_id=Name1K9-3FXPhg.1ksdrug&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A64%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Finvest-for-fun-104792421%22%7D",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 14:29:36",
+      "title": "UnitedHealth 주가, 연초 대비 20% 하락 후: 밸류에이션을 움직이는 요인은 이것 - TIKR.com",
+      "url": "https://www.tikr.com/blog/unitedhealth-stock-after-a-20-ytd-drop-heres-whats-driving-the-valuation",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 10:42:02",
+      "title": "Riverbridge Partners LLC, UnitedHealth Group Incorporated $UNH 주식 8,652주 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-riverbridge-partners-llc-sells-8652-shares-of-unitedhealth-group-incorporated-unh-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 07:33:46",
+      "title": "UnitedHealth의 다음 실적 발표에서 기대할 것은? - inkl",
+      "url": "https://www.inkl.com/news/here-s-what-to-expect-from-unitedhealth-s-next-earnings-report",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 06:40:02",
+      "title": "(UNH)와 가격 민감 배분의 역할 - Stock Traders Daily",
+      "url": "https://news.stocktradersdaily.com/news_release/81/UNH_and_the_Role_of_Price-Sensitive_Allocations_032726064002_1774608002.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 06:39:40",
+      "title": "UnitedHealth Group Incorporated(NYSE:UNH), 증권사들로부터 '중립적 매수(Moderate Buy)' 컨센서스 추천 받아 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-incorporated-nyseunh-receives-consensus-recommendation-of-moderate-buy-from-brokerages-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 01:25:00",
+      "title": "UnitedHealth의 다음 실적 보고서에서 예상되는 것 - FinancialContent",
+      "url": "https://markets.financialcontent.com/stocks/article/barchart-2026-3-27-heres-what-to-expect-from-unitedhealths-next-earnings-report",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-26 21:44:03",
+      "title": "UnitedHealth Group(NYSE:UNH) 1.1% 하락 거래 중 - 매도해야 할까? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-nyseunh-trading-down-11-should-you-sell-2026-03-26/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 20:07:00",
+      "title": "전 Ocean Spray CEO, UNH 졸업식 축사 맡는다 - New Hampshire Public Radio",
+      "url": "https://www.nhpr.org/nh-news/2026-03-26/unh-newhampshire-2026-commencement-address",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 18:07:07",
+      "title": "최근 약세를 보인 UnitedHealth Group(UNH) 주가 평가 점검 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-unh-valuation-check-180707391.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 17:38:36",
+      "title": "Macfarlane Research Greenhouses 오픈하우스, 4월 18일 개최 - University of New Hampshire",
+      "url": "https://www.unh.edu/announcements/2026/03/macfarlane-research-greenhouses-open-house-be-held-april-18",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 17:31:07",
+      "title": "Mark Cuban, 기업 의료비 부담 3만 달러를 '미친 수준'이라 비판… UNH, CVS, CI 등 빅 메디슨 거대기업 해체 법안 지지",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/mark-cuban-calls-30-000-173107714.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 17:01:48",
+      "title": "La Valley, 농촌 보건 교육 담당 상무이사로 임명 - 뉴햄프셔대학교",
+      "url": "https://www.unh.edu/news/2026/03/la-valley-named-executive-director-rural-health-education",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 15:58:55",
+      "title": "Nathan Furey, 최초의 Robert Summers 생물학 석좌교수로 임명 - 뉴햄프셔대학교",
+      "url": "https://www.unh.edu/news/2026/03/nathan-furey-appointed-first-robert-summers-professor-biology",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-26 13:19:38",
+      "title": "UNH, 지속가능한 식품 시스템 분야 Thomas W. Haas 석좌교수직 발표 - 뉴햄프셔대학교",
+      "url": "https://www.unh.edu/news/2026/03/unh-announces-thomas-w-haas-professorship-sustainable-food-systems",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 13:19:38",
+      "title": "Wilfred Wollheim, 기후 및 지속가능성 분야 Josephine A. Lamprey 석좌교수로 선정 - 뉴햄프셔대학교",
+      "url": "https://www.unh.edu/news/2026/03/wilfred-wollheim-named-josephine-lamprey-professor-climate-sustainability",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 10:36:03",
+      "title": "Erste Group Bank, UNH 실적에 대한 긍정적 전망 제시 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/erste-group-bank-issues-positive-forecast-for-unh-earnings-2026-03-26/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-26 09:37:15",
+      "title": "Cullen Investment Group LTD., UnitedHealth Group Incorporated($UNH) 지분 278만 달러 보유 - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/26/cullen-investment-group-ltd-has-2-78-million-stake-in-unitedhealth-group-incorporated-unh.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 08:50:59",
+      "title": "체코 중앙은행, UnitedHealth Group Incorporated($UNH) 보유 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-czech-national-bank-boosts-holdings-in-unitedhealth-group-incorporated-unh-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 07:00:00",
+      "title": "NH 아이들을 밖으로 나가게 하는 것이 내부에서 일어나는 일을 바꾸고 있다 - University of New Hampshire",
+      "url": "https://www.unh.edu/news/2026/03/getting-nh-kids-outside-changing-what-happens-inside",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 05:11:49",
+      "title": "종교 기반 소송, UnitedHealth의 수직 통합과 밸류에이션에 대한 검토를 촉발 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/healthcare/nyse-unh/unitedhealth-group/news/faith-based-lawsuit-puts-unitedhealth-vertical-integration-a/amp",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 02:47:00",
+      "title": "캠퍼스에 총기 허용 시 딸을 UNH에 '절대' 보내지 않을 것 - Seacoastonline.com",
+      "url": "https://www.seacoastonline.com/story/news/local/2026/03/25/unh-guns-college-campus-carry-house-bill-1793/89313541007/?gca-cat=p&gnt-cfr=1",
+      "sentiment": "Neutral"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-26 ──\n  [Risk] UnitedHealth Group(NYSE:UNH) 1.1% 하락 거래 중 - 매도해야 할까? - MarketBeat\n  [Neutral] 전 Ocean Spray CEO, UNH 졸업식 축사 맡는다 - New Hampshire Public Radio\n  [Risk] 최근 약세를 보인 UnitedHealth Group(UNH) 주가 평가 점검 - Yahoo Finance\n  [Neutral] Macfarlane Research Greenhouses 오픈하우스, 4월 18일 개최 - University of New Hampshire\n  [Risk] Mark Cuban, 기업 의료비 부담 3만 달러를 '미친 수준'이라 비판… UNH, CVS, CI 등 빅 메디슨 거대기업 해체 법안 지지\n  [Neutral] La Valley, 농촌 보건 교육 담당 상무이사로 임명 - 뉴햄프셔대학교\n  [Positive] Nathan Furey, 최초의 Robert Summers 생물학 석좌교수로 임명 - 뉴햄프셔대학교\n  [Neutral] UNH, 지속가능한 식품 시스템 분야 Thomas W. Haas 석좌교수직 발표 - 뉴햄프셔대학교\n  [Neutral] Wilfred Wollheim, 기후 및 지속가능성 분야 Josephine A. Lamprey 석좌교수로 선정 - 뉴햄프셔대학교\n  [Growth] Erste Group Bank, UNH 실적에 대한 긍정적 전망 제시 - MarketBeat\n  [Neutral] Cullen Investment Group LTD., UnitedHealth Group Incorporated($UNH) 지분 278만 달러 보유 - Defense World\n  [Neutral] 체코 중앙은행, UnitedHealth Group Incorporated($UNH) 보유 확대 - MarketBeat\n  [Neutral] NH 아이들을 밖으로 나가게 하는 것이 내부에서 일어나는 일을 바꾸고 있다 - University of New Hampshire\n  [Risk] 종교 기반 소송, UnitedHealth의 수직 통합과 밸류에이션에 대한 검토를 촉발 - simplywall.st\n  [Neutral] 캠퍼스에 총기 허용 시 딸을 UNH에 '절대' 보내지 않을 것 - Seacoastonline.com\n\n── 2026-03-27 ──\n  [Risk] 지지선 이탈 후 UNH 주가 2025년 저점으로 향해… UnitedHealth의 재정비 국면 - FXLeaders\n  [Mixed] UnitedHealth Group(NYSE:UNH), 3.3% 하락 - 매도해야 할까? - MarketBeat\n  [Risk] UnitedHealth Group(UNH), 시장보다 더 하락: 투자자를 위한 정보 - Yahoo Finance\n  [Neutral] 직원 표창 행사 후보 추천 - 뉴햄프셔 대학교\n  [Negative] 4월 실적 발표를 앞두고 유나이티드헬스 주가 다시 하락, UNH 밸류에이션에 대한 새로운 검토 촉발 - TechStock²\n  [Neutral] 세계적으로 유명한 법의학자이자 오랜 뉴헤이븐대학교 교수였던 헨리 리 사망 - The Middletown Press\n  [Risk] Avery 헬스케어 비서에 16억달러 AI 베팅에도 유나이티드헬스(UNH) 주가 3% 하락 - Swikblog\n  [Growth] Avery와 함께한 유나이티드헬스의 AI 도입, 침체된 밸류에이션 기대와 맞물리다 - simplywall.st\n  [Risk] Unh 주가: 2026년 하락세 뒤의 3가지 압박 요인 — 그리고 투자자들이 다음에 주목해야 할 것 - el-balad.com\n  [Risk] Unitedhealth Group Inc 주식(UNH), 3월 27일 4.73% 하락: 변동 배경 - TradingKey\n  [Neutral] 전 Ocean Spray CEO, UNH 졸업식 연사로 나선다 - nhbr.com\n  [Growth] UnitedHealth의 Avery는 대규모로 의료 네비게이션을 재정의할 수 있을까? - TradingView\n  [Neutral] $UnitedHealth (UNH.US)$ - Moomoo\n  [Risk] UnitedHealth 주가, 연초 대비 20% 하락 후: 밸류에이션을 움직이는 요인은 이것 - TIKR.com\n  [Neutral] Riverbridge Partners LLC, UnitedHealth Group Incorporated $UNH 주식 8,652주 매도 - MarketBeat\n  [Growth] UnitedHealth의 다음 실적 발표에서 기대할 것은? - inkl\n  [Neutral] (UNH)와 가격 민감 배분의 역할 - Stock Traders Daily\n  [Neutral] UnitedHealth Group Incorporated(NYSE:UNH), 증권사들로부터 '중립적 매수(Moderate Buy)' 컨센서스 추천 받아 - MarketBeat\n  [Mixed] UnitedHealth의 다음 실적 보고서에서 예상되는 것 - FinancialContent\n\n── 2026-03-28 ──\n  [Growth] Avery AI 출시로 다시 주목받는 유나이티드헬스 그룹(UNH) 밸류에이션 살펴보기 - simplywall.st\n  [Neutral] Wealthcare Capital Partners LLC, 유나이티드헬스 그룹(UnitedHealth Group Incorporated) 주식 37,566주 매도 - MarketBeat\n  [Positive] Mirador Capital Partners LP, 유나이티드헬스 그룹 Incorporated $UNH 포지션 확대 - MarketBeat\n  [Neutral] KMG Fiduciary Partners LLC, 유나이티드헬스 그룹 Incorporated $UNH 주식 3,895주 매수 - MarketBeat\n  [Neutral] Generate Investment Management Ltd, 유나이티드헬스 그룹 Incorporated $UNH 주식 매도 - MarketBeat\n  [Neutral] Dakota Wealth Management, UnitedHealth Group Incorporated $UNH 보유 비중 축소 - MarketBeat\n  [Neutral] UnitedHealth 주식, 780억달러를 배당·지급 - 투자자 주목 - Trefis",
+    "sentiment_block": "총 뉴스 41건 분석 결과:\n  Positive     2건 (  4.9%) \n  Growth       5건 ( 12.2%) ██\n  Neutral     21건 ( 51.2%) ██████████\n  Mixed        2건 (  4.9%) \n  Risk        10건 ( 24.4%) ████\n  Negative     1건 (  2.4%) \n\n날짜별 감정 흐름:\n  2026-03-26: Neutral:9, Risk:4, Positive:1, Growth:1\n  2026-03-27: Neutral:7, Risk:6, Growth:3, Mixed:2, Negative:1\n  2026-03-28: Neutral:5, Growth:1, Positive:1",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 1  Buy: 40  Hold: 7  Sell: 4  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $444  Low: $327  Consensus: $385.38  Median: $390.5\n▶ 실적 추정치 (2030-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $213.24694651127882  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
+  },
+  "investment_judgment": "[핵심 요약]\n* 최근 3일(3/26~3/28) 동안 UNH는 전반적으로 **중립~위험(Risk) 비중이 높고**, 주가 하락/지지선 이탈 및 **밸류에이션 재검토** 이슈가 반복됨.\n* 다만 **Avery AI(의료 네비게이션) 도입/출시 관련 “밸류에이션 재평가 기대”**가 Growth/Positive 흐름으로 일부 유입.\n* 애널리스트 시각은 전반적으로 **Buy 우위(Strong Buy 1, Buy 40, Hold 7, Sell 4)**로, 목표주가 컨센서스가 **$385.38(범위 $327~$444)**로 형성되어 “하락에도 불구하고 중장기 기대는 유지” 쪽에 더 가까움.\n\n[전체 흐름 분석]\n* **3/26~3/27**: “최근 약세”, “지지선 이탈 후 저점(2025 저점) 방향”, “4월 실적 발표 앞두고 재하락” 같은 문구가 다수. 즉, 단기적으로는 **기술적/심리적 약세 + 실적 이벤트(4월) 전 경계 + 밸류에이션 부담**이 주도.\n* **3/27~3/28**: 그럼에도 Avery AI 관련 보도가 늘며 **침체된 밸류에이션 기대**라는 형태로 “성장 스토리 재점화” 시도.\n* **동시에** 일부 뉴스에서는 **정책/소송/규제(빅 메디슨 해체 법안 지지, 수직 통합·밸류에이션 검토 촉발)**가 리스크로 병존.  \n→ 결론적으로, 시장은 “AI로 성장 기대”와 “단기 실적/밸류에이션/규제 리스크”를 동시에 가격에 반영 중이며, 단기 모멘텀은 약한 편으로 보임.\n\n[긍정 요인]\n* **Avery AI 도입/출시 기대**: 단기 하락 국면에서 “다시 주목” 및 “밸류에이션 살펴보기”가 반복(Positive/Growth 비중 존재).\n* **애널리스트 등급이 Buy 중심**: 합산 기준 Strong Buy/Buy가 Sell/Hold보다 압도적으로 우세.\n* **배당·지급 관련 투자자 관심**(3/28, Trefis): 주가 변동성 구간에서 방어/현금흐름 관점의 수요를 만들 수 있음.\n* **일부 전망/컨센서스의 중립~긍정 성격**: MarketBeat 등에서 “Moderate Buy/컨센서스”류 언급이 있음.\n\n[부정 요인]\n* **주가 흐름의 약세가 반복적으로 강조**: 지지선 이탈, 2025 저점 지향, 연초 대비 큰 하락 후 밸류에이션 재검토 등(주로 Risk 비중).\n* **4월 실적 발표 전 경계**: 실적 이벤트를 앞두고 재하락 가능성을 자극(TechStock²의 Negative).\n* **규제/정책/소송 리스크와 연결**: 빅 메디슨 해체 법안 지지 비판, 수직 통합 및 밸류에이션 검토를 촉발하는 소송 기반 이슈 등.\n* **기관/개인 포지션은 혼재**: 3일 내 매도/매수 공시(예: 일부 매도, 일부 확대)가 동시에 나타나 방향성이 일관되진 않음(추세 확신 부족).\n\n[투자 인사이트]\n* **단기(이벤트 전) 관점**: 3/26~3/27에서 “기술적 약세 + 실적 발표 전 경계”가 강하게 나타나, 신규 매수는 **실적 확인/변동성 완화 전까지 보수적 접근**이 유리합니다.\n* **중기(성장 스토리) 관점**: Avery AI는 반복적으로 등장하는 Growth/밸류에이션 재평가 트리거입니다. 다만 현재 데이터에서는 “AI가 바로 실적/가이던스를 개선했다”는 직접 신호보다는 **기대/평가 재검토** 성격이 커서, **실적 발표에서 구체적 성과로 연결되는지**가 분기점이 될 가능성이 큽니다.\n* **상충 해석의 균형**: 시장은 하락 압력을 크게 반영(Risk 다수)하지만, 애널리스트는 Buy 우위(목표주가 컨센서스 존재)로 “중장기 기대”를 유지합니다. 따라서 **‘팔 이유(구조적 하락 확정)’가 뉴스 전반에서 지배적이진 않되**, **‘지금 당장 강한 추가 상승 확신’도 제한적**입니다.\n* **의사결정 프레임**: 목표주가 범위($327~$444)와 DCF(약 $213.25)가 제시되어 있으나, 현재가가 데이터에 없어서 즉시 괴리율 기반 공격적 결정을 내리긴 어렵습니다. 따라서 투자 판단은 **(1) 4월 실적에서 Avery 성과가 숫자로 확인되는지, (2) 규제/소송 리스크가 밸류에이션 할인으로 확대되는지**에 더 민감해야 합니다.\n\n[투자 판단]\n**보류(Watch & Wait)**\n\n[판단 근거]\n* 최근 3일 감정/뉴스 흐름에서 **Risk(24.4%)가 Growth/Positive를 상회**하고, 주가가 “지지선 이탈/저점 지향/실적 전 재하락”으로 묘사될 정도로 **단기 하방 압력 서사가 우세**합니다.\n* 반면 **애널리스트 합산은 Buy 중심**이며 목표주가 컨센서스가 존재해 **중장기 관점의 매력(또는 적어도 비관 확정은 아님)**은 확인됩니다.\n* 따라서 지금은 “명확한 비투자 근거(급격한 실적 붕괴/확정적 악재)”가 데이터에 없지만, “바로 투자 결정을 할 만큼 단기 모멘텀이 강한 근거”도 부족합니다.  \n→ 결론적으로, **실적 이벤트(4월)와 Avery 관련 정량 성과/리스크 재평가 결과를 확인한 뒤 진입하는 전략**이 데이터 기반으로 가장 합리적입니다."
+}

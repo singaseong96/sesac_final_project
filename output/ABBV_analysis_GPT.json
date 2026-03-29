@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "symbol": "ABBV",
+    "analysis_date": "2026-03-29T04:47:22.364700+00:00",
+    "news_period": "2026-03-26 ~ 2026-03-28",
+    "news_count": 21,
+    "model": "gpt-5.4-nano"
+  },
+  "sentiment_summary": {
+    "Neutral": 12,
+    "Positive": 3,
+    "Growth": 3,
+    "Risk": 2,
+    "Negative": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-26": {
+      "Neutral": 3,
+      "Risk": 1,
+      "Positive": 1
+    },
+    "2026-03-27": {
+      "Neutral": 4,
+      "Growth": 2,
+      "Positive": 1,
+      "Negative": 1,
+      "Risk": 1
+    },
+    "2026-03-28": {
+      "Neutral": 5,
+      "Positive": 1,
+      "Growth": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-28 13:18:57",
+      "title": "AbbVie 피부과 데이터, 면역학의 깊이와 부상하는 피부질환 기회를 부각 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-abbv/abbvie/news/abbvie-dermatology-data-highlights-immunology-depth-and-emer",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-28 12:02:32",
+      "title": "Wealthcare Advisory Partners LLC, AbbVie Inc. $ABBV 지분 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthcare-advisory-partners-llc-grows-stake-in-abbvie-inc-abbv-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 10:32:03",
+      "title": "Generate Investment Management Ltd, AbbVie Inc. 주식 49,224주 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-generate-investment-management-ltd-sells-49224-shares-of-abbvie-inc-abbv-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 10:20:20",
+      "title": "Eli Lilly 주식이 여전히 매수인 1가지 이유 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ABBV/pressreleases/1020117/1-reason-eli-lilly-stock-is-still-a-buy/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-28 09:17:51",
+      "title": "TABR Capital Management LLC, AbbVie Inc. $ABBV에 신규 포지션 진입 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-tabr-capital-management-llc-takes-position-in-abbvie-inc-abbv-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 08:39:27",
+      "title": "Exchange Traded Concepts LLC, AbbVie Inc. $ABBV 주식 비중 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-increases-stock-position-in-abbvie-inc-abbv-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 07:30:39",
+      "title": "Capital Investment Advisors LLC, AbbVie Inc. $ABBV 주식 매입 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-abbvie-inc-abbv-shares-bought-by-capital-investment-advisors-llc-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 12:10:23",
+      "title": "World Investment Advisors, AbbVie Inc. $ABBV 포지션 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-world-investment-advisors-increases-position-in-abbvie-inc-abbv-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 11:21:52",
+      "title": "Global X Japan Co. Ltd., AbbVie Inc. $ABBV 주식 비중 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-global-x-japan-co-ltd-increases-stock-position-in-abbvie-inc-abbv-2026-03-27/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 11:15:55",
+      "title": "Synergy Asset Management LLC, AbbVie Inc. $ABBV 주식 10,070주 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-synergy-asset-management-llc-sells-10070-shares-of-abbvie-inc-abbv-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 11:11:11",
+      "title": "2026년 3월에 저평가되었을 수 있는 3개 종목 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-lpla/lpl-financial-holdings/news/3-stocks-that-may-be-underestimated-in-march-2026",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 10:46:00",
+      "title": "AbbVie(ABBV) 주식으로 연간 배당금 1만 달러를 받으려면 몇 주가 필요한가 - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/27/how-many-shares-abbvie-abbv-stock-10k-dividend/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 10:06:00",
+      "title": "AbbVie(ABBV) 주식으로 연간 배당금 1만 달러를 받으려면 몇 주가 필요한가 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-abbvie-abbv-100600259.html",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-27 08:51:05",
+      "title": "Dakota Wealth Management, AbbVie Inc. $ABBV 보유 비중 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-dakota-wealth-management-raises-position-in-abbvie-inc-abbv-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 07:52:02",
+      "title": "(ABBV) 가격 동향 및 실행 인지 포지셔닝 - Stock Traders Daily",
+      "url": "https://news.stocktradersdaily.com/news_release/89/ABBV_Price_Dynamics_and_Execution-Aware_Positioning_032726075202_1774612322.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 05:01:00",
+      "title": "ABBV- 이 혼란스러운 시장에서 매력적인 배당주 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/abbv-attractive-income-stock-turbulent-050100450.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 21:21:57",
+      "title": "AbbVie(NYSE:ABBV) 1.9% 상승 거래 - 지금이 매수 타이밍인가? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/abbvie-nyseabbv-trading-19-higher-time-to-buy-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 19:30:00",
+      "title": "독립 의장 도입 추진, AbbVie의 지배구조와 밸류에이션 기대치 시험 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-abbv/abbvie/news/independent-chair-push-tests-abbvie-governance-and-valuation",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 11:31:00",
+      "title": "Piper Sandler, AbbVie(ABBV.US)에 매수 의견 유지, 목표주가 299달러 유지 - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70665931/piper-sandler-maintains-abbvie-abbvus-with-buy-rating-maintains-target?level=1&data_ticket=1774748242294993",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-26 10:19:59",
+      "title": "Moody National Bank Trust Division, AbbVie Inc. $ABBV 5,674주 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-moody-national-bank-trust-division-sells-5674-shares-of-abbvie-inc-abbv-2026-03-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-26 08:49:15",
+      "title": "체코 국립은행, AbbVie Inc. 주식 17,373주 매수 | $ABBV - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-czech-national-bank-purchases-17373-shares-of-abbvie-inc-abbv-2026-03-26/",
+      "sentiment": "Neutral"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-26 ──\n  [Neutral] AbbVie(NYSE:ABBV) 1.9% 상승 거래 - 지금이 매수 타이밍인가? - MarketBeat\n  [Risk] 독립 의장 도입 추진, AbbVie의 지배구조와 밸류에이션 기대치 시험 - simplywall.st\n  [Positive] Piper Sandler, AbbVie(ABBV.US)에 매수 의견 유지, 목표주가 299달러 유지 - 富途牛牛\n  [Neutral] Moody National Bank Trust Division, AbbVie Inc. $ABBV 5,674주 매도 - MarketBeat\n  [Neutral] 체코 국립은행, AbbVie Inc. 주식 17,373주 매수 | $ABBV - MarketBeat\n\n── 2026-03-27 ──\n  [Neutral] World Investment Advisors, AbbVie Inc. $ABBV 포지션 확대 - MarketBeat\n  [Positive] Global X Japan Co. Ltd., AbbVie Inc. $ABBV 주식 비중 확대 - MarketBeat\n  [Neutral] Synergy Asset Management LLC, AbbVie Inc. $ABBV 주식 10,070주 매도 - MarketBeat\n  [Growth] 2026년 3월에 저평가되었을 수 있는 3개 종목 - simplywall.st\n  [Growth] AbbVie(ABBV) 주식으로 연간 배당금 1만 달러를 받으려면 몇 주가 필요한가 - The Motley Fool\n  [Negative] AbbVie(ABBV) 주식으로 연간 배당금 1만 달러를 받으려면 몇 주가 필요한가 - Yahoo Finance\n  [Neutral] Dakota Wealth Management, AbbVie Inc. $ABBV 보유 비중 확대 - MarketBeat\n  [Neutral] (ABBV) 가격 동향 및 실행 인지 포지셔닝 - Stock Traders Daily\n  [Risk] ABBV- 이 혼란스러운 시장에서 매력적인 배당주 - Yahoo Finance\n\n── 2026-03-28 ──\n  [Positive] AbbVie 피부과 데이터, 면역학의 깊이와 부상하는 피부질환 기회를 부각 - simplywall.st\n  [Neutral] Wealthcare Advisory Partners LLC, AbbVie Inc. $ABBV 지분 확대 - MarketBeat\n  [Neutral] Generate Investment Management Ltd, AbbVie Inc. 주식 49,224주 매도 - MarketBeat\n  [Growth] Eli Lilly 주식이 여전히 매수인 1가지 이유 - The Globe and Mail\n  [Neutral] TABR Capital Management LLC, AbbVie Inc. $ABBV에 신규 포지션 진입 - MarketBeat\n  [Neutral] Exchange Traded Concepts LLC, AbbVie Inc. $ABBV 주식 비중 확대 - MarketBeat\n  [Neutral] Capital Investment Advisors LLC, AbbVie Inc. $ABBV 주식 매입 - MarketBeat",
+    "sentiment_block": "총 뉴스 21건 분석 결과:\n  Positive     3건 ( 14.3%) ██\n  Growth       3건 ( 14.3%) ██\n  Neutral     12건 ( 57.1%) ███████████\n  Mixed        0건 (  0.0%) \n  Risk         2건 (  9.5%) █\n  Negative     1건 (  4.8%) \n\n날짜별 감정 흐름:\n  2026-03-26: Neutral:3, Risk:1, Positive:1\n  2026-03-27: Neutral:4, Growth:2, Positive:1, Negative:1, Risk:1\n  2026-03-28: Neutral:5, Positive:1, Growth:1",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 27  Hold: 12  Sell: 1  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $299  Low: $223  Consensus: $256.15  Median: $258\n▶ 실적 추정치 (2030-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $163.59675411271115  현재가: $N/A\n▶ FMP 종합 등급\n  등급: C+  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
+  },
+  "investment_judgment": "[핵심 요약]\n* 최근 3일간 AbbVie(ABBV)는 전반적으로 **중립 우위(Neutral 57.1%)** 가운데, **기관/펀드의 포지션 확대·신규 진입(여러 “보유 비중 확대/신규 포지션 진입/매입”)** 흐름이 반복됨.\n* 애널리스트는 **대체로 Buy 우세(27 Buy, 12 Hold, Sell 1)**이며 목표주가 컨센서스는 **$256.15~$258(중간값 $258)**, 다만 **DCF 내재가치($163.60)**는 상대적으로 낮게 제시됨.\n* 리스크로는 **지배구조(독립 의장 도입 추진) 관련 불확실성**과 일부 **주식 매도(소수 기관 매도)**가 관측됨.\n* 제품/파이프라인 측면에서는 **피부과/면역 연관 데이터가 기회로 부각**(Positive)되는 등 단기 모멘텀이 일부 존재.\n\n[전체 흐름 분석]\n* 3일 동안의 뉴스 톤은 대체로 안정적이며(부정 1건/대부분 중립), 가격 급변을 시사하는 강한 악재보다는 **“매수 타이밍/저평가 가능성” 같은 평가성 기사 + 기관의 순매수 성격 행동(포지션 확대/진입)**이 동시에 나타남.\n* 다만 같은 기간에 일부 자산운용사의 **매도 및 비중 축소 성격 뉴스도 섞여** 있어, 시장이 전면적 랠리보다는 **선별적 누적(분할 접근)** 성격으로 반응하는 흐름에 가깝습니다.\n* 애널리스트 프레임은 “Buy 유지/목표주가 상단 보유”가 주도하지만, **DCF 가치는 보수적으로 낮게** 제시되어 밸류에이션 해석의 간극이 존재합니다(시장 기대 vs 내재가치 모델).\n\n[긍정 요인]\n* **기관/펀드의 포지션 확대가 다수**: 3일 내 “포지션 확대”, “보유 비중 확대”, “신규 포지션 진입”, “주식 매입”이 반복적으로 등장.\n* **애널리스트 Buy 우위**: Strong Buy는 없지만 **Buy 27, Hold 12**로 합산상 우호적.\n* **목표주가 상단/유지**: Piper Sandler가 **매수 의견 유지 + 목표주가 $299 유지**(상방 여지).\n* **사업/임상 관련 긍정 소재**: 피부과 데이터가 면역학 및 피부질환 기회를 부각(Positive).\n\n[부정 요인]\n* **지배구조 관련 리스크(독립 의장 도입 추진)**: simplywall.st의 Risk는 밸류에이션 기대를 시험할 수 있다는 관점(규제/거버넌스 이슈의 불확실성).\n* **일부 기관 매도 관측**: 여러 “매도” 뉴스가 존재(물량/의도는 특정 불가하지만, 최소한 단방향 매수만으로 해석하기 어렵게 함).\n* **밸류에이션 모델 간 충돌**:  \n  * 목표주가 컨센서스/중간값은 대체로 높은 편($256~$258대)  \n  * 반면 **DCF 내재가치 $163.60**는 보수적으로 낮음 → “상승 여지”와 “모델상 과대/보수 필요”가 동시에 제기됨.\n* 2026-03-26에 “독립 의장 도입 추진” 이슈가 언급된 점은 단기 변동 요인이 될 수 있음.\n\n[투자 인사이트]\n* 종합하면, 최근 3일은 “악재로 가격이 급락하는 국면”이라기보다 **기관 누적 + 애널리스트 매수 기조**가 지배적이며, 여기에 **피부과/면역 관련 긍정 데이터**가 보조 모멘텀으로 작용한 모습입니다.\n* 다만 투자 의사결정에서 가장 중요한 점은 **밸류에이션의 불일치**입니다. 목표주가(상방 시나리오)와 DCF(보수 시나리오)의 간격이 크기 때문에:\n  * 단기적으로는 “지금 당장 강한 추가매수”보다는 **분할 접근/관망 후 확인**이 더 합리적일 가능성이 큼.\n  * 지배구조 이슈(독립 의장 추진) 관련 뉴스 흐름이 추가로 나오면 변동성이 생길 수 있으므로, **뉴스 전개를 확인하며 리스크를 관리**하는 전략이 필요합니다.\n\n[투자 판단]\n* **투자: 보류(Watch/분할 접근 대기)**\n\n[판단 근거]\n* **찬성 근거(매수 쪽 힘)**: 기관 포지션 확대/신규 진입이 다수이고, 애널리스트 합산이 **Buy(27) 우위**이며 상단 목표가도 $299로 존재합니다.\n* **하지만 보류 근거(결정 보류를 정당화)**:  \n  1) 부정/리스크성 뉴스가 소수지만 존재(독립 의장 도입 추진)하고,  \n  2) 무엇보다 **DCF 내재가치($163.60)**가 목표주가 컨센서스/중간값($256~$258대) 대비 크게 낮아, 현재 수준에서 “확실한 저가”라고 단정하기 어렵습니다.  \n* 따라서 현 시점은 “매수 확신”보다는, **추가 정보(지배구조 이슈 전개 및 실적/밸류에이션 재평가 가능성)**가 나올 때까지 투자 실행을 늦추는 편이 데이터에 더 충실합니다."
+}
