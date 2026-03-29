@@ -7,9 +7,6 @@ on:
       - completed
   workflow_dispatch:  # ← GitHub Actions 탭에서 수동 실행 가능
 
-env:
-  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-
 concurrency:
   group: daily-news-translate-analyze
   cancel-in-progress: true
@@ -17,25 +14,65 @@ concurrency:
 permissions:
   contents: write
 
-# ──────────────────────────────────────────────
-# Job 1. 번역
-# ──────────────────────────────────────────────
 jobs:
-  translate:
+# ──────────────────────────────────────────────
+# Job 1. 애널리스트 데이터 수집
+# ──────────────────────────────────────────────
+  collect:
     if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     steps:
-      - name: Debug secret
-        run: echo "Secret 길이 = ${#OPENAI_API_KEY}"
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-    
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install certifi
+
+      - name: Run stock data collection
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+          PYTHONUNBUFFERED: 1
+        run: python collect_stock_data.py
+
+      - name: Commit collected data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/ || true
+          git commit -m "chore: collect stock data $(date +'%Y-%m-%d')" || exit 0
+          for i in {1..3}; do
+            git pull --rebase origin main && break
+            echo "Rebase failed, retrying..."
+            sleep 5
+          done
+          git push
+
+# ──────────────────────────────────────────────
+# Job 2. 번역
+# ──────────────────────────────────────────────
+  translate:
+    needs: collect
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -67,10 +104,10 @@ jobs:
           git push
 
 # ──────────────────────────────────────────────
-# Job 2. 감정분석 + 투자판단  (번역 완료 후 실행)
+# Job 3. 감정분석 + 투자판단
 # ──────────────────────────────────────────────
   analyze:
-    needs: translate          # ⭐ translate job이 성공해야만 실행
+    needs: translate
     runs-on: ubuntu-latest
 
     steps:
@@ -79,7 +116,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-          ref: main            # ⭐ translate가 push한 최신 커밋을 가져옴
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
