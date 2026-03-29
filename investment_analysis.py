@@ -373,7 +373,7 @@ def main(SYMBOL):
         "investment_judgment": judgment,
     }
 
-    out_path = os.path.join(OUTPUT_DIR, f"{SYMBOL}_analysis.json")
+    out_path = os.path.join(OUTPUT_DIR, f"{SYMBOL}_analysis_GPT.json")
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
