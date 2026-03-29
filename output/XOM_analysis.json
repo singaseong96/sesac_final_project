@@ -1,257 +1,249 @@
 {
   "meta": {
     "symbol": "XOM",
-    "analysis_date": "2026-03-29T00:17:31.928087+00:00",
-    "news_period": "2026-03-24 ~ 2026-03-26",
-    "news_count": 36,
-    "model": "claude-haiku-4-5-20251001"
+    "analysis_date": "2026-03-29T03:38:07.198282+00:00",
+    "news_period": "2026-03-26 ~ 2026-03-28",
+    "news_count": 34,
+    "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 21,
-    "Growth": 9,
-    "Positive": 4,
-    "Risk": 2
+    "Neutral": 15,
+    "Positive": 10,
+    "Risk": 4,
+    "Growth": 3,
+    "Negative": 1,
+    "Mixed": 1
   },
   "sentiment_by_date": {
-    "2026-03-24": {
-      "Neutral": 4,
-      "Growth": 4,
-      "Positive": 3
-    },
-    "2026-03-25": {
-      "Neutral": 12,
-      "Growth": 3,
-      "Risk": 1,
-      "Positive": 1
-    },
     "2026-03-26": {
-      "Neutral": 5,
-      "Growth": 2,
+      "Neutral": 4,
+      "Risk": 2,
+      "Growth": 1
+    },
+    "2026-03-27": {
+      "Positive": 7,
+      "Neutral": 7,
       "Risk": 1
+    },
+    "2026-03-28": {
+      "Neutral": 4,
+      "Positive": 3,
+      "Growth": 2,
+      "Risk": 1,
+      "Negative": 1,
+      "Mixed": 1
     }
   },
   "news_with_sentiment": [
     {
+      "date": "2026-03-28 17:17:00",
+      "title": "오늘의 유가 랠리와 강세 차트가 맞물리며 엑손 주가 급등 - Yahoo Finance Australia",
+      "url": "https://au.finance.yahoo.com/news/exxon-stock-jumps-today-oil-171700626.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-28 12:10:26",
+      "title": "엑손 모빌, 이번 주 7% 상승. 2026년 주가는 어디까지 갈 수 있나 - TIKR.com",
+      "url": "https://www.tikr.com/blog/exxon-mobil-rose-7-this-week-heres-where-the-stock-could-go-in-2026",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-28 12:06:27",
+      "title": "애널리스트들의 에너지 최선호 종목: 엑손 모빌(XOM), 골라 LNG(GLNG) - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1020919/analysts-top-energy-picks-exxon-mobil-xom-golar-lng-glng/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-28 11:43:00",
+      "title": "지금 엑손모빌에 대해 모든 것을 말해주는 단 하나의 숫자 - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/28/the-1-number-that-tells-you-everything-about-exxon/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-28 11:12:51",
+      "title": "엑손 모빌(XOM), 새 부채와 뉴질랜드 철수로 포트폴리오를 조용히 재구성하고 있나? - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/energy/nyse-xom/exxon-mobil/news/is-exxon-mobil-xom-quietly-rebuilding-its-portfolio-with-new",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-28 09:33:43",
+      "title": "Signal Advisors Wealth LLC, Exxon Mobil Corporation $XOM 주식 매수 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exxon-mobil-corporation-xom-shares-bought-by-signal-advisors-wealth-llc-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 09:25:38",
+      "title": "Stokes Capital Advisors LLC, Exxon Mobil Corporation $XOM 주식 17,308주 매수 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-stokes-capital-advisors-llc-purchases-shares-of-17308-exxon-mobil-corporation-xom-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 08:09:09",
+      "title": "Ferguson Wellman Capital Management Inc., Exxon Mobil Corporation $XOM 주식 매수 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exxon-mobil-corporation-xom-shares-bought-by-ferguson-wellman-capital-management-inc-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 07:40:36",
+      "title": "Argentarii LLC, Exxon Mobil Corporation $XOM 주식 매입 - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/28/exxon-mobil-corporation-xom-shares-acquired-by-argentarii-llc.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 06:39:11",
+      "title": "Exxon Mobil 주가 120달러까지? - Trefis",
+      "url": "https://www.trefis.com/stock/xom/articles2/595139/exxon-mobil-stock-to-120/2026-03-28",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-28 06:10:20",
+      "title": "애널리스트 상향 조정 후 엑손 모빌(NYSE:XOM) 주가 3.5% 상승 - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/28/exxon-mobil-nysexom-stock-price-up-3-5-after-analyst-upgrade.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-28 00:09:25",
+      "title": "엑손 모빌(NYSE:XOM) 옵션 거래량 이례적으로 급증 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-sees-unusually-large-options-volume-nysexom-2026-03-27/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-27 21:17:42",
+      "title": "애널리스트 상향 조정 후 엑손 모빌(NYSE:XOM) 거래 3.5% 상승 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-trading-up-35-following-analyst-upgrade-2026-03-27/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 18:16:09",
+      "title": "오늘 엑손모빌(XOM) 주가가 상승한 이유 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1011624/why-exxonmobil-xom-stock-is-trading-up-today/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 18:01:41",
+      "title": "급등하는 원유 가격 속 엑손모빌의 향후 전망은? - Zacks Investment Research",
+      "url": "https://www.zacks.com/stock/news/2891159/what-lies-ahead-for-exxonmobil-amid-surging-crude-prices",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 16:33:53",
+      "title": "유가 95달러 돌파: 엑손모빌 사업 모델의 순풍인가, 함정인가? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1009120/oil-over-95-tailwind-or-trap-for-exxonmobils-business-model/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 16:15:41",
+      "title": "엑손 모빌 주식(XOM), 3월 27일 3.00% 상승: 핵심 동인 공개 - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261728847-market-movers-xom-20260327",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 16:01:50",
+      "title": "엑손 모빌(NYSE:XOM) 목표주가 172.00달러로 상향 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-price-target-raised-to-17200-2026-03-27/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 14:30:02",
+      "title": "엑손 모빌이 이제 엔비디아 주식보다 더 비싸졌다. 이유는 무엇이며, XOM은 여기서 어떻게 대응해야 할까? - inkl",
+      "url": "https://www.inkl.com/news/exxon-mobil-is-now-more-expensive-than-nvidia-stock-what-gives-and-how-should-you-play-xom-here",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 13:39:14",
+      "title": "모건스탠리, 엑손 모빌(XOM.US) 투자의견 Buy 유지, 목표주가 172달러로 상향 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67542730/morgan-stanley-maintains-exxon-mobil-xomus-with-buy-rating-raises?level=1&data_ticket=1774746856784244",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 11:48:00",
+      "title": "Viking Fund Management LLC, 엑손 모빌 코퍼레이션 $XOM 지분 963만 달러 보유 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-viking-fund-management-llc-has-963-million-holdings-in-exxon-mobil-corporation-xom-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 09:31:50",
+      "title": "Moody National Bank Trust Division, 엑손 모빌 코퍼레이션 $XOM 포지션 축소 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-moody-national-bank-trust-division-lowers-position-in-exxon-mobil-corporation-xom-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 09:17:37",
+      "title": "호르무즈 해협 봉쇄로 유가 상승, Exxon Mobil(XOM) 밸류에이션 점검 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/energy/nyse-xom/exxon-mobil/news/exxon-mobil-xom-valuation-check-as-strait-of-hormuz-closure",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 08:10:56",
+      "title": "체코 국립은행, Exxon Mobil Corporation $XOM 29,227주 매수 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-czech-national-bank-purchases-29227-shares-of-exxon-mobil-corporation-xom-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 07:27:51",
+      "title": "Exxon Mobil Corporation $XOM 주식을 매수한 ARS Wealth Advisors Group LLC - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exxon-mobil-corporation-xom-shares-bought-by-ars-wealth-advisors-group-llc-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 07:06:02",
+      "title": "(XOM) 가격 동향과 실행을 고려한 포지셔닝 - Stock Traders Daily",
+      "url": "https://news.stocktradersdaily.com/news_release/8/XOM_Price_Dynamics_and_Execution-Aware_Positioning_032726070602_1774609562.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 05:24:51",
+      "title": "Direxion Daily XOM Bull 2X Shares(NASDAQ:XOMX), 3월 공매도 잔고 38.2% 감소 - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/27/direxion-daily-xom-bull-2x-shares-nasdaqxomx-short-interest-down-38-2-in-march.html",
+      "sentiment": "Neutral"
+    },
+    {
       "date": "2026-03-26 21:43:42",
-      "title": "Exxon Mobil (NYSE:XOM) Trading Up 1.3% - Here's Why - MarketBeat",
+      "title": "엑손 모빌(NYSE:XOM) 1.3% 상승 - 이유는 이렇습니다 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-trading-up-13-heres-why-2026-03-26/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-26 18:14:39",
-      "title": "Iran Has Rejected the U.S.'s Ceasefire Proposal. Here's What That Could Mean for Oil Stocks in the Coming Weeks. - The Globe and Mail",
+      "title": "이란이 미국의 휴전 제안을 거부했다. 이것이 향후 몇 주간 유가 관련 주식에 의미하는 바는 다음과 같다. - The Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM-N/pressreleases/988977/iran-has-rejected-the-u-s-s-ceasefire-proposal-here-s-what-that-could-mean-for-oil-stocks-in-the-coming-weeks/",
       "sentiment": "Risk"
     },
     {
-      "date": "2026-03-26 18:02:33",
-      "title": "Bernstein Analyst Sees “Right Tail Risk,” Raises Exxon Mobil (XOM) Price Target - Insider Monkey",
-      "url": "https://www.insidermonkey.com/blog/bernstein-analyst-sees-right-tail-risk-raises-exxon-mobil-xom-price-target-1725510/?amp=1",
-      "sentiment": "Growth"
-    },
-    {
       "date": "2026-03-26 17:47:23",
-      "title": "Bernstein Analyst Sees “Right Tail Risk,” Raises Exxon Mobil (XOM) Price Target - Yahoo Finance",
+      "title": "Bernstein 애널리스트, ‘오른쪽 꼬리 위험’을 보고 엑손 모빌(XOM) 목표주가 상향 - Yahoo Finance",
       "url": "https://finance.yahoo.com/sectors/energy/articles/bernstein-analyst-sees-tail-risk-174723701.html",
-      "sentiment": "Growth"
+      "sentiment": "Risk"
     },
     {
       "date": "2026-03-26 10:12:02",
-      "title": "Pensionfund Sabic Takes Position in Exxon Mobil Corporation $XOM - MarketBeat",
+      "title": "Pensionfund Sabic, Exxon Mobil Corporation $XOM에 포지션 취득 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-pensionfund-sabic-takes-position-in-exxon-mobil-corporation-xom-2026-03-26/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-26 08:42:09",
-      "title": "Daymark Wealth Partners LLC Acquires 4,458 Shares of Exxon Mobil Corporation $XOM - Defense World",
+      "title": "Daymark Wealth Partners LLC, Exxon Mobil Corporation $XOM 주식 4,458주 매입 - Defense World",
       "url": "https://www.defenseworld.net/2026/03/26/daymark-wealth-partners-llc-acquires-4458-shares-of-exxon-mobil-corporation-xom.html",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-26 08:15:04",
-      "title": "Exxon Mobil New Zealand Exit Highlights Shift To Larger Core Projects - simplywall.st",
+      "title": "Exxon Mobil의 뉴질랜드 철수, 더 큰 핵심 프로젝트로의 전환을 부각 - simplywall.st",
       "url": "https://simplywall.st/stocks/us/energy/nyse-xom/exxon-mobil/news/exxon-mobil-new-zealand-exit-highlights-shift-to-larger-core",
-      "sentiment": "Neutral"
+      "sentiment": "Growth"
     },
     {
       "date": "2026-03-26 07:56:53",
-      "title": "Clear Trail Advisors LLC Makes New Investment in Exxon Mobil Corporation $XOM - MarketBeat",
+      "title": "Clear Trail Advisors LLC, Exxon Mobil Corporation $XOM에 신규 투자 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-clear-trail-advisors-llc-makes-new-investment-in-exxon-mobil-corporation-xom-2026-03-26/",
       "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 22:24:34",
-      "title": "Exxon Mobil (NYSE:XOM) Shares Down 1.4% - What's Next? - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-shares-down-14-whats-next-2026-03-25/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 20:05:26",
-      "title": "Key facts: Exxon Venezuela; Md. Suits Dismissed; Guyana Premium Deal - TradingView",
-      "url": "https://www.tradingview.com/news/tradingview:ca4464247692f:0-key-facts-exxon-venezuela-md-suits-dismissed-guyana-premium-deal/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 16:30:16",
-      "title": "Exxon says its team is in Venezuela evaluating oil opportunities - TradingView",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N40D14F:0-exxon-says-its-team-is-in-venezuela-evaluating-oil-opportunities/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-25 16:29:34",
-      "title": "CERAWEEK: EXXON'S UPSTREAM LEADER ANNOUNCES VENEZUELA TEAM ASSESSING GROUND RESOURCES - Intellectia AI",
-      "url": "https://intellectia.ai/news/stock/ceraweek-exxons-upstream-leader-announces-venezuela-team-assessing-ground-resources",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 14:00:17",
-      "title": "Oil Eases on De-Escalation Buzz but Risks Persist: 3 Stocks to Watch - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/944906/oil-eases-on-de-escalation-buzz-but-risks-persist-3-stocks-to-watch/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-25 12:25:16",
-      "title": "World Investment Advisors Has $36.48 Million Stake in Exxon Mobil Corporation $XOM - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-world-investment-advisors-has-3648-million-stake-in-exxon-mobil-corporation-xom-2026-03-25/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 12:22:29",
-      "title": "Exxon Mobil Corporation $XOM Shares Sold by Assenagon Asset Management S.A. - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/25/exxon-mobil-corporation-xom-shares-sold-by-assenagon-asset-management-s-a.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 12:21:16",
-      "title": "Exxon Mobil (NYSE:XOM) Shares Acquired Rep. Josh Gottheimer - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-shares-acquired-rep-josh-gottheimer-2026-03-25/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 12:00:00",
-      "title": "How Exxon Mobil Stock Gained 50% - Trefis",
-      "url": "https://www.trefis.com/stock/xom/articles2/594711/how-exxon-mobil-stock-gained-50-2/2026-03-25",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-25 11:50:00",
-      "title": "XOM Stock Near Highs — Is Exxon Just Getting Started? - Financial-News.co.uk",
-      "url": "https://www.financial-news.co.uk/xom-stock-near-highs-is-exxon-just-getting-started/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-25 10:12:15",
-      "title": "Exxon Mobil Corporation $XOM Shares Purchased by SG Americas Securities LLC - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-exxon-mobil-corporation-xom-shares-purchased-by-sg-americas-securities-llc-2026-03-25/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 09:45:40",
-      "title": "Asempa Wealth Advisors Makes New $1.41 Million Investment in Exxon Mobil Corporation $XOM - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/25/asempa-wealth-advisors-makes-new-1-41-million-investment-in-exxon-mobil-corporation-xom.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 08:30:31",
-      "title": "Diversified Trust Co. Increases Stock Position in Exxon Mobil Corporation $XOM - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/25/diversified-trust-co-increases-stock-position-in-exxon-mobil-corporation-xom.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 08:04:28",
-      "title": "Barclays Keeps Their Buy Rating on Exxon Mobil (XOM) - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/936630/barclays-keeps-their-buy-rating-on-exxon-mobil-xom/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-25 07:49:39",
-      "title": "Dynamic Advisor Solutions LLC Sells 12,955 Shares of Exxon Mobil Corporation $XOM - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-dynamic-advisor-solutions-llc-sells-12955-shares-of-exxon-mobil-corporation-xom-2026-03-25/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 07:15:17",
-      "title": "Exxon Mobil Corporation $XOM Shares Purchased by 180 Wealth Advisors LLC - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/25/exxon-mobil-corporation-xom-shares-purchased-by-180-wealth-advisors-llc.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 02:03:48",
-      "title": "RBC Capital Sticks to Their Hold Rating for Exxon Mobil (XOM) - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/933618/rbc-capital-sticks-to-their-hold-rating-for-exxon-mobil-xom/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 21:45:23",
-      "title": "Exxon Mobil (NYSE:XOM) Shares Up 2.5% - Here's Why - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-shares-up-25-heres-why-2026-03-24/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 21:45:02",
-      "title": "Why the Market Dipped But Exxon Mobil (XOM) Gained Today - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-exxon-mobil-214502123.html",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-24 20:15:52",
-      "title": "Exxon Mobil Stock Price Forecast - XOM at $164 — $4.5B Q1 Earnings Windfall and $186 Target - TradingNEWS",
-      "url": "https://www.tradingnews.com/news/exxonmobil-stock-price-forecast-xom-164-usd-is-either-the-set-up-before-2th-april",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-24 18:59:20",
-      "title": "DDFG Inc Has $3.67 Million Holdings in Exxon Mobil Corporation $XOM - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/24/ddfg-inc-has-3-67-million-holdings-in-exxon-mobil-corporation-xom.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 17:49:16",
-      "title": "Armstrong Advisory Group Inc. Increases Holdings in Exxon Mobil Corporation $XOM - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/24/armstrong-advisory-group-inc-increases-holdings-in-exxon-mobil-corporation-xom.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 15:37:00",
-      "title": "Exxon Mobil Stock Surges To All-Time High Tuesday - Benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51436200/exxon-mobil-stock-surges-to-all-time-high-tuesday",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-24 15:33:50",
-      "title": "Exxon Mobil (NYSE:XOM) Sets New 12-Month High - What's Next? - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-sets-new-12-month-high-whats-next-2026-03-24/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 14:15:36",
-      "title": "Exxon Mobil Corp Stock (XOM) Moved Up by 3.13% on Mar 24: Facts Behind the Movement - TradingKey",
-      "url": "https://www.tradingkey.com/news/Market-Movers/261714780-market-movers-xom-20260324",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-24 09:17:32",
-      "title": "Exxon Mobil’s New Guyana FEED Move And What It Means For Growth - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/energy/nyse-xom/exxon-mobil/news/exxon-mobils-new-guyana-feed-move-and-what-it-means-for-grow",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-24 09:06:34",
-      "title": "Barclays Maintains Exxon Mobil(XOM.US) With Buy Rating, Maintains Target Price $163 - Moomoo",
-      "url": "https://www.moomoo.com/news/post/67315815/barclays-maintains-exxon-mobil-xomus-with-buy-rating-maintains-target?level=1&data_ticket=1774573993196744",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-24 07:26:59",
-      "title": "Should You Pay Attention To Exxon Mobil Stock’s Momentum? - Trefis",
-      "url": "https://www.trefis.com/stock/xom/articles2/594377/should-you-pay-attention-to-exxon-mobil-stocks-momentum/2026-03-24",
-      "sentiment": "Growth"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-24 ──\n  [Neutral] Exxon Mobil (NYSE:XOM) Shares Up 2.5% - Here's Why - MarketBeat\n  [Positive] Why the Market Dipped But Exxon Mobil (XOM) Gained Today - Yahoo Finance\n  [Growth] Exxon Mobil Stock Price Forecast - XOM at $164 — $4.5B Q1 Earnings Windfall and $186 Target - TradingNEWS\n  [Neutral] DDFG Inc Has $3.67 Million Holdings in Exxon Mobil Corporation $XOM - Defense World\n  [Neutral] Armstrong Advisory Group Inc. Increases Holdings in Exxon Mobil Corporation $XOM - Defense World\n  [Growth] Exxon Mobil Stock Surges To All-Time High Tuesday - Benzinga\n  [Neutral] Exxon Mobil (NYSE:XOM) Sets New 12-Month High - What's Next? - MarketBeat\n  [Positive] Exxon Mobil Corp Stock (XOM) Moved Up by 3.13% on Mar 24: Facts Behind the Movement - TradingKey\n  [Growth] Exxon Mobil’s New Guyana FEED Move And What It Means For Growth - simplywall.st\n  [Positive] Barclays Maintains Exxon Mobil(XOM.US) With Buy Rating, Maintains Target Price $163 - Moomoo\n  [Growth] Should You Pay Attention To Exxon Mobil Stock’s Momentum? - Trefis\n\n── 2026-03-25 ──\n  [Neutral] Exxon Mobil (NYSE:XOM) Shares Down 1.4% - What's Next? - MarketBeat\n  [Neutral] Key facts: Exxon Venezuela; Md. Suits Dismissed; Guyana Premium Deal - TradingView\n  [Growth] Exxon says its team is in Venezuela evaluating oil opportunities - TradingView\n  [Neutral] CERAWEEK: EXXON'S UPSTREAM LEADER ANNOUNCES VENEZUELA TEAM ASSESSING GROUND RESOURCES - Intellectia AI\n  [Risk] Oil Eases on De-Escalation Buzz but Risks Persist: 3 Stocks to Watch - The Globe and Mail\n  [Neutral] World Investment Advisors Has $36.48 Million Stake in Exxon Mobil Corporation $XOM - MarketBeat\n  [Neutral] Exxon Mobil Corporation $XOM Shares Sold by Assenagon Asset Management S.A. - Defense World\n  [Neutral] Exxon Mobil (NYSE:XOM) Shares Acquired Rep. Josh Gottheimer - MarketBeat\n  [Growth] How Exxon Mobil Stock Gained 50% - Trefis\n  [Growth] XOM Stock Near Highs — Is Exxon Just Getting Started? - Financial-News.co.uk\n  [Neutral] Exxon Mobil Corporation $XOM Shares Purchased by SG Americas Securities LLC - MarketBeat\n  [Neutral] Asempa Wealth Advisors Makes New $1.41 Million Investment in Exxon Mobil Corporation $XOM - Defense World\n  [Neutral] Diversified Trust Co. Increases Stock Position in Exxon Mobil Corporation $XOM - Defense World\n  [Positive] Barclays Keeps Their Buy Rating on Exxon Mobil (XOM) - The Globe and Mail\n  [Neutral] Dynamic Advisor Solutions LLC Sells 12,955 Shares of Exxon Mobil Corporation $XOM - MarketBeat\n  [Neutral] Exxon Mobil Corporation $XOM Shares Purchased by 180 Wealth Advisors LLC - Defense World\n  [Neutral] RBC Capital Sticks to Their Hold Rating for Exxon Mobil (XOM) - The Globe and Mail\n\n── 2026-03-26 ──\n  [Neutral] Exxon Mobil (NYSE:XOM) Trading Up 1.3% - Here's Why - MarketBeat\n  [Risk] Iran Has Rejected the U.S.'s Ceasefire Proposal. Here's What That Could Mean for Oil Stocks in the Coming Weeks. - The Globe and Mail\n  [Growth] Bernstein Analyst Sees “Right Tail Risk,” Raises Exxon Mobil (XOM) Price Target - Insider Monkey\n  [Growth] Bernstein Analyst Sees “Right Tail Risk,” Raises Exxon Mobil (XOM) Price Target - Yahoo Finance\n  [Neutral] Pensionfund Sabic Takes Position in Exxon Mobil Corporation $XOM - MarketBeat\n  [Neutral] Daymark Wealth Partners LLC Acquires 4,458 Shares of Exxon Mobil Corporation $XOM - Defense World\n  [Neutral] Exxon Mobil New Zealand Exit Highlights Shift To Larger Core Projects - simplywall.st\n  [Neutral] Clear Trail Advisors LLC Makes New Investment in Exxon Mobil Corporation $XOM - MarketBeat",
-    "sentiment_block": "총 뉴스 36건 분석 결과:\n  Positive     4건 ( 11.1%) ██\n  Growth       9건 ( 25.0%) █████\n  Neutral     21건 ( 58.3%) ███████████\n  Mixed        0건 (  0.0%) \n  Risk         2건 (  5.6%) █\n  Negative     0건 (  0.0%) \n\n날짜별 감정 흐름:\n  2026-03-24: Neutral:4, Growth:4, Positive:3\n  2026-03-25: Neutral:12, Growth:3, Risk:1, Positive:1\n  2026-03-26: Neutral:5, Growth:2, Risk:1",
-    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 1  Buy: 22  Hold: 26  Sell: 4  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $183  Low: $123  Consensus: $146.77  Median: $145\n▶ DCF 내재가치\n  DCF: $118.81339067832242  현재가: $N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
+    "news_block": "\n── 2026-03-26 ──\n  [Neutral] 엑손 모빌(NYSE:XOM) 1.3% 상승 - 이유는 이렇습니다 - MarketBeat\n  [Risk] 이란이 미국의 휴전 제안을 거부했다. 이것이 향후 몇 주간 유가 관련 주식에 의미하는 바는 다음과 같다. - The Globe and Mail\n  [Risk] Bernstein 애널리스트, ‘오른쪽 꼬리 위험’을 보고 엑손 모빌(XOM) 목표주가 상향 - Yahoo Finance\n  [Neutral] Pensionfund Sabic, Exxon Mobil Corporation $XOM에 포지션 취득 - MarketBeat\n  [Neutral] Daymark Wealth Partners LLC, Exxon Mobil Corporation $XOM 주식 4,458주 매입 - Defense World\n  [Growth] Exxon Mobil의 뉴질랜드 철수, 더 큰 핵심 프로젝트로의 전환을 부각 - simplywall.st\n  [Neutral] Clear Trail Advisors LLC, Exxon Mobil Corporation $XOM에 신규 투자 - MarketBeat\n\n── 2026-03-27 ──\n  [Positive] 애널리스트 상향 조정 후 엑손 모빌(NYSE:XOM) 거래 3.5% 상승 - MarketBeat\n  [Risk] 오늘 엑손모빌(XOM) 주가가 상승한 이유 - The Globe and Mail\n  [Neutral] 급등하는 원유 가격 속 엑손모빌의 향후 전망은? - Zacks Investment Research\n  [Positive] 유가 95달러 돌파: 엑손모빌 사업 모델의 순풍인가, 함정인가? - The Globe and Mail\n  [Positive] 엑손 모빌 주식(XOM), 3월 27일 3.00% 상승: 핵심 동인 공개 - TradingKey\n  [Positive] 엑손 모빌(NYSE:XOM) 목표주가 172.00달러로 상향 - MarketBeat\n  [Positive] 엑손 모빌이 이제 엔비디아 주식보다 더 비싸졌다. 이유는 무엇이며, XOM은 여기서 어떻게 대응해야 할까? - inkl\n  [Positive] 모건스탠리, 엑손 모빌(XOM.US) 투자의견 Buy 유지, 목표주가 172달러로 상향 - Moomoo\n  [Neutral] Viking Fund Management LLC, 엑손 모빌 코퍼레이션 $XOM 지분 963만 달러 보유 - MarketBeat\n  [Neutral] Moody National Bank Trust Division, 엑손 모빌 코퍼레이션 $XOM 포지션 축소 - MarketBeat\n  [Positive] 호르무즈 해협 봉쇄로 유가 상승, Exxon Mobil(XOM) 밸류에이션 점검 - simplywall.st\n  [Neutral] 체코 국립은행, Exxon Mobil Corporation $XOM 29,227주 매수 - MarketBeat\n  [Neutral] Exxon Mobil Corporation $XOM 주식을 매수한 ARS Wealth Advisors Group LLC - MarketBeat\n  [Neutral] (XOM) 가격 동향과 실행을 고려한 포지셔닝 - Stock Traders Daily\n  [Neutral] Direxion Daily XOM Bull 2X Shares(NASDAQ:XOMX), 3월 공매도 잔고 38.2% 감소 - Defense World\n\n── 2026-03-28 ──\n  [Positive] 오늘의 유가 랠리와 강세 차트가 맞물리며 엑손 주가 급등 - Yahoo Finance Australia\n  [Growth] 엑손 모빌, 이번 주 7% 상승. 2026년 주가는 어디까지 갈 수 있나 - TIKR.com\n  [Positive] 애널리스트들의 에너지 최선호 종목: 엑손 모빌(XOM), 골라 LNG(GLNG) - The Globe and Mail\n  [Growth] 지금 엑손모빌에 대해 모든 것을 말해주는 단 하나의 숫자 - The Motley Fool\n  [Risk] 엑손 모빌(XOM), 새 부채와 뉴질랜드 철수로 포트폴리오를 조용히 재구성하고 있나? - simplywall.st\n  [Neutral] Signal Advisors Wealth LLC, Exxon Mobil Corporation $XOM 주식 매수 - MarketBeat\n  [Neutral] Stokes Capital Advisors LLC, Exxon Mobil Corporation $XOM 주식 17,308주 매수 - MarketBeat\n  [Neutral] Ferguson Wellman Capital Management Inc., Exxon Mobil Corporation $XOM 주식 매수 - MarketBeat\n  [Neutral] Argentarii LLC, Exxon Mobil Corporation $XOM 주식 매입 - Defense World\n  [Negative] Exxon Mobil 주가 120달러까지? - Trefis\n  [Positive] 애널리스트 상향 조정 후 엑손 모빌(NYSE:XOM) 주가 3.5% 상승 - Defense World\n  [Mixed] 엑손 모빌(NYSE:XOM) 옵션 거래량 이례적으로 급증 - MarketBeat",
+    "sentiment_block": "총 뉴스 34건 분석 결과:\n  Positive    10건 ( 29.4%) █████\n  Growth       3건 (  8.8%) █\n  Neutral     15건 ( 44.1%) ████████\n  Mixed        1건 (  2.9%) \n  Risk         4건 ( 11.8%) ██\n  Negative     1건 (  2.9%) \n\n날짜별 감정 흐름:\n  2026-03-26: Neutral:4, Risk:2, Growth:1\n  2026-03-27: Positive:7, Neutral:7, Risk:1\n  2026-03-28: Neutral:4, Positive:3, Growth:2, Risk:1, Negative:1, Mixed:1",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 1  Buy: 22  Hold: 26  Sell: 4  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $183  Low: $123  Consensus: $146.77  Median: $145\n▶ 실적 추정치 (2030-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $118.81339067832242  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B+  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "# 엑손모빌(XOM) 투자 분석 보고서\n\n## [핵심 요약]\n\n* **주가 모멘텀**: 3월 24일 사상 최고가 기록 후 변동성 증가 (24일 +3.13%, 25일 -1.4%, 26일 +1.3%)\n* **실적 기대감**: Q1 $4.5B 수익 예상 및 $186 목표주가 제시로 성장성 강조\n* **전략적 확장**: 베네수엘라 유전 기회 평가 및 가이아나 프로젝트 진행으로 장기 성장 동력 마련\n* **지정학적 리스크**: 이란의 휴전 제안 거부로 유가 변동성 증가 가능성\n* **기관 투자자 활동**: 대규모 기관들의 지속적인 매수 활동으로 수급 견조\n\n---\n\n## [전체 흐름 분석]\n\n**가격 및 펀더멘탈 측면:**\n지난 3일간 XOM은 단기 변동성을 보이면서도 구조적 상승 흐름을 유지했습니다. 3월 24일 사상 최고가 달성 후 일부 익절에도 불구하고 3월 26일 다시 상승으로 돌아선 것은 펀더멘탈 개선이 단기 수정을 상쇄하고 있음을 시사합니다.\n\n**감정 분석 추이:**\n- **3월 24일**: Growth(4건), Positive(3건) 중심으로 강한 긍정 감정 (11건 중 7건 긍정)\n- **3월 25일**: Neutral(12건)로 급변하며 심화되었으나, Growth 소식 지속 및 Risk 1건만 노출\n- **3월 26일**: 다시 Growth 중심의 분석으로 복귀 (2건 growth 포함)\n\n이는 단기 기술적 조정 후 기본 가치 평가로 복귀하는 정상적 시장 사이클을 반영합니다.\n\n**기관 투자자 활동:**\n- 22개 기관의 신규 매수/증액 (3일간)\n- Barclays 지속적 Buy 레이팅 유지\n- 대형 자산운용사들의 적극적 포지션 구축\n\n---\n\n## [긍정 요인]\n\n* **실적 개선 시그널**: Q1 $4.5B 수익 예상으로 분기별 강화 추세 확인\n* **성장 프로젝트 진행**: \n  - 가이아나 FEED(Front-End Engineering Design) 진행으로 차세대 생산능력 확보\n  - 베네수엘라 유전 평가팀 파견으로 신규 기회 발굴\n* **애널리스트 강기조**: Buy 22건 vs Sell 4건의 압도적 긍정 평가 (5.5:1 비율)\n* **목표주가 상향**: Bernstein이 \"Right Tail Risk\" 언급하며 목표가 상향 조정\n* **수급 견조**: 기관 투자자들의 지속적 매수로 공급 부족 상황\n* **기술적 강세**: 사상 최고가 달성 및 12개월 신고가 경신으로 상승 추세 확인\n\n---\n\n## [부정 요인]\n\n* **지정학적 불확실성**: \n  - 이란의 휴전 제안 거부로 중동 지역 긴장 고조\n  - 유가 변동성 확대 가능 (단, 에너지 기업에는 양날의 검)\n* **단기 조정 신호**: 3월 25일 -1.4% 하락으로 수익 실현 움직임 포착\n* **가치평가 괴리**:\n  - DCF 내재가치($118.81) vs 목표주가($146.77): 23.5% 상향 편차\n  - 현재 시장 기대가 높은 수준에 내재\n* **뉴진랜드 사업 축소**: 전략적 포트폴리오 조정으로 특정 지역 철수\n* **분석가 등급의 혼재**: Hold 26건으로 절반가량이 추가 상승을 제한적으로 평가\n* **내재가치 vs 컨센서스 괴리**: DCF 기준 현 가격이 고평가 상태 가능성\n\n---\n\n## [투자 인사이트]\n\n**시장의 이중 신호:**\n감정 분석에서 58.3%의 Neutral이 지배적이면서도 애널리스트의 68.75%(22/32)가 Buy를 유지하는 것은, 시장이 현재 가격을 \"적절한 수준\"으로 평가하되 추가 상승 여력을 제한적으로 본다는 의미입니다. 이는 XOM이 이"
+  "investment_judgment": "[핵심 요약]\n* 최근 3일(03/26~03/28) 동안 XOM은 **유가 상승 흐름**과 **애널리스트 목표주가 상향/투자의견 유지(Buy 계열 다수)**가 동력으로 작용하며 주가가 강세를 보임(03/27 +3.5%, 03/28 추가 급등/7% 주간 상승 언급).\n* 동시에 **이란 휴전 제안 거부** 및 **호르무즈 해협 봉쇄 언급** 등 지정학 리스크가 유가를 밀어 올렸지만, 한편으로는 **뉴질랜드 철수/부채 관련 포트폴리오 재구성** 같은 비용·구조조정 불확실성도 같이 제기됨.\n* 감정분석은 전체적으로 **Neutral 비중이 가장 크고(44.1%)**, Positive가 누적되며(29.4%) 단기 모멘텀 우위가 확인됨.\n\n[전체 흐름 분석]\n* 03/26~03/27: 유가 관련 지정학(중동) 이슈가 시장의 **에너지 섹터 프라이싱(리스크 프리미엄 확대)**을 자극했고, 이에 맞춰 **애널리스트의 상향 조정(목표주가 172달러로 상향 언급 포함)**이 결합되며 수급·기대가 개선됨.\n* 03/28: 유가 랠리와 강세 차트가 맞물리며 주가가 추가로 강해졌고, 동시에 **뉴질랜드 철수/부채로 인한 포트폴리오 재구성** 같은 ‘구조적 재배치’ 이슈가 리스크로 관측됨. 즉, **상승 동력(유가·월가 코멘트)**과 **불확실성(재편·레버리지/비용 관점)**이 병존하는 흐름.\n\n[긍정 요인]\n* **애널리스트 상향 조정이 연속적으로 확인**: 03/27에 “상향 조정 후 3.5% 상승”, 목표주가 상향(172달러 언급) 및 모건스탠리 Buy 유지/목표주가 상향이 같이 관측됨.\n* **유가 상승이 직접적인 주가 동인**: “급등하는 원유 가격” “유가 95달러 돌파” “호르무즈 해협 봉쇄로 유가 상승” 등, 뉴스 컨텍스트가 일관되게 **XOM의 단기 실적/현금흐름 기대에 긍정**으로 연결됨.\n* **에너지 선호 종목으로 재확인**: “애널리스트들의 에너지 최선호 종목: XOM”처럼 섹터 내 상대 매력도가 강조됨.\n* 감정 흐름도 03/27~03/28에 **Positive 비중이 증가**(03/27 Positive 7)하며 단기 투자심리가 개선.\n\n[부정 요인]\n* **지정학 리스크는 ‘상승 재료’이면서도 변동성 요인**: 이란 휴전 제안 거부 등은 유가를 지지할 수 있지만, “향후 몇 주간 유가 관련 주식 의미”처럼 **불확실성 자체가 큰 변수**로 남음.\n* **구조조정/재무 관련 우려**: “새 부채와 뉴질랜드 철수로 포트폴리오를 조용히 재구성” 가능성이 리스크로 제기됨. 즉, 단기 유가 모멘텀과 별개로 **중장기 자본지출·레버리지 부담** 관점의 해석 여지가 있음.\n* **밸류에이션에 대한 시각차**: “XOM이 엔비디아보다 비싸졌다” 같은 표현은 가격 부담/비선형 기대를 시사할 수 있고, 반대로 “120달러까지?”처럼 하방 시나리오도 존재(다만 이는 단일 기사 성격).\n\n[투자 인사이트]\n* 결론적으로 최근 3일의 주가 강세는 **(1) 유가 상승(지정학 프리미엄) + (2) 애널리스트 상향/목표주가 인상**이 맞물린 결과로 보입니다.  \n* 투자 관점에서는 “유가가 계속 오르면” 단기 모멘텀이 이어질 가능성이 높지만, 동시에 뉴스에서 반복되는 **포트폴리오 재구성(뉴질랜드 철수)과 부채 관련 재배치**는 상승기에 더해질 경우가 있고, 이 부분이 확인되지 않으면 **상승 후 조정(기대가 과도해질 때)** 리스크가 커질 수 있습니다.\n* 애널리스트 커버리지 상으로는 Sell이 소수(총 Strong Buy 1, Buy 22, Hold 26, Sell 4)이고 목표주가 컨센서스(146.77, Low 123 ~ High 183)가 폭이 있으므로, 지금 구간은 “기회와 불확실성이 함께 큰 구간”으로 해석하는 것이 타당합니다.\n\n[투자 판단]\n**투자: 보류(관망 후 진입) — 단, 단기 트레이딩/비중 확대는 ‘유가 흐름 확인’ 조건부로 접근 권고.**\n\n[판단 근거]\n* **근거 1(상승 동력 우위)**: 03/27~03/28에 걸친 유가 관련 강세와 애널리스트 목표주가 상향이 연속적으로 등장하며, 감정도 Positive 누적이 있어 단기 상승 논리가 명확합니다.\n* **근거 2(리스크도 동반)**: 이란/호르무즈 관련 지정학은 유가를 지지하지만 변동성을 키우고, 뉴질랜드 철수·부채로 인한 재구성 우려가 병존합니다. 즉, “좋은 뉴스로만” 설명되지 않습니다.\n* **근거 3(의사결정의 불확실성)**: 애널리스트 평가가 Buy/Hold 중심이어서(Strong Sell 0, Sell 4) 방향성은 긍정적이지만, 컨센서스 목표주가 범위(123~183) 폭이 커서 현재 가격대에서의 업사이드/다운사이드를 단정하기 어렵습니다.\n* 따라서 현재 시점의 최적 행동은 **유가 및 지정학 전개(상승 지속 여부)와 XOM의 포트폴리오 재구성/부채 관련 코멘트가 추가로 확인되는지**를 보고 들어가는 “보류”가 합리적입니다."
 }

@@ -1,467 +1,444 @@
 {
   "meta": {
     "symbol": "V",
-    "analysis_date": "2026-03-29T00:21:18.063394+00:00",
-    "news_period": "2026-03-24 ~ 2026-03-26",
-    "news_count": 71,
-    "model": "claude-haiku-4-5-20251001"
+    "analysis_date": "2026-03-29T03:40:00.138418+00:00",
+    "news_period": "2026-03-26 ~ 2026-03-28",
+    "news_count": 67,
+    "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 56,
-    "Growth": 9,
-    "Negative": 2,
-    "Positive": 2,
-    "Risk": 1,
-    "Mixed": 1
+    "Neutral": 49,
+    "Negative": 7,
+    "Risk": 7,
+    "Positive": 4
   },
   "sentiment_by_date": {
-    "2026-03-24": {
-      "Neutral": 1
-    },
-    "2026-03-25": {
-      "Neutral": 5
-    },
     "2026-03-26": {
-      "Neutral": 50,
-      "Growth": 9,
-      "Negative": 2,
-      "Positive": 2,
+      "Neutral": 3,
       "Risk": 1,
-      "Mixed": 1
+      "Positive": 1,
+      "Negative": 1
+    },
+    "2026-03-27": {
+      "Neutral": 8,
+      "Negative": 5,
+      "Risk": 4
+    },
+    "2026-03-28": {
+      "Neutral": 38,
+      "Positive": 3,
+      "Risk": 2,
+      "Negative": 1
     }
   },
   "news_with_sentiment": [
     {
-      "date": "2026-03-26 23:58:58",
-      "title": "Roger Machado drills attack v defence at São Paulo CT: watch - OneFootball",
-      "url": "https://onefootball.com/en/news/roger-machado-drills-attack-v-defence-at-sao-paulo-ct-watch-42621441",
+      "date": "2026-03-28 23:59:37",
+      "title": "Brooklyn vs. Louisville (28 Mar, 2026) 실시간 스코어 - ESPN",
+      "url": "https://africa.espn.com/football/match/_/gameId/401841704",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 23:58:32",
-      "title": "MA v. Judy Church: Death by Antifreeze Trial - Court TV",
-      "url": "https://www.courttv.com/news/ma-v-judy-church-death-by-antifreeze-trial/",
+      "date": "2026-03-28 22:51:00",
+      "title": "역사 속 오늘: United States v. Wong Kim Ark에서 판결이 내려지다 - WDBJ7",
+      "url": "https://www.wdbj7.com/2026/03/28/this-day-history-ruling-made-united-states-v-wong-kim-ark/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 23:51:14",
-      "title": "Watch UEFA WCL Extended Highlights: Arsenal FC v Chelsea | Disney+ - Disney Plus",
-      "url": "https://www.disneyplus.com/",
+      "date": "2026-03-28 22:51:00",
+      "title": "역사 속 오늘: United States v. Wong Kim Ark에서 판결이 내려지다 - WDBJ7",
+      "url": "https://www.wdbj7.com/video/2026/03/28/this-day-history-ruling-made-united-states-v-wong-kim-ark/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 23:06:29",
-      "title": "Supreme Court Recalibrates Sovereign Immunity for State-Created Entities - The National Law Review",
-      "url": "https://natlawreview.com/article/supreme-court-recalibrates-sovereign-immunity-state-created-entities",
+      "date": "2026-03-28 22:36:43",
+      "title": "McFarlane Toys ‘Superman Returns’와 ‘Batman v Superman: Dawn of Justice’ 슈퍼맨 액션 피규어 첫 공개 - Superman Homepage",
+      "url": "https://www.supermanhomepage.com/first-look-at-mcfarlane-toys-superman-returns-and-batman-v-superman-dawn-of-justice-superman-action-figures/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 23:00:00",
-      "title": "World Cup qualifiers: Bosnia knock Wales out on penalties; Dzeko to face Italy - Goal.com",
-      "url": "https://www.goal.com/en-us/lists/world-cup-qualifiers-bosnia-knock-wales-out-on-penalties-dzeko-to-face-italy/blta8cb2c00ebc15977",
+      "date": "2026-03-28 22:29:35",
+      "title": "Jannik Sinner 대 Jiri Lehecka 경기 시작 시간과 Miami Open 결승 시청 방법 - Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/jannik-sinner-v-jiri-lehecka-181251744.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-28 22:25:00",
+      "title": "매사추세츠에서 Atlas V 로켓 발사를 볼 수 있을지도 모릅니다. 언제 보면 되는지 안내합니다 - Wicked Local",
+      "url": "https://www.wickedlocal.com/story/news/2026/03/28/atlas-v-rocket-launch-massachusetts-visibility-how-to-watch-boston-ma/89345389007/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 22:56:15",
-      "title": "Henry V with Alfred Enoch at the RSC’s Royal Shakespeare Theatre – review - WhatsOnStage",
-      "url": "https://www.whatsonstage.com/news/henry-v-with-alfred-enoch-at-the-rscs-royal-shakespeare-theatre-review_1716264/",
+      "date": "2026-03-28 22:13:02",
+      "title": "Saracens 대 Northampton: '모든 것을 걸었다'는 식의 선택이 결국 통했고, 버티는 아스널 팬의 토트넘 밤을 망치다 - Planet Rugby",
+      "url": "https://www.planetrugby.com/news/saracens-v-northampton-winners-and-losers-as-bet-the-house-style-ultimately-pays-off-to-ruin-resilient-arsenal-fans-night-at-spurs",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 22:54:44",
-      "title": "Patricia V. Souza - The Press Democrat",
-      "url": "https://www.pressdemocrat.com/obituaries/patricia-v-souza-petaluma-ca/",
+      "date": "2026-03-28 21:53:02",
+      "title": "Saracens 대 Northampton: Saints가 '순간들의 경기'에서 승리하며 뽑아낸 다섯 가지 시사점 - Planet Rugby",
+      "url": "https://www.planetrugby.com/news/saracens-v-northampton-five-takeaways-as-saints-come-out-on-top-in-a-game-of-moments-while-the-arithmetic-is-uncomfortable-for-sarries",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 22:46:10",
-      "title": "‘BTS: The Return’: Six Things We Learned From the Revealing New Documentary - Rolling Stone",
-      "url": "https://www.rollingstone.com/music/music-features/bts-the-return-netflix-documentary-things-we-learned-1235535592/",
+      "date": "2026-03-28 21:37:18",
+      "title": "USMNT 대 벨기에 선수 평점 — 대패 속에서 Pochettino에게도 희망의 불씨가 있었나? - NBC Sports",
+      "url": "https://www.nbcsports.com/soccer/news/usmnt-versus-belgium-player-ratings-were-there-any-silver-linings-for-pochettino-in-blowout-loss",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-28 21:35:36",
+      "title": "여자: 후반 90+6분 골로 Benfica B 대 FC Porto 무승부 - OneFootball",
+      "url": "https://onefootball.com/en/news/women-906-goal-earns-draw-in-benfica-b-v-fc-porto-42629649",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 22:39:03",
-      "title": "World Cup Qualifiers: Wales v Bosnia LIVE - Goal.com",
-      "url": "https://www.goal.com/en/lists/world-cup-qualifiers-wales-v-bosnia-live-on-penalties/blta8cb2c00ebc15977",
+      "date": "2026-03-28 20:46:06",
+      "title": "아메리칸사모아 0-6 괌 (2026년 3월 28일) 최종 스코어 - ESPN",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401867002/guam-american-samoa",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 22:22:56",
-      "title": "V-Soft Consulting acquires Logisolve - Staffing Industry Analysts",
-      "url": "https://www.staffingindustry.com/news/global-daily-news/v-soft-consulting-acquires-logisolve",
-      "sentiment": "Growth"
+      "date": "2026-03-28 20:45:07",
+      "title": "아벨라네다 더비를 앞두고, 라싱이 산 마르틴 데 포르모사와 코파 아르헨티나를 시작한다 - OneFootball",
+      "url": "https://onefootball.com/en/news/before-avellaneda-derby-racing-open-copa-argentina-v-san-martin-de-formosa-42629370",
+      "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 22:16:55",
-      "title": "Memphis reported to STJD over phone use in Corinthians v Flamengo, could face ban - OneFootball",
-      "url": "https://onefootball.com/en/news/memphis-reported-to-stjd-over-phone-use-in-corinthians-v-flamengo-could-face-ban-42621080",
+      "date": "2026-03-28 20:21:41",
+      "title": "상파울루 대 크루제이루: 티켓 판매 중, 일정 확인 - OneFootball",
+      "url": "https://onefootball.com/de/news/sao-paulo-v-cruzeiro-tickets-on-sale-see-the-schedule-42630042",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 20:13:02",
+      "title": "스톰러스 대 에든버러: 에번 루스가 스프링복스 선발 경쟁을 ‘강화’했다는 등 5가지 포인트와 윙 윌름세에 대한 평가 - Planet Rugby",
+      "url": "https://www.planetrugby.com/news/stormers-v-edinburgh-five-takeaways-as-evan-roos-enhances-springboks-bid-while-dobbos-bomb-squad-blasts-scots-away",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 20:00:18",
+      "title": "BMW M 모델에 도전하는 미국산 퍼포먼스 카 - Top Speed",
+      "url": "https://www.topspeed.com/american-performance-car-challenges-bmw-m-models/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 19:50:58",
+      "title": "Rio Breogan 대 BAXI Manresa - Courtside 1891",
+      "url": "https://www.courtside1891.basketball/videos/4478141/rio-breogan-v-baxi-manresa",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 19:10:34",
+      "title": "😤 보스니아전 세리머니에 대한 디마르코: 거만하다고? 네가 무슨 권리로.. - OneFootball",
+      "url": "https://onefootball.com/en/news/dimarco-on-his-clip-v-bosnia-arrogant-what-gives-you-the-right-42629283",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 19:07:00",
+      "title": "😤 보스니아전 세리머니에 대한 디마르코: 거만하다고? 네가 무슨 권리로.. - Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/dimarco-clip-v-bosnia-arrogant-190700560.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 19:00:00",
+      "title": "아벨라네다 더비를 앞두고, 라싱은 코파 아르헨티나에서 산 마르틴과 데뷔전 - OneFootball",
+      "url": "https://onefootball.com/en/news/ahead-of-avellaneda-derby-racing-debut-in-copa-argentina-v-san-martin-42629370",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 18:46:03",
+      "title": "부상으로 세네갈-페루 쇼 출연 무산된 Booba - OneFootball",
+      "url": "https://onefootball.com/fr/news/booba-ruled-out-of-senegal-v-peru-show-with-serious-injury-42629253",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 18:45:12",
+      "title": "40년이 지난 지금, 최고의 SF 클래식은 마침내 필요한 리부트를 받아야 할 때다 - Collider",
+      "url": "https://collider.com/v-sci-fi-tv-show-reboot-series/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 18:45:00",
+      "title": "앨라배마 대 NDSU 프리뷰 - 소프트볼 - WVUA 23",
+      "url": "https://www.wvua23.com/sports/alabama-v-ndsu-preview---softball/article_70fc7333-7606-49a2-bbde-23f6e403d9cb.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-28 18:43:47",
+      "title": "샤크스, 블루 재키츠전 패배 끊고 긍정적 흐름 이어가길 기대 - Sharks Hockey Digest",
+      "url": "https://sharkshockeydigest.com/san-jose-sharks-columbus-blue-jackets-road-trip-finish-stanley-cup-playoffs/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 18:14:00",
+      "title": "전편 영상: Liverpool FC Legends 2-2 Borussia Dortmund Legends, 안필드에서 - Liverpool FC",
+      "url": "https://www.liverpoolfc.com/news/saturday-watch-liverpool-fc-legends-v-borussia-dortmund-legends-live-anfield",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 18:03:02",
+      "title": "Connacht 대 Ospreys: 옐로카드로 무너진 '끊임없는 가시'에서 얻은 다섯 가지 시사점 - Planet Rugby",
+      "url": "https://www.planetrugby.com/news/connacht-v-ospreys-five-takeaways-as-constant-thorn-undone-by-yellow-card-and-hosts-get-timely-prompt-from-two-try-hero",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 17:46:47",
+      "title": "United Women 대 City 경기 티켓 및 정보 - Manchester United",
+      "url": "https://www.manutd.com/en/news/detail/get-tickets-for-united-women-v-man-city-28-march-2026",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 16:53:15",
+      "title": "Miedema의 빠른 연속 득점 | Manchester United v Manchester City - WSL Football",
+      "url": "https://www.wslfootball.com/video/wsl/miedema-bags-rapid-brace-manchester-united-v-manchester-city-barclays-wsl-25-26-x2032",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 16:00:00",
+      "title": "지역 비즈니스 조명: Eastport Acupuncture – Nicholas V. Buscemi - Eye On Annapolis",
+      "url": "https://www.eyeonannapolis.net/2026/03/local-business-spotlight-eastport-acupuncture-nicholas-v-buscemi/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 15:43:03",
+      "title": "Gloucester 대 Leicester: Steve Borthwick가 Villa Park의 마법을 '무시하면 어리석을' 다섯 가지 포인트 - Planet Rugby",
+      "url": "https://www.planetrugby.com/news/gloucester-v-leicester-five-takeaways-as-steve-borthwick-would-be-foolish-to-ignore-villa-park-magic-after-tigers-dismantled-cherry-and-whites",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-28 15:08:01",
+      "title": "Bulls 대 Munster: Springboks 스타가 '심판실에 의해 구제'된 가운데 Jack Crowley와 함께한 아일랜드 프로빈스는 '완전히 다른 팀'이라는 다섯 가지 포인트 - Planet Rugby",
+      "url": "https://www.planetrugby.com/news/bulls-v-munster-five-takeaways-as-springboks-star-is-saved-by-the-bunker-while-irish-province-a-different-beast-with-jack-crowley",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 14:10:11",
+      "title": "심각한 신뢰성 문제를 지닌 작은 Honda SUV와 이를 구매하는 방법 - carbuzz.com",
+      "url": "https://carbuzz.com/honda-hrv-tiny-suv-magic-seats/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 13:56:14",
+      "title": "Pauline (Mosley) Petrosky 부고 - Ronald V. Hall Funeral Home",
+      "url": "https://www.ronaldvhall.com/obituary/Pauline-Petrosky",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 13:54:56",
+      "title": "Borussia Dortmund Legends전 Liverpool FC Legends 확정 라인업 - Liverpool FC",
+      "url": "https://www.liverpoolfc.com/news/confirmed-liverpool-fc-legends-line-v-borussia-dortmund-legends",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 13:21:29",
+      "title": "이탈리아 대 보스니아전 앞두고: Retegui, Politano, Barella가 Pio, Palestra, Cristante보다 월드컵 플레이오프 결승에서 뛸 자격이 더 있는가? - Goal.com",
+      "url": "https://www.goal.com/en/lists/ahead-of-bosnia-v-italy-do-retegui-politano-and-barella-deserve-to-play-in-the-world-cup-play-off-final-more-than-esposito-palestra-and-cristante/blt2870beb0ee28997e",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 13:01:22",
+      "title": "어떤 Dodge 머슬카가 테스트 성능이 더 좋은가: 새 6기통 Charger인가, 아니면 구형 V-8 Challenger인가? - Car and Driver",
+      "url": "https://www.caranddriver.com/news/a70783117/dodge-charger-six-cylinder-vs-challenger-v8-test-results-compared/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 12:58:46",
+      "title": "Gallagher PREM 2025-26: Saracens 대 Northampton Saints 생중계 - Rugby World",
+      "url": "https://www.rugbyworld.com/tournaments/gallagher-premiership/watch-saracens-v-northampton-saints-prem-rugby-2025-26-182978",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 12:49:21",
+      "title": "경기 미리보기 | Crystal Palace 대 Charlton - Charlton Athletic Football Club",
+      "url": "https://www.charltonafc.com/news/match-preview-crystal-palace-v-charlton-1",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 11:44:40",
+      "title": "리그 원 & 리그 투: Harrogate v Notts County가 일정의 시작 - Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/league-one-two-harrogate-v-114440455.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 10:05:00",
+      "title": "이란의 호르무즈 통행료 부스는 트레이더들이 원하는 V자형 회복이 아니라 L자형 가격 정체를 가리킨다 - Fortune",
+      "url": "https://fortune.com/2026/03/28/iran-hormuz-oil-price-l-shaped-plateau-not-v-recovery/",
       "sentiment": "Risk"
     },
     {
+      "date": "2026-03-28 09:01:00",
+      "title": "Section V 남자 라크로스 시즌이 시작되며 알아두면 좋은 중요 일정",
+      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/28/important-dates-as-2026-section-v-boys-lacrosse-season-begins/89327216007/?gca-cat=p&gnt-cfr=1",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 09:00:00",
+      "title": "맨체스터 유나이티드 대 시티 경기를 TV로 어떻게 볼 수 있나요? - Manchester City FC",
+      "url": "https://www.mancity.com/news/womens/united-v-city-women-tv-listings-63909856",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 08:00:00",
+      "title": "2026년에도 우승을 노리는 Section V 소프트볼 챔피언들 - Democrat and Chronicle",
+      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/28/section-v-softball-champions-looking-to-defend-titles-in-2026/89327232007/?gca-cat=p&gnt-cfr=1",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 07:41:01",
+      "title": "이탈리아 대 보스니아 -3: 아주리군단은 휴식 후 다시 그라운드에 나선다. 피오는 레테귀와 맞붙고, 바스토니는 제 컨디션이 아니다. 알라예고비치: “아주 거칠 것이다” - Goal.com",
+      "url": "https://www.goal.com/en/lists/italy-v-bosnia-3-the-azzurri-take-to-the-pitch-scamacca-joins-the-squad-pio-faces-off-against-retegui-bastoni-is-not-at-his-best/blt24cca1eea6313d3e",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-28 07:22:31",
+      "title": "시드니 FC 대 멜버른 V (2026년 3월 28일) 실시간 스코어 - ESPN",
+      "url": "https://www.espn.com/soccer/match/_/gameId/758673",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 21:28:02",
+      "title": "마리아 드라이브 차량 대 보행자 충돌 사고 운전자, 보석 없이 석방 - Point/Plover Metro Wire",
+      "url": "https://spmetrowire.com/driver-in-maria-drive-car-v-pedestrian-crash-released-without-bond/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-27 20:46:57",
+      "title": "IP 주요 이슈: 대법원, Cox v. Sony Music에서 기여적 저작권 책임을 재구성하다: 저작권 소유자, 플랫폼, ISP에 미치는 의미 - JD Supra",
+      "url": "https://www.jdsupra.com/legalnews/ip-hot-topic-supreme-court-reshapes-4711272/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-27 20:37:05",
+      "title": "8살 아이는 그래미 수상 후 무엇을 할까? 분수 공부 - NPR",
+      "url": "https://www.npr.org/2026/03/27/nx-s1-5742754/grammy-aura-fyutch-youngest-winner",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 19:35:16",
+      "title": "다윗 대 골리앗 | DEVILS DOWNLOAD - NHL.com",
+      "url": "https://www.nhl.com/devils/video/david-v-goliath-devils-download-6391872758112",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 19:27:19",
+      "title": "Amazon v Morton: 사기 주장과 플랫폼 남용 의혹으로 미국 상표 시스템에 대한 scrutiny가 커지다 - worldtrademarkreview.com",
+      "url": "https://www.worldtrademarkreview.com/article/amazon-v-morton-fraud-claims-and-platform-abuse-allegations-put-us-trademark-system-under-scrutiny",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 18:49:15",
+      "title": "BTS 진, V와 지민이 주방에서 장난치는 가운데 멤버들에게 요리를 가르치려 애쓰는 모습 보기 - billboard.com",
+      "url": "https://www.billboard.com/music/music-news/bts-jin-teaches-v-jimin-how-to-cook-video-1236208739/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 17:28:36",
+      "title": "올리비에 대 시티 오브 브랜든(2026) - Free Speech Center",
+      "url": "https://firstamendment.mtsu.edu/article/olivier-v-city-of-brandon-2026/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 17:25:00",
+      "title": "캔자스 대법원, Kelly 대 Kobach 소송에 대한 의견 발표 - WIBW",
+      "url": "https://www.wibw.com/2026/03/27/kansas-supreme-court-issues-opinion-kelly-v-kobach-lawsuit/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 16:33:34",
+      "title": "뉴욕타임스 대 국방부(2026, 미국 컬럼비아 특별구 연방지방법원) - Free Speech Center",
+      "url": "https://firstamendment.mtsu.edu/article/new-york-times-v-department-of-defense-2026-u-s-district-court-d-c/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-27 16:27:00",
+      "title": "미주리 대 바이든 ‘합의’는 패소한 사건에 대한 가짜 승리다 - Techdirt.",
+      "url": "https://www.techdirt.com/2026/03/27/the-missouri-v-biden-settlement-is-a-fake-victory-for-a-case-they-lost/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-27 15:35:00",
+      "title": "ISU 대 테네시 포인트 가드 매치업, 스위트 16에서 - KCRG",
+      "url": "https://www.kcrg.com/video/2026/03/27/isu-v-tennessee-point-guard-matchup-sweet-16/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 14:57:52",
+      "title": "Cox 대 Sony 이후의 2차 책임: 저작권 보유자와 중개자에게 미치는 의미 - JD Supra",
+      "url": "https://www.jdsupra.com/legalnews/secondary-liability-after-cox-v-sony-1481702/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 14:48:33",
+      "title": "미주리주 대 바이든, 동의판결(2026) - Free Speech Center",
+      "url": "https://firstamendment.mtsu.edu/article/missouri-v-biden-consent-decree-2026/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 14:24:06",
+      "title": "플로리다 로켓이 미시간 남동부에서 보일 수 있다. Atlas V를 볼 수 있는 시간 - Detroit Free Press",
+      "url": "https://www.freep.com/story/news/local/michigan/2026/03/27/amazon-leo-satellite-launch-atlas-florida-rocket-michigan/89345348007/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 10:10:22",
+      "title": "케이프 커내버럴 로켓 발사, 케이프 코럴·포트마이어스·네이플스에서도 보일 수 있어 - The News-Press",
+      "url": "https://www.news-press.com/story/news/2026/03/26/rocket-launch-time-florida-canaveral-fort-myers-naples-cape-coral/89336632007/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 07:00:00",
+      "title": "GA 대 Suzanne Mericle: 문 뒤의 치과의사 재판 - Court TV",
+      "url": "https://www.courttv.com/news/georgia-dentist-on-trial-for-killing-man-by-shooting-through-bedroom-door/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-27 07:00:00",
+      "title": "2026년형 ZR-V의 가장 큰 변화는 새로워진 점이 아니라 혼다의 삭제한 요소다 - Carscoops",
+      "url": "https://www.carscoops.com/2026/03/honda-zr-v-facelift-japan-hybrid/",
+      "sentiment": "Neutral"
+    },
+    {
       "date": "2026-03-26 22:01:00",
-      "title": "Billy V Live: Recording artist David Kaio on the inspiration behind his new music - Hawaii News Now",
+      "title": "Billy V Live: 새 음악의 영감에 대해 이야기하는 레코딩 아티스트 David Ka’io - hawaiinewsnow.com",
       "url": "https://www.hawaiinewsnow.com/2026/03/26/billy-v-live-recording-artist-david-kaio-what-inspired-his-new-music/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 21:25:32",
-      "title": "World Cup Qualifiers: Wales v Bosnia LIVE - Goal.com",
-      "url": "https://www.goal.com/en/lists/world-cup-qualifiers-wales-v-bosnia-live-1-0-james-s-goal-proves-decisive/blta8cb2c00ebc15977",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 21:22:10",
-      "title": "Analysis of Hancock County Land Acquisitions, LLC v. Commissioner: Valuation, Deductions, and Penalties in Syndicated Conservation Easements - Current Federal Tax Developments",
-      "url": "https://www.currentfederaltaxdevelopments.com/blog/2026/3/26/analysis-of-hancock-county-land-acquisitions-llc-v-commissioner-valuation-deductions-and-penalties-in-syndicated-conservation-easements",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 21:21:54",
-      "title": "A Look At Navitas Semiconductor (NVTS) Valuation After New 800 V AI Data Center Power Board Launch - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvts/navitas-semiconductor/news/a-look-at-navitas-semiconductor-nvts-valuation-after-new-800",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 21:14:18",
-      "title": "Love matcha? Win free drinks at a ‘performative male’ contest in Pembroke Pines - pembrokepinesflnews.com",
-      "url": "https://www.pembrokepinesflnews.com/lifestyle-entertainment/article315197415.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 21:11:04",
-      "title": "Secondary Liability After Cox v. Sony: What it Means for Copyright Holders and Intermediaries - Procopio",
-      "url": "https://www.procopio.com/resource/secondary-liability-for-copyright-holders-and-intermediaries",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 21:09:24",
-      "title": "Imaan! Natasha! Ajah! Malgosia! Top Models Come Together for V Magazine Spring 2026 - Yahoo",
-      "url": "https://www.yahoo.com/entertainment/celebrity/articles/imaan-natasha-ajah-malgosia-top-210924460.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 20:54:03",
-      "title": "Atalanta: bad news for Hien – he was forced off through injury in the first half of the Ukraine v Sweden match - Goal.com",
-      "url": "https://www.goal.com/en-us/news/atalanta-bad-news-for-hien-he-was-forced-off-through-injury-in-the-first-half-of-the-ukraine-v-sweden-match/bltf9d2807260d512b1",
-      "sentiment": "Negative"
-    },
-    {
       "date": "2026-03-26 20:52:48",
-      "title": "Why the Heritage Foundation Is Targeting Plyler v. Doe - Education Week",
+      "title": "Heritage Foundation이 Plyler v. Doe를 겨냥하는 이유 - edweek.org",
       "url": "https://www.edweek.org/policy-politics/why-the-heritage-foundation-is-targeting-plyler-v-doe/2026/03",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 20:31:48",
+      "title": "체코공화국 대 아일랜드공화국 - 누가 인상적이었나요? - BBC",
+      "url": "https://www.bbc.com/sport/football/articles/c2k355ndy39o",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 20:42:05",
-      "title": "%Here's Got the ways to watch\" France v Brazil 𝐋𝐢𝐯𝐞 𝐅𝐫𝐞𝐞 Game HQ*Q*5785485 - ica.gov.co",
-      "url": "https://www.justingtous.com/international-friendly/?t=Colombia+vs+Croatia",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 20:41:19",
-      "title": "%[WATCHLIVE]ＴＯＤＡＹ%]% Brazil v France ＬＩＶＥ ｓｔｒｅａｍ ｌａｔｅｓｔ ｕｐｄａｔｅｓ ａｎｄ ｕｎｄｅｒｃａｒｄ ｒｅｓｕｌｔｓ | Ｔｈｅ Ｓｔａｎｄａｒｄ 27 Ｍａｒｃｈ ２０２６ free HQ*Q*5785485 - ica.gov.co",
-      "url": "https://www.justingtous.com/international-friendly/?t=Colombia+vs+Croatia",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 20:41:17",
-      "title": "%[WATCHLIVE]ESPN%] Brazil v France Ｌｉｖｅ ｓｔｒｅａｍｉｎｇ ｒｅｓｕｌｔｓ， ｕｐｄａｔｅｓ， ｈｏｗ ｔｏ ｗａｔｃｈ ｐｒｉｃｅ， ｓｔａｒｔ ｔｉｍｅ HQ*Q*5785485 - ica.gov.co",
-      "url": "https://www.justingtous.com/international-friendly/?t=Colombia+vs+Croatia",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 20:40:46",
-      "title": "V Rising laid to rest as Stunlock unveils ambitious new project - Gamereactor UK",
-      "url": "https://www.gamereactor.eu/v-rising-laid-to-rest-as-stunlock-unveils-ambitious-new-project-1697933/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 20:24:00",
-      "title": "ULA Atlas V rocket launch viewing from Florida to New England. See map - Florida Today",
-      "url": "https://www.floridatoday.com/story/news/2026/03/26/florida-rocket-launch-map-canaveral-spacex-what-time/89306672007/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 20:14:00",
-      "title": "Will Wade's NC State Jimmy V photo recreation aged like spoiled milk - USA Today",
-      "url": "https://ftw.usatoday.com/story/sports/ncaab/2026/03/26/will-wades-nc-state-jimmy-v-photo-recreation-yikes/89335527007/",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-26 20:11:36",
-      "title": "%[LIVESTREAms-FREE] Brazil v France ＬＩＶＥ ｓｔｒｅａｍ ｌａｔｅｓｔ ｕｐｄａｔｅｓ ａｎｄ ｕｎｄｅｒｃａｒｄ ｒｅｓｕｌｔｓ | Ｔｈｅ Ｓｔａｎｄａｒｄ 27 Ｍａｒｃｈ ２０２６ free HQ*Q*8548548 - ica.gov.co",
-      "url": "https://www.justingtous.com/international-friendly/?t=Colombia+vs+Croatia",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 20:01:29",
-      "title": "Italy v Northern Ireland: how Bastoni was welcomed on his return to Bergamo - Goal.com",
-      "url": "https://www.goal.com/en-us/lists/italy-v-northern-ireland-how-bastoni-was-welcomed-on-his-return-to-bergamo/blt5e074b67dbeb7a42",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 19:59:55",
-      "title": "~Ｆｒｅｅ LIVE For Brazil v France Ｌｉｖｅ ｓｔｒｅａｍｉｎｇ ｒｅｓｕｌｔｓ， ｕｐｄａｔｅｓ， ｈｏｗ ｔｏ ｗａｔｃｈ ｐｒｉｃｅ， ｓｔａｒｔ ｔｉｍｅ HQ*Q*659459549 - ica.gov.co",
-      "url": "https://www.justingtous.com/international-friendly/?t=Colombia+vs+Croatia",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 19:43:24",
-      "title": "+#)HERE'S@@(* WAY TO WATCH France v Brazil 𝐋𝐢𝐯𝐞 𝐅𝐫𝐞𝐞 Game HQ*Q*14234657 - ica.gov.co",
-      "url": "https://www.justingtous.com/international-friendly/?t=Colombia+vs+Croatia",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 19:43:06",
-      "title": "@[Here's Way To Watch]\" Brazil v France 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 27 Ｍａｒｃｈ ２０２６ HDQ*14234657 - ica.gov.co",
-      "url": "https://www.justingtous.com/international-friendly/?t=Colombia+vs+Croatia",
+      "date": "2026-03-26 20:00:40",
+      "title": "발사 후 케이프 커내버럴 로켓 발사가 탤러해시에서도 보일 수 있다 - Tallahassee Democrat",
+      "url": "https://www.tallahassee.com/story/news/2026/03/26/rocket-launch-time-florida-canaveral-tallahassee/89335938007/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-26 19:23:00",
-      "title": "Grammy-winning Fyütch, daughter Aura V to be honored in Nashville - The Tennessean",
+      "title": "그래미 수상자 Fyütch와 딸 Aura V, 내슈빌에서 영예를 안는다 - tennessean.com",
       "url": "https://www.tennessean.com/story/entertainment/music/2026/03/26/nashville-fyutch-aura-v-grammy-history/89242530007/?gca-cat=p&gnt-cfr=1",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 19:20:47",
-      "title": "Italy v Northern Ireland LIVE on 1vs1 – join the Watch Party on YouTube! - Goal.com",
-      "url": "https://www.goal.com/en/lists/italy-v-northern-ireland-live-on-1vs1-join-the-watch-party-on-youtube/bltc0207ae6767e455e",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 19:06:00",
-      "title": "🚨Confirmed XIs: Mbappé and Vinicius start for France v Brazil - Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/confirmed-xis-brazil-france-face-190600026.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 18:55:29",
-      "title": "Here's Got the ways to watch - ica.gov.co",
-      "url": "https://www.justingtous.com/international-friendly/?t=Colombia+vs+Croatia",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 18:52:00",
-      "title": "2027 Corvette Grand Sport, Stingray first to feature new V-8 engine - Detroit Free Press",
-      "url": "https://www.freep.com/story/money/cars/general-motors/2026/03/26/2027-corvette-grand-sport-stingray-first-to-feature-new-v-8-engine/89321578007/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 18:50:07",
-      "title": "2026 Spring Owyhee HS Boys v Middleton Boys - Goff Rugby Report",
-      "url": "https://goffrugbyreport.com/matches/2026-spring-owyhee-hs-boys-v-middleton-boys",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 18:09:29",
-      "title": "Brazil court unveils interim procedure in Acer v Nokia - IAM Patent",
-      "url": "https://www.iam-media.com/article/brazil-court-unveils-interim-procedure-in-acer-v-nokia",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 17:09:54",
-      "title": "*Here's Got the ways to watch - ica.gov.co",
-      "url": "https://www.justingtous.com/worldcup-qualification/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 17:03:01",
-      "title": "+)HERE'S!!(* WAY TO WATCH Romania v Türkiye 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 27 March 2026 - ica.gov.co",
-      "url": "https://www.justingtous.com/worldcup-qualification/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 17:02:02",
-      "title": "Panthers GameDay v Wild: How to Watch, Stream; Lines, Goalies, Odds - Florida Hockey Now",
-      "url": "https://floridahockeynow.com/minnesota-wild-at-florida-panthers-march-26-2026-how-to-watch-stream-espn-lines-goalies-odds/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 16:51:39",
-      "title": "Italy v Northern Ireland: a minute’s silence will be held before kick-off in memory of Beppe Savoldi - Goal.com",
-      "url": "https://www.goal.com/en-us/lists/italy-v-northern-ireland-a-minute-s-silence-will-be-held-before-kick-off-in-memory-of-beppe-savoldi/bltf35f792e17103fda",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 16:51:00",
-      "title": "Chevrolet Corvette Grand Sport returns with next-gen V-8 engine, electrified Grand Sport X - Automotive News",
-      "url": "https://www.autonews.com/car-concepts/an-chevy-corvette-grand-sport-new-engine-0326/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 15:52:36",
-      "title": "AMD's Ryzen 9 9950X3D2 'Dual Edition' Doubles the 3D V-Cache - PCMag",
-      "url": "https://www.pcmag.com/news/amds-ryzen-9-9950x3d2-dual-edition-doubles-the-3d-v-cache",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 15:25:00",
-      "title": "AMD Confirms Ryzen 9 9950X3D2 Release Date, Calls Dual 3D V-Cache CPU ‘Incredible’ - HotHardware",
-      "url": "https://hothardware.com/news/amd-confirms-ryzen-9-9950x3d2-release-date",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 15:12:40",
-      "title": "Scotland v Japan: Key stats - Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/scotland-v-japan-key-stats-151240956.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAACnoId530s8CVSQvtsHgyf1lre7y6OGDM4B_Exewpsi0kygHHfUzpnb2JyPWxwzUsBgbtyqaG_CbtVAktX1ePrJw1LcOhnjkskjbG_sEv_UtY6mb74BE4kODgXyIfT_D7pMC8-R8xjUlhEh_8-bBMxOcvcYw_vZ2Wh5YPchFf_ux",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 14:30:37",
-      "title": "Stunlock has ended V Rising development but is working on a new game set in the same world - Massively Overpowered",
-      "url": "https://massivelyop.com/2026/03/26/stunlock-has-ended-v-rising-development-but-is-working-on-a-new-game-set-in-the-same-world/",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-26 14:30:00",
-      "title": "GM’s Beloved Line of Small-Block V-8s Is Reborn Once More With the LS6 - Road & Track",
-      "url": "https://www.roadandtrack.com/news/a70848650/gm-small-block-v-8-ls6-2027/",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-03-26 14:03:28",
-      "title": "Chevrolet Corvette Grand Sport Returns With 535-HP, 6.7-Liter V-8 and Available AWD - Cars.com",
-      "url": "https://www.cars.com/articles/chevrolet-corvette-grand-sport-returns-with-535-hp-6-7-liter-v-8-and-available-awd-522774/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 14:01:28",
-      "title": "GM's New Small-Block V-8 Changes the Game and Gives the 2027 Chevy Corvette Stingray 535 HP - Car and Driver",
-      "url": "https://www.caranddriver.com/news/a70846998/2027-chevy-corvette-sixth-generation-ls6-v8-engine-revealed/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 14:00:53",
-      "title": "Chevy Commits to the V-8 by Stuffing a New 6.7-Liter Small-Block in the Reborn Corvette Grand Sport - Car and Driver",
-      "url": "https://www.caranddriver.com/news/a70848564/2027-chevy-corvette-grand-sport-revealed-details/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-26 13:52:15",
-      "title": "No VAR error but Brentford denied penalty v Wolves - panel - Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/no-var-error-brentford-denied-135215334.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 13:25:26",
-      "title": "An Analysis of the Eleventh Circuit Decision in Jackson Crossroads LLC v. Commissioner: Valuation Methodologies and Gross Misstatement Penalties in Conservation Easements - Current Federal Tax Developments",
-      "url": "https://www.currentfederaltaxdevelopments.com/blog/2026/3/26/an-analysis-of-the-eleventh-circuit-decision-in-jackson-crossroads-llc-v-commissioner-valuation-methodologies-and-gross-misstatement-penalties-in-conservation-easements",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 13:18:18",
-      "title": "Watch UEFA WCL Extended Highlights: Man Utd v Bayern München | Disney+ - Disney Plus",
-      "url": "https://www.disneyplus.com/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 13:07:34",
-      "title": "Watch UEFA WCL Highlights: Real Madrid v Barcelona | Disney+ - Disney Plus",
-      "url": "https://www.disneyplus.com/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 13:03:38",
-      "title": "Ford’s Exotic ‘Coyote’ Hypercar Engine Is Nothing Like What You'd Find in a Mustang Road Car - Road & Track",
-      "url": "https://www.roadandtrack.com/car-culture/a70784989/fords-coyote-hypercar-engine-is-an-exotic-v-8-with-formula-1-learnings/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 12:49:00",
-      "title": "Section V boys tennis results for 2025 season - Democrat and Chronicle",
-      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/26/section-v-boys-tennis-results-2025/89180873007/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 12:40:25",
-      "title": "No VAR error on Havertz penalty claim v Everton - panel - BBC",
-      "url": "https://www.bbc.com/sport/football/articles/c4glpxr1elqo",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 12:36:35",
-      "title": "Watch UEFA WCL Highlights: Man Utd v Bayern München | Disney+ - Disney Plus",
-      "url": "https://www.disneyplus.com/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 12:17:23",
-      "title": "Watch UEFA WCL Extended Highlights: Wolfsburg v OL Lyonnes | Disney+ - Disney Plus",
-      "url": "https://www.disneyplus.com/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 11:21:00",
-      "title": "🚨 Lens v PSG postponed by the LFP! (Media) - Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/lens-v-psg-postponed-answer-112100548.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 09:57:21",
-      "title": "Quelminda V. Mendonsa Obituary - Lowell, MA (1938-2026) - Lowell Sun",
-      "url": "https://www.lowellsun.com/obituaries/quelminda-v-mendonsa-lowell-ma/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 09:43:31",
-      "title": "How to follow Italy v Northern Ireland across BBC Sport NI - BBC",
-      "url": "https://www.bbc.com/sport/football/articles/ce84yvjmy1go",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 07:06:50",
-      "title": "Italy v Northern Ireland: World Cup play-off preview - BBC",
-      "url": "https://www.bbc.com/sport/football/articles/c9vlk22v4zvo",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 05:01:45",
-      "title": "James V. Bourdon - Daily Hampshire Gazette",
-      "url": "https://gazettenet.com/2026/03/26/obit-james-v-bourdon-211129201/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 20:24:00",
-      "title": "I Swapped My Ballet Flats For This 2026 Upgrade - Refinery29",
-      "url": "https://www.refinery29.com/en-us/v-cut-ballet-flat-trend-2026",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 16:21:32",
-      "title": "Henry V theatre review — resonant RSC production interrogates the price of conflict - Financial Times",
-      "url": "https://www.ft.com/content/96691591-8ffe-4825-b458-6ddbf3c9bd3f?syn-25a6b1a6=1",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 15:47:56",
-      "title": "Ayana V. Jackson & Roxane Gay at Nevada | Free Event - University of Nevada, Reno",
-      "url": "https://www.unr.edu/nevada-today/news/2026/ayana-v-jackson-in-conversation-with-roxane-gay",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 12:00:00",
-      "title": "Defending Nonpartisan Civic Engagement Organizations in Missouri (LWVMO and Missouri NAACP v. Missouri) - Campaign Legal Center",
-      "url": "https://campaignlegal.org/cases-actions/defending-nonpartisan-civic-engagement-organizations-missouri-lwvmo-and-missouri",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 07:02:00",
-      "title": "Henry V review – once more unto the breach at the RSC, as Alfred Enoch leads the charge - The Guardian",
-      "url": "https://www.theguardian.com/stage/2026/mar/25/henry-v-review-rsc-alfred-enoch",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 18:25:53",
-      "title": "'Us V. Them' and The Battle for Brooklyn's Indie Music Scene - BKMAG",
-      "url": "https://www.bkmag.com/2026/03/24/ronen-givony-us-v-them-new-york-indie-music-book-interview/",
-      "sentiment": "Neutral"
+      "date": "2026-03-26 18:45:17",
+      "title": "Kelly 외 대 California Baptist University - Pacific Legal Foundation",
+      "url": "https://pacificlegal.org/case/wrestlers-cbu-title-ix-policy-interpretation/",
+      "sentiment": "Negative"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-24 ──\n  [Neutral] 'Us V. Them' and The Battle for Brooklyn's Indie Music Scene - BKMAG\n\n── 2026-03-25 ──\n  [Neutral] I Swapped My Ballet Flats For This 2026 Upgrade - Refinery29\n  [Neutral] Henry V theatre review — resonant RSC production interrogates the price of conflict - Financial Times\n  [Neutral] Ayana V. Jackson & Roxane Gay at Nevada | Free Event - University of Nevada, Reno\n  [Neutral] Defending Nonpartisan Civic Engagement Organizations in Missouri (LWVMO and Missouri NAACP v. Missouri) - Campaign Legal Center\n  [Neutral] Henry V review – once more unto the breach at the RSC, as Alfred Enoch leads the charge - The Guardian\n\n── 2026-03-26 ──\n  [Neutral] Roger Machado drills attack v defence at São Paulo CT: watch - OneFootball\n  [Neutral] MA v. Judy Church: Death by Antifreeze Trial - Court TV\n  [Neutral] Watch UEFA WCL Extended Highlights: Arsenal FC v Chelsea | Disney+ - Disney Plus\n  [Neutral] Supreme Court Recalibrates Sovereign Immunity for State-Created Entities - The National Law Review\n  [Neutral] World Cup qualifiers: Bosnia knock Wales out on penalties; Dzeko to face Italy - Goal.com\n  [Neutral] Henry V with Alfred Enoch at the RSC’s Royal Shakespeare Theatre – review - WhatsOnStage\n  [Neutral] Patricia V. Souza - The Press Democrat\n  [Neutral] ‘BTS: The Return’: Six Things We Learned From the Revealing New Documentary - Rolling Stone\n  [Neutral] World Cup Qualifiers: Wales v Bosnia LIVE - Goal.com\n  [Growth] V-Soft Consulting acquires Logisolve - Staffing Industry Analysts\n  [Risk] Memphis reported to STJD over phone use in Corinthians v Flamengo, could face ban - OneFootball\n  [Neutral] Billy V Live: Recording artist David Kaio on the inspiration behind his new music - Hawaii News Now\n  [Neutral] World Cup Qualifiers: Wales v Bosnia LIVE - Goal.com\n  [Neutral] Analysis of Hancock County Land Acquisitions, LLC v. Commissioner: Valuation, Deductions, and Penalties in Syndicated Conservation Easements - Current Federal Tax Developments\n  [Growth] A Look At Navitas Semiconductor (NVTS) Valuation After New 800 V AI Data Center Power Board Launch - simplywall.st\n  [Neutral] Love matcha? Win free drinks at a ‘performative male’ contest in Pembroke Pines - pembrokepinesflnews.com\n  [Neutral] Secondary Liability After Cox v. Sony: What it Means for Copyright Holders and Intermediaries - Procopio\n  [Neutral] Imaan! Natasha! Ajah! Malgosia! Top Models Come Together for V Magazine Spring 2026 - Yahoo\n  [Negative] Atalanta: bad news for Hien – he was forced off through injury in the first half of the Ukraine v Sweden match - Goal.com\n  [Neutral] Why the Heritage Foundation Is Targeting Plyler v. Doe - Education Week\n  [Neutral] %Here's Got the ways to watch\" France v Brazil 𝐋𝐢𝐯𝐞 𝐅𝐫𝐞𝐞 Game HQ*Q*5785485 - ica.gov.co\n  [Neutral] %[WATCHLIVE]ＴＯＤＡＹ%]% Brazil v France ＬＩＶＥ ｓｔｒｅａｍ ｌａｔｅｓｔ ｕｐｄａｔｅｓ ａｎｄ ｕｎｄｅｒｃａｒｄ ｒｅｓｕｌｔｓ | Ｔｈｅ Ｓｔａｎｄａｒｄ 27 Ｍａｒｃｈ ２０２６ free HQ*Q*5785485 - ica.gov.co\n  [Neutral] %[WATCHLIVE]ESPN%] Brazil v France Ｌｉｖｅ ｓｔｒｅａｍｉｎｇ ｒｅｓｕｌｔｓ， ｕｐｄａｔｅｓ， ｈｏｗ ｔｏ ｗａｔｃｈ ｐｒｉｃｅ， ｓｔａｒｔ ｔｉｍｅ HQ*Q*5785485 - ica.gov.co\n  [Growth] V Rising laid to rest as Stunlock unveils ambitious new project - Gamereactor UK\n  [Neutral] ULA Atlas V rocket launch viewing from Florida to New England. See map - Florida Today\n  [Negative] Will Wade's NC State Jimmy V photo recreation aged like spoiled milk - USA Today\n  [Neutral] %[LIVESTREAms-FREE] Brazil v France ＬＩＶＥ ｓｔｒｅａｍ ｌａｔｅｓｔ ｕｐｄａｔｅｓ ａｎｄ ｕｎｄｅｒｃａｒｄ ｒｅｓｕｌｔｓ | Ｔｈｅ Ｓｔａｎｄａｒｄ 27 Ｍａｒｃｈ ２０２６ free HQ*Q*8548548 - ica.gov.co\n  [Neutral] Italy v Northern Ireland: how Bastoni was welcomed on his return to Bergamo - Goal.com\n  [Neutral] ~Ｆｒｅｅ LIVE For Brazil v France Ｌｉｖｅ ｓｔｒｅａｍｉｎｇ ｒｅｓｕｌｔｓ， ｕｐｄａｔｅｓ， ｈｏｗ ｔｏ ｗａｔｃｈ ｐｒｉｃｅ， ｓｔａｒｔ ｔｉｍｅ HQ*Q*659459549 - ica.gov.co\n  [Neutral] +#)HERE'S@@(* WAY TO WATCH France v Brazil 𝐋𝐢𝐯𝐞 𝐅𝐫𝐞𝐞 Game HQ*Q*14234657 - ica.gov.co\n  [Neutral] @[Here's Way To Watch]\" Brazil v France 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 27 Ｍａｒｃｈ ２０２６ HDQ*14234657 - ica.gov.co\n  [Neutral] Grammy-winning Fyütch, daughter Aura V to be honored in Nashville - The Tennessean\n  [Neutral] Italy v Northern Ireland LIVE on 1vs1 – join the Watch Party on YouTube! - Goal.com\n  [Neutral] 🚨Confirmed XIs: Mbappé and Vinicius start for France v Brazil - Yahoo Sports\n  [Neutral] Here's Got the ways to watch - ica.gov.co\n  [Growth] 2027 Corvette Grand Sport, Stingray first to feature new V-8 engine - Detroit Free Press\n  [Neutral] 2026 Spring Owyhee HS Boys v Middleton Boys - Goff Rugby Report\n  [Neutral] Brazil court unveils interim procedure in Acer v Nokia - IAM Patent\n  [Neutral] *Here's Got the ways to watch - ica.gov.co\n  [Neutral] +)HERE'S!!(* WAY TO WATCH Romania v Türkiye 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 27 March 2026 - ica.gov.co\n  [Neutral] Panthers GameDay v Wild: How to Watch, Stream; Lines, Goalies, Odds - Florida Hockey Now\n  [Neutral] Italy v Northern Ireland: a minute’s silence will be held before kick-off in memory of Beppe Savoldi - Goal.com\n  [Growth] Chevrolet Corvette Grand Sport returns with next-gen V-8 engine, electrified Grand Sport X - Automotive News\n  [Growth] AMD's Ryzen 9 9950X3D2 'Dual Edition' Doubles the 3D V-Cache - PCMag\n  [Growth] AMD Confirms Ryzen 9 9950X3D2 Release Date, Calls Dual 3D V-Cache CPU ‘Incredible’ - HotHardware\n  [Neutral] Scotland v Japan: Key stats - Yahoo Sports\n  [Mixed] Stunlock has ended V Rising development but is working on a new game set in the same world - Massively Overpowered\n  [Positive] GM’s Beloved Line of Small-Block V-8s Is Reborn Once More With the LS6 - Road & Track\n  [Neutral] Chevrolet Corvette Grand Sport Returns With 535-HP, 6.7-Liter V-8 and Available AWD - Cars.com\n  [Growth] GM's New Small-Block V-8 Changes the Game and Gives the 2027 Chevy Corvette Stingray 535 HP - Car and Driver\n  [Positive] Chevy Commits to the V-8 by Stuffing a New 6.7-Liter Small-Block in the Reborn Corvette Grand Sport - Car and Driver\n  [Neutral] No VAR error but Brentford denied penalty v Wolves - panel - Yahoo Sports\n  [Neutral] An Analysis of the Eleventh Circuit Decision in Jackson Crossroads LLC v. Commissioner: Valuation Methodologies and Gross Misstatement Penalties in Conservation Easements - Current Federal Tax Developments\n  [Neutral] Watch UEFA WCL Extended Highlights: Man Utd v Bayern München | Disney+ - Disney Plus\n  [Neutral] Watch UEFA WCL Highlights: Real Madrid v Barcelona | Disney+ - Disney Plus\n  [Growth] Ford’s Exotic ‘Coyote’ Hypercar Engine Is Nothing Like What You'd Find in a Mustang Road Car - Road & Track\n  [Neutral] Section V boys tennis results for 2025 season - Democrat and Chronicle\n  [Neutral] No VAR error on Havertz penalty claim v Everton - panel - BBC\n  [Neutral] Watch UEFA WCL Highlights: Man Utd v Bayern München | Disney+ - Disney Plus\n  [Neutral] Watch UEFA WCL Extended Highlights: Wolfsburg v OL Lyonnes | Disney+ - Disney Plus\n  [Neutral] 🚨 Lens v PSG postponed by the LFP! (Media) - Yahoo Sports\n  [Neutral] Quelminda V. Mendonsa Obituary - Lowell, MA (1938-2026) - Lowell Sun\n  [Neutral] How to follow Italy v Northern Ireland across BBC Sport NI - BBC\n  [Neutral] Italy v Northern Ireland: World Cup play-off preview - BBC\n  [Neutral] James V. Bourdon - Daily Hampshire Gazette",
-    "sentiment_block": "총 뉴스 71건 분석 결과:\n  Positive     2건 (  2.8%) \n  Growth       9건 ( 12.7%) ██\n  Neutral     56건 ( 78.9%) ███████████████\n  Mixed        1건 (  1.4%) \n  Risk         1건 (  1.4%) \n  Negative     2건 (  2.8%) \n\n날짜별 감정 흐름:\n  2026-03-24: Neutral:1\n  2026-03-25: Neutral:5\n  2026-03-26: Neutral:50, Growth:9, Negative:2, Positive:2, Risk:1, Mixed:1",
-    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 52  Hold: 8  Sell: 0  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $425  Low: $160  Consensus: $377.83  Median: $394.5\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
+    "news_block": "\n── 2026-03-26 ──\n  [Neutral] Billy V Live: 새 음악의 영감에 대해 이야기하는 레코딩 아티스트 David Ka’io - hawaiinewsnow.com\n  [Risk] Heritage Foundation이 Plyler v. Doe를 겨냥하는 이유 - edweek.org\n  [Neutral] 체코공화국 대 아일랜드공화국 - 누가 인상적이었나요? - BBC\n  [Neutral] 발사 후 케이프 커내버럴 로켓 발사가 탤러해시에서도 보일 수 있다 - Tallahassee Democrat\n  [Positive] 그래미 수상자 Fyütch와 딸 Aura V, 내슈빌에서 영예를 안는다 - tennessean.com\n  [Negative] Kelly 외 대 California Baptist University - Pacific Legal Foundation\n\n── 2026-03-27 ──\n  [Negative] 마리아 드라이브 차량 대 보행자 충돌 사고 운전자, 보석 없이 석방 - Point/Plover Metro Wire\n  [Negative] IP 주요 이슈: 대법원, Cox v. Sony Music에서 기여적 저작권 책임을 재구성하다: 저작권 소유자, 플랫폼, ISP에 미치는 의미 - JD Supra\n  [Neutral] 8살 아이는 그래미 수상 후 무엇을 할까? 분수 공부 - NPR\n  [Neutral] 다윗 대 골리앗 | DEVILS DOWNLOAD - NHL.com\n  [Risk] Amazon v Morton: 사기 주장과 플랫폼 남용 의혹으로 미국 상표 시스템에 대한 scrutiny가 커지다 - worldtrademarkreview.com\n  [Neutral] BTS 진, V와 지민이 주방에서 장난치는 가운데 멤버들에게 요리를 가르치려 애쓰는 모습 보기 - billboard.com\n  [Neutral] 올리비에 대 시티 오브 브랜든(2026) - Free Speech Center\n  [Neutral] 캔자스 대법원, Kelly 대 Kobach 소송에 대한 의견 발표 - WIBW\n  [Negative] 뉴욕타임스 대 국방부(2026, 미국 컬럼비아 특별구 연방지방법원) - Free Speech Center\n  [Negative] 미주리 대 바이든 ‘합의’는 패소한 사건에 대한 가짜 승리다 - Techdirt.\n  [Neutral] ISU 대 테네시 포인트 가드 매치업, 스위트 16에서 - KCRG\n  [Risk] Cox 대 Sony 이후의 2차 책임: 저작권 보유자와 중개자에게 미치는 의미 - JD Supra\n  [Risk] 미주리주 대 바이든, 동의판결(2026) - Free Speech Center\n  [Risk] 플로리다 로켓이 미시간 남동부에서 보일 수 있다. Atlas V를 볼 수 있는 시간 - Detroit Free Press\n  [Neutral] 케이프 커내버럴 로켓 발사, 케이프 코럴·포트마이어스·네이플스에서도 보일 수 있어 - The News-Press\n  [Negative] GA 대 Suzanne Mericle: 문 뒤의 치과의사 재판 - Court TV\n  [Neutral] 2026년형 ZR-V의 가장 큰 변화는 새로워진 점이 아니라 혼다의 삭제한 요소다 - Carscoops\n\n── 2026-03-28 ──\n  [Neutral] Brooklyn vs. Louisville (28 Mar, 2026) 실시간 스코어 - ESPN\n  [Neutral] 역사 속 오늘: United States v. Wong Kim Ark에서 판결이 내려지다 - WDBJ7\n  [Neutral] 역사 속 오늘: United States v. Wong Kim Ark에서 판결이 내려지다 - WDBJ7\n  [Neutral] McFarlane Toys ‘Superman Returns’와 ‘Batman v Superman: Dawn of Justice’ 슈퍼맨 액션 피규어 첫 공개 - Superman Homepage\n  [Positive] Jannik Sinner 대 Jiri Lehecka 경기 시작 시간과 Miami Open 결승 시청 방법 - Yahoo Sports\n  [Neutral] 매사추세츠에서 Atlas V 로켓 발사를 볼 수 있을지도 모릅니다. 언제 보면 되는지 안내합니다 - Wicked Local\n  [Neutral] Saracens 대 Northampton: '모든 것을 걸었다'는 식의 선택이 결국 통했고, 버티는 아스널 팬의 토트넘 밤을 망치다 - Planet Rugby\n  [Neutral] Saracens 대 Northampton: Saints가 '순간들의 경기'에서 승리하며 뽑아낸 다섯 가지 시사점 - Planet Rugby\n  [Negative] USMNT 대 벨기에 선수 평점 — 대패 속에서 Pochettino에게도 희망의 불씨가 있었나? - NBC Sports\n  [Neutral] 여자: 후반 90+6분 골로 Benfica B 대 FC Porto 무승부 - OneFootball\n  [Neutral] 아메리칸사모아 0-6 괌 (2026년 3월 28일) 최종 스코어 - ESPN\n  [Neutral] 아벨라네다 더비를 앞두고, 라싱이 산 마르틴 데 포르모사와 코파 아르헨티나를 시작한다 - OneFootball\n  [Neutral] 상파울루 대 크루제이루: 티켓 판매 중, 일정 확인 - OneFootball\n  [Neutral] 스톰러스 대 에든버러: 에번 루스가 스프링복스 선발 경쟁을 ‘강화’했다는 등 5가지 포인트와 윙 윌름세에 대한 평가 - Planet Rugby\n  [Neutral] BMW M 모델에 도전하는 미국산 퍼포먼스 카 - Top Speed\n  [Neutral] Rio Breogan 대 BAXI Manresa - Courtside 1891\n  [Neutral] 😤 보스니아전 세리머니에 대한 디마르코: 거만하다고? 네가 무슨 권리로.. - OneFootball\n  [Neutral] 😤 보스니아전 세리머니에 대한 디마르코: 거만하다고? 네가 무슨 권리로.. - Yahoo Sports\n  [Neutral] 아벨라네다 더비를 앞두고, 라싱은 코파 아르헨티나에서 산 마르틴과 데뷔전 - OneFootball\n  [Neutral] 부상으로 세네갈-페루 쇼 출연 무산된 Booba - OneFootball\n  [Neutral] 40년이 지난 지금, 최고의 SF 클래식은 마침내 필요한 리부트를 받아야 할 때다 - Collider\n  [Positive] 앨라배마 대 NDSU 프리뷰 - 소프트볼 - WVUA 23\n  [Neutral] 샤크스, 블루 재키츠전 패배 끊고 긍정적 흐름 이어가길 기대 - Sharks Hockey Digest\n  [Neutral] 전편 영상: Liverpool FC Legends 2-2 Borussia Dortmund Legends, 안필드에서 - Liverpool FC\n  [Neutral] Connacht 대 Ospreys: 옐로카드로 무너진 '끊임없는 가시'에서 얻은 다섯 가지 시사점 - Planet Rugby\n  [Neutral] United Women 대 City 경기 티켓 및 정보 - Manchester United\n  [Neutral] Miedema의 빠른 연속 득점 | Manchester United v Manchester City - WSL Football\n  [Neutral] 지역 비즈니스 조명: Eastport Acupuncture – Nicholas V. Buscemi - Eye On Annapolis\n  [Positive] Gloucester 대 Leicester: Steve Borthwick가 Villa Park의 마법을 '무시하면 어리석을' 다섯 가지 포인트 - Planet Rugby\n  [Neutral] Bulls 대 Munster: Springboks 스타가 '심판실에 의해 구제'된 가운데 Jack Crowley와 함께한 아일랜드 프로빈스는 '완전히 다른 팀'이라는 다섯 가지 포인트 - Planet Rugby\n  [Neutral] 심각한 신뢰성 문제를 지닌 작은 Honda SUV와 이를 구매하는 방법 - carbuzz.com\n  [Neutral] Pauline (Mosley) Petrosky 부고 - Ronald V. Hall Funeral Home\n  [Neutral] Borussia Dortmund Legends전 Liverpool FC Legends 확정 라인업 - Liverpool FC\n  [Neutral] 이탈리아 대 보스니아전 앞두고: Retegui, Politano, Barella가 Pio, Palestra, Cristante보다 월드컵 플레이오프 결승에서 뛸 자격이 더 있는가? - Goal.com\n  [Neutral] 어떤 Dodge 머슬카가 테스트 성능이 더 좋은가: 새 6기통 Charger인가, 아니면 구형 V-8 Challenger인가? - Car and Driver\n  [Neutral] Gallagher PREM 2025-26: Saracens 대 Northampton Saints 생중계 - Rugby World\n  [Neutral] 경기 미리보기 | Crystal Palace 대 Charlton - Charlton Athletic Football Club\n  [Neutral] 리그 원 & 리그 투: Harrogate v Notts County가 일정의 시작 - Yahoo Sports\n  [Risk] 이란의 호르무즈 통행료 부스는 트레이더들이 원하는 V자형 회복이 아니라 L자형 가격 정체를 가리킨다 - Fortune\n  [Neutral] Section V 남자 라크로스 시즌이 시작되며 알아두면 좋은 중요 일정\n  [Neutral] 맨체스터 유나이티드 대 시티 경기를 TV로 어떻게 볼 수 있나요? - Manchester City FC\n  [Neutral] 2026년에도 우승을 노리는 Section V 소프트볼 챔피언들 - Democrat and Chronicle\n  [Risk] 이탈리아 대 보스니아 -3: 아주리군단은 휴식 후 다시 그라운드에 나선다. 피오는 레테귀와 맞붙고, 바스토니는 제 컨디션이 아니다. 알라예고비치: “아주 거칠 것이다” - Goal.com\n  [Neutral] 시드니 FC 대 멜버른 V (2026년 3월 28일) 실시간 스코어 - ESPN",
+    "sentiment_block": "총 뉴스 67건 분석 결과:\n  Positive     4건 (  6.0%) █\n  Growth       0건 (  0.0%) \n  Neutral     49건 ( 73.1%) ██████████████\n  Mixed        0건 (  0.0%) \n  Risk         7건 ( 10.4%) ██\n  Negative     7건 ( 10.4%) ██\n\n날짜별 감정 흐름:\n  2026-03-26: Neutral:3, Risk:1, Positive:1, Negative:1\n  2026-03-27: Neutral:8, Negative:5, Risk:4\n  2026-03-28: Neutral:38, Positive:3, Risk:2, Negative:1",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 52  Hold: 8  Sell: 0  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $425  Low: $160  Consensus: $377.83  Median: $394.5\n▶ 실적 추정치 (2030-09)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "# 투자 분석 리포트\n\n## [핵심 요약]\n\n최근 3일간(3월 24~26일) 데이터 분석 결과, **기술 및 자동차 산업 관련 긍정적 뉴스가 집중된 3월 26일을 중심으로 성장 신호가 나타났습니다.** 71개 뉴스 중 성장(Growth) 신호 9건(12.7%), 긍정(Positive) 2건(2.8%)으로 총 15.5%의 긍정적 신호가 확인되었으며, 애널리스트 컨센서스는 강한 매수 의견(Buy 52건, 73.2%)으로 일치하고 있습니다.\n\n---\n\n## [전체 흐름 분석]\n\n**기간별 뉴스 분포 특성:**\n- **3월 24~25일**: 중립적 뉴스 위주(엔터테인먼트, 문화, 스포츠)로 투자 관련 신호 부재\n- **3월 26일**: 산업/기술 관련 실질적 뉴스 집중\n  - 기술 부문: AMD, 반도체 신제품 출시 (Ryzen 9 9950X3D2)\n  - 자동차 부문: GM/Chevrolet의 신형 V-8 엔진 개발 완료 및 Corvette Grand Sport 출시\n  - IT 부문: V-Soft Consulting의 M&A 거래, 게임 개발사의 신규 프로젝트\n\n**감정 분석 신뢰도**: 전체 71건 중 중립 뉴스 56건(78.9%)으로 높은 노이즈(스포츠 경기, 오비추어리, 법률 기사 등)가 포함되어 있으나, **성장 신호는 모두 명확한 비즈니스 이벤트**입니다.\n\n---\n\n## [긍정 요인]\n\n**1. 반도체/프로세서 산업 모멘텀**\n- AMD Ryzen 9 9950X3D2 'Dual Edition' 공식 출시 발표\n- 듀얼 3D V-Cache 기술로 AI 데이터센터 시장 경쟁력 강화\n- 신제품 출시 일정 확정 및 공식 입장 발표 (확실성 높음)\n\n**2. 자동차 산업 대형 신제품 라인업**\n- Chevrolet Corvette Grand Sport: 535마력 6.7L V-8 엔진 탑재 신형 출시\n- 2027년 신형 Corvette Stingray 후속 모델 준비\n- GM의 소형 V-8 엔진 라인업(LS6) 부활로 고성능차 시장 재진입\n- 다중 출처 언론 보도(Car and Driver, Automotive News, Road & Track)로 신뢰도 높음\n\n**3. 전략적 사업 확장**\n- V-Soft Consulting의 Logisolve 인수 거래 성사 (M&A 활성화 신호)\n- Navitas Semiconductor의 800V AI 데이터센터 파워보드 신제품 (전문가 평가 포함)\n- 게임 스튜디오 신규 프로젝트 개발 진행 (V Rising 후속)\n\n**4. 애널리스트 강세 컨센서스**\n- Buy 등급: 52건 (73.2%)\n- 목표주가 중앙값: $394.5, 컨센서스: $377.83\n- Strong Sell/Sell 등급 전무 (약세 의견 부재)\n\n---\n\n## [부정 요인]\n\n**1. 제한적 위험 신호**\n- 부정(Negative) 뉴스: 2건 (2.8%)\n  - Atalanta 선수 부상 (스포츠 관련, 비투자 영향)\n  - NC State 농구 관련 이미지 논란 (스포츠 관련, 비투자 영향)\n- 위험(Risk) 신호: 1건 (1.4%)\n  - 축구 선수 휴대폰 사용으로 인한 정직 위험 (스포츠, 비투자 영향)\n\n**2. 데이터 품질 제약**\n- 전체 뉴스의 60% 이상이 스포츠/엔터테인먼트로 구성되어 실질적 투자 신호 희석\n- 밸류에이션 데이터(P/E, P/B, ROE) 미제공으로 기업 재무건정성 평가 불가\n- Strong Buy 등급 부재 (최상 등급이 Buy로 제한)\n\n**3. 시간적 제약**\n- 3일간의 단기 데이터로 장기 트렌드 파악 어려움\n- 주가 움직임 데이터 부재로 뉴스와 실제 시장 반응의 연관성 미확인\n\n---\n\n##"
+  "investment_judgment": "[핵심 요약]\n* 최근 3일(67건) 뉴스는 **중립 비중이 압도적(73.1%)**이며, **Risk(10.4%)와 Negative(10.4%)가 병행**.\n* 리스크의 축은 (1) **저작권/플랫폼 책임 재구성(Cox v. Sony Music 후속 포함)**, (2) **상표/플랫폼 남용 관련 scrutiny(Amazon v Morton)**, (3) **사법/정책 이슈(다수 소송·판결 관련)**로 보임.\n* 반면 직접적인 “성장 촉매(Positive 6.0%)”는 적고, Positive 뉴스는 주로 스포츠/문화 이벤트 성격이 강함.\n\n[전체 흐름 분석]\n* 시장 전반의 “방향성”을 결정할 만한 뚜렷한 긍정 모멘텀보다, **권리·플랫폼·규제/법적 책임 관련 불확실성**이 여러 건에서 반복적으로 등장합니다.\n* 감정 흐름도 3/28에 중립이 크게 늘어(38건) 단기 충격이 확산되기보다는 **관망/정보 대기**가 커진 패턴입니다. 다만 3/27에는 Negative(5)와 Risk(4)가 동시에 많아 **법·규제 리스크가 먼저 체감**된 뒤, 3/28에 뉴스량이 중립으로 전환된 흐름입니다.\n* 애널리스트 평가는 **Buy가 압도적으로 많지만(Strong Buy 0, Buy 52)**, 제공된 밸류에이션 지표(P/E 등)가 **N/A**로 비어 있어 “정량적 확신”보다는 전반적 매수 의견이 우세한 상태로 해석됩니다.\n\n[긍정 요인]\n* 감정 기준으로 Positive가 전체의 **6.0%**로 존재(다만 절대 규모는 작음).\n* 3/28에 Negative는 1건으로 낮아져 **단기 악재 강도는 줄어드는 신호**가 관측됨.\n* 애널리스트 컨센서스는 대체로 우호적: **Buy(52) vs Hold(8)**, 목표주가 컨센서스 **$377.83(중앙 $394.5)**.\n\n[부정 요인]\n* 반복되는 Risk/Negative의 성격이 공통: **저작권 책임(플랫폼/중개자/ISP) 재구성**, **상표 시스템 및 플랫폼 관련 의혹**, **소송/판결 불확실성**.\n  * 이는 특정 기업 실적보다도, **해당 산업(콘텐츠·플랫폼·법률 리스크가 큰 비즈니스)의 비용/정책 리스크**를 키울 수 있는 구조적 변수입니다.\n* 3/27에 Negative와 Risk가 동시 확대되어 **불확실성이 단기적으로는 누적될 가능성**.\n* 정량 밸류에이션( P/E, EV/EBITDA 등 )이 N/A라서, “현재 가격이 싸다/비싸다”를 데이터로 검증하기 어려움.\n\n[투자 인사이트]\n* 이번 3일 뉴스 흐름은 **“성장 기대를 직접 키우는 이벤트”보다는 “법적/규제 리스크의 재평가”**가 중심입니다.  \n  → 따라서 공격적 매수보다는, (i) 법적 리스크가 실제 비용/매출 영향으로 연결되는지, (ii) 플랫폼·콘텐츠 비즈니스에서 책임 범위가 어떻게 확정되는지(후속 판결/가이드라인)를 확인하며 **리스크 관리가 우선**인 구간으로 해석됩니다.\n* 다만 애널리스트들은 전반적으로 Buy 우위이며 목표주가도 존재합니다.  \n  → 이는 “단기 소음(법적 이슈)”에도 불구하고 중장기 기대가 유지된다는 의미일 수 있으나, 제공된 밸류 지표가 비어 있어 **투자 판단을 ‘정량 확신’으로 강화하기는 제한적**입니다.\n\n[투자 판단]\n**보류(투자 보류)**\n\n[판단 근거]\n* 뉴스 측면에서 Positive 모멘텀이 적고(6.0%), **Risk/Negative가 저작권·상표·플랫폼 책임 등 ‘구조적 불확실성’ 영역에 반복적으로 집중**되어 있습니다. 이는 단기 주가 변동성을 키울 수 있습니다.\n* 동시에 3/28에 Negative가 줄며(1건) 급격한 악화 신호는 약하지만, 그럼에도 **법/규제 이슈의 방향성이 즉시 정리되지 않은 상태**로 판단됩니다.\n* 애널리스트 의견은 Buy 우세이나, **P/E·EV/EBITDA 등 핵심 밸류에이션 지표가 N/A**라서 “현재 시점의 매수 우위”를 데이터로 확정하기 어렵습니다.  \n→ 따라서 지금은 신규 매수 결정을 내리기보다, **법적 리스크의 실질 영향 확인 전까지 보류**가 더 합리적입니다."
 }

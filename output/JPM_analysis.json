@@ -1,297 +1,232 @@
 {
   "meta": {
     "symbol": "JPM",
-    "analysis_date": "2026-03-29T00:15:20.928028+00:00",
-    "news_period": "2026-03-24 ~ 2026-03-26",
-    "news_count": 42,
-    "model": "claude-haiku-4-5-20251001"
+    "analysis_date": "2026-03-29T03:37:01.430751+00:00",
+    "news_period": "2026-03-26 ~ 2026-03-28",
+    "news_count": 32,
+    "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 23,
-    "Growth": 6,
-    "Risk": 5,
-    "Negative": 4,
-    "Positive": 3,
-    "Mixed": 1
+    "Neutral": 18,
+    "Risk": 8,
+    "Growth": 4,
+    "Mixed": 2
   },
   "sentiment_by_date": {
-    "2026-03-24": {
-      "Neutral": 5,
-      "Positive": 2,
-      "Negative": 1
-    },
-    "2026-03-25": {
-      "Neutral": 8,
-      "Risk": 3,
-      "Negative": 1
-    },
     "2026-03-26": {
-      "Neutral": 10,
-      "Growth": 6,
-      "Negative": 2,
+      "Neutral": 5,
       "Risk": 2,
-      "Mixed": 1,
-      "Positive": 1
+      "Growth": 2,
+      "Mixed": 1
+    },
+    "2026-03-27": {
+      "Neutral": 10,
+      "Risk": 6,
+      "Growth": 2
+    },
+    "2026-03-28": {
+      "Neutral": 3,
+      "Mixed": 1
     }
   },
   "news_with_sentiment": [
     {
-      "date": "2026-03-26 22:57:01",
-      "title": "J.P. Morgan Maintains ST JAMES'S PLACE(STJPF.US) With Buy Rating, Cuts Target Price to $22.84 - 富途牛牛",
-      "url": "https://news.futunn.com/en/post/70274418/jp-morgan-maintains-st-james-s-place-stjpfus-with-buy?level=1&data_ticket=1774574872793032",
+      "date": "2026-03-28 13:28:55",
+      "title": "J.P. Morgan, Surgery Partners(SGRY.US)에 대해 투자의견 '보유' 유지, 목표주가를 14달러로 하향 - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70775434/jp-morgan-maintains-surgery-partners-sgryus-with-hold-rating-cuts?level=1&data_ticket=1774748242294993",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 09:25:41",
+      "title": "Pensionfund Sabic, JPMorgan Chase & Co. $JPM에 751만 달러 규모 포지션 보유 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pensionfund-sabic-takes-751-million-position-in-jpmorgan-chase-co-jpm-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 08:01:05",
+      "title": "Daymark Wealth Partners LLC, JPMorgan Chase & Co. $JPM 주식 4,435주 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-daymark-wealth-partners-llc-sells-4435-shares-of-jpmorgan-chase-co-jpm-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 01:48:22",
+      "title": "RBC Capital, JPMorgan Chase(JPM)에 대해 매수 의견 유지 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/JPM-N/pressreleases/1017081/rbc-capital-keeps-their-buy-rating-on-jpmorgan-chase-jpm/",
       "sentiment": "Mixed"
     },
     {
+      "date": "2026-03-27 23:06:09",
+      "title": "JPMorgan Chase(JPM)의 규제 변화와 기술적 야망이 투자 스토리를 어떻게 바꿨는가 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/regulatory-shifts-tech-ambitions-jpmorgan-230609475.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 21:37:33",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) 주가 3% 하락 - 지금 매도할 때인가? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-shares-down-3-time-to-sell-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 20:11:18",
+      "title": "J.P. Morgan, 기존 거래소에서 14개 ETF 이전 예정 - TradingView",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA17PPB3:0-j-p-morgan-to-transfer-14-etfs-from-current-exchanges/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 20:00:00",
+      "title": "J.P. Morgan, 기존 거래소에서 14개 ETF 이전 예정 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-transfer-14-200000519.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 15:16:06",
+      "title": "JPMorgan Chase & Co 주식(JPM), 3월 27일 3.26% 하락: 전체 분석 - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261728583-market-movers-jpm-20260327",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 13:21:22",
+      "title": "JP Morgan, 7% 환매 비율의 프라이빗 크레딧 인터벌 펀드 제안 - Alternative Credit Investor",
+      "url": "https://alternativecreditinvestor.com/2026/03/27/jp-morgan-proposes-private-credit-interval-fund-with-7pc-redemptions/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 13:05:22",
+      "title": "연준이 자본 규제 완화를 앞두면서 JPMorgan 주식에 접근하는 방법 - Zacks Investment Research",
+      "url": "https://www.zacks.com/stock/news/2890909/how-to-approach-jpmorgan-stock-as-fed-set-to-ease-capital-rules",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 09:38:23",
+      "title": "투자자들이 밸류에이션과 수익률을 저울질하는 가운데 Todd Combs, JPMorgan Chase에 합류 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/todd-combs-joins-jpmorgan-chase-as-investors-weigh-valuation/amp",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 09:23:40",
+      "title": "Salem Investment Counselors Inc.가 JPMorgan Chase & Co. $JPM 주식을 매입 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-purchased-by-salem-investment-counselors-inc-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 08:14:00",
+      "title": "싱가포르, 아시아 금 거래 허브 조성에 JPM과 UBS의 협력 초청 - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/usq/news/comment.aspx?source=AAFN&id=NOW.1513455&catg=1",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 08:12:39",
+      "title": "Clear Trail Advisors LLC, JPMorgan Chase & Co. $JPM에 1,762만 달러 투자 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-clear-trail-advisors-llc-invests-1762-million-in-jpmorgan-chase-co-jpm-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 07:37:58",
+      "title": "BDF Gestion, JPMorgan Chase & Co. 주식 보유액 1,931만 달러 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bdf-gestion-has-1931-million-stock-holdings-in-jpmorgan-chase-co-jpm-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 07:25:55",
+      "title": "Avanza Fonder AB, JPMorgan Chase & Co. $JPM의 신규 주식 매입 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-avanza-fonder-ab-purchases-new-shares-in-jpmorgan-chase-co-jpm-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 07:11:16",
+      "title": "Jamie Dimon, 암호화 토큰을 “탈중앙화된 폰지 사기”라고 언급 - C-SPAN",
+      "url": "https://www.c-span.org/video/?c5032117/jamie-dimon-calls-crypto-tokens-decentralized-ponzi-schemes",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 04:00:00",
+      "title": "글로벌 금리 재평가: 중앙은행이 실제로 금리를 인상할까? - J.P. Morgan Private Bank",
+      "url": "https://privatebank.jpmorgan.com/latam/en/insights/markets-and-investing/tmt/the-global-rates-repricing-will-central-banks-actually-hike",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 00:00:00",
+      "title": "$100 유가 속 JPM의 Michele: 경기 둔화는 보지만, 경기침체는 아니다 - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-27/jpm-s-michele-see-growth-slowdown-amid-100-oil-video",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 00:00:00",
+      "title": "오일이 200달러에 도달하면 경기침체 위험이 있다고 경고하는 JPM의 Gimber를 주목하라 - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-27/jpm-s-gimber-warns-of-recession-risk-if-oil-reaches-200-video",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 00:00:00",
+      "title": "이란 전쟁 시장: JPM의 Michele, 채권이 최악의 시나리오를 반영하고 있다고 봐 - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-27/jpm-s-michele-bonds-pricing-in-worst-of-all-scenarios-video",
+      "sentiment": "Neutral"
+    },
+    {
       "date": "2026-03-26 21:21:55",
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 1.3% - Here's What Happened - MarketBeat",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) 주가 1.3% 하락 - 무슨 일이 있었나 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-stock-price-down-13-heres-what-happened-2026-03-26/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-26 20:41:13",
-      "title": "J.P. Morgan Maintains Edison International(EIX.US) With Hold Rating, Maintains Target Price $74 - 富途牛牛",
-      "url": "https://news.futunn.com/en/post/70669775/jp-morgan-maintains-edison-international-eixus-with-hold-rating-maintains?level=1&data_ticket=1774574872793032",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 20:12:40",
-      "title": "J.P. Morgan Maintains Ventas Inc(VTR.US) With Buy Rating, Maintains Target Price $93 - 富途牛牛",
-      "url": "https://news.futunn.com/en/post/70669783/jp-morgan-maintains-ventas-inc-vtrus-with-buy-rating-maintains?level=1&data_ticket=1774574872793032",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 19:44:06",
-      "title": "J.P. Morgan Maintains National Fuel Gas(NFG.US) With Hold Rating, Maintains Target Price $97 - 富途牛牛",
-      "url": "https://news.futunn.com/en/post/70669514/jp-morgan-maintains-national-fuel-gas-nfgus-with-hold-rating?level=1&data_ticket=1774574872793032",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 18:58:56",
-      "title": "Small- and mid-cap industrials enter ‘next wave’ for rebalancing: J.P. Morgan - Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4569537-small--and-mid-cap-industrials-enter-next-wave-for-rebalancing-jp-morgan",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 17:43:28",
-      "title": "J.P. Morgan Maintains Heartflow(HTFL.US) With Buy Rating, Maintains Target Price $35 - 富途牛牛",
-      "url": "https://news.futunn.com/en/post/70669682/jp-morgan-maintains-heartflow-htflus-with-buy-rating-maintains-target?level=1&data_ticket=1774574872793032",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-26 16:43:35",
-      "title": "LU35558497 ETF Analysis: Dividends, Returns HAN:LU35558497 - TradingView",
-      "url": "https://www.tradingview.com/symbols/HAN-LU35558497/analysis/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 13:16:37",
-      "title": "Casey's General Stores Initiated at Neutral by JP Morgan - Moomoo",
-      "url": "https://www.moomoo.com/news/post/67471864/casey-s-general-stores-initiated-at-neutral-by-jp-morgan?futusource=news_newspage_recommend&level=1&data_ticket=1774573993196744",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-26 13:05:07",
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Coverage Initiated at Jefferies Financial Group - MarketBeat",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) 커버리지 개시 - Jefferies Financial Group - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-coverage-initiated-at-jefferies-financial-group-2026-03-26/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-26 12:03:48",
-      "title": "The Home Depot to Present at the J.P. Morgan Retail Round Up Forum - The Home Depot",
+      "title": "The Home Depot, J.P. Morgan Retail Round Up Forum에서 발표 예정 - The Home Depot",
       "url": "https://ir.homedepot.com/news-releases/2026/03-26-2026-120049355",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-26 12:02:44",
-      "title": "Westview Management dba Westview Investment Advisors Invests $3.39 Million in JPMorgan Chase & Co. $JPM - MarketBeat",
+      "title": "Westview Management dba Westview Investment Advisors, JPMorgan Chase & Co.에 339만 달러 투자 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-westview-management-dba-westview-investment-advisors-invests-339-million-in-jpmorgan-chase-co-jpm-2026-03-26/",
       "sentiment": "Neutral"
     },
     {
+      "date": "2026-03-26 12:00:00",
+      "title": "The Home Depot, J.P. Morgan Retail Round Up Forum에서 발표 예정 - Yahoo Finance UK",
+      "url": "https://uk.finance.yahoo.com/news/home-depot-present-j-p-120000821.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-26 12:00:00",
+      "title": "The Home Depot, J.P. Morgan Retail Round Up Forum에서 발표 예정 - Morningstar",
+      "url": "https://www.morningstar.com/news/pr-newswire/20260326cl19546/the-home-depot-to-present-at-the-jp-morgan-retail-round-up-forum",
+      "sentiment": "Neutral"
+    },
+    {
       "date": "2026-03-26 10:52:09",
-      "title": "What is Erste Group Bank's Forecast for JPM FY2026 Earnings? - MarketBeat",
+      "title": "Erste Group Bank의 JPM FY2026 실적 전망은? - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/what-is-erste-group-banks-forecast-for-jpm-fy2026-earnings-2026-03-26/",
       "sentiment": "Growth"
     },
     {
-      "date": "2026-03-26 10:34:30",
-      "title": "JP Morgan’s Dividend Leaders ETF Sounds Good, But The Yield Underwhelms - AOL.com",
-      "url": "https://www.aol.com/finance/jp-morgan-dividend-leaders-etf-120235257.html",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-26 10:25:25",
-      "title": "Evgenia Crypto (@Evgenia_Crypto)'s insights - Binance",
-      "url": "https://www.binance.com/en/square/post/305682537212946",
-      "sentiment": "Growth"
-    },
-    {
       "date": "2026-03-26 07:22:00",
-      "title": "JPM Trims Pinduoduo's TP to USD110; No Improvement in Earnings Growth Visibility - AASTOCKS.com",
-      "url": "http://www.aastocks.com/en/usq/news/comment.aspx?source=AAFN&id=NOW.1512824&catg=1",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-26 07:22:00",
-      "title": "JPM Lowers Pinduoduo (PDD.US) TP to USD110, Citing No Improvement in Earnings Growth Visibility - AASTOCKS.com",
-      "url": "http://www.aastocks.com/en/stocks/news/aafn-news/NOW.1512824/2",
+      "title": "JPM, Pinduoduo 목표주가를 110달러로 하향; 실적 성장 가시성 개선 없어 - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/usq/news/comment.aspx?source=AAFN&id=NOW.1512824&catg=4",
       "sentiment": "Risk"
     },
     {
       "date": "2026-03-26 07:06:52",
-      "title": "Fiserv Reshapes Fintech Role With Western Alliance Deal And JP Morgan Hires - Yahoo Finance UK",
-      "url": "https://uk.finance.yahoo.com/news/fiserv-reshapes-fintech-role-western-070652767.html",
-      "sentiment": "Neutral"
+      "title": "Fiserv, Western Alliance 거래와 JP Morgan 채용으로 핀테크 역할 재편 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-reshapes-fintech-role-western-070652767.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAABx_6NEMDbwxsbB0JQCZtoNalfovqWSoPgY2DqLpxR4rGykuwKJz6ECaUAuxrKqCs0zKK4x5CSLcYGbGWSzBmxqULZCxEKTckQW1ZReyJ1_I233PToE42hkKvM1ySpy9w8J6_Au6rQ1qVx0pI3w3zwfbJMq-A4W86YB2qrGgGn-d",
+      "sentiment": "Mixed"
     },
     {
-      "date": "2026-03-26 06:55:00",
-      "title": "JPM Raises Amazon (AMZN.US) Cloud Business Growth Forecast, TP Raised to USD280 - AASTOCKS.com",
-      "url": "http://www.aastocks.com/en/stocks/news/aafn-news/NOW.1512819/2",
+      "date": "2026-03-26 06:25:00",
+      "title": "중국 테크와 AI의 진화하는 기회 - J.P. Morgan Private Bank",
+      "url": "https://privatebank.jpmorgan.com/apac/en/insights/markets-and-investing/asf/the-evolving-opportunity-in-china-tech-and-ai",
       "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 06:35:00",
-      "title": "JPM Downgrades MIXUE GROUP (02097.HK) to \"Underweight\", Cuts TP to HKD270 - AASTOCKS.com",
-      "url": "http://www.aastocks.com/en/stocks/news/aafn-news/NOW.1512807/2",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-26 04:35:00",
-      "title": "JPM Raises WuXi AppTec (02359.HK) TP to HKD150, Maintains 'Overweight' Rating - AASTOCKS.com",
-      "url": "http://www.aastocks.com/en/stocks/news/aafn-con/NOW.1512776/popular-news/AAFN",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 01:42:26",
-      "title": "JP Morgan Chase's $20 Billion AI Push Questions Korean Finance - 조선일보",
-      "url": "https://www.chosun.com/english/industry-en/2026/03/26/QPUOV6TNEVGIJO6AQMDTZWJ4KY/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-25 22:24:28",
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading 1.1% Higher - What's Next? - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-trading-11-higher-whats-next-2026-03-25/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 15:45:07",
-      "title": "JP Morgan sees Middle East conflict as key risk for UK capital goods sector - Yahoo Finance UK",
-      "url": "https://uk.finance.yahoo.com/news/jp-morgan-sees-middle-east-154507501.html",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-25 12:00:00",
-      "title": "DICK'S Sporting Goods Announces Participation in the J.P. Morgan 12th Annual Retail Round Up - PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/dicks-sporting-goods-announces-participation-in-the-jp-morgan-12th-annual-retail-round-up-302723986.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 11:21:31",
-      "title": "A Look At JPMorgan Chase’s Valuation After Recent Share Price Pullback And Mixed Performance - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/a-look-at-jpmorgan-chases-valuation-after-recent-share-price",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 11:15:00",
-      "title": "JPM Arm Makes Legal Bet and NY Eyes Crypto Tax: New York Brief - Bloomberg Law News",
-      "url": "https://news.bloomberglaw.com/new-york-brief/jpm-arm-makes-legal-bet-and-ny-eyes-crypto-tax-new-york-brief",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 09:42:20",
-      "title": "Gradient Investments LLC Increases Stock Position in JPMorgan Chase & Co. $JPM - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gradient-investments-llc-increases-stock-position-in-jpmorgan-chase-co-jpm-2026-03-25/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 09:40:10",
-      "title": "Gryphon Financial Partners LLC Acquires 4,873 Shares of JPMorgan Chase & Co. $JPM - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gryphon-financial-partners-llc-acquires-4873-shares-of-jpmorgan-chase-co-jpm-2026-03-25/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 09:40:10",
-      "title": "Sarasin & Partners LLP Has $327.83 Million Holdings in JPMorgan Chase & Co. $JPM - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sarasin-partners-llp-has-32783-million-holdings-in-jpmorgan-chase-co-jpm-2026-03-25/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 09:33:57",
-      "title": "Nordea Investment Management AB Boosts Position in JPMorgan Chase & Co. $JPM - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nordea-investment-management-ab-boosts-position-in-jpmorgan-chase-co-jpm-2026-03-25/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 03:55:00",
-      "title": "JPM CEO: Mideast Conflict May Create Conditions for Lasting Resolution to Long-term Tensions - AASTOCKS.com",
-      "url": "http://www.aastocks.com/en/usq/news/comment.aspx?source=AAFN&id=NOW.1512227&catg=1",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-25 01:09:07",
-      "title": "Jamie Dimon calls Crypto Tokens \"decentralized Ponzi schemes.\" - C-SPAN",
-      "url": "https://www.c-span.org/video/?c5032117/jamie-dimon-calls-crypto-tokens-decentralized-ponzi-schemes",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-25 00:00:00",
-      "title": "Watch JPM Sees S&P at 7,500 in 2026 If Iran War Short-Lived - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/videos/2026-03-25/jpm-sees-s-p-at-7-500-in-2026-if-iran-war-short-lived-video",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-24 17:00:29",
-      "title": "Listening In on J.P. Morgan Chase’s National CRE Sales Meeting With Karen Purcell - Commercial Observer",
-      "url": "https://commercialobserver.com/2026/03/jp-morgan-chase-karen-purcell-lending/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 13:30:02",
-      "title": "Why JPMorgan Chase & Co. (JPM) is a Top Stock for the Long-Term - Yahoo Finance Singapore",
-      "url": "https://sg.finance.yahoo.com/news/why-jpmorgan-chase-co-jpm-133002620.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAACnoId530s8CVSQvtsHgyf1lre7y6OGDM4B_Exewpsi0kygHHfUzpnb2JyPWxwzUsBgbtyqaG_CbtVAktX1ePrJw1LcOhnjkskjbG_sEv_UtY6mb74BE4kODgXyIfT_D7pMC8-R8xjUlhEh_8-bBMxOcvcYw_vZ2Wh5YPchFf_ux",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-24 11:05:43",
-      "title": "​Tennessee Retirement System commits $150m to JP Morgan net lease fund - IPE Real Assets",
-      "url": "https://realassets.ipe.com/news/tennessee-retirement-system-commits-150m-to-jp-morgan-net-lease-fund/10135907.article",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 09:42:36",
-      "title": "JPMorgan Chase & Co. $JPM Position Trimmed by Northside Capital Management LLC - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-position-trimmed-by-northside-capital-management-llc-2026-03-24/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 09:40:40",
-      "title": "Procyon Advisors LLC Has $19.36 Million Stock Position in JPMorgan Chase & Co. $JPM - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-procyon-advisors-llc-has-1936-million-stock-position-in-jpmorgan-chase-co-jpm-2026-03-24/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 09:17:33",
-      "title": "JPMorgan Leads US$8b EA LBO As Valuation Gap Draws Attention - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-leads-us8b-ea-lbo-as-valuation-gap-draws-attention",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-24 02:44:42",
-      "title": "J.P. Morgan fights to block FINRA arbitration over competing trust claims - InvestmentNews",
-      "url": "https://www.investmentnews.com/regulation-legal-compliance/jp-morgan-fights-to-block-finra-arbitration-over-competing-trust-claims/265813",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-24 00:24:44",
-      "title": "Insider Selling: JPMorgan Chase & Co. (NYSE:JPM) Insider Sells 433 Shares of Stock - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-selling-jpmorgan-chase-co-nysejpm-insider-sells-433-shares-of-stock-2026-03-23/",
-      "sentiment": "Neutral"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-24 ──\n  [Neutral] Listening In on J.P. Morgan Chase’s National CRE Sales Meeting With Karen Purcell - Commercial Observer\n  [Positive] Why JPMorgan Chase & Co. (JPM) is a Top Stock for the Long-Term - Yahoo Finance Singapore\n  [Neutral] ​Tennessee Retirement System commits $150m to JP Morgan net lease fund - IPE Real Assets\n  [Neutral] JPMorgan Chase & Co. $JPM Position Trimmed by Northside Capital Management LLC - MarketBeat\n  [Neutral] Procyon Advisors LLC Has $19.36 Million Stock Position in JPMorgan Chase & Co. $JPM - MarketBeat\n  [Positive] JPMorgan Leads US$8b EA LBO As Valuation Gap Draws Attention - simplywall.st\n  [Negative] J.P. Morgan fights to block FINRA arbitration over competing trust claims - InvestmentNews\n  [Neutral] Insider Selling: JPMorgan Chase & Co. (NYSE:JPM) Insider Sells 433 Shares of Stock - MarketBeat\n\n── 2026-03-25 ──\n  [Neutral] JPMorgan Chase & Co. (NYSE:JPM) Trading 1.1% Higher - What's Next? - MarketBeat\n  [Risk] JP Morgan sees Middle East conflict as key risk for UK capital goods sector - Yahoo Finance UK\n  [Neutral] DICK'S Sporting Goods Announces Participation in the J.P. Morgan 12th Annual Retail Round Up - PR Newswire\n  [Neutral] A Look At JPMorgan Chase’s Valuation After Recent Share Price Pullback And Mixed Performance - simplywall.st\n  [Neutral] JPM Arm Makes Legal Bet and NY Eyes Crypto Tax: New York Brief - Bloomberg Law News\n  [Neutral] Gradient Investments LLC Increases Stock Position in JPMorgan Chase & Co. $JPM - MarketBeat\n  [Neutral] Gryphon Financial Partners LLC Acquires 4,873 Shares of JPMorgan Chase & Co. $JPM - MarketBeat\n  [Neutral] Sarasin & Partners LLP Has $327.83 Million Holdings in JPMorgan Chase & Co. $JPM - MarketBeat\n  [Neutral] Nordea Investment Management AB Boosts Position in JPMorgan Chase & Co. $JPM - MarketBeat\n  [Risk] JPM CEO: Mideast Conflict May Create Conditions for Lasting Resolution to Long-term Tensions - AASTOCKS.com\n  [Negative] Jamie Dimon calls Crypto Tokens \"decentralized Ponzi schemes.\" - C-SPAN\n  [Risk] Watch JPM Sees S&P at 7,500 in 2026 If Iran War Short-Lived - Bloomberg.com\n\n── 2026-03-26 ──\n  [Mixed] J.P. Morgan Maintains ST JAMES'S PLACE(STJPF.US) With Buy Rating, Cuts Target Price to $22.84 - 富途牛牛\n  [Neutral] JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 1.3% - Here's What Happened - MarketBeat\n  [Neutral] J.P. Morgan Maintains Edison International(EIX.US) With Hold Rating, Maintains Target Price $74 - 富途牛牛\n  [Neutral] J.P. Morgan Maintains Ventas Inc(VTR.US) With Buy Rating, Maintains Target Price $93 - 富途牛牛\n  [Neutral] J.P. Morgan Maintains National Fuel Gas(NFG.US) With Hold Rating, Maintains Target Price $97 - 富途牛牛\n  [Growth] Small- and mid-cap industrials enter ‘next wave’ for rebalancing: J.P. Morgan - Seeking Alpha\n  [Positive] J.P. Morgan Maintains Heartflow(HTFL.US) With Buy Rating, Maintains Target Price $35 - 富途牛牛\n  [Neutral] LU35558497 ETF Analysis: Dividends, Returns HAN:LU35558497 - TradingView\n  [Neutral] Casey's General Stores Initiated at Neutral by JP Morgan - Moomoo\n  [Neutral] JPMorgan Chase & Co. (NYSE:JPM) Coverage Initiated at Jefferies Financial Group - MarketBeat\n  [Neutral] The Home Depot to Present at the J.P. Morgan Retail Round Up Forum - The Home Depot\n  [Neutral] Westview Management dba Westview Investment Advisors Invests $3.39 Million in JPMorgan Chase & Co. $JPM - MarketBeat\n  [Growth] What is Erste Group Bank's Forecast for JPM FY2026 Earnings? - MarketBeat\n  [Negative] JP Morgan’s Dividend Leaders ETF Sounds Good, But The Yield Underwhelms - AOL.com\n  [Growth] Evgenia Crypto (@Evgenia_Crypto)'s insights - Binance\n  [Risk] JPM Trims Pinduoduo's TP to USD110; No Improvement in Earnings Growth Visibility - AASTOCKS.com\n  [Risk] JPM Lowers Pinduoduo (PDD.US) TP to USD110, Citing No Improvement in Earnings Growth Visibility - AASTOCKS.com\n  [Neutral] Fiserv Reshapes Fintech Role With Western Alliance Deal And JP Morgan Hires - Yahoo Finance UK\n  [Growth] JPM Raises Amazon (AMZN.US) Cloud Business Growth Forecast, TP Raised to USD280 - AASTOCKS.com\n  [Negative] JPM Downgrades MIXUE GROUP (02097.HK) to \"Underweight\", Cuts TP to HKD270 - AASTOCKS.com\n  [Growth] JPM Raises WuXi AppTec (02359.HK) TP to HKD150, Maintains 'Overweight' Rating - AASTOCKS.com\n  [Growth] JP Morgan Chase's $20 Billion AI Push Questions Korean Finance - 조선일보",
-    "sentiment_block": "총 뉴스 42건 분석 결과:\n  Positive     3건 (  7.1%) █\n  Growth       6건 ( 14.3%) ██\n  Neutral     23건 ( 54.8%) ██████████\n  Mixed        1건 (  2.4%) \n  Risk         5건 ( 11.9%) ██\n  Negative     4건 (  9.5%) █\n\n날짜별 감정 흐름:\n  2026-03-24: Neutral:5, Positive:2, Negative:1\n  2026-03-25: Neutral:8, Risk:3, Negative:1\n  2026-03-26: Neutral:10, Growth:6, Negative:2, Risk:2, Mixed:1, Positive:1",
-    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 1  Buy: 32  Hold: 25  Sell: 2  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $391  Low: $280  Consensus: $336.1  Median: $332.5\n▶ DCF 내재가치\n  DCF: $665.9771214334068  현재가: $N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
+    "news_block": "\n── 2026-03-26 ──\n  [Neutral] JPMorgan Chase & Co. (NYSE:JPM) 주가 1.3% 하락 - 무슨 일이 있었나 - MarketBeat\n  [Neutral] JPMorgan Chase & Co. (NYSE:JPM) 커버리지 개시 - Jefferies Financial Group - MarketBeat\n  [Neutral] The Home Depot, J.P. Morgan Retail Round Up Forum에서 발표 예정 - The Home Depot\n  [Neutral] Westview Management dba Westview Investment Advisors, JPMorgan Chase & Co.에 339만 달러 투자 - MarketBeat\n  [Risk] The Home Depot, J.P. Morgan Retail Round Up Forum에서 발표 예정 - Yahoo Finance UK\n  [Neutral] The Home Depot, J.P. Morgan Retail Round Up Forum에서 발표 예정 - Morningstar\n  [Growth] Erste Group Bank의 JPM FY2026 실적 전망은? - MarketBeat\n  [Risk] JPM, Pinduoduo 목표주가를 110달러로 하향; 실적 성장 가시성 개선 없어 - AASTOCKS.com\n  [Mixed] Fiserv, Western Alliance 거래와 JP Morgan 채용으로 핀테크 역할 재편 - Yahoo Finance\n  [Growth] 중국 테크와 AI의 진화하는 기회 - J.P. Morgan Private Bank\n\n── 2026-03-27 ──\n  [Risk] JPMorgan Chase(JPM)의 규제 변화와 기술적 야망이 투자 스토리를 어떻게 바꿨는가 - Yahoo Finance\n  [Neutral] JPMorgan Chase & Co. (NYSE:JPM) 주가 3% 하락 - 지금 매도할 때인가? - MarketBeat\n  [Neutral] J.P. Morgan, 기존 거래소에서 14개 ETF 이전 예정 - TradingView\n  [Risk] J.P. Morgan, 기존 거래소에서 14개 ETF 이전 예정 - Yahoo Finance\n  [Risk] JPMorgan Chase & Co 주식(JPM), 3월 27일 3.26% 하락: 전체 분석 - TradingKey\n  [Growth] JP Morgan, 7% 환매 비율의 프라이빗 크레딧 인터벌 펀드 제안 - Alternative Credit Investor\n  [Neutral] 연준이 자본 규제 완화를 앞두면서 JPMorgan 주식에 접근하는 방법 - Zacks Investment Research\n  [Neutral] 투자자들이 밸류에이션과 수익률을 저울질하는 가운데 Todd Combs, JPMorgan Chase에 합류 - simplywall.st\n  [Neutral] Salem Investment Counselors Inc.가 JPMorgan Chase & Co. $JPM 주식을 매입 - MarketBeat\n  [Growth] 싱가포르, 아시아 금 거래 허브 조성에 JPM과 UBS의 협력 초청 - AASTOCKS.com\n  [Neutral] Clear Trail Advisors LLC, JPMorgan Chase & Co. $JPM에 1,762만 달러 투자 - MarketBeat\n  [Neutral] BDF Gestion, JPMorgan Chase & Co. 주식 보유액 1,931만 달러 - MarketBeat\n  [Neutral] Avanza Fonder AB, JPMorgan Chase & Co. $JPM의 신규 주식 매입 - MarketBeat\n  [Risk] Jamie Dimon, 암호화 토큰을 “탈중앙화된 폰지 사기”라고 언급 - C-SPAN\n  [Risk] 글로벌 금리 재평가: 중앙은행이 실제로 금리를 인상할까? - J.P. Morgan Private Bank\n  [Neutral] $100 유가 속 JPM의 Michele: 경기 둔화는 보지만, 경기침체는 아니다 - Bloomberg.com\n  [Risk] 오일이 200달러에 도달하면 경기침체 위험이 있다고 경고하는 JPM의 Gimber를 주목하라 - Bloomberg.com\n  [Neutral] 이란 전쟁 시장: JPM의 Michele, 채권이 최악의 시나리오를 반영하고 있다고 봐 - Bloomberg.com\n\n── 2026-03-28 ──\n  [Neutral] J.P. Morgan, Surgery Partners(SGRY.US)에 대해 투자의견 '보유' 유지, 목표주가를 14달러로 하향 - 富途牛牛\n  [Neutral] Pensionfund Sabic, JPMorgan Chase & Co. $JPM에 751만 달러 규모 포지션 보유 - MarketBeat\n  [Neutral] Daymark Wealth Partners LLC, JPMorgan Chase & Co. $JPM 주식 4,435주 매도 - MarketBeat\n  [Mixed] RBC Capital, JPMorgan Chase(JPM)에 대해 매수 의견 유지 - The Globe and Mail",
+    "sentiment_block": "총 뉴스 32건 분석 결과:\n  Positive     0건 (  0.0%) \n  Growth       4건 ( 12.5%) ██\n  Neutral     18건 ( 56.2%) ███████████\n  Mixed        2건 (  6.2%) █\n  Risk         8건 ( 25.0%) █████\n  Negative     0건 (  0.0%) \n\n날짜별 감정 흐름:\n  2026-03-26: Neutral:5, Risk:2, Growth:2, Mixed:1\n  2026-03-27: Neutral:10, Risk:6, Growth:2\n  2026-03-28: Neutral:3, Mixed:1",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 1  Buy: 32  Hold: 25  Sell: 2  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $391  Low: $280  Consensus: $336.1  Median: $332.5\n▶ 실적 추정치 (2028-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $665.9771214334068  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "# JPMorgan Chase & Co. (JPM) 투자 분석\n\n## [핵심 요약]\nJPMorgan Chase는 최근 3일간 **엇갈린 시그널**을 보이고 있습니다. 긍정적으로는 AI 투자 확대, 중동아시아 시장 기회 인식, 소형/중형 산업주 리밸런싱 주도 등이 주목되는 반면, 암호화산 규제 비판, 지정학적 리스크(중동 분쟁), 일부 포트폴리오 기업(Pinduoduo 등) 실적 부진 우려가 동시에 제기되었습니다.\n\n---\n\n## [전체 흐름 분석]\n\n**시간대별 감정 변화의 의미:**\n- **3월 24일**: Positive 감정 우세(2건), 중립적 기관 투자자 포지션 정리 시작\n- **3월 25일**: Risk 감정 급증(3건), 지정학적 불안정성 부각, 암호화폐 규제 우려 대두\n- **3월 26일**: Growth 감정 반등(6건), 기술/클라우드 부문 강세, 하지만 부정적 다운그레이드도 동시 진행\n\n**구조적 특징:**\n전체 뉴스의 54.8%가 중립적(23건)이며, 긍정+성장 합산 21.4% vs 부정+리스크 합산 21.4%로 **정확히 균형**을 이루고 있습니다. 이는 투자자들 사이에 **명확한 방향성의 부재**를 의미합니다.\n\n---\n\n## [긍정 요인]\n\n### 1. **강력한 애널리스트 컨센서스**\n- Buy 등급: 32건 vs Sell: 2건 (강한 비대칭)\n- Strong Buy: 1건으로 소수 강세론자 존재\n- 목표주가 컨센서스 $336.1 vs 중앙값 $332.5로 안정적\n\n### 2. **전략적 성장 시그널**\n- **AI 투자 확대**: 20억 달러 AI 푸시 공시 (한국 금융권도 주목)\n- **클라우드 비즈니스 강세**: Amazon 클라우드 성장 전망 TP 상향 ($280)\n- **소형/중형 산업주 리밸런싱**: 차기 성장 테마 주도 입지 선점\n\n### 3. **기관 투자자 수요 지속**\n- 3월 25-26일 여러 기관의 포지션 증가 (Gradient Investments, Gryphon Financial, Nordea 등)\n- 대규모 펀드 매칭: Tennessee Retirement System $150m 투자\n\n### 4. **높은 내재가치 평가**\n- DCF 내재가치 $665.98 (목표주가 $336.1 대비 약 2배)\n- 장기 구조적 가치 인정\n\n---\n\n## [부정 요인]\n\n### 1. **지정학적 리스크 심화**\n- 중동 분쟁이 **\"주요 리스크\"** 명시 (3월 25일)\n- CEO 자체도 지정학적 긴장 우려 공식 제기\n- S&P 500 하방 시나리오 제시 (이란 전쟁 장기화 시)\n\n### 2. **규제 및 법적 리스크**\n- FINRA 중재 판정부 소송 진행 중 (신탁 분쟁)\n- **암호화폐 강경 발언**: CEO \"분산형 폰지 사기\" 발언으로 업계와 대립\n- 뉘앙스 분석: 규제 강화 입장으로 기존 암호화폐 기업 다운그레이드 (Binance 관련 의견 제시)\n\n### 3. **포트폴리오 회사 부진**\n- **Pinduoduo (PDD)**: TP 하향 ($110), 실적 성장성 미흡\n- **MIXUE GROUP**: Underweight 강등, TP 대폭 하향 (HKD270)\n- 일부 평가 대상 기업들의 실적 악화 신호\n\n### 4. **단기 기술적 약세**\n- 3월 26일 주가 1.3% 하락 (3월 25일 1.1% 상승 후 역행)\n- 주가 풀백 후 밸류에이션 재평가 진행 중\n\n### 5. **배당 ETF 수익률 한계**\n- Dividend Leaders ETF: 수익률 기대치 미달 (AOL 평가)\n\n---\n\n## [투자 인사이트]\n\n### **시장의 이중성(Duality)**\nJPM은 현재 **거시 위험(지정학, 규제)** 과 **미시 기회(AI, 클라우드)** 사이의 **긴장 상태**"
+  "investment_judgment": "[핵심 요약]\n* 최근 3일간 JPM은 **주가가 단기적으로 조정(3/26 -1.3%, 3/27 -3% 내외)** 받았으나, 뉴스 흐름 자체는 **대부분 중립**이며(Neutral 18/32), **성장(Growth)·리스크(Risk)도 함께 공존**하는 구도\n* 리스크의 중심은 **규제/기술 스토리 변화, 매크로(금리·오일) 불확실성, 특정 종목/테마 관련 목표가 조정** 이슈로 나타남\n* 애널리스트 관점에서는 **컨센서스가 ‘Buy 우위’(Strong Buy 1 + Buy 32, Hold 25, Sell 2)**로, 단기 변동성에도 불구하고 **중장기 기대는 유지**되는 신호\n\n---\n\n[전체 흐름 분석]\n* 3/26~3/27에 걸쳐 JPM 관련 뉴스가 **중립(커버리지 개시/투자자 매수/포지션 보유 등)**과 **리스크(규제 변화 해석, 기술적 야망 관련 우려, 매크로 재평가)**로 양분\n* 실제 주가 흐름도 이에 부합해 **3/26~3/27 하락으로 반영**(하루 -1.3%, 다음 날 약 -3%대)\n* 3/28에는 **애널리스트 의견 일부가 매수 유지(RBC Capital)**처럼 완충 신호가 나오며, 전체 감정은 **Neutral 비중이 더 커지는 모습**(3/28: Neutral 3, Mixed 1)\n\n---\n\n[긍정 요인]\n* **월가/브로커 커버리지 및 접근성 개선**: “커버리지 개시”(Jefferies) 등은 향후 관심도·유동성 측면에서 우호적\n* **자금 유입/보유 의사 확인(여러 기관의 매수/보유/포지션 공시)**: MarketBeat 등에서 JPM에 대한 신규 매입·보유 관련 중립 뉴스 다수\n* **펀더멘털 성장 드라이버 관련 성장성 콘텐츠**: 핀테크/AI 등 “기회”를 다룬 Growth 뉴스가 존재(단, 정량 수치 제공은 뉴스에 없음)\n* **애널리스트 합산 등급이 매수 우위**: Buy(32) + Strong Buy(1) > Hold(25)이며 Sell(2)은 소수\n\n---\n\n[부정 요인]\n* **단기 주가 조정이 동반**: 3/26~3/27 연속 하락(감정도 Risk 비중 존재)\n* **리스크는 ‘규제 변화 해석’과 ‘기술적 야망/스토리’의 변동성**에서 집중적으로 나타남(Yahoo Finance 리스크)\n* **매크로 불확실성(금리·오일) 재평가**: 중앙은행 금리 경로/오일이 경기·리스크에 미칠 영향 경고가 함께 등장\n* **일부 목표가 조정/실적 성장 가시성 우려가 존재**: 특정 종목(예: Pinduoduo) 목표가 하향 관련 리스크 뉴스가 섞여 있어, 투자심리 전반의 리스크 프리미엄이 커질 여지는 존재(다만 JPM 직접 펀더멘털 수치로 연결되진 않음)\n* **감정 분석상 Risk 비중이 유의미(25%)**: 긍정(0%)이 없고 성장도 제한적이라, “리스크 관리가 필요한 구간”임을 시사\n\n---\n\n[투자 인사이트]\n* 결론적으로 최근 3일 흐름은 **“중립 뉴스 속에서 단기 조정(주가 하락) + 리스크(규제/매크로) 동시 부각”**입니다.  \n* 이런 구도에서는 보통 두 가지가 중요합니다.\n  1) **가격(단기 하락) 자체가 기회가 되는지**: 뉴스가 전반적으로 매수/커버리지/보유 흐름을 유지하므로, 하락이 ‘펀더멘털 붕괴’보다는 **해석/매크로 변동성** 성격일 가능성이 높음\n  2) **리스크가 “실적을 훼손할 수준의 확정 변수”인지**: 본 데이터에서는 규제/금리/오일 관련 우려가 주로 나타났으나, 이를 곧장 실적 하향의 확정 근거로 연결하는 정량 정보는 없음(따라서 당장 강한 비관으로 단정하기 어려움)\n\n* 애널리스트 측면에서 컨센서스 목표주가(Consensus **$336.1**, Median **$332.5**, High **$391** / Low **$280**)는 **중장기 관점의 지지**로 해석 가능하나, 현재가가 입력되지 않아 **목표 대비 업사이드/다운사이드의 크기(%)를 계산할 수는 없습니다.**\n\n---\n\n[투자 판단]\n**투자: 보류(관망 후 접근)**\n\n---\n\n[판단 근거]\n* **단기적으로는 매크로/규제 관련 Risk 신호와 함께 주가가 하락**했지만(3/26~3/27),  \n  뉴스 총량은 Neutral이 과반이며 애널리스트 합산은 Buy 우위라서(Strong Buy+Buy가 Hold보다 큼) **즉시 ‘비투자/매도’로 갈 근거는 부족**\n* 다만 Growth(12.5%)가 제한적이고 Negative(0%)는 없지만 **Risk(25%)가 상당**하며, 규제·금리·오일 같은 변수는 데이터상 “확정적 실적 타격”으로 명확히 결론 나지 않았습니다.  \n  따라서 현재 구간에서의 공격적 매수보다는 **추가 확인(변동성 완화 또는 실적/가이던스 관련 더 구체적 근거 확인)**이 더 합리적\n* 또한 본 데이터에 **현재가($N/A)** 및 **JPM의 구체 밸류에이션(TTM P/E 등)이 비어 있어**, “목표주가 대비 매력도”를 정량으로 못 박기 어렵습니다. 이 제약 때문에 결론을 ‘투자’보다 보수적으로 내렸습니다."
 }

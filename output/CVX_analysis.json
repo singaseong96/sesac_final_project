@@ -1,329 +1,220 @@
 {
   "meta": {
     "symbol": "CVX",
-    "analysis_date": "2026-03-29T00:23:34.508562+00:00",
-    "news_period": "2026-03-24 ~ 2026-03-26",
-    "news_count": 47,
-    "model": "claude-haiku-4-5-20251001"
+    "analysis_date": "2026-03-29T03:40:50.568969+00:00",
+    "news_period": "2026-03-26 ~ 2026-03-28",
+    "news_count": 29,
+    "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 16,
-    "Risk": 12,
-    "Growth": 8,
-    "Positive": 6,
+    "Neutral": 11,
+    "Positive": 8,
+    "Mixed": 4,
     "Negative": 3,
-    "Mixed": 2
+    "Risk": 2,
+    "Growth": 1
   },
   "sentiment_by_date": {
-    "2026-03-24": {
-      "Neutral": 9,
-      "Risk": 7,
-      "Growth": 5,
-      "Negative": 2,
-      "Positive": 1
-    },
-    "2026-03-25": {
-      "Neutral": 4,
-      "Risk": 4,
-      "Positive": 3,
-      "Mixed": 2
-    },
     "2026-03-26": {
-      "Neutral": 3,
-      "Growth": 3,
-      "Positive": 2,
+      "Positive": 3,
+      "Mixed": 2,
+      "Negative": 2,
+      "Neutral": 2,
+      "Risk": 1
+    },
+    "2026-03-27": {
+      "Neutral": 4,
+      "Positive": 3,
+      "Negative": 1,
       "Risk": 1,
-      "Negative": 1
+      "Growth": 1
+    },
+    "2026-03-28": {
+      "Neutral": 5,
+      "Positive": 2,
+      "Mixed": 2
     }
   },
   "news_with_sentiment": [
     {
+      "date": "2026-03-28 15:25:14",
+      "title": "지금 은퇴자들이 이 3개의 초안전 배당주를 고려해야 하는 이유 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1022988/why-retirees-should-consider-these-3-ultra-safe-dividend-stocks-now/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-28 15:11:49",
+      "title": "이란 전쟁으로 인한 모든 불확실성 속에서 매수할 내 3개 최고 확신 에너지 주식 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/1022833/my-3-highest-conviction-energy-stocks-to-buy-amid-all-the-uncertainty-caused-by-the-war-with-iran/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-28 13:09:18",
+      "title": "Chevron, 지난주 5% 상승. 2026년 주가는 어디까지 갈 수 있을까 - TIKR.com",
+      "url": "https://www.tikr.com/blog/chevron-rose-5-last-week-heres-where-the-stock-could-go-in-2026",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-28 11:28:58",
+      "title": "Dakota Wealth Management, Chevron Corporation $CVX 주식 10,822주 매수 - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/28/dakota-wealth-management-purchases-10822-shares-of-chevron-corporation-cvx.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 11:28:58",
+      "title": "Fort Washington Investment Advisors Inc. OH, Chevron Corporation $CVX 지분 확대 - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/28/fort-washington-investment-advisors-inc-oh-boosts-stake-in-chevron-corporation-cvx.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 09:59:52",
+      "title": "Synergy Asset Management LLC, Chevron Corporation $CVX 지분 축소 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-synergy-asset-management-llc-decreases-stake-in-chevron-corporation-cvx-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 09:05:48",
+      "title": "Capital Investment Advisors LLC, Chevron Corporation $CVX 주식 보유 확대 - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/28/capital-investment-advisors-llc-increases-stock-holdings-in-chevron-corporation-cvx.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 08:51:26",
+      "title": "Elevatus Welath Management가 Chevron Corporation $CVX 주식을 매수 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-chevron-corporation-cvx-shares-purchased-by-elevatus-welath-management-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 06:10:20",
+      "title": "Chevron(NYSE:CVX), 애널리스트 상향 조정 후 1.7% 상승 - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/28/chevron-nysecvx-trading-up-1-7-following-analyst-upgrade.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 21:17:41",
+      "title": "Chevron(NYSE:CVX), 애널리스트 상향 조정 후 1.7% 상승 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/chevron-nysecvx-trading-up-17-following-analyst-upgrade-2026-03-27/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 18:37:00",
+      "title": "공화당 하원의원, 이란 전쟁 지지한 뒤 Chevron 주식을 사상 최고가에 매도 - Benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/03/51520554/republican-representative-backs-iran-war-cashes-out-chevron-stock-at-all-time-high",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-27 16:17:34",
+      "title": "Chevron Corp 주식(CVX), 3월 27일 3.23% 상승: 종합 분석 - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261728875-market-movers-cvx-20260327",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 16:01:51",
+      "title": "Morgan Stanley, Chevron(NYSE:CVX) 주가 큰 폭 상승 전망 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-chevron-nysecvx-stock-2026-03-27/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 15:28:17",
+      "title": "Chevron(CVX) 주가가 강한 다개월 상승세를 보인 뒤 밸류에이션 점검 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/energy/nyse-cvx/chevron/news/chevron-cvx-valuation-check-after-strong-multimonth-share-pr",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 12:42:56",
+      "title": "Morgan Stanley, Chevron(CVX.US)에 대해 매수 의견 유지, 목표주가 212달러로 상향 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67542831/morgan-stanley-maintains-chevron-cvxus-with-buy-rating-raises-target?level=1&data_ticket=1774746856784244",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 09:45:33",
+      "title": "Kozak & Associates Inc., Chevron Corporation $CVX 주식 4,891주 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kozak-associates-inc-sells-4891-shares-of-chevron-corporation-cvx-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 09:40:48",
+      "title": "시장이 이란의 군사 역량을 과장하고 있다고 강하게 주장하라 - Moomoo",
+      "url": "https://www.moomoo.com/community/feed/strongly-assert-that-the-market-is-overestimating-iranian-military-capabilities-116300477104134?chain_id=Name1K9-3FXPhg.1kschog&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FCVX-US%22%7D",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 08:28:55",
+      "title": "Ferguson Wellman Capital Management Inc., Chevron Corporation $CVX 지분 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ferguson-wellman-capital-management-inc-raises-stake-in-chevron-corporation-cvx-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 06:21:26",
+      "title": "Chevron Corporation(NYSE:CVX), 증권사들로부터 '보유' 컨센서스 등급 받아 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/chevron-corporation-nysecvx-given-consensus-rating-of-hold-by-brokerages-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
       "date": "2026-03-26 23:37:50",
-      "title": "Chevron reports outage at Australian gas facilities due to cyclone - TradingView",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N40E1BK:0-chevron-reports-outage-at-australian-gas-facilities-due-to-cyclone/",
+      "title": "허리케인으로 인해 Chevron, 호주 가스 시설 가동 중단 보고 - TradingView",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N40E1BK:0-australia-s-biggest-lng-plants-suffer-outages-due-to-cyclone-straining-global-supply/",
       "sentiment": "Risk"
     },
     {
       "date": "2026-03-26 21:30:03",
-      "title": "Chevron (NYSE:CVX) Shares Up 1.3% - Here's What Happened - MarketBeat",
+      "title": "Chevron(NYSE:CVX) 주가 1.3% 상승 - 무슨 일이 있었나 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/chevron-nysecvx-shares-up-13-heres-what-happened-2026-03-26/",
-      "sentiment": "Neutral"
+      "sentiment": "Mixed"
     },
     {
-      "date": "2026-03-26 19:52:09",
-      "title": "Protect Your Portfolio From Inflation: Buy These 2 Energy Stocks - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/990373/protect-your-portfolio-from-inflation-buy-these-2-energy-stocks/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 19:14:01",
-      "title": "Mochi Finance founder offloads 550K CVX as fraud claims deepen across DeFi - Cryptonews.net",
-      "url": "https://cryptonews.net/news/defi/32610206/",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-26 17:43:28",
-      "title": "Chevron (CVX) Price Target Raised by Bernstein on Stronger Crude Backdrop - Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/chevron-cvx-price-target-raised-174328392.html",
+      "date": "2026-03-26 19:49:00",
+      "title": "인플레이션으로부터 포트폴리오를 보호하라: 이 2개 에너지주를 사라 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/990373/protect-your-portfolio-from-inflation-buy-these-2-energy-stocks/",
       "sentiment": "Positive"
     },
     {
+      "date": "2026-03-26 17:43:28",
+      "title": "Chevron(CVX) 목표주가, 강한 원유 환경에 Bernstein이 상향 조정 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/chevron-cvx-price-target-raised-174328392.html",
+      "sentiment": "Mixed"
+    },
+    {
       "date": "2026-03-26 17:35:49",
-      "title": "Oil Just Hit $100 a Barrel. Here's the 1 Energy Stock Built to Win Whether Prices Stay High or Crash. - The Globe and Mail",
+      "title": "유가가 배럴당 100달러에 도달했다. 가격이 높게 유지되든 폭락하든 승리할 수 있도록 설계된 단 하나의 에너지주 - The Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/988381/oil-just-hit-100-a-barrel-heres-the-1-energy-stock-built-to-win-whether-prices-stay-high-or-crash/",
       "sentiment": "Positive"
     },
     {
       "date": "2026-03-26 16:41:30",
-      "title": "Chevron's High-Quality Asset Base: A Boon in the Current Oil Market - The Globe and Mail",
+      "title": "Chevron의 고품질 자산 기반: 현재 유가 시장의 호재 - The Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/987309/chevrons-high-quality-asset-base-a-boon-in-the-current-oil-market/",
-      "sentiment": "Growth"
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-26 14:46:30",
+      "title": "Mochi Finance 설립자, DeFi 전반에 걸쳐 사기 의혹이 심화되는 가운데 55만 CVX 처분 - crypto.news",
+      "url": "https://crypto.news/mochi-finance-founder-offloads-550k-cvx-as-fraud-claims-deepen-across-defi/",
+      "sentiment": "Negative"
     },
     {
       "date": "2026-03-26 11:11:38",
-      "title": "Should You Pay Attention To Chevron Stock’s Momentum? - Trefis",
+      "title": "Chevron 주식의 모멘텀에 주목해야 할까? - Trefis",
       "url": "https://www.trefis.com/stock/cvx/articles2/594869/should-you-pay-attention-to-chevron-stocks-momentum/2026-03-26",
-      "sentiment": "Growth"
+      "sentiment": "Negative"
     },
     {
       "date": "2026-03-26 10:20:00",
-      "title": "Moody National Bank Trust Division Cuts Stock Position in Chevron Corporation $CVX - MarketBeat",
+      "title": "Moody National Bank Trust Division, Chevron Corporation $CVX 주식 보유를 축소 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-moody-national-bank-trust-division-cuts-stock-position-in-chevron-corporation-cvx-2026-03-26/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-26 08:47:00",
-      "title": "Czech National Bank Buys 10,284 Shares of Chevron Corporation $CVX - MarketBeat",
+      "title": "체코 국립은행, Chevron Corporation $CVX 주식 10,284주 매입 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-czech-national-bank-buys-10284-shares-of-chevron-corporation-cvx-2026-03-26/",
       "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 23:00:37",
-      "title": "Middle East Conflict Drives Oil and Gas Price Surge - Intellectia AI",
-      "url": "https://intellectia.ai/news/stock/middle-east-conflict-drives-oil-and-gas-price-surge",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 20:04:29",
-      "title": "Key facts: Chevron CEO Notes Venezuela Gains; Md. Dismisses Climate Suit - TradingView",
-      "url": "https://www.tradingview.com/news/tradingview:178b29c4e8768:0-key-facts-chevron-ceo-notes-venezuela-gains-md-dismisses-climate-suit/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-25 13:55:02",
-      "title": "Oil Eases on De-Escalation Buzz but Risks Persist: 3 Stocks to Watch - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/944906/oil-eases-on-de-escalation-buzz-but-risks-persist-3-stocks-to-watch/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-25 09:52:53",
-      "title": "Iran Talks Could Shake Oil Prices This Week: 3 Energy Stocks I Wouldn't Hesitate to Buy Amid The Uncertainty. - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/938771/iran-talks-could-shake-oil-prices-this-week-3-energy-stocks-i-wouldnt-hesitate-to-buy-amid-the-uncertainty/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-25 08:39:40",
-      "title": "The Zacks Analyst Blog Highlights Chevron, Kinder Morgan and TC Energy - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/937053/the-zacks-analyst-blog-highlights-chevron-kinder-morgan-and-tc-energy/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 08:15:39",
-      "title": "Clear Trail Advisors LLC Purchases Shares of 66,711 Chevron Corporation $CVX - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-clear-trail-advisors-llc-purchases-shares-of-66711-chevron-corporation-cvx-2026-03-25/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 07:07:36",
-      "title": "Chevron’s Sable Offshore Deal Adds West Coast Supply And Risk Considerations - Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/chevron-sable-offshore-deal-adds-070736738.html",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-25 06:21:45",
-      "title": "Did Middle East Supply Shock and Hess Synergies Just Shift Chevron's (CVX) Investment Narrative? - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/energy/nyse-cvx/chevron/news/did-middle-east-supply-shock-and-hess-synergies-just-shift-c",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-25 04:56:27",
-      "title": "Chevron Stock On Fire: Up 5.1% With 7-Day Winning Streak - Trefis",
-      "url": "https://www.trefis.com/data/companies/CVX/no-login-required/GnazzZKA/Chevron-Stock-On-Fire-Up-5-1-With-7-Day-Winning-Streak",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-25 04:42:10",
-      "title": "Chevron Stock Rockets 5.1% With 7-Day Winning Streak - Trefis",
-      "url": "https://www.trefis.com/stock/cvx/articles/594677/chevron-stock-rockets-5-1-with-7-day-winning-streak/2026-03-25",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-25 01:59:00",
-      "title": "RBC Capital Sticks to Their Buy Rating for Chevron (CVX) - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/933606/rbc-capital-sticks-to-their-buy-rating-for-chevron-cvx/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-25 00:35:08",
-      "title": "California risks fuel crisis unless Middle East war eases, Chevron executive warns (CVX:NYSE) - Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4568266-california-risks-fuel-crisis-unless-middle-east-war-eases-chevron-executive-warns",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-25 00:35:00",
-      "title": "2 of the Best Oil Stocks to Buy Now and Hold for Decades - Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/2-best-oil-stocks-buy-003500541.html",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-24 23:30:02",
-      "title": "Chevron CEO: Middle East Production Recovery Will Take Time - Intellectia AI",
-      "url": "https://intellectia.ai/news/stock/chevron-ceo-middle-east-production-recovery-will-take-time",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-24 20:04:01",
-      "title": "Key facts: Chevron says Iran war may cut 6.5–9m bpd; buys Sable crude - TradingView",
-      "url": "https://www.tradingview.com/news/tradingview:dc7c0f06dc605:0-key-facts-chevron-says-iran-war-may-cut-6-5-9m-bpd-buys-sable-crude/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-24 17:15:44",
-      "title": "Chevron Corp Stock (CVX) Moved Up by 3.13% on Mar 24: What Signal Does It Send? - TradingKey",
-      "url": "https://www.tradingkey.com/news/Market-Movers/261715406-market-movers-cvx-20260324",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-24 15:23:09",
-      "title": "Mochi Finance founder Azeem Ahmed sells 550,000 CVX from $54M rug pull proceeds as fraud allegations span four DeFi projects - mexc.co",
-      "url": "https://www.mexc.co/news/977575",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-24 15:13:00",
-      "title": "Chevron Spots Market Gaps and Calls for Venezuela Reforms - TradingView",
-      "url": "https://www.tradingview.com/news/zacks:df844468c094b:0-chevron-spots-market-gaps-and-calls-for-venezuela-reforms/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-24 14:42:47",
-      "title": "The Zacks Analyst Blog Highlights Shell, Chevron, Allstate, Telefonica Brasil and OMV - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/922206/the-zacks-analyst-blog-highlights-shell-chevron-allstate-telefonica-brasil-and-omv/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 14:07:47",
-      "title": "3 Large Energy Dividend Stocks to Ride Out Oil Price Swings - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/920910/3-large-energy-dividend-stocks-to-ride-out-oil-price-swings/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-24 12:00:15",
-      "title": "Mochi Finance founder Azeem Ahmed sells 550,000 CVX from $54M rug pull proceeds as fraud allegations span four DeFi projects - CryptoDaily",
-      "url": "https://cryptodaily.co.uk/2026/03/mochi-finance-founder-azeem-ahmed-sells-550k-cvx-54m-fraud-allegations-four-defi-projects",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-24 10:47:49",
-      "title": "Chevron (CVX) Stock Climbs as CEO Says Oil Markets Underestimate Middle East Supply Crisis - parameter.io",
-      "url": "https://parameter.io/chevron-cvx-stock-climbs-as-ceo-says-oil-markets-underestimate-middle-east-supply-crisis/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-24 10:40:50",
-      "title": "SG Americas Securities LLC Increases Stock Position in Chevron Corporation $CVX - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sg-americas-securities-llc-increases-stock-position-in-chevron-corporation-cvx-2026-03-24/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 10:40:02",
-      "title": "Chevron (CVX) Stock Climbs as CEO Highlights Market Disconnect on Oil Supply Crisis - Blockonomi",
-      "url": "https://blockonomi.com/chevron-cvx-stock-climbs-as-ceo-highlights-market-disconnect-on-oil-supply-crisis/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-24 10:39:06",
-      "title": "Chevron (CVX) Stock Climbs as CEO Highlights Oil Market Mispricing Amid Supply Crisis - parameter.io",
-      "url": "https://parameter.io/chevron-cvx-stock-climbs-as-ceo-highlights-oil-market-mispricing-amid-supply-crisis/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-24 10:37:00",
-      "title": "Chevron (NYSE:CVX) Tracks Russell 1000 as Institutional Flows Shift - Kalkine Media",
-      "url": "https://kalkinemedia.com/us/stocks/energy/chevron-nysecvx-tracks-russell-1000-as-institutional-flows-shift",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 10:31:00",
-      "title": "RF&L Wealth Management LLC Buys 6,320 Shares of Chevron Corporation $CVX - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-rfl-wealth-management-llc-buys-6320-shares-of-chevron-corporation-cvx-2026-03-24/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 10:20:56",
-      "title": "Marshall Financial Group LLC Decreases Stock Holdings in Chevron Corporation $CVX - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-marshall-financial-group-llc-decreases-stock-holdings-in-chevron-corporation-cvx-2026-03-24/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 09:57:41",
-      "title": "Chevron (CVX) Stock Climbs as CEO Flags Market Disconnect on Hormuz Supply Crisis - MoneyCheck",
-      "url": "https://moneycheck.com/chevron-cvx-stock-climbs-as-ceo-flags-market-disconnect-on-hormuz-supply-crisis/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-24 09:46:06",
-      "title": "Chevron (CVX) Stock Rises as CEO Warns Oil Futures Are Underpricing Supply Shock - CoinCentral",
-      "url": "https://coincentral.com/chevron-cvx-stock-rises-as-ceo-warns-oil-futures-are-underpricing-supply-shock/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-24 09:42:35",
-      "title": "Chevron Corporation $CVX Shares Acquired by Nordea Investment Management AB - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-chevron-corporation-cvx-shares-acquired-by-nordea-investment-management-ab-2026-03-24/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 09:32:15",
-      "title": "Energy stocks soared 30% in 2026; Here’s why Oil stock are still a buy - Finbold",
-      "url": "https://finbold.com/energy-stocks-soared-30-in-2026-heres-why-oil-stock-are-still-a-buy/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-24 08:48:36",
-      "title": "Chevron (NYSE:CVX) Hits New 52-Week High - Time to Buy? - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/chevron-nysecvx-hits-new-52-week-high-time-to-buy-2026-03-24/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 08:30:23",
-      "title": "Dynamic Advisor Solutions LLC Has $16.17 Million Stock Position in Chevron Corporation $CVX - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-dynamic-advisor-solutions-llc-has-1617-million-stock-position-in-chevron-corporation-cvx-2026-03-24/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 06:05:05",
-      "title": "Rep. David Taylor Sells Off Shares of Chevron Corporation (NYSE:CVX) - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/rep-david-taylor-sells-off-shares-of-chevron-corporation-nysecvx-2026-03-24/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-24 01:12:57",
-      "title": "Chevron Oil Shock Warning And New Deals Reshape Risk And Valuation - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/energy/nyse-cvx/chevron/news/chevron-oil-shock-warning-and-new-deals-reshape-risk-and-val",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-24 00:16:00",
-      "title": "Chevron (CVX) Valuation Check As Middle East Supply Shocks Support Energy Producer Pricing - Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/chevron-cvx-valuation-check-middle-001608723.html",
-      "sentiment": "Risk"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-24 ──\n  [Risk] Chevron CEO: Middle East Production Recovery Will Take Time - Intellectia AI\n  [Risk] Key facts: Chevron says Iran war may cut 6.5–9m bpd; buys Sable crude - TradingView\n  [Positive] Chevron Corp Stock (CVX) Moved Up by 3.13% on Mar 24: What Signal Does It Send? - TradingKey\n  [Negative] Mochi Finance founder Azeem Ahmed sells 550,000 CVX from $54M rug pull proceeds as fraud allegations span four DeFi projects - mexc.co\n  [Risk] Chevron Spots Market Gaps and Calls for Venezuela Reforms - TradingView\n  [Neutral] The Zacks Analyst Blog Highlights Shell, Chevron, Allstate, Telefonica Brasil and OMV - The Globe and Mail\n  [Growth] 3 Large Energy Dividend Stocks to Ride Out Oil Price Swings - The Globe and Mail\n  [Negative] Mochi Finance founder Azeem Ahmed sells 550,000 CVX from $54M rug pull proceeds as fraud allegations span four DeFi projects - CryptoDaily\n  [Growth] Chevron (CVX) Stock Climbs as CEO Says Oil Markets Underestimate Middle East Supply Crisis - parameter.io\n  [Neutral] SG Americas Securities LLC Increases Stock Position in Chevron Corporation $CVX - MarketBeat\n  [Growth] Chevron (CVX) Stock Climbs as CEO Highlights Market Disconnect on Oil Supply Crisis - Blockonomi\n  [Growth] Chevron (CVX) Stock Climbs as CEO Highlights Oil Market Mispricing Amid Supply Crisis - parameter.io\n  [Neutral] Chevron (NYSE:CVX) Tracks Russell 1000 as Institutional Flows Shift - Kalkine Media\n  [Neutral] RF&L Wealth Management LLC Buys 6,320 Shares of Chevron Corporation $CVX - MarketBeat\n  [Neutral] Marshall Financial Group LLC Decreases Stock Holdings in Chevron Corporation $CVX - MarketBeat\n  [Risk] Chevron (CVX) Stock Climbs as CEO Flags Market Disconnect on Hormuz Supply Crisis - MoneyCheck\n  [Risk] Chevron (CVX) Stock Rises as CEO Warns Oil Futures Are Underpricing Supply Shock - CoinCentral\n  [Neutral] Chevron Corporation $CVX Shares Acquired by Nordea Investment Management AB - MarketBeat\n  [Growth] Energy stocks soared 30% in 2026; Here’s why Oil stock are still a buy - Finbold\n  [Neutral] Chevron (NYSE:CVX) Hits New 52-Week High - Time to Buy? - MarketBeat\n  [Neutral] Dynamic Advisor Solutions LLC Has $16.17 Million Stock Position in Chevron Corporation $CVX - MarketBeat\n  [Neutral] Rep. David Taylor Sells Off Shares of Chevron Corporation (NYSE:CVX) - MarketBeat\n  [Risk] Chevron Oil Shock Warning And New Deals Reshape Risk And Valuation - simplywall.st\n  [Risk] Chevron (CVX) Valuation Check As Middle East Supply Shocks Support Energy Producer Pricing - Yahoo Finance\n\n── 2026-03-25 ──\n  [Neutral] Middle East Conflict Drives Oil and Gas Price Surge - Intellectia AI\n  [Positive] Key facts: Chevron CEO Notes Venezuela Gains; Md. Dismisses Climate Suit - TradingView\n  [Risk] Oil Eases on De-Escalation Buzz but Risks Persist: 3 Stocks to Watch - The Globe and Mail\n  [Risk] Iran Talks Could Shake Oil Prices This Week: 3 Energy Stocks I Wouldn't Hesitate to Buy Amid The Uncertainty. - The Globe and Mail\n  [Neutral] The Zacks Analyst Blog Highlights Chevron, Kinder Morgan and TC Energy - The Globe and Mail\n  [Neutral] Clear Trail Advisors LLC Purchases Shares of 66,711 Chevron Corporation $CVX - MarketBeat\n  [Risk] Chevron’s Sable Offshore Deal Adds West Coast Supply And Risk Considerations - Yahoo Finance\n  [Mixed] Did Middle East Supply Shock and Hess Synergies Just Shift Chevron's (CVX) Investment Narrative? - simplywall.st\n  [Positive] Chevron Stock On Fire: Up 5.1% With 7-Day Winning Streak - Trefis\n  [Mixed] Chevron Stock Rockets 5.1% With 7-Day Winning Streak - Trefis\n  [Neutral] RBC Capital Sticks to Their Buy Rating for Chevron (CVX) - The Globe and Mail\n  [Risk] California risks fuel crisis unless Middle East war eases, Chevron executive warns (CVX:NYSE) - Seeking Alpha\n  [Positive] 2 of the Best Oil Stocks to Buy Now and Hold for Decades - Yahoo Finance\n\n── 2026-03-26 ──\n  [Risk] Chevron reports outage at Australian gas facilities due to cyclone - TradingView\n  [Neutral] Chevron (NYSE:CVX) Shares Up 1.3% - Here's What Happened - MarketBeat\n  [Growth] Protect Your Portfolio From Inflation: Buy These 2 Energy Stocks - The Globe and Mail\n  [Negative] Mochi Finance founder offloads 550K CVX as fraud claims deepen across DeFi - Cryptonews.net\n  [Positive] Chevron (CVX) Price Target Raised by Bernstein on Stronger Crude Backdrop - Yahoo Finance\n  [Positive] Oil Just Hit $100 a Barrel. Here's the 1 Energy Stock Built to Win Whether Prices Stay High or Crash. - The Globe and Mail\n  [Growth] Chevron's High-Quality Asset Base: A Boon in the Current Oil Market - The Globe and Mail\n  [Growth] Should You Pay Attention To Chevron Stock’s Momentum? - Trefis\n  [Neutral] Moody National Bank Trust Division Cuts Stock Position in Chevron Corporation $CVX - MarketBeat\n  [Neutral] Czech National Bank Buys 10,284 Shares of Chevron Corporation $CVX - MarketBeat",
-    "sentiment_block": "총 뉴스 47건 분석 결과:\n  Positive     6건 ( 12.8%) ██\n  Growth       8건 ( 17.0%) ███\n  Neutral     16건 ( 34.0%) ██████\n  Mixed        2건 (  4.3%) \n  Risk        12건 ( 25.5%) █████\n  Negative     3건 (  6.4%) █\n\n날짜별 감정 흐름:\n  2026-03-24: Neutral:9, Risk:7, Growth:5, Negative:2, Positive:1\n  2026-03-25: Neutral:4, Risk:4, Positive:3, Mixed:2\n  2026-03-26: Neutral:3, Growth:3, Positive:2, Risk:1, Negative:1",
-    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 33  Hold: 15  Sell: 3  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $212  Low: $160  Consensus: $184.54  Median: $180\n▶ DCF 내재가치\n  DCF: $150.00952101613078  현재가: $N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
+    "news_block": "\n── 2026-03-26 ──\n  [Risk] 허리케인으로 인해 Chevron, 호주 가스 시설 가동 중단 보고 - TradingView\n  [Mixed] Chevron(NYSE:CVX) 주가 1.3% 상승 - 무슨 일이 있었나 - MarketBeat\n  [Positive] 인플레이션으로부터 포트폴리오를 보호하라: 이 2개 에너지주를 사라 - The Globe and Mail\n  [Mixed] Chevron(CVX) 목표주가, 강한 원유 환경에 Bernstein이 상향 조정 - Yahoo Finance\n  [Positive] 유가가 배럴당 100달러에 도달했다. 가격이 높게 유지되든 폭락하든 승리할 수 있도록 설계된 단 하나의 에너지주 - The Globe and Mail\n  [Positive] Chevron의 고품질 자산 기반: 현재 유가 시장의 호재 - The Globe and Mail\n  [Negative] Mochi Finance 설립자, DeFi 전반에 걸쳐 사기 의혹이 심화되는 가운데 55만 CVX 처분 - crypto.news\n  [Negative] Chevron 주식의 모멘텀에 주목해야 할까? - Trefis\n  [Neutral] Moody National Bank Trust Division, Chevron Corporation $CVX 주식 보유를 축소 - MarketBeat\n  [Neutral] 체코 국립은행, Chevron Corporation $CVX 주식 10,284주 매입 - MarketBeat\n\n── 2026-03-27 ──\n  [Positive] Chevron(NYSE:CVX), 애널리스트 상향 조정 후 1.7% 상승 - MarketBeat\n  [Negative] 공화당 하원의원, 이란 전쟁 지지한 뒤 Chevron 주식을 사상 최고가에 매도 - Benzinga\n  [Risk] Chevron Corp 주식(CVX), 3월 27일 3.23% 상승: 종합 분석 - TradingKey\n  [Positive] Morgan Stanley, Chevron(NYSE:CVX) 주가 큰 폭 상승 전망 - MarketBeat\n  [Growth] Chevron(CVX) 주가가 강한 다개월 상승세를 보인 뒤 밸류에이션 점검 - simplywall.st\n  [Positive] Morgan Stanley, Chevron(CVX.US)에 대해 매수 의견 유지, 목표주가 212달러로 상향 - Moomoo\n  [Neutral] Kozak & Associates Inc., Chevron Corporation $CVX 주식 4,891주 매도 - MarketBeat\n  [Neutral] 시장이 이란의 군사 역량을 과장하고 있다고 강하게 주장하라 - Moomoo\n  [Neutral] Ferguson Wellman Capital Management Inc., Chevron Corporation $CVX 지분 확대 - MarketBeat\n  [Neutral] Chevron Corporation(NYSE:CVX), 증권사들로부터 '보유' 컨센서스 등급 받아 - MarketBeat\n\n── 2026-03-28 ──\n  [Positive] 지금 은퇴자들이 이 3개의 초안전 배당주를 고려해야 하는 이유 - The Globe and Mail\n  [Mixed] 이란 전쟁으로 인한 모든 불확실성 속에서 매수할 내 3개 최고 확신 에너지 주식 - The Globe and Mail\n  [Mixed] Chevron, 지난주 5% 상승. 2026년 주가는 어디까지 갈 수 있을까 - TIKR.com\n  [Neutral] Dakota Wealth Management, Chevron Corporation $CVX 주식 10,822주 매수 - Defense World\n  [Neutral] Fort Washington Investment Advisors Inc. OH, Chevron Corporation $CVX 지분 확대 - Defense World\n  [Neutral] Synergy Asset Management LLC, Chevron Corporation $CVX 지분 축소 - MarketBeat\n  [Neutral] Capital Investment Advisors LLC, Chevron Corporation $CVX 주식 보유 확대 - Defense World\n  [Neutral] Elevatus Welath Management가 Chevron Corporation $CVX 주식을 매수 - MarketBeat\n  [Positive] Chevron(NYSE:CVX), 애널리스트 상향 조정 후 1.7% 상승 - Defense World",
+    "sentiment_block": "총 뉴스 29건 분석 결과:\n  Positive     8건 ( 27.6%) █████\n  Growth       1건 (  3.4%) \n  Neutral     11건 ( 37.9%) ███████\n  Mixed        4건 ( 13.8%) ██\n  Risk         2건 (  6.9%) █\n  Negative     3건 ( 10.3%) ██\n\n날짜별 감정 흐름:\n  2026-03-26: Positive:3, Mixed:2, Negative:2, Neutral:2, Risk:1\n  2026-03-27: Neutral:4, Positive:3, Negative:1, Risk:1, Growth:1\n  2026-03-28: Neutral:5, Positive:2, Mixed:2",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 33  Hold: 15  Sell: 3  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $212  Low: $160  Consensus: $184.54  Median: $180\n▶ 실적 추정치 (2030-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $150.00952101613078  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "# Chevron (CVX) 투자 분석 보고서\n\n## [핵심 요약]\n\n**3일간의 주요 이슈:**\n- **공급 위기 우려**: CEO가 중동 분쟁으로 인한 원유 공급 감소(650만~900만 배럴/일) 경고, 시장이 이를 과소평가하고 있다고 지적\n- **강한 주가 반응**: 3월 24일 3.13% 상승, 3월 25일 5.1% 상승으로 7일 연속 상승세 기록\n- **포트폴리오 확장**: Sable 유전 인수, 베네수엘라 생산 증가 등 공급 확보 움직임\n- **펀더멘탈 강화**: 유가 $100/배럴 도달, Bernstein의 목표주가 상향 조정\n- **외부 리스크**: 호주 가스 시설 사이클론 피해, DeFi 사기 관련 대량 매도(550만 주)\n\n---\n\n## [전체 흐름 분석]\n\n**시장 구조의 긍정적 변화:**\n3일 연속 상승장에서 감정 분포가 명확하게 개선되었습니다. 초기(3월 24일)에는 리스크 뉴스가 주도(7건)했으나, 시간 경과에 따라 중립적(16건, 34%) → 성장 기회(8건, 17%)로 재평가되었습니다. 이는 시장이 단순히 위험을 인식하는 것을 넘어, 이를 Chevron의 수익성 향상 기회로 해석하고 있음을 의미합니다.\n\n**원유 공급 부족의 구조적 우위:**\nCEO의 중동 공급 위기 경고는 단순 위협이 아닌 Chevron의 경쟁 우위 신호입니다. 시장이 이를 저평가하고 있다는 분석이 반복된 것은, 향후 유가 상승과 Chevron의 마진 개선이 합리적 기대임을 시사합니다. 동시에 Sable 인수와 베네수엘라 진출은 공급 부족 시대에 생산 기지 확보 전략으로 작용합니다.\n\n**기관투자자 포지셀링의 이중성:**\n중립 뉴스 16건 중 상당수가 기관의 매매 활동인데, 일부(RF&L, Nordea, Czech National Bank)는 순매수를 기록한 반면 Marshal Financial과 Moody National Bank는 감소시켰습니다. 이는 장기 자산 배분 목표를 가진 대형 기관의 지지와 단기 수익 실현의 혼재를 보여줍니다.\n\n---\n\n## [긍정 요인]\n\n**1. 공급 위기 주도의 구조적 우위 (강도: 높음)**\n- 중동 분쟁으로 650만~900만 배럴/일 공급 차질 예상\n- 시장이 이를 과소평가하고 있다는 CEO 발언 = 향후 수익성 향상의 잠재력\n- Chevron의 생산 기지 다각화(Sable, 베네수엘라) = 공급 부족 시대의 가격 결정력 강화\n\n**2. 강한 기술적 모멘텀 (강도: 중상)**\n- 3월 24일: 3.13% ↑\n- 3월 25일: 5.1% ↑ (7일 연속 상승)\n- 3월 26일: 1.3% ↑ (상승세 지속)\n- 52주 신고가 달성 신호\n\n**3. 애널리스트 강한 지지 (강도: 높음)**\n- Buy 평가 33건 vs Sell 3건 (Buy/Sell 비율 11:1)\n- Bernstein이 목표주가 상향 조정\n- RBC Capital 'Buy' 유지\n- 컨센서스 목표주가 $184.54 (현재가 근처에서 상승 여력)\n\n**4. 거시 환경 호조 (강도: 중상)**\n- 유가 $100/배럴 도달 (과거 대비 고가 수준)\n- 에너지 주 섹터 2026년 30% 상승\n- 인플레이션 헤지 자산으로 포트폴리오 선호도 증가\n\n**5. 배당주로서의 안정성 (강도: 중)**\n- \"Oil stock are still a buy\" 논리 = 장기 배당 수익 기대\n- 고유가 환경에서 배당 성장성 증가\n\n---\n\n## [부정 요인]\n\n**1. 지정학적 리스크 (강도: 높음)**\n- 중동 분쟁, 호르무즈 해협 공급 차질 위험\n- 이란"
+  "investment_judgment": "[핵심 요약]\n* 최근 3일간 CVX는 **유가 강세(배럴 100달러 언급)와 애널리스트 상향/목표주가 상향** 흐름 속에서 단기 모멘텀이 형성됨.\n* 동시에 **이란 전쟁/군사 불확실성, 설비 가동 중단(허리케인), 규제·수급(일부 매도/보유 조정, 보유/매수 혼재)** 같은 변동성 요인이 동반.\n* 감정 흐름은 **Positive가 누적(27.6%)되지만 Neutral이 가장 큼(37.9%)** → “호재 우세+불확실성 동시 존재”의 전형적 구간.\n\n[전체 흐름 분석]\n* **3/26~3/28 동안** CVX 관련 뉴스는 크게 두 축으로 전개됨.  \n  1) **에너지 가격/환경 개선 기대**: 유가가 높게 유지될 가능성, 고품질 자산 기반 등 “실적 레버리지” 논리.  \n  2) **정치·지정학 리스크 및 이벤트 리스크**: 이란 전쟁 관련 불확실성, 허리케인으로 인한 호주 가스 시설 가동 중단 등으로 단기 변동성 확대.\n* 애널리스트 측면에서는 **대체로 Buy 우위(Strong Buy 0, Buy 33, Hold 15, Sell 3)**이며, 목표주가 컨센서스도 **Consensus 184.54달러(High 212, Low 160)**로 분포가 “상향 여지” 쪽에 형성.\n* 다만 개인/기관의 지분 행동은 **매수와 매도(예: 일부 매도, 일부 매수·증액, 보유 유지 혼재)**로 단일 방향의 수급 확신은 제한적.\n\n[긍정 요인]\n* **유가 강세 프레임 강화**: “유가 100달러 도달/유지 시 설계된 에너지주” 및 “유가 시장 호재” 류의 기사들이 반복되어 투자심리 지지.\n* **애널리스트 상향 조정이 단기 주가 반응으로 연결**: 3/27과 관련해 “상향 후 상승”이 관측됨.\n* **목표주가 상향(상단 212달러)**: Morgan Stanley 목표주가 212달러 언급 등으로 낙관적 레인지가 존재.\n* 감정 기준으로도 기간 누적 **Positive 비중(27.6%)이 Negative(10.3%)를 상회**.\n\n[부정 요인]\n* **지정학(이란 전쟁) 불확실성**: 전쟁 관련 변동성이 ‘불확실성 속 매수’로도 표현되어 단기적으로는 리스크 프리미엄이 남을 가능성.\n* **시설 가동 중단 이벤트 리스크(허리케인)**: 실제 생산/가동률에 영향을 줄 수 있어 단기 실적 변동 가능성.\n* **수급 신호의 혼재**: 일부 기관은 보유/축소도 존재(예: 일부 매도, 보유 축소 언급) → “일방적 매수”로 보기 어려움.\n* 부정 정서 요소도 존재(DeFi 사기 이슈로 CVX 처분 언급 등)하나, 이는 본질적으로 산업 펀더멘털과의 인과가 약해 투자 판단에서는 **보조 요인**으로 제한하는 편이 합리적.\n\n[투자 인사이트]\n* 이번 3일 구간의 핵심은 **“유가/업황(호재) + 애널리스트 상향(심리) → 단기 모멘텀”**이 형성된 반면, **이란/허리케인 같은 이벤트 리스크가 그 모멘텀을 누를 수 있는 구조**라는 점입니다.\n* 즉, CVX를 “장기 우상향 베팅”으로만 보기보다는,  \n  * **상향 리서치가 촉발한 기대(목표가 상단 레인지)**를 활용하되,  \n  * **지정학/가동 중단 이벤트가 실적에 반영되는 시점**에는 변동성 확대 가능성을 감안해 접근하는 전략이 더 일관됩니다.\n* 애널리스트 합산이 Buy 쪽으로 치우쳐 있어도(33 Buy), 컨센서스 대비 고점(212)과 저점(160)의 괴리가 크므로(Range 폭 큼) **“일회성 상향”보다 “상향 근거가 실제로 실적에 연결되는지” 확인 필요**가 투자 포인트입니다.\n\n[투자 판단]\n* **투자: 보류(관망/조건부 접근)**\n\n[판단 근거]\n* **찬성 근거**: 유가 강세 기대와 애널리스트 상향이 겹치며 Positive 감정이 누적(Positive 27.6% > Negative 10.3%), 실제로 상향 직후 주가 상승 언급이 있어 단기 모멘텀이 존재.\n* **반대 근거(보류 결정의 핵심)**: 동시에 이란 전쟁 불확실성 및 허리케인으로 인한 설비 가동 중단 같은 **실제 이벤트 리스크가 단기 실적/현금흐름 변동을 만들 수 있어** 기대를 상쇄할 가능성이 있음. 또한 기관 수급도 매수/매도가 혼재되어 강한 추세 확인이 부족.\n* 따라서 현 시점에서 “즉시 매수 확정”보다, **지정학/가동 이슈의 구체화 및 그에 따른 실적·전망 반영(뉴스/애널리스트 추가 코멘트)**이 확인되기 전까지는 보류가 더 보수적이면서도 데이터에 근거한 선택입니다."
 }
