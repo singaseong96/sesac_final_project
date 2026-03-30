@@ -275,15 +275,20 @@ def md_to_html(text):
     """AI 출력 텍스트의 HTML 태그를 무력화하고 마크다운만 렌더링."""
     # 1) HTML 특수문자 이스케이프 (</div> 등 제거)
     t = html.escape(text)
-    # 2) 마크다운 수평선(---) 제거
+    # 2) 수평선(---) 제거
     t = re.sub(r'^\s*-{2,}\s*$', '', t, flags=re.MULTILINE)
-    # 3) 마크다운 헤딩(## ### # 등) 제거 — 줄 어디서든
+    # 3) ## 헤딩 제거
     t = re.sub(r'#{1,6}\s*', '', t)
-    # 4) 마크다운 강조 변환
+    # 4) 줄 맨 앞의 [섹션명] 헤더 제거 (GPT 원문에 섹션 타이틀이 남아있는 경우)
+    t = re.sub(r'^\s*\[.+?\]\s*$', '', t, flags=re.MULTILINE)
+    # 5) **bold** / ***bold italic*** 먼저 처리 (순서 중요)
     t = re.sub(r'\*\*\*(.+?)\*\*\*', r'<strong><em>\1</em></strong>', t)
     t = re.sub(r'\*\*(.+?)\*\*',     r'<strong>\1</strong>', t)
-    t = re.sub(r'\*(.+?)\*',         r'<em>\1</em>', t)
-    # 5) 연속된 빈 줄 정리 후 줄바꿈 → <br>
+    # 6) 줄 시작 "* " 불릿 → 들여쓰기 없는 • 항목으로 변환 (이탤릭 오인식 방지)
+    t = re.sub(r'^\*{1,2}\s+', '• ', t, flags=re.MULTILINE)
+    # 7) 남은 인라인 *이탤릭* 처리
+    t = re.sub(r'\*(.+?)\*', r'<em>\1</em>', t)
+    # 8) 연속 빈 줄 정리 후 줄바꿈 → <br>
     t = re.sub(r'\n{3,}', '\n\n', t)
     t = t.replace('\n', '<br>')
     return t
