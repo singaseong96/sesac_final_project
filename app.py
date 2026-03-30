@@ -37,6 +37,11 @@ html, body, [data-testid="stAppViewContainer"] {
 [data-testid="stSidebar"] {
     background: #12151d !important;
     border-right: 1px solid #1e2230 !important;
+    display: block !important;
+    visibility: visible !important;
+    transform: none !important;
+    width: 240px !important;
+    min-width: 240px !important;
 }
 
 /* ── 헤더 폰트 ── */
