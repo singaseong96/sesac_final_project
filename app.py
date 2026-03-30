@@ -172,7 +172,7 @@ header[data-testid="stHeader"] { background: transparent !important; }
 
 /* ── Streamlit 버튼 공통 스타일 ── */
 [data-testid="stButton"] > button {
-    background: transparent !important;
+    background: #161923 !important;
     border: 1px solid #1e2230 !important;
     color: #dde1ee !important;
     border-radius: 8px !important;
@@ -183,7 +183,7 @@ header[data-testid="stHeader"] { background: transparent !important; }
 [data-testid="stButton"] > button:hover {
     border-color: #00d4a0 !important;
     color: #00d4a0 !important;
-    background: #00d4a008 !important;
+    background: #161923 !important;
 }
 </style>
 """, unsafe_allow_html=True)
@@ -373,7 +373,7 @@ def render_home():
                 # HTML 카드 (티커 볼드 + 기업명 + 배지)
                 st.markdown(f"""
                 <div style="background:#161923; border:1px solid #1e2230;
-                            border-radius:12px 12px 0 0; padding:18px 16px 14px;
+                            border-radius:12px; padding:18px 16px 14px;
                             text-align:center;">
                     <div style="font-family:'DM Mono',monospace; font-size:20px;
                                 font-weight:700; color:#f0f2fa; letter-spacing:0.04em;
@@ -384,18 +384,10 @@ def render_home():
                                 font-weight:400;">{cname}</div>
                     <div style="margin-top:8px; min-height:16px;">{badge}</div>
                 </div>
+                <div style="height:6px;"></div>
                 """, unsafe_allow_html=True)
 
                 # 클릭 버튼 (카드 하단에 붙임)
-                st.markdown("""
-                <style>
-                div[data-testid="stButton"] > button {
-                    border-radius: 0 0 12px 12px !important;
-                    margin-top: -1px !important;
-                    border-top: 1px solid #1e2230 !important;
-                }
-                </style>
-                """, unsafe_allow_html=True)
                 if st.button("분석 보기 →", key=f"home_btn_{sym}",
                              use_container_width=True):
                     go_dashboard(sym, model_choice)
