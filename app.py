@@ -117,20 +117,40 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
     border-radius: 10px !important;
 }
 
-/* ── 데스크톱: 접기 버튼 숨김 ── */
+/* ── 사이드바 접기/펼치기 버튼: 데스크톱만 숨김, 모바일은 표시 ── */
 @media (min-width: 769px) {
     [data-testid="stSidebarCollapseButton"] { display: none !important; }
     [data-testid="collapsedControl"] { display: none !important; }
 }
-
-/* ── 모바일: 접기/펼치기 버튼 표시 ── */
 @media (max-width: 768px) {
-    [data-testid="stSidebarCollapseButton"] { display: flex !important; }
-    [data-testid="collapsedControl"] { display: flex !important; }
-    [data-testid="stSidebarCollapseButton"] button svg { display: none !important; }
-    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; font-size:14px; }
+    [data-testid="stSidebarCollapseButton"],
+    [data-testid="collapsedControl"] {
+        display: flex !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        position: fixed !important;
+        top: 12px !important;
+        left: 12px !important;
+        z-index: 9999 !important;
+    }
+    [data-testid="stSidebarCollapseButton"] button,
+    [data-testid="collapsedControl"] button {
+        background: #12151d !important;
+        border: 1px solid #1e2230 !important;
+        border-radius: 8px !important;
+        color: #dde1ee !important;
+        width: 40px !important;
+        height: 40px !important;
+        font-size: 18px !important;
+        padding: 0 !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    [data-testid="stSidebarCollapseButton"] button svg,
     [data-testid="collapsedControl"] button svg { display: none !important; }
-    [data-testid="collapsedControl"] button::after { content: "☰"; font-size:14px; }
+    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; }
+    [data-testid="collapsedControl"] button::after { content: "☰"; }
 }
 
 /* ── 헤더 내부 불필요 요소만 숨김 ── */
