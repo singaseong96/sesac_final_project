@@ -135,6 +135,15 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
 [data-testid="collapsedControl"] button svg { display: none !important; }
 [data-testid="stSidebarCollapseButton"] button::after { content: "<<"; }
 [data-testid="collapsedControl"] button::after { content: ">>"; }
+
+/* ── 헤더 툴바 숨김 (collapsedControl은 유지) ── */
+header[data-testid="stHeader"] {
+    background: transparent !important;
+    pointer-events: none !important;
+}
+[data-testid="collapsedControl"] {
+    pointer-events: all !important;
+}
 [data-testid="stToolbar"] { display: none !important; }
 [data-testid="stDecoration"] { display: none !important; }
 [data-testid="stStatusWidget"] { display: none !important; }
