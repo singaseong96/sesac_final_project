@@ -117,11 +117,20 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
     border-radius: 10px !important;
 }
 
-/* ── 사이드바 접기/펼치기 버튼: 데스크톱만 숨김, 모바일은 표시 ── */
+/* ── 데스크톱: 사이드바 항상 표시, 접기 버튼 숨김 ── */
 @media (min-width: 769px) {
+    [data-testid="stSidebar"] {
+        display: block !important;
+        visibility: visible !important;
+        transform: none !important;
+        width: 240px !important;
+        min-width: 240px !important;
+    }
     [data-testid="stSidebarCollapseButton"] { display: none !important; }
     [data-testid="collapsedControl"] { display: none !important; }
 }
+
+/* ── 모바일: 사이드바 기본 숨김, ☰ 버튼 고정 표시 ── */
 @media (max-width: 768px) {
     [data-testid="stSidebarCollapseButton"],
     [data-testid="collapsedControl"] {
@@ -129,19 +138,18 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
         visibility: visible !important;
         opacity: 1 !important;
         position: fixed !important;
-        top: 12px !important;
-        left: 12px !important;
+        top: 10px !important;
+        left: 10px !important;
         z-index: 9999 !important;
     }
     [data-testid="stSidebarCollapseButton"] button,
     [data-testid="collapsedControl"] button {
         background: #12151d !important;
-        border: 1px solid #1e2230 !important;
+        border: 1px solid #00d4a060 !important;
         border-radius: 8px !important;
-        color: #dde1ee !important;
+        color: #00d4a0 !important;
         width: 40px !important;
         height: 40px !important;
-        font-size: 18px !important;
         padding: 0 !important;
         display: flex !important;
         align-items: center !important;
@@ -149,8 +157,8 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
     }
     [data-testid="stSidebarCollapseButton"] button svg,
     [data-testid="collapsedControl"] button svg { display: none !important; }
-    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; }
-    [data-testid="collapsedControl"] button::after { content: "☰"; }
+    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; font-size:16px; }
+    [data-testid="collapsedControl"] button::after { content: "☰"; font-size:16px; }
 }
 
 /* ── 헤더 내부 불필요 요소만 숨김 ── */
