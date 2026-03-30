@@ -16,7 +16,7 @@ st.set_page_config(
     page_title="주식 투자 분석",
     page_icon="📊",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="auto",
 )
 
 # ─────────────────────────────────────────────────────────
@@ -37,40 +37,14 @@ html, body, [data-testid="stAppViewContainer"] {
 [data-testid="stSidebar"] {
     background: #12151d !important;
     border-right: 1px solid #1e2230 !important;
-    display: block !important;
-    visibility: visible !important;
-    transform: none !important;
-    width: 240px !important;
-    min-width: 240px !important;
 }
 
-/* ── 모바일: 사이드바 접기/펼치기 허용 ── */
+/* ── 모바일: 접기/펼치기 버튼 텍스트 ── */
 @media (max-width: 768px) {
-    [data-testid="stSidebar"] {
-        width: 100% !important;
-        min-width: unset !important;
-        transform: unset !important;
-        position: fixed !important;
-        z-index: 999 !important;
-    }
-    [data-testid="stSidebarCollapseButton"] { display: flex !important; }
-    [data-testid="collapsedControl"] { display: flex !important; }
-    [data-testid="stSidebarCollapseButton"] button,
-    [data-testid="collapsedControl"] button {
-        background: #12151d !important;
-        border: 1px solid #1e2230 !important;
-        border-radius: 6px !important;
-        color: #8d97b0 !important;
-        font-size: 13px !important;
-        font-family: 'DM Mono', monospace !important;
-        width: 36px !important;
-        height: 36px !important;
-        padding: 0 !important;
-    }
-    [data-testid="stSidebarCollapseButton"] button svg,
+    [data-testid="stSidebarCollapseButton"] button svg { display: none !important; }
+    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; font-size:14px; }
     [data-testid="collapsedControl"] button svg { display: none !important; }
-    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; }
-    [data-testid="collapsedControl"] button::after { content: "☰"; }
+    [data-testid="collapsedControl"] button::after { content: "☰"; font-size:14px; }
 }
 
 /* ── 헤더 폰트 ── */
@@ -143,9 +117,21 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
     border-radius: 10px !important;
 }
 
-/* ── 사이드바 항상 표시, 접기 버튼 제거 ── */
-[data-testid="stSidebarCollapseButton"] { display: none !important; }
-[data-testid="collapsedControl"] { display: none !important; }
+/* ── 데스크톱: 접기 버튼 숨김 ── */
+@media (min-width: 769px) {
+    [data-testid="stSidebarCollapseButton"] { display: none !important; }
+    [data-testid="collapsedControl"] { display: none !important; }
+}
+
+/* ── 모바일: 접기/펼치기 버튼 표시 ── */
+@media (max-width: 768px) {
+    [data-testid="stSidebarCollapseButton"] { display: flex !important; }
+    [data-testid="collapsedControl"] { display: flex !important; }
+    [data-testid="stSidebarCollapseButton"] button svg { display: none !important; }
+    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; font-size:14px; }
+    [data-testid="collapsedControl"] button svg { display: none !important; }
+    [data-testid="collapsedControl"] button::after { content: "☰"; font-size:14px; }
+}
 
 /* ── 헤더 내부 불필요 요소만 숨김 ── */
 [data-testid="stToolbar"] { display: none !important; }
