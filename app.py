@@ -45,7 +45,7 @@ html, body, [data-testid="stAppViewContainer"] {
     background: var(--bg-base) !important;
     color: var(--text-main) !important;
     font-family: 'DM Sans', sans-serif !important;
-    font-size: 17px !important;
+    font-size: 20px !important;
     line-height: 1.75 !important;
 }
 
@@ -72,19 +72,19 @@ h1, h2, h3 { font-family: 'DM Sans', sans-serif !important; color: var(--text-ma
 }
 [data-testid="stMetric"] label {
     color: var(--text-sub) !important;
-    font-size: 14px !important;
+    font-size: 20px !important;
     font-weight: 600 !important;
     letter-spacing: 0.05em !important;
     text-transform: uppercase !important;
 }
 [data-testid="stMetricValue"] {
     color: var(--text-main) !important;
-    font-size: 26px !important;
+    font-size: 28px !important;
     font-weight: 700 !important;
     font-family: 'DM Mono', monospace !important;
 }
 [data-testid="stMetricDelta"] {
-    font-size: 14px !important;
+    font-size: 20px !important;
     font-family: 'DM Mono', monospace !important;
     color: var(--text-sub) !important;
 }
@@ -95,7 +95,7 @@ h1, h2, h3 { font-family: 'DM Sans', sans-serif !important; color: var(--text-ma
     gap: 4px !important;
 }
 [data-testid="stTabs"] [role="tab"] {
-    font-size: 15px !important;
+    font-size: 18px !important;
     font-weight: 600 !important;
     color: var(--text-sub) !important;
     padding: 10px 20px !important;
@@ -113,7 +113,7 @@ hr { border-color: var(--border) !important; margin: 24px 0 !important; }
 /* ── 알림 박스 ── */
 [data-testid="stAlert"] {
     border-radius: 10px !important;
-    font-size: 15px !important;
+    font-size: 18px !important;
 }
 
 /* ── 데이터프레임 ── */
@@ -129,7 +129,7 @@ hr { border-color: var(--border) !important; margin: 24px 0 !important; }
 [data-testid="stSelectbox"] label,
 [data-testid="stMultiSelect"] label {
     color: var(--text-sub) !important;
-    font-size: 15px !important;
+    font-size: 18px !important;
     font-weight: 600 !important;
 }
 
@@ -150,7 +150,7 @@ hr { border-color: var(--border) !important; margin: 24px 0 !important; }
 [data-testid="stMultiSelect"] [data-baseweb="select"] div {
     background: transparent !important;
     color: var(--text-main) !important;
-    font-size: 15px !important;
+    font-size: 18px !important;
 }
 
 /* 드롭다운 팝업 메뉴 */
@@ -168,7 +168,7 @@ ul[data-baseweb="menu"] {
 [role="option"] {
     background: var(--bg-card) !important;
     color: var(--text-main) !important;
-    font-size: 15px !important;
+    font-size: 18px !important;
     font-family: 'DM Sans', sans-serif !important;
 }
 
@@ -192,7 +192,7 @@ ul[data-baseweb="menu"] {
     border: 1px solid var(--accent) !important;
     border-radius: 6px !important;
     color: var(--accent) !important;
-    font-size: 14px !important;
+    font-size: 20px !important;
 }
 [data-baseweb="tag"] span { color: var(--accent) !important; }
 [data-baseweb="tag"] button { color: var(--accent) !important; }
@@ -212,7 +212,7 @@ ul[data-baseweb="menu"] {
 [data-testid="stSidebar"] .stSelectbox label,
 [data-testid="stSidebar"] .stRadio label {
     color: var(--text-sub) !important;
-    font-size: 14px !important;
+    font-size: 20px !important;
     text-transform: uppercase !important;
     letter-spacing: 0.06em !important;
 }
@@ -271,7 +271,7 @@ ul[data-baseweb="menu"] {
 /* ── markdown 본문 가독성 ── */
 [data-testid="stMarkdownContainer"] p,
 [data-testid="stMarkdownContainer"] li {
-    font-size: 17px !important;
+    font-size: 20px !important;
     line-height: 1.9 !important;
     color: var(--text-main) !important;
 }
@@ -298,7 +298,7 @@ ul[data-baseweb="menu"] {
     color: var(--text-main) !important;
     border-radius: 8px !important;
     font-family: 'DM Sans', sans-serif !important;
-    font-size: 15px !important;
+    font-size: 18px !important;
     font-weight: 600 !important;
     transition: all 0.15s ease !important;
     box-shadow: 0 1px 3px rgba(0,0,0,0.06) !important;
@@ -312,7 +312,7 @@ ul[data-baseweb="menu"] {
 /* ── radio & multiselect 텍스트 ── */
 [data-testid="stRadio"] label,
 [data-testid="stMultiSelect"] label {
-    font-size: 15px !important;
+    font-size: 18px !important;
     color: var(--text-main) !important;
 }
 </style>
@@ -370,7 +370,7 @@ with st.sidebar:
                     letter-spacing:0.05em; color:#009e78; line-height:1;">
             STOCK<br>INSIGHT
         </div>
-        <div style="font-size:13px; color:#7a84a0; margin-top:5px;
+        <div style="font-size:16px; color:#7a84a0; margin-top:5px;
                     font-weight:500; letter-spacing:0.1em; text-transform:uppercase;">
             투자 분석 대시보드
         </div>
@@ -409,7 +409,7 @@ with st.sidebar:
 
     st.markdown('<div style="height:1px;background:#dde2f0;margin:20px 0;"></div>', unsafe_allow_html=True)
     st.markdown("""
-    <div style="font-size:14px; color:#8892a4; line-height:1.8;">
+    <div style="font-size:17px; color:#8892a4; line-height:1.8;">
         <div style="color:#8892a4; font-weight:600; margin-bottom:4px;">📡 데이터 소스</div>
         <div>Financial Modeling Prep</div>
         <div>gpt-5.4-mini / gpt-5.4-nano</div>
@@ -418,11 +418,11 @@ with st.sidebar:
     <div style="height:1px;background:#dde2f0;margin:16px 0;"></div>
     <div style="background:#fffbf0; border:1px solid #d9770640; border-left:3px solid #d97706;
                 border-radius:8px; padding:12px 14px;">
-        <div style="font-size:13px; font-weight:700; color:#d97706;
+        <div style="font-size:16px; font-weight:700; color:#d97706;
                     letter-spacing:0.06em; text-transform:uppercase; margin-bottom:6px;">
             ⚠️ 투자 주의
         </div>
-        <div style="font-size:13px; color:#92710a; line-height:1.7;">
+        <div style="font-size:16px; color:#92710a; line-height:1.7;">
             AI는 잘못된 정보를 제공할 수 있고 투자 결정은 본인에게 있습니다.
         </div>
     </div>
@@ -464,7 +464,7 @@ def render_home():
                     background-clip: text;">
             STOCK INSIGHT
         </div>
-        <div style="font-size:17px; color:#8892a4; margin-top:16px; font-weight:400;
+        <div style="font-size:20px; color:#8892a4; margin-top:16px; font-weight:400;
                     letter-spacing:0.01em; max-width:520px; margin-left:auto; margin-right:auto;
                     line-height:1.7;">
             AI 기반 뉴스 감정 분석과 애널리스트 데이터로<br>
@@ -477,7 +477,7 @@ def render_home():
 
     # ── 종목 빠른 선택 ───────────────────────────────────
     st.markdown("""
-    <div style="font-size:14px; font-weight:700; color:#8892a4;
+    <div style="font-size:17px; font-weight:700; color:#8892a4;
                 text-transform:uppercase; letter-spacing:0.1em; margin-bottom:20px;">
         📌 종목 빠른 선택
     </div>
@@ -490,7 +490,7 @@ def render_home():
 
     for sec, syms in STOCKS.items():
         st.markdown(f"""
-        <div style="font-size:15px; color:#7a84a0; font-weight:500;
+        <div style="font-size:18px; color:#7a84a0; font-weight:500;
                     margin-bottom:10px; margin-top:4px;">
             {SECTOR_ICON.get(sec,'')} {sec}
         </div>
@@ -504,11 +504,11 @@ def render_home():
             has_claude = os.path.exists(os.path.join(OUTPUT_DIR, f"{sym}_analysis_claude.json"))
             badge = ""
             if has_gpt and has_claude:
-                badge = '<span style="color:#0d8a6a;font-size:13px;font-weight:600;">GPT</span><span style="color:#9aa3b8;font-size:13px;"> · </span><span style="color:#b5603e;font-size:13px;font-weight:600;">Claude</span>'
+                badge = '<span style="color:#0d8a6a;font-size:16px;font-weight:600;">GPT</span><span style="color:#9aa3b8;font-size:16px;"> · </span><span style="color:#b5603e;font-size:16px;font-weight:600;">Claude</span>'
             elif has_gpt:
-                badge = '<span style="color:#0d8a6a;font-size:13px;font-weight:600;">GPT</span>'
+                badge = '<span style="color:#0d8a6a;font-size:16px;font-weight:600;">GPT</span>'
             elif has_claude:
-                badge = '<span style="color:#b5603e;font-size:13px;font-weight:600;">Claude</span>'
+                badge = '<span style="color:#b5603e;font-size:16px;font-weight:600;">Claude</span>'
 
             with cols[i]:
                 # HTML 카드 (티커 볼드 + 기업명 + 배지)
@@ -516,12 +516,12 @@ def render_home():
                 <div style="background:#ffffff; border:1px solid #dde2f0;
                             border-radius:12px; padding:18px 16px 14px;
                             text-align:center;">
-                    <div style="font-family:'DM Mono',monospace; font-size:22px;
+                    <div style="font-family:'DM Mono',monospace; font-size:24px;
                                 font-weight:700; color:#0f1320; letter-spacing:0.04em;
                                 line-height:1.1;">
                         {sym}
                     </div>
-                    <div style="font-size:14px; color:#7a84a0; margin-top:5px;
+                    <div style="font-size:17px; color:#7a84a0; margin-top:5px;
                                 font-weight:400;">{cname}</div>
                     <div style="margin-top:8px; min-height:16px;">{badge}</div>
                 </div>
@@ -567,17 +567,17 @@ st.markdown(f"""
                     color:#0f1320; line-height:1; letter-spacing:0.02em;">
             {symbol}
         </div>
-        <div style="font-size:20px; color:#8892a4; font-weight:400; margin-top:2px;">
+        <div style="font-size:22px; color:#8892a4; font-weight:400; margin-top:2px;">
             {company}
         </div>
     </div>
     <div style="padding-bottom:12px; display:flex; gap:8px; flex-wrap:wrap;">
-        <span style="background:#dde2f0; color:#009e78; font-size:13px;
+        <span style="background:#dde2f0; color:#009e78; font-size:16px;
                      font-weight:600; padding:4px 12px; border-radius:20px;
                      letter-spacing:0.07em; text-transform:uppercase; border:1px solid #009e7825;">
             {sector}
         </span>
-        <span style="background:#dde2f0; color:{model_badge_color}; font-size:13px;
+        <span style="background:#dde2f0; color:{model_badge_color}; font-size:16px;
                      font-weight:600; padding:4px 12px; border-radius:20px;
                      letter-spacing:0.07em; text-transform:uppercase; border:1px solid {model_badge_color}25;">
             {model_choice}
@@ -617,12 +617,12 @@ def md_to_html(text):
 # 헬퍼: 섹션 헤더
 # ─────────────────────────────────────────────────────────
 def section_header(icon, title, subtitle=""):
-    sub_html = f'<div style="font-size:15px;color:#7a84a0;margin-top:3px;font-weight:400;">{subtitle}</div>' if subtitle else ""
+    sub_html = f'<div style="font-size:18px;color:#7a84a0;margin-top:3px;font-weight:400;">{subtitle}</div>' if subtitle else ""
     st.markdown(f"""
     <div style="display:flex; align-items:center; gap:14px; margin-bottom:20px;">
-        <div style="font-size:26px; line-height:1;">{icon}</div>
+        <div style="font-size:28px; line-height:1;">{icon}</div>
         <div>
-            <div style="font-size:22px; font-weight:700; color:#0f1320;">{title}</div>
+            <div style="font-size:24px; font-weight:700; color:#0f1320;">{title}</div>
             {sub_html}
         </div>
     </div>
@@ -686,7 +686,7 @@ with tab1:
                 {verdict_text}
             </div>
             <div style="width:1px; height:32px; background:{verdict_border}; margin:0 4px;"></div>
-            <div style="font-size:16px; color:#8892a4; font-weight:400;">
+            <div style="font-size:19px; color:#8892a4; font-weight:400;">
                 {model_choice} 종합 판단 결과
             </div>
         </div>
@@ -737,11 +737,11 @@ with tab1:
                 st.markdown(f"""
                 <div style="background:{bg_color}; border:1px solid {border_c};
                             border-radius:12px; padding:20px 22px; margin-bottom:16px;">
-                    <div style="font-size:14px; font-weight:700; color:#8892a4;
+                    <div style="font-size:17px; font-weight:700; color:#8892a4;
                                 text-transform:uppercase; letter-spacing:0.07em; margin-bottom:12px;">
                         {title}
                     </div>
-                    <div style="font-size:17px; color:#1a1f36; line-height:1.85;">
+                    <div style="font-size:20px; color:#1a1f36; line-height:1.85;">
                         {md_to_html(content)}
                     </div>
                 </div>
@@ -813,7 +813,7 @@ with tab2:
 
         if sg:
             st.markdown("""
-            <div style="font-size:15px; font-weight:700; color:#8892a4;
+            <div style="font-size:18px; font-weight:700; color:#8892a4;
                         text-transform:uppercase; letter-spacing:0.06em; margin-bottom:12px;">
                 최근 증권사 등급 변경
             </div>
@@ -864,13 +864,13 @@ with tab2:
                 st.markdown(f"""
                 <div style="background:#ffffff; border:1px solid #dde2f0; border-top:3px solid {color};
                             border-radius:10px; padding:16px; text-align:center;">
-                    <div style="font-size:14px; color:#8892a4; font-weight:600;
+                    <div style="font-size:17px; color:#8892a4; font-weight:600;
                                 text-transform:uppercase; letter-spacing:0.07em; margin-bottom:10px;">
                         {SENTIMENT_KO[lb]}
                     </div>
-                    <div style="font-size:26px; font-weight:700; color:#0f1320;
+                    <div style="font-size:28px; font-weight:700; color:#0f1320;
                                 font-family:'DM Mono',monospace;">{cnt}</div>
-                    <div style="font-size:15px; color:{color}; font-weight:600;
+                    <div style="font-size:18px; color:{color}; font-weight:600;
                                 font-family:'DM Mono',monospace; margin-top:4px;">{pct}</div>
                 </div>
                 """, unsafe_allow_html=True)
@@ -881,7 +881,7 @@ with tab2:
 
         with sc1:
             st.markdown("""
-            <div style="font-size:14px; font-weight:700; color:#8892a4;
+            <div style="font-size:17px; font-weight:700; color:#8892a4;
                         text-transform:uppercase; letter-spacing:0.07em; margin-bottom:8px;">
                 전체 감정 분포
             </div>
@@ -914,7 +914,7 @@ with tab2:
 
         with sc2:
             st.markdown("""
-            <div style="font-size:14px; font-weight:700; color:#8892a4;
+            <div style="font-size:17px; font-weight:700; color:#8892a4;
                         text-transform:uppercase; letter-spacing:0.07em; margin-bottom:8px;">
                 날짜별 감정 흐름
             </div>
@@ -970,7 +970,7 @@ with tab3:
         df_show = df_show.sort_values("date", ascending=(sort_order == "오래된순"))
 
         st.markdown(f"""
-        <div style="font-size:15px; color:#7a84a0; font-weight:500;
+        <div style="font-size:18px; color:#7a84a0; font-weight:500;
                     letter-spacing:0.04em; margin-bottom:16px;">
             총 <strong style="color:#1a1f36;">{len(df_show)}건</strong>
         </div>
@@ -986,10 +986,10 @@ with tab3:
 
             title_html = (
                 f'<a href="{url}" target="_blank" style="color:#0f1320; text-decoration:none; '
-                f'font-size:17px; font-weight:600; line-height:1.6; display:block;">'
+                f'font-size:20px; font-weight:600; line-height:1.6; display:block;">'
                 f'{title}</a>'
             ) if url else (
-                f'<span style="color:#0f1320; font-size:17px; font-weight:600; line-height:1.6;">'
+                f'<span style="color:#0f1320; font-size:20px; font-weight:600; line-height:1.6;">'
                 f'{title}</span>'
             )
 
@@ -1007,7 +1007,7 @@ with tab3:
             ">
                 <div style="flex-shrink:0; margin-top:3px;">
                     <div style="background:{color}20; color:{color};
-                                font-size:13px; font-weight:700; padding:5px 11px;
+                                font-size:16px; font-weight:700; padding:5px 11px;
                                 border-radius:20px; border:1px solid {color}40;
                                 letter-spacing:0.05em; white-space:nowrap;">
                         {label}
@@ -1015,7 +1015,7 @@ with tab3:
                 </div>
                 <div style="flex:1; min-width:0;">
                     {title_html}
-                    <div style="font-size:14px; color:#7a84a0; margin-top:7px;
+                    <div style="font-size:17px; color:#7a84a0; margin-top:7px;
                                 font-family:'DM Mono',monospace; letter-spacing:0.02em;">
                         {date_str}
                     </div>
