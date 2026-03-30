@@ -34,17 +34,39 @@ html, body, [data-testid="stAppViewContainer"] {
     font-size: 15px !important;
     line-height: 1.7 !important;
 }
-[data-testid="stSidebar"] {
-    background: #12151d !important;
-    border-right: 1px solid #1e2230 !important;
+# 기존 CSS에서 이 부분을 교체:
+
+# 헤더 배경 다크
+header[data-testid="stHeader"] { background: #0d0f14 !important; }
+
+# 툴바 숨김
+[data-testid="stToolbar"] { display: none !important; }
+[data-testid="stDecoration"] { display: none !important; }
+[data-testid="stStatusWidget"] { display: none !important; }
+.stDeployButton { display: none !important; }
+#MainMenu { display: none !important; }
+
+# 데스크톱: 사이드바 항상 표시, 버튼 숨김
+@media (min-width: 769px) {
+    [data-testid="stSidebar"] {
+        display: block !important;
+        visibility: visible !important;
+        transform: none !important;
+        width: 240px !important;
+        min-width: 240px !important;
+    }
+    [data-testid="stSidebarCollapseButton"] { display: none !important; }
+    [data-testid="collapsedControl"] { display: none !important; }
 }
 
-/* ── 모바일: Streamlit 기본 사이드바 버튼 유지 ── */
+# 모바일: 버튼 스타일만 입힘 (Streamlit 기본 동작 유지)
 @media (max-width: 768px) {
-    [data-testid="stSidebarCollapseButton"] button svg { display: none !important; }
-    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; font-size:16px; }
-    [data-testid="collapsedControl"] button svg { display: none !important; }
-    [data-testid="collapsedControl"] button::after { content: "☰"; font-size:16px; }
+    [data-testid="collapsedControl"] button {
+        background: #161923 !important;
+        border: 1px solid #00d4a060 !important;
+        border-radius: 8px !important;
+        color: #00d4a0 !important;
+    }
 }
 
 /* ── 헤더 폰트 ── */
