@@ -109,40 +109,16 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
     border-radius: 10px !important;
 }
 
-/* ── 사이드바 접기 버튼 커스텀 (>> <<) ── */
-[data-testid="stSidebarCollapseButton"] { display: flex !important; }
-[data-testid="collapsedControl"] { display: flex !important; }
-[data-testid="stSidebarCollapseButton"] button,
-[data-testid="collapsedControl"] button {
-    background: #12151d !important;
-    border: 1px solid #1e2230 !important;
-    border-radius: 6px !important;
-    color: #8d97b0 !important;
-    font-size: 13px !important;
-    font-family: 'DM Mono', monospace !important;
-    width: 32px !important;
-    height: 32px !important;
-    padding: 0 !important;
-    transition: all 0.15s ease !important;
-}
-[data-testid="stSidebarCollapseButton"] button:hover,
-[data-testid="collapsedControl"] button:hover {
-    border-color: #00d4a0 !important;
-    color: #00d4a0 !important;
-}
-/* 아이콘 숨기고 텍스트로 대체 */
-[data-testid="stSidebarCollapseButton"] button svg,
-[data-testid="collapsedControl"] button svg { display: none !important; }
-[data-testid="stSidebarCollapseButton"] button::after { content: "<<"; }
-[data-testid="collapsedControl"] button::after { content: ">>"; }
+/* ── 사이드바 항상 표시, 접기 버튼 제거 ── */
+[data-testid="stSidebarCollapseButton"] { display: none !important; }
+[data-testid="collapsedControl"] { display: none !important; }
 
-/* ── 헤더 내부 불필요 요소만 숨김 (>> 버튼은 유지) ── */
+/* ── 헤더 내부 불필요 요소만 숨김 ── */
 [data-testid="stToolbar"] { display: none !important; }
 [data-testid="stDecoration"] { display: none !important; }
 [data-testid="stStatusWidget"] { display: none !important; }
 .stDeployButton { display: none !important; }
 #MainMenu { display: none !important; }
-/* 헤더 배경 투명 처리 */
 header[data-testid="stHeader"] { background: transparent !important; }
 
 /* ── plotly 배경 투명 ── */
