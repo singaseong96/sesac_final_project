@@ -7,7 +7,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
-import json, os, re
+import json, os, re, html
 
 # ─────────────────────────────────────────────────────────
 # 페이지 설정
@@ -269,6 +269,22 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────────────────
+# 헬퍼: 마크다운 → HTML 변환 (HTML 태그 이스케이프 포함)
+# ─────────────────────────────────────────────────────────
+def md_to_html(text):
+    """AI 출력 텍스트의 HTML 태그를 무력화하고 마크다운만 렌더링."""
+    # 1) HTML 특수문자 이스케이프 (</div> 등 제거)
+    t = html.escape(text)
+    # 2) 마크다운 변환
+    t = re.sub(r'\*\*\*(.+?)\*\*\*', r'<strong><em>\1</em></strong>', t)
+    t = re.sub(r'\*\*(.+?)\*\*',     r'<strong>\1</strong>', t)
+    t = re.sub(r'\*(.+?)\*',         r'<em>\1</em>', t)
+    # 3) 줄바꿈 → <br>
+    t = t.replace('\n', '<br>')
+    return t
+
+
+# ─────────────────────────────────────────────────────────
 # 헬퍼: 섹션 헤더
 # ─────────────────────────────────────────────────────────
 def section_header(icon, title, subtitle=""):
@@ -389,7 +405,7 @@ else:
                     {title}
                 </div>
                 <div style="font-size:15px; color:#dde1ee; line-height:1.85;">
-                    {content}
+                    {md_to_html(content)}
                 </div>
             </div>
             """, unsafe_allow_html=True)
