@@ -123,14 +123,84 @@ hr { border-color: var(--border) !important; margin: 24px 0 !important; }
     border: 1px solid var(--border) !important;
 }
 
-/* ── 셀렉트박스 & 멀티셀렉트 ── */
-[data-testid="stSelectbox"] > div,
-[data-testid="stMultiSelect"] > div {
+/* ── 셀렉트박스 & 멀티셀렉트 전체 ── */
+
+/* 라벨 */
+[data-testid="stSelectbox"] label,
+[data-testid="stMultiSelect"] label {
+    color: var(--text-sub) !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+}
+
+/* 입력 컨테이너 박스 */
+[data-testid="stSelectbox"] > div > div,
+[data-testid="stSelectbox"] [data-baseweb="select"] > div,
+[data-testid="stMultiSelect"] > div > div,
+[data-testid="stMultiSelect"] [data-baseweb="select"] > div {
     background: var(--bg-card) !important;
-    border-color: var(--border) !important;
+    border: 1px solid var(--border-mid) !important;
     border-radius: 8px !important;
+}
+
+/* 선택된 값 텍스트 */
+[data-testid="stSelectbox"] [data-baseweb="select"] span,
+[data-testid="stSelectbox"] [data-baseweb="select"] div,
+[data-testid="stMultiSelect"] [data-baseweb="select"] span,
+[data-testid="stMultiSelect"] [data-baseweb="select"] div {
+    background: transparent !important;
     color: var(--text-main) !important;
     font-size: 15px !important;
+}
+
+/* 드롭다운 팝업 메뉴 */
+[data-baseweb="popover"],
+[data-baseweb="menu"],
+ul[data-baseweb="menu"] {
+    background: var(--bg-card) !important;
+    border: 1px solid var(--border) !important;
+    border-radius: 10px !important;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.10) !important;
+}
+
+/* 드롭다운 개별 옵션 */
+[data-baseweb="menu"] li,
+[role="option"] {
+    background: var(--bg-card) !important;
+    color: var(--text-main) !important;
+    font-size: 15px !important;
+    font-family: 'DM Sans', sans-serif !important;
+}
+
+/* 옵션 hover */
+[data-baseweb="menu"] li:hover,
+[role="option"]:hover {
+    background: var(--accent-bg) !important;
+    color: var(--accent) !important;
+}
+
+/* 선택된 옵션 강조 */
+[aria-selected="true"][role="option"] {
+    background: var(--accent-bg) !important;
+    color: var(--accent) !important;
+    font-weight: 600 !important;
+}
+
+/* 멀티셀렉트 태그(badge) */
+[data-baseweb="tag"] {
+    background: var(--accent-bg) !important;
+    border: 1px solid var(--accent) !important;
+    border-radius: 6px !important;
+    color: var(--accent) !important;
+    font-size: 14px !important;
+}
+[data-baseweb="tag"] span { color: var(--accent) !important; }
+[data-baseweb="tag"] button { color: var(--accent) !important; }
+
+/* 드롭다운 화살표 아이콘 */
+[data-testid="stSelectbox"] svg,
+[data-testid="stMultiSelect"] svg {
+    fill: var(--text-sub) !important;
 }
 
 /* ── 사이드바 ── */
