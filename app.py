@@ -39,12 +39,30 @@ html, body, [data-testid="stAppViewContainer"] {
     border-right: 1px solid #1e2230 !important;
 }
 
-/* ── 모바일: 접기/펼치기 버튼 텍스트 ── */
+/* ── 모바일: 접기/펼치기 버튼 명시적 표시 ── */
 @media (max-width: 768px) {
-    [data-testid="stSidebarCollapseButton"] button svg { display: none !important; }
-    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; font-size:14px; }
+    [data-testid="collapsedControl"] {
+        display: flex !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        z-index: 9999 !important;
+    }
+    [data-testid="collapsedControl"] button {
+        display: flex !important;
+        visibility: visible !important;
+        background: #12151d !important;
+        border: 1px solid #00d4a060 !important;
+        border-radius: 8px !important;
+        color: #00d4a0 !important;
+        width: 40px !important;
+        height: 40px !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
     [data-testid="collapsedControl"] button svg { display: none !important; }
-    [data-testid="collapsedControl"] button::after { content: "☰"; font-size:14px; }
+    [data-testid="collapsedControl"] button::after { content: "☰"; font-size:18px; }
+    [data-testid="stSidebarCollapseButton"] button svg { display: none !important; }
+    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; font-size:18px; }
 }
 
 /* ── 헤더 폰트 ── */
@@ -135,7 +153,13 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
 [data-testid="stStatusWidget"] { display: none !important; }
 .stDeployButton { display: none !important; }
 #MainMenu { display: none !important; }
-header[data-testid="stHeader"] { background: transparent !important; }
+header[data-testid="stHeader"] {
+    background: transparent !important;
+    pointer-events: none !important;
+}
+header[data-testid="stHeader"] [data-testid="collapsedControl"] {
+    pointer-events: all !important;
+}
 
 /* ── plotly 배경 투명 ── */
 .js-plotly-plot { background: transparent !important; }
