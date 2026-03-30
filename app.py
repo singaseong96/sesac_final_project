@@ -285,6 +285,17 @@ with st.sidebar:
         <div>gpt-5.4-mini / gpt-5.4-nano</div>
         <div>Claude</div>
     </div>
+    <div style="height:1px;background:#1e2230;margin:16px 0;"></div>
+    <div style="background:#1f1a0d; border:1px solid #f59e0b40; border-left:3px solid #f59e0b;
+                border-radius:8px; padding:12px 14px;">
+        <div style="font-size:11px; font-weight:700; color:#f59e0b;
+                    letter-spacing:0.06em; text-transform:uppercase; margin-bottom:6px;">
+            ⚠️ 투자 주의
+        </div>
+        <div style="font-size:11px; color:#c9a84c; line-height:1.7;">
+            AI는 잘못된 정보를 제공할 수 있고 투자 결정은 본인에게 있습니다.
+        </div>
+    </div>
     """, unsafe_allow_html=True)
 
 company      = COMPANY_NAME.get(symbol, symbol)
