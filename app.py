@@ -212,7 +212,7 @@ ul[data-baseweb="menu"] {
 [data-testid="stSidebar"] .stSelectbox label,
 [data-testid="stSidebar"] .stRadio label {
     color: var(--text-sub) !important;
-    font-size: 20px !important;
+    font-size: 12px !important;
     text-transform: uppercase !important;
     letter-spacing: 0.06em !important;
 }
@@ -370,7 +370,7 @@ with st.sidebar:
                     letter-spacing:0.05em; color:#009e78; line-height:1;">
             STOCK<br>INSIGHT
         </div>
-        <div style="font-size:16px; color:#7a84a0; margin-top:5px;
+        <div style="font-size:11px; color:#7a84a0; margin-top:5px;
                     font-weight:500; letter-spacing:0.1em; text-transform:uppercase;">
             투자 분석 대시보드
         </div>
@@ -409,7 +409,7 @@ with st.sidebar:
 
     st.markdown('<div style="height:1px;background:#dde2f0;margin:20px 0;"></div>', unsafe_allow_html=True)
     st.markdown("""
-    <div style="font-size:17px; color:#8892a4; line-height:1.8;">
+    <div style="font-size:12px; color:#8892a4; line-height:1.8;">
         <div style="color:#8892a4; font-weight:600; margin-bottom:4px;">📡 데이터 소스</div>
         <div>Financial Modeling Prep</div>
         <div>gpt-5.4-mini / gpt-5.4-nano</div>
@@ -418,11 +418,11 @@ with st.sidebar:
     <div style="height:1px;background:#dde2f0;margin:16px 0;"></div>
     <div style="background:#fffbf0; border:1px solid #d9770640; border-left:3px solid #d97706;
                 border-radius:8px; padding:12px 14px;">
-        <div style="font-size:16px; font-weight:700; color:#d97706;
+        <div style="font-size:11px; font-weight:700; color:#d97706;
                     letter-spacing:0.06em; text-transform:uppercase; margin-bottom:6px;">
             ⚠️ 투자 주의
         </div>
-        <div style="font-size:16px; color:#92710a; line-height:1.7;">
+        <div style="font-size:11px; color:#92710a; line-height:1.7;">
             AI는 잘못된 정보를 제공할 수 있고 투자 결정은 본인에게 있습니다.
         </div>
     </div>
