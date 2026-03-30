@@ -136,19 +136,14 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
 [data-testid="stSidebarCollapseButton"] button::after { content: "<<"; }
 [data-testid="collapsedControl"] button::after { content: ">>"; }
 
-/* ── 헤더 툴바 숨김 (collapsedControl은 유지) ── */
-header[data-testid="stHeader"] {
-    background: transparent !important;
-    pointer-events: none !important;
-}
-[data-testid="collapsedControl"] {
-    pointer-events: all !important;
-}
+/* ── 헤더 내부 불필요 요소만 숨김 (>> 버튼은 유지) ── */
 [data-testid="stToolbar"] { display: none !important; }
 [data-testid="stDecoration"] { display: none !important; }
 [data-testid="stStatusWidget"] { display: none !important; }
 .stDeployButton { display: none !important; }
 #MainMenu { display: none !important; }
+/* 헤더 배경 투명 처리 */
+header[data-testid="stHeader"] { background: transparent !important; }
 
 /* ── plotly 배경 투명 ── */
 .js-plotly-plot { background: transparent !important; }
