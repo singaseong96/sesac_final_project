@@ -367,6 +367,55 @@ def safe_get(d, section, key):
 # 홈화면
 # ─────────────────────────────────────────────────────────
 def render_home():
+    # ── 모바일 사이드바 토글 버튼 (JS 주입) ────────────
+    st.markdown("""
+    <script>
+    (function() {
+        function injectBtn() {
+            if (window.innerWidth > 768) return;
+            if (document.getElementById('mobile-sidebar-btn')) return;
+
+            var btn = document.createElement('button');
+            btn.id = 'mobile-sidebar-btn';
+            btn.innerHTML = '&#9776;';
+            btn.style.cssText = [
+                'position:fixed', 'top:10px', 'left:10px', 'z-index:9999',
+                'width:40px', 'height:40px', 'border-radius:8px',
+                'background:#12151d', 'border:1px solid rgba(0,212,160,0.4)',
+                'color:#00d4a0', 'font-size:20px', 'cursor:pointer',
+                'display:flex', 'align-items:center', 'justify-content:center',
+                'box-shadow:0 2px 8px rgba(0,0,0,0.4)'
+            ].join(';');
+
+            btn.onclick = function() {
+                var sidebar = document.querySelector('[data-testid="stSidebar"]');
+                if (!sidebar) return;
+                var isHidden = sidebar.style.display === 'none'
+                    || sidebar.getAttribute('aria-expanded') === 'false'
+                    || sidebar.classList.contains('st-emotion-cache-hidden');
+
+                // Streamlit 내부 토글 버튼 클릭
+                var toggleBtn = document.querySelector('[data-testid="stSidebarCollapseButton"] button')
+                             || document.querySelector('[data-testid="collapsedControl"] button');
+                if (toggleBtn) {
+                    toggleBtn.click();
+                } else {
+                    sidebar.style.display = sidebar.style.display === 'none' ? 'block' : 'none';
+                }
+            };
+
+            document.body.appendChild(btn);
+        }
+
+        // DOM 로드 후 + 리사이즈 시 재실행
+        document.addEventListener('DOMContentLoaded', injectBtn);
+        setTimeout(injectBtn, 500);
+        setTimeout(injectBtn, 1500);
+        window.addEventListener('resize', injectBtn);
+    })();
+    </script>
+    """, unsafe_allow_html=True)
+
     # ── 히어로 ──────────────────────────────────────────
     st.markdown("""
     <div style="padding: 60px 0 48px; text-align:center;">
