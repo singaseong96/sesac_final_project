@@ -367,51 +367,57 @@ def safe_get(d, section, key):
 # 홈화면
 # ─────────────────────────────────────────────────────────
 def render_home():
-    # ── 모바일 사이드바 토글 버튼 (JS 주입) ────────────
+    # ── 모바일 사이드바 토글 버튼 (MutationObserver로 리렌더 후에도 유지) ──
     st.markdown("""
     <script>
     (function() {
-        function injectBtn() {
-            if (window.innerWidth > 768) return;
-            if (document.getElementById('mobile-sidebar-btn')) return;
+        if (window.innerWidth > 768) return;
+
+        function createBtn() {
+            var existing = document.getElementById('mob-sidebar-btn');
+            if (existing) return;
 
             var btn = document.createElement('button');
-            btn.id = 'mobile-sidebar-btn';
-            btn.innerHTML = '&#9776;';
-            btn.style.cssText = [
-                'position:fixed', 'top:10px', 'left:10px', 'z-index:9999',
-                'width:40px', 'height:40px', 'border-radius:8px',
-                'background:#12151d', 'border:1px solid rgba(0,212,160,0.4)',
-                'color:#00d4a0', 'font-size:20px', 'cursor:pointer',
-                'display:flex', 'align-items:center', 'justify-content:center',
-                'box-shadow:0 2px 8px rgba(0,0,0,0.4)'
-            ].join(';');
+            btn.id = 'mob-sidebar-btn';
+            btn.textContent = '\u2630';
+            Object.assign(btn.style, {
+                position: 'fixed',
+                top: '10px',
+                left: '10px',
+                zIndex: '999999',
+                width: '42px',
+                height: '42px',
+                borderRadius: '8px',
+                background: '#12151d',
+                border: '1px solid rgba(0,212,160,0.5)',
+                color: '#00d4a0',
+                fontSize: '20px',
+                cursor: 'pointer',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                boxShadow: '0 2px 12px rgba(0,0,0,0.5)'
+            });
 
-            btn.onclick = function() {
-                var sidebar = document.querySelector('[data-testid="stSidebar"]');
-                if (!sidebar) return;
-                var isHidden = sidebar.style.display === 'none'
-                    || sidebar.getAttribute('aria-expanded') === 'false'
-                    || sidebar.classList.contains('st-emotion-cache-hidden');
-
-                // Streamlit 내부 토글 버튼 클릭
-                var toggleBtn = document.querySelector('[data-testid="stSidebarCollapseButton"] button')
-                             || document.querySelector('[data-testid="collapsedControl"] button');
-                if (toggleBtn) {
-                    toggleBtn.click();
-                } else {
-                    sidebar.style.display = sidebar.style.display === 'none' ? 'block' : 'none';
-                }
-            };
+            btn.addEventListener('click', function() {
+                var t = document.querySelector('[data-testid="stSidebarCollapseButton"] button')
+                     || document.querySelector('[data-testid="collapsedControl"] button');
+                if (t) { t.click(); }
+            });
 
             document.body.appendChild(btn);
         }
 
-        // DOM 로드 후 + 리사이즈 시 재실행
-        document.addEventListener('DOMContentLoaded', injectBtn);
-        setTimeout(injectBtn, 500);
-        setTimeout(injectBtn, 1500);
-        window.addEventListener('resize', injectBtn);
+        // 최초 생성
+        createBtn();
+
+        // Streamlit 리렌더 감지 → 버튼 재주입
+        var observer = new MutationObserver(function() {
+            if (!document.getElementById('mob-sidebar-btn')) {
+                createBtn();
+            }
+        });
+        observer.observe(document.body, { childList: true, subtree: true });
     })();
     </script>
     """, unsafe_allow_html=True)
