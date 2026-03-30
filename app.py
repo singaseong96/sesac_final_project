@@ -44,6 +44,35 @@ html, body, [data-testid="stAppViewContainer"] {
     min-width: 240px !important;
 }
 
+/* ── 모바일: 사이드바 접기/펼치기 허용 ── */
+@media (max-width: 768px) {
+    [data-testid="stSidebar"] {
+        width: 100% !important;
+        min-width: unset !important;
+        transform: unset !important;
+        position: fixed !important;
+        z-index: 999 !important;
+    }
+    [data-testid="stSidebarCollapseButton"] { display: flex !important; }
+    [data-testid="collapsedControl"] { display: flex !important; }
+    [data-testid="stSidebarCollapseButton"] button,
+    [data-testid="collapsedControl"] button {
+        background: #12151d !important;
+        border: 1px solid #1e2230 !important;
+        border-radius: 6px !important;
+        color: #8d97b0 !important;
+        font-size: 13px !important;
+        font-family: 'DM Mono', monospace !important;
+        width: 36px !important;
+        height: 36px !important;
+        padding: 0 !important;
+    }
+    [data-testid="stSidebarCollapseButton"] button svg,
+    [data-testid="collapsedControl"] button svg { display: none !important; }
+    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; }
+    [data-testid="collapsedControl"] button::after { content: "☰"; }
+}
+
 /* ── 헤더 폰트 ── */
 h1, h2, h3 { font-family: 'DM Sans', sans-serif !important; }
 
