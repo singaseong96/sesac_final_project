@@ -355,13 +355,11 @@ def render_home():
             has_claude = os.path.exists(os.path.join(OUTPUT_DIR, f"{sym}_analysis_claude.json"))
             badge = ""
             if has_gpt and has_claude:
-                badge = '<span style="color:#00d4a0;font-size:10px;font-weight:600;">GPT · Claude</span>'
+                badge = '<span style="color:#10a37f;font-size:10px;font-weight:600;">GPT</span><span style="color:#4a5268;font-size:10px;"> · </span><span style="color:#cc785c;font-size:10px;font-weight:600;">Claude</span>'
             elif has_gpt:
                 badge = '<span style="color:#10a37f;font-size:10px;font-weight:600;">GPT</span>'
             elif has_claude:
                 badge = '<span style="color:#cc785c;font-size:10px;font-weight:600;">Claude</span>'
-            else:
-                badge = '<span style="color:#3a3f52;font-size:10px;">미분석</span>'
 
             with cols[i]:
                 # HTML 카드 (티커 볼드 + 기업명 + 배지)
