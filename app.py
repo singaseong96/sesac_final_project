@@ -117,7 +117,7 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
     border-radius: 10px !important;
 }
 
-/* ── 데스크톱: 사이드바 항상 표시, 접기 버튼 숨김 ── */
+/* ── 데스크톱: 사이드바 항상 표시 ── */
 @media (min-width: 769px) {
     [data-testid="stSidebar"] {
         display: block !important;
@@ -127,38 +127,6 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
         min-width: 240px !important;
     }
     [data-testid="stSidebarCollapseButton"] { display: none !important; }
-    [data-testid="collapsedControl"] { display: none !important; }
-}
-
-/* ── 모바일: 사이드바 기본 숨김, ☰ 버튼 고정 표시 ── */
-@media (max-width: 768px) {
-    [data-testid="stSidebarCollapseButton"],
-    [data-testid="collapsedControl"] {
-        display: flex !important;
-        visibility: visible !important;
-        opacity: 1 !important;
-        position: fixed !important;
-        top: 10px !important;
-        left: 10px !important;
-        z-index: 9999 !important;
-    }
-    [data-testid="stSidebarCollapseButton"] button,
-    [data-testid="collapsedControl"] button {
-        background: #12151d !important;
-        border: 1px solid #00d4a060 !important;
-        border-radius: 8px !important;
-        color: #00d4a0 !important;
-        width: 40px !important;
-        height: 40px !important;
-        padding: 0 !important;
-        display: flex !important;
-        align-items: center !important;
-        justify-content: center !important;
-    }
-    [data-testid="stSidebarCollapseButton"] button svg,
-    [data-testid="collapsedControl"] button svg { display: none !important; }
-    [data-testid="stSidebarCollapseButton"] button::after { content: "✕"; font-size:16px; }
-    [data-testid="collapsedControl"] button::after { content: "☰"; font-size:16px; }
 }
 
 /* ── 헤더 내부 불필요 요소만 숨김 ── */
@@ -367,61 +335,6 @@ def safe_get(d, section, key):
 # 홈화면
 # ─────────────────────────────────────────────────────────
 def render_home():
-    # ── 모바일 사이드바 토글 버튼 (MutationObserver로 리렌더 후에도 유지) ──
-    st.markdown("""
-    <script>
-    (function() {
-        if (window.innerWidth > 768) return;
-
-        function createBtn() {
-            var existing = document.getElementById('mob-sidebar-btn');
-            if (existing) return;
-
-            var btn = document.createElement('button');
-            btn.id = 'mob-sidebar-btn';
-            btn.textContent = '\u2630';
-            Object.assign(btn.style, {
-                position: 'fixed',
-                top: '10px',
-                left: '10px',
-                zIndex: '999999',
-                width: '42px',
-                height: '42px',
-                borderRadius: '8px',
-                background: '#12151d',
-                border: '1px solid rgba(0,212,160,0.5)',
-                color: '#00d4a0',
-                fontSize: '20px',
-                cursor: 'pointer',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                boxShadow: '0 2px 12px rgba(0,0,0,0.5)'
-            });
-
-            btn.addEventListener('click', function() {
-                var t = document.querySelector('[data-testid="stSidebarCollapseButton"] button')
-                     || document.querySelector('[data-testid="collapsedControl"] button');
-                if (t) { t.click(); }
-            });
-
-            document.body.appendChild(btn);
-        }
-
-        // 최초 생성
-        createBtn();
-
-        // Streamlit 리렌더 감지 → 버튼 재주입
-        var observer = new MutationObserver(function() {
-            if (!document.getElementById('mob-sidebar-btn')) {
-                createBtn();
-            }
-        });
-        observer.observe(document.body, { childList: true, subtree: true });
-    })();
-    </script>
-    """, unsafe_allow_html=True)
-
     # ── 히어로 ──────────────────────────────────────────
     st.markdown("""
     <div style="padding: 60px 0 48px; text-align:center;">
