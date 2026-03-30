@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "symbol": "JPM",
+    "analysis_date": "2026-03-30T02:25:26.161971+00:00",
+    "news_period": "2026-03-27 ~ 2026-03-29",
+    "news_count": 30,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Neutral": 13,
+    "Risk": 5,
+    "Growth": 4,
+    "Negative": 4,
+    "Positive": 2,
+    "Mixed": 2
+  },
+  "sentiment_by_date": {
+    "2026-03-27": {
+      "Neutral": 7,
+      "Risk": 3,
+      "Negative": 3,
+      "Positive": 2,
+      "Growth": 2,
+      "Mixed": 2
+    },
+    "2026-03-28": {
+      "Risk": 1,
+      "Neutral": 1
+    },
+    "2026-03-29": {
+      "Neutral": 5,
+      "Growth": 2,
+      "Risk": 1,
+      "Negative": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-29 18:19:15",
+      "title": "Asia remains key target of energy shock impact – JP Morgan AM - Funds Global Asia",
+      "url": "https://fundsglobalasia.com/asia-remains-key-target-of-energy-shock-impact-jp-morgan/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-29 14:54:56",
+      "title": "J.P. Morgan Sticks to Their Hold Rating for Ipsen (0MH6) - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/1030255/j-p-morgan-sticks-to-their-hold-rating-for-ipsen-0mh6/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 12:08:01",
+      "title": "A Look At Air Products And Chemicals (APD) Valuation After JPMorgan Upgrade And Helium Demand Tailwinds - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/materials/nyse-apd/air-products-and-chemicals/news/a-look-at-air-products-and-chemicals-apd-valuation-after-jpm",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 09:48:29",
+      "title": "Malaysia, China stand out as Asia’s most resilient economies, says JP Morgan - Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/29/malaysia-china-stand-out-as-asias-most-resilient-economies-says-jp-morgan",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 09:27:22",
+      "title": "JPMorgan Chase & Co. $JPM Shares Sold by Moody National Bank Trust Division - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-moody-national-bank-trust-division-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 07:46:21",
+      "title": "JPMorgan Chase & Co. $JPM Shares Acquired by Czech National Bank - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-acquired-by-czech-national-bank-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 07:46:19",
+      "title": "Cullen Investment Group LTD. Sells 4,028 Shares of JPMorgan Chase & Co. $JPM - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cullen-investment-group-ltd-sells-4028-shares-of-jpmorgan-chase-co-jpm-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 04:22:06",
+      "title": "Is It Time To Reconsider JPMorgan Chase (JPM) After Recent Share Price Weakness? - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/is-it-time-to-reconsider-jpmorgan-chase-jpm-after-recent-sha",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 02:04:29",
+      "title": "Morning Market Movements | Mixue Group Plummets Over 4% After J.P. Morgan Downgrades to Underweight - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70780311/morning-market-movements-mixue-group-plummets-over-4-after-jp?level=1&data_ticket=1774834158811313",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-28 20:58:57",
+      "title": "Tightening Credit Conditions and Evolving Regulatory Tailwinds Shaping Analyst Narrative Around JPMorgan Chase (JPM) - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tightening-credit-conditions-evolving-regulatory-205857075.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-28 09:25:41",
+      "title": "Pensionfund Sabic Takes $7.51 Million Position in JPMorgan Chase & Co. $JPM - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pensionfund-sabic-takes-751-million-position-in-jpmorgan-chase-co-jpm-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 23:06:09",
+      "title": "How Regulatory Shifts and Tech Ambitions At JPMorgan Chase (JPM) Have Changed Its Investment Story - Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/regulatory-shifts-tech-ambitions-jpmorgan-230609475.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAGSEcwwpvgKdEc3RtR0m83IwHU_1WrHPs2svUekw7D1jafU22ql44bgDTyxyQr6uvBpQJK3Mu-2Z_rrhAbZHWmufomrfZ5ARFjYUigRU3d9Iunrh8LXl1vg_6aXziD-eBTyC8CHI3GlkSYElRpCJgipVLcaHIjK9z0X0UMTn2yaT",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 21:37:33",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Down 3% - Time to Sell? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-shares-down-3-time-to-sell-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 20:00:00",
+      "title": "J.P. Morgan to Transfer 14 ETFs From Current Exchanges - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-transfer-14-200000519.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 18:00:00",
+      "title": "JP Morgan in line for business rates discount on Canary Wharf HQ - thetimes.com",
+      "url": "https://www.thetimes.com/business/companies-markets/article/jp-morgan-tax-break-canary-wharf-wvn8klbk6?gaa_at=eafs&gaa_n=AWEtsqeyXdkKqyWFdbzhbCTYZ--c4ruGjR77d77fj7Xu4O81sDZiCv1lD97s&gaa_ts=69c9d58e&gaa_sig=DtfkxhGLYuX9nt1zPJm_9FM6osCKOZh2nMPKiyyeZYuiXmS8aIonePmXrblmuuliYQajtuw4uaX76Ctz_AejUA%3D%3D",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 15:50:18",
+      "title": "J.P. Morgan Maintains WACKER CHEMIE AG(WKCMF.US) With Sell Rating - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/69578576/jp-morgan-maintains-wacker-chemie-ag-wkcmfus-with-sell-rating?level=1&data_ticket=1774834158811313",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-27 15:16:06",
+      "title": "JPMorgan Chase & Co Stock (JPM) Moved Down by 3.26% on Mar 27: A Full Analysis - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261728583-market-movers-jpm-20260327",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 13:05:22",
+      "title": "How to Approach JPMorgan Stock as Fed Set to Ease Capital Rules - Zacks Investment Research",
+      "url": "https://www.zacks.com/stock/news/2890909/how-to-approach-jpmorgan-stock-as-fed-set-to-ease-capital-rules",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 09:48:00",
+      "title": "Bowman Consulting Group (BWMN) Receives a Hold from J.P. Morgan - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/BWMN/pressreleases/1000543/bowman-consulting-group-bwmn-receives-a-hold-from-jp-morgan/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 09:48:00",
+      "title": "J.P. Morgan Remains a Buy on Allegion (ALLE) - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ALLE/pressreleases/1000527/jp-morgan-remains-a-buy-on-allegion-alle/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-27 09:33:27",
+      "title": "Todd Combs Joins JPMorgan Chase As Investors Weigh Valuation And Returns - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/todd-combs-joins-jpmorgan-chase-as-investors-weigh-valuation",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 09:23:40",
+      "title": "JPMorgan Chase & Co. $JPM Shares Purchased by Salem Investment Counselors Inc. - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-purchased-by-salem-investment-counselors-inc-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 08:14:00",
+      "title": "Singapore Invites JPM, UBS to Collaborate on Creating Asian Gold Trading Hub - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/usq/news/comment.aspx?source=AAFN&id=NOW.1513455&catg=4",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-27 08:12:39",
+      "title": "Clear Trail Advisors LLC Invests $17.62 Million in JPMorgan Chase & Co. $JPM - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-clear-trail-advisors-llc-invests-1762-million-in-jpmorgan-chase-co-jpm-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 07:25:55",
+      "title": "Avanza Fonder AB Purchases New Shares in JPMorgan Chase & Co. $JPM - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-avanza-fonder-ab-purchases-new-shares-in-jpmorgan-chase-co-jpm-2026-03-27/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-27 04:00:00",
+      "title": "The global rates repricing: Will central banks actually hike? - J.P. Morgan Private Bank",
+      "url": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/tmt/the-global-rates-repricing-will-central-banks-actually-hike",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 03:15:00",
+      "title": "JPM Keeps Overweight on CNOOC with TP Raised to HKD33, Higher Earnings Forecasts - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1513349/popular-news/AAFN",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-27 02:51:00",
+      "title": "JPM Lowers Anta (02020.HK) TP to HKD130, Reiterates 'Overweight'; Market Share Expected to Further Increase - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/stocks/news/aafn-news/NOW.1513315/2",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-27 02:49:00",
+      "title": "JPM Lowers KUAISHOU (01024.HK) TP to HKD48, Downgrades Rating to 'Neutral' - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/stocks/news/aafn-news/NOW.1513317/1",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-27 02:49:00",
+      "title": "JPM Slashes KUAISHOU-W (01024.HK) TP to $48, Downgrades Rating to Neutral - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1513317/research-report/AAFN",
+      "sentiment": "Negative"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-27 ──\n  [Risk] How Regulatory Shifts and Tech Ambitions At JPMorgan Chase (JPM) Have Changed Its Investment Story - Yahoo Finance\n  [Neutral] JPMorgan Chase & Co. (NYSE:JPM) Shares Down 3% - Time to Sell? - MarketBeat\n  [Neutral] J.P. Morgan to Transfer 14 ETFs From Current Exchanges - Yahoo Finance\n  [Positive] JP Morgan in line for business rates discount on Canary Wharf HQ - thetimes.com\n  [Negative] J.P. Morgan Maintains WACKER CHEMIE AG(WKCMF.US) With Sell Rating - 富途牛牛\n  [Risk] JPMorgan Chase & Co Stock (JPM) Moved Down by 3.26% on Mar 27: A Full Analysis - TradingKey\n  [Growth] How to Approach JPMorgan Stock as Fed Set to Ease Capital Rules - Zacks Investment Research\n  [Neutral] Bowman Consulting Group (BWMN) Receives a Hold from J.P. Morgan - The Globe and Mail\n  [Positive] J.P. Morgan Remains a Buy on Allegion (ALLE) - The Globe and Mail\n  [Neutral] Todd Combs Joins JPMorgan Chase As Investors Weigh Valuation And Returns - simplywall.st\n  [Neutral] JPMorgan Chase & Co. $JPM Shares Purchased by Salem Investment Counselors Inc. - MarketBeat\n  [Growth] Singapore Invites JPM, UBS to Collaborate on Creating Asian Gold Trading Hub - AASTOCKS.com\n  [Neutral] Clear Trail Advisors LLC Invests $17.62 Million in JPMorgan Chase & Co. $JPM - MarketBeat\n  [Neutral] Avanza Fonder AB Purchases New Shares in JPMorgan Chase & Co. $JPM - MarketBeat\n  [Risk] The global rates repricing: Will central banks actually hike? - J.P. Morgan Private Bank\n  [Mixed] JPM Keeps Overweight on CNOOC with TP Raised to HKD33, Higher Earnings Forecasts - AASTOCKS.com\n  [Mixed] JPM Lowers Anta (02020.HK) TP to HKD130, Reiterates 'Overweight'; Market Share Expected to Further Increase - AASTOCKS.com\n  [Negative] JPM Lowers KUAISHOU (01024.HK) TP to HKD48, Downgrades Rating to 'Neutral' - AASTOCKS.com\n  [Negative] JPM Slashes KUAISHOU-W (01024.HK) TP to $48, Downgrades Rating to Neutral - AASTOCKS.com\n\n── 2026-03-28 ──\n  [Risk] Tightening Credit Conditions and Evolving Regulatory Tailwinds Shaping Analyst Narrative Around JPMorgan Chase (JPM) - Yahoo Finance\n  [Neutral] Pensionfund Sabic Takes $7.51 Million Position in JPMorgan Chase & Co. $JPM - MarketBeat\n\n── 2026-03-29 ──\n  [Risk] Asia remains key target of energy shock impact – JP Morgan AM - Funds Global Asia\n  [Neutral] J.P. Morgan Sticks to Their Hold Rating for Ipsen (0MH6) - The Globe and Mail\n  [Growth] A Look At Air Products And Chemicals (APD) Valuation After JPMorgan Upgrade And Helium Demand Tailwinds - simplywall.st\n  [Growth] Malaysia, China stand out as Asia’s most resilient economies, says JP Morgan - Free Malaysia Today\n  [Neutral] JPMorgan Chase & Co. $JPM Shares Sold by Moody National Bank Trust Division - MarketBeat\n  [Neutral] JPMorgan Chase & Co. $JPM Shares Acquired by Czech National Bank - MarketBeat\n  [Neutral] Cullen Investment Group LTD. Sells 4,028 Shares of JPMorgan Chase & Co. $JPM - MarketBeat\n  [Neutral] Is It Time To Reconsider JPMorgan Chase (JPM) After Recent Share Price Weakness? - simplywall.st\n  [Negative] Morning Market Movements | Mixue Group Plummets Over 4% After J.P. Morgan Downgrades to Underweight - 富途牛牛",
+    "sentiment_block": "총 뉴스 30건 분석 결과:\n  Positive     2건 (  6.7%) █\n  Growth       4건 ( 13.3%) ██\n  Neutral     13건 ( 43.3%) ████████\n  Mixed        2건 (  6.7%) █\n  Risk         5건 ( 16.7%) ███\n  Negative     4건 ( 13.3%) ██\n\n날짜별 감정 흐름:\n  2026-03-27: Neutral:7, Risk:3, Negative:3, Positive:2, Growth:2, Mixed:2\n  2026-03-28: Risk:1, Neutral:1\n  2026-03-29: Neutral:5, Growth:2, Risk:1, Negative:1",
+    "analyst_block": ""
+  },
+  "investment_judgment": "# JPMorgan Chase (JPM) 투자 분석 보고서\n\n## [핵심 요약]\n\n* **주가 약세**: 3월 27일 3% 하락세 기록, 시장에서 밸류에이션 재평가 진행 중\n* **규제 환경 개선**: 연방준비제도(Fed)의 자본규칙 완화 예상으로 긍정적 신호\n* **혼합된 시장 심리**: 43.3%의 중립 평가로 방향성 불명확, Risk 평가(16.7%)는 점진적 감소 추세\n* **글로벌 다각화 전략**: 싱가포르 금거래 허브 협력, 아시아 지역 전략적 포지셀링 강화\n\n---\n\n## [전체 흐름 분석]\n\n**시간 경과에 따른 감정 변화**\n\n3월 27일 초기에는 규제 리스크(Risk 3건)와 부정적 신호(Negative 3건)가 균형잡혀 있었으나, 3월 28-29일로 갈수록 Risk 평가가 감소(3→1→1)하는 추세를 보입니다. 이는 초기 주가 하락에 대한 시장의 과도한 반응이 어느 정도 완화되고 있음을 시사합니다.\n\n**핵심 운영 이슈**\n\n- **규제 환경 전환점**: \"Fed Set to Ease Capital Rules\" 언급으로 자본 규제 완화 기대 형성\n- **신용 경색 우려**: \"Tightening Credit Conditions\"라는 분석으로 거시경제 리스크 존재\n- **전략적 확장**: ETF 거래소 이전(14개), 싱가포르 금거래 허브 협력, 런던 금리 인하 혜택(Canary Wharf 본사)\n\n**기관투자자 흐름**\n\n주식 매수(Salem Investment Counselors, Clear Trail Advisors, Avanza Fonder, Czech National Bank)와 매도(Moody National Bank, Cullen Investment Group) 모두 기록되어 있어 기관 차원의 명확한 방향성 부재를 반영합니다.\n\n---\n\n## [긍정 요인]\n\n* **규제 완화 기대**: Fed의 자본규칙 완화는 은행의 수익성 향상 및 배당금 증가 가능성으로 작용\n* **글로벌 성장 기회**: 싱가포르 금거래 허브 협력 및 아시아 지역 경제 회복력 강조(말레이시아, 중국)\n* **경영진 강화**: Todd Combs 합류로 경영 안정성 및 투자 신뢰도 제고\n* **부동산 이득**: 런던 Canary Wharf 본사에 대한 사업세 인하로 운영 비용 절감\n* **포트폴리오 다각화**: ETF 거래소 이전으로 유동성 및 접근성 개선\n\n---\n\n## [부정 요인]\n\n* **주가 하락 압력**: 3월 27일 3.26% 하락으로 기술적 약세 신호 발생\n* **신용 경색 우려**: 금융 시장의 신용 조건 긴축으로 향후 대출 수요 부진 가능성\n* **글로벌 금리 불확실성**: \"Will central banks actually hike?\" 질문으로 중앙은행 정책 방향 불명확\n* **아시아 에너지 충격**: 지역별 경제 외부 충격(에너지 가격 변동) 위험성 지적\n* **관련 산업 평가 약화**: Wacker Chemie(매도 등급), Kuaishou(등급 인하), Mixue Group(하향 평가) 등 다양한 종목 평가 절하\n\n---\n\n## [투자 인사이트]\n\n**밸류에이션 재평가 국면**\n\n주가 3% 하락 후 \"Time to Sell?\"와 \"Reconsider After Share Price Weakness\" 같은 평가가 등장하는 것은 시장이 밸류에이션 수준을 재평가 중임을 의미합니다. 이는 단기 매도 압력이지만, 규제 개선이 구체화될 경우 기회 요인이 될 수 있습니다.\n\n**거시경제 불확실성의 양면성**\n\n신용 경색 우려는 단기 리스크이나, Fed의 자본규칙 완화는 JPM의 대응능력을 확대합니다. 이는 경기둔화 환경에서 안정적 금융중개자로서의 위상을 강화할 수 있습니다.\n\n**지역별 전략의 비대칭성**\n\n아시아 에너지 충격에도 불구하고 싱가포르 금거래 허브와 지역 경제 회복력을 강조하는 것은, JPM이 장기적"
+}
