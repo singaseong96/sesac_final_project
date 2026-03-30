@@ -1,66 +1,163 @@
 {
   "meta": {
     "symbol": "MSFT",
-    "analysis_date": "2026-03-29T04:43:21.896709+00:00",
-    "news_period": "2026-03-26 ~ 2026-03-28",
-    "news_count": 47,
+    "analysis_date": "2026-03-30T02:48:48.010037+00:00",
+    "news_period": "2026-03-27 ~ 2026-03-29",
+    "news_count": 52,
     "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 22,
-    "Risk": 14,
-    "Growth": 4,
-    "Mixed": 3,
-    "Negative": 3,
-    "Positive": 1
+    "Neutral": 28,
+    "Risk": 9,
+    "Negative": 6,
+    "Growth": 5,
+    "Mixed": 4
   },
   "sentiment_by_date": {
-    "2026-03-26": {
-      "Negative": 3,
-      "Risk": 3,
-      "Neutral": 3,
-      "Mixed": 2
-    },
     "2026-03-27": {
-      "Neutral": 10,
-      "Risk": 9,
-      "Growth": 4,
-      "Positive": 1
+      "Neutral": 9,
+      "Risk": 5,
+      "Negative": 4,
+      "Mixed": 3,
+      "Growth": 3
     },
     "2026-03-28": {
       "Neutral": 9,
       "Risk": 2,
-      "Mixed": 1
+      "Negative": 1
+    },
+    "2026-03-29": {
+      "Neutral": 10,
+      "Growth": 2,
+      "Risk": 2,
+      "Mixed": 1,
+      "Negative": 1
     }
   },
   "news_with_sentiment": [
     {
-      "date": "2026-03-28 17:31:00",
-      "title": "멜린다 프렌치 게이츠는 25세에 마이크로소프트를 그만둘 뻔했다. 이제 그녀는 냉정함을 잃지 않고 피드백을 주는 간단한 원칙을 갖고 있다: '명확함은 친절이다' - Microsoft (NASDAQ:MSFT) - Benzinga",
-      "url": "https://www.benzinga.com/news/psychology/26/03/51528122/melinda-french-gates-almost-quit-microsoft-at-25-now-she-has-a-simple-rule-for-giving-feedback-without-losing-your-cool-being-clear-is-kind",
+      "date": "2026-03-29 23:53:11",
+      "title": "지금 마이크로소프트 주식을 매수하기 좋은 시기인가? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/1032169/is-now-a-good-time-to-buy-microsoft-stock/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-29 20:24:53",
+      "title": "UBS, Microsoft(MSFT) 목표주가 하향 조정, 매수 의견 유지 - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/ubs-lowers-pt-on-microsoft-msft-maintains-a-buy-rating-1727191/?amp=1",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 20:20:54",
+      "title": "나는 Nvidia, Microsoft, Meta를 보유하고 있다. 지금 이 세 종목에 대해 내가 하고 있는 일은 다음과 같다. - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/1031535/i-own-nvidia-microsoft-and-meta-heres-what-im-doing-with-all-3-right-now/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-29 20:12:15",
+      "title": "UBS, Microsoft(MSFT) 목표주가 하향 조정, 매수 의견 유지 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-lowers-pt-microsoft-msft-201215591.html",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-29 16:48:38",
+      "title": "MSFT - Sipping [6af900] - Fathom Journal",
+      "url": "https://fathomjournal.org/57d57bf8smm/06af9007-RIbODq01rc4.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 16:09:21",
+      "title": "Microsoft, 투자자들을 위해 AI 교육 확대와 내부 HR 조직 개편을 병행 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-msft/microsoft/news/microsoft-pairs-ai-training-push-with-internal-hr-reorganiza",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 11:19:32",
+      "title": "Westview Management dba Westview Investment Advisors, Microsoft Corporation $MSFT 10,596주 매입 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-10596-shares-in-microsoft-corporation-msft-purchased-by-westview-management-dba-westview-investment-advisors-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 09:58:46",
+      "title": "Generate Investment Management Ltd, Microsoft Corporation $MSFT 69,069주 매수 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-generate-investment-management-ltd-buys-69069-shares-of-microsoft-corporation-msft-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 09:17:23",
+      "title": "Seilern Investment Management Ltd, Microsoft Corporation $MSFT 지분 축소 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-stake-decreased-by-seilern-investment-management-ltd-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 09:13:20",
+      "title": "Montecito Bank & Trust, Microsoft Corporation $MSFT 주식 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-shares-sold-by-montecito-bank-trust-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 07:36:15",
+      "title": "Charles Schwab Trust Co, Microsoft Corporation $MSFT 지분 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-charles-schwab-trust-co-boosts-stock-position-in-microsoft-corporation-msft-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 07:36:11",
+      "title": "Dynamic Advisor Solutions LLC, Microsoft Corporation $MSFT 지분 축소 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-dynamic-advisor-solutions-llc-reduces-stake-in-microsoft-corporation-msft-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 07:13:59",
+      "title": "Affinity Capital Advisors LLC, Microsoft Corporation $MSFT 주식 보유 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-stock-holdings-lifted-by-affinity-capital-advisors-llc-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 06:16:58",
+      "title": "MSFT 주식 오늘: 3월 29일 – DMV 번호판 영상이 정부 AI·프라이버시 논쟁을 되살리다 - Meyka",
+      "url": "https://meyka.com/blog/msft-stock-today-march-29-dmv-plate-video-revives-gov-ai-privacy-debate-2903/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-29 06:13:40",
+      "title": "Josh Gottheimer 하원의원, Microsoft Corporation(NASDAQ:MSFT) 주식 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/rep-josh-gottheimer-sells-off-shares-of-microsoft-corporation-nasdaqmsft-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 06:13:36",
+      "title": "Microsoft(NASDAQ:MSFT) 주식 매도 - 하원의원 Julia Letlow | MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/microsoft-nasdaqmsft-shares-unloaded-rep-julia-letlow-2026-03-29/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-28 13:18:57",
-      "title": "AI 지출과 채용 동결이 수년 만의 가장 가파른 조정을 촉발한 가운데 마이크로소프트(MSFT) 밸류에이션 살펴보기 - simplywall.st",
+      "title": "Microsoft(MSFT) 가치평가 살펴보기: AI 지출과 채용 동결이 수년 만의 가장 큰 조정을 촉발 - simplywall.st",
       "url": "https://simplywall.st/stocks/us/software/nasdaq-msft/microsoft/news/a-look-at-microsoft-msft-valuation-as-ai-spending-and-hiring",
-      "sentiment": "Mixed"
+      "sentiment": "Negative"
     },
     {
       "date": "2026-03-28 12:57:29",
-      "title": "마이크로소프트: 주가가 답을 제시한 듯한 질문들 (NASDAQ:MSFT) - Seeking Alpha",
+      "title": "Microsoft: 가격이 답해버린 질문들(NASDAQ:MSFT) - Seeking Alpha",
       "url": "https://seekingalpha.com/article/4886825-microsoft-the-questions-that-price-seems-to-have-answered",
       "sentiment": "Neutral"
     },
     {
+      "date": "2026-03-28 11:13:16",
+      "title": "Microsoft(MSFT), 3월 30일 종가가 ___를 넘을까? 거래 확률 및 예측 - Polymarket",
+      "url": "https://polymarket.com/event/msft-close-above-on-march-30-2026",
+      "sentiment": "Risk"
+    },
+    {
       "date": "2026-03-28 09:17:50",
-      "title": "Independence Wealth Advisors LLC, 마이크로소프트 코퍼레이션 $MSFT에 포지션 취득 - MarketBeat",
+      "title": "Independence Wealth Advisors LLC, Microsoft Corporation $MSFT에 신규 포지션 보유 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-independence-wealth-advisors-llc-takes-position-in-microsoft-corporation-msft-2026-03-28/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-28 09:17:49",
-      "title": "M. Kulyk & Associates LLC, 마이크로소프트 코퍼레이션 $MSFT 1,788주 취득 - MarketBeat",
+      "title": "M. Kulyk & Associates LLC, Microsoft Corporation $MSFT 1,788주 매입 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-m-kulyk-associates-llc-acquires-1788-shares-of-microsoft-corporation-msft-2026-03-28/",
       "sentiment": "Neutral"
     },
@@ -78,151 +175,151 @@
     },
     {
       "date": "2026-03-28 09:17:47",
-      "title": "NorthCrest Asset Manangement LLC, Microsoft Corporation $MSFT 주식 매입 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-shares-bought-by-northcrest-asset-manangement-llc-2026-03-28/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 09:17:47",
       "title": "Spartan Planning & Wealth Management, Microsoft Corporation $MSFT 주식 매도 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-shares-sold-by-spartan-planning-wealth-management-2026-03-28/",
       "sentiment": "Neutral"
     },
     {
+      "date": "2026-03-28 09:17:47",
+      "title": "NorthCrest Asset Manangement LLC, Microsoft Corporation $MSFT 주식 매입 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-shares-bought-by-northcrest-asset-manangement-llc-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 08:17:01",
+      "title": "MSFT - 누구? [df45e3] - Fathom Journal",
+      "url": "https://fathomjournal.org/298c8a76smm/8df45e37-Yy10ldy4u78.html",
+      "sentiment": "Neutral"
+    },
+    {
       "date": "2026-03-28 07:48:47",
-      "title": "Fulton Bank N.A., 마이크로소프트 코퍼레이션 $MSFT 주식 5,884만 달러 보유 - MarketBeat",
+      "title": "Fulton Bank N.A., Microsoft Corporation $MSFT 지분 5,884만 달러 보유 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-fulton-bank-na-has-5884-million-stock-position-in-microsoft-corporation-msft-2026-03-28/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-28 05:55:03",
-      "title": "MSFT 주가 하락은 344달러 지지선에서 멈출까, 아니면 다음 주 300달러까지 밀릴까? - FXLeaders",
-      "url": "https://www.fxleaders.com/news/2026/03/27/can-msft-stock-decline-stop-at-344-support-or-will-it-slip-to-300-next-week/",
-      "sentiment": "Risk"
-    },
-    {
       "date": "2026-03-28 03:35:21",
-      "title": "오늘의 MSFT 주가, 3월 27일: OpenAI 리스크가 AI 서사를 시험하면서 과매도 구간 진입 - Meyka",
+      "title": "오늘의 MSFT 주가, 3월 27일: OpenAI 리스크가 AI 서사를 시험하며 과매도 상태 - Meyka",
       "url": "https://meyka.com/blog/msft-stock-today-march-27-oversold-as-openai-risk-tests-ai-narrative-2803/",
       "sentiment": "Risk"
     },
     {
-      "date": "2026-03-27 23:01:54",
-      "title": "마이크로소프트 코퍼레이션(MSFT)이 2026년 3월 30일 주간 목표를 달성할까? 거래 확률 및 예측(2026년 3월 27일) - Polymarket",
+      "date": "2026-03-27 23:05:12",
+      "title": "Microsoft Corporation(MSFT)이 2026년 3월 30일 주간에 목표가? 거래 확률 및 예측 (2026년 3월 27일) - Polymarket",
       "url": "https://polymarket.com/event/will-msft-hit-week-of-march-30-2026",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-27 22:35:18",
+      "title": "Microsoft(MSFT)가 3월 30일 주간을 ___ 이상으로 마감할까? 거래 확률 및 예측 - Polymarket",
+      "url": "https://polymarket.com/event/msft-above-on-april-3-2026",
       "sentiment": "Risk"
     },
     {
       "date": "2026-03-27 22:31:22",
-      "title": "Microsoft (MSFT)는 3월 30일 주간에 ___에 마감할까? 거래 확률 및 예측 - Polymarket",
+      "title": "Microsoft (MSFT) closes week of Mar 30 at ___? Trading Odds & Predictions - Polymarket",
       "url": "https://polymarket.com/event/msft-week-april-3-2026",
       "sentiment": "Risk"
     },
     {
-      "date": "2026-03-27 22:23:43",
-      "title": "Microsoft (MSFT)는 4월 말까지 ___를 상회하며 마감할까? 거래 확률 및 전망 - Polymarket",
-      "url": "https://polymarket.com/event/msft-above-in-april-2026",
-      "sentiment": "Risk"
-    },
-    {
       "date": "2026-03-27 21:51:31",
-      "title": "Microsoft(NASDAQ:MSFT) 2.5% 하락 거래 - 다음은? - MarketBeat",
+      "title": "Microsoft (NASDAQ:MSFT) Trading Down 2.5% - What's Next? - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/microsoft-nasdaqmsft-trading-down-25-whats-next-2026-03-27/",
-      "sentiment": "Neutral"
+      "sentiment": "Mixed"
     },
     {
       "date": "2026-03-27 20:06:57",
-      "title": "Microsoft, 52주 신저가에 근접: OpenAI 트레이드 탓인가? - MarketWise",
+      "title": "Microsoft Nearing 52-Week Lows: Blame the OpenAI Trade? - marketwise.com",
       "url": "https://marketwise.com/investing/microsoft-msft-52-week-low-openai-trade-analysis/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-27 18:02:53",
-      "title": "2025년을 위한 Magnificent 7 최고 종목 3선: Alphabet(GOOGL), Microsoft(MSFT), Amazon(AMZN)이 두드러진다 - MEXC",
-      "url": "https://www.mexc.com/news/987559",
-      "sentiment": "Growth"
+      "sentiment": "Negative"
     },
     {
       "date": "2026-03-27 17:33:07",
-      "title": "Microsoft(MSFT) 주가: 텍사스에서 900MW AI 캠퍼스 확장 속 1.69% 하락 - CoinCentral",
+      "title": "Microsoft (MSFT) Stock: Slips 1.69% as $900MW AI Campus Expands in Texas - CoinCentral",
       "url": "https://coincentral.com/microsoft-msft-stock-slips-1-69-as-900mw-ai-campus-expands-in-texas/",
       "sentiment": "Growth"
     },
     {
       "date": "2026-03-27 17:15:09",
-      "title": "Microsoft는 올해 24% 하락한 반면, AI에 분기당 300억 달러를 지출하고 있다 - 247wallst.com",
+      "title": "Microsoft Is Down 24% This Year While Spending $30B a Quarter on AI - 24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/03/27/microsoft-is-down-24-this-year-while-spending-30b-a-quarter-on-ai/",
       "sentiment": "Risk"
     },
     {
+      "date": "2026-03-27 17:15:09",
+      "title": "Microsoft는 올해 24% 하락했지만 분기당 AI에 300억 달러를 지출하고 있다 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-down-24-while-spending-171509517.html",
+      "sentiment": "Risk"
+    },
+    {
       "date": "2026-03-27 16:35:34",
-      "title": "마이크로소프트 코퍼레이션(MSFT)의 부진은 일시적 잡음으로 간주 - Yahoo Finance",
+      "title": "Microsoft Corporation (MSFT) 부진은 단기 노이즈로 보인다 - Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-underperformance-viewed-163534108.html",
-      "sentiment": "Neutral"
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-27 15:55:12",
+      "title": "오늘 왜 MSFT, Google, Meta, Nvidia, Tesla 주가가 크게 하락했나? 빅테크를 움직이는 요인은 다음과 같다 - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-msft-google-meta-nvidia-and-tesla-stock-falling-big-today-heres-whats-driving-the-big-tech-stock-crash/articleshow/129850799.cms?from=mdr",
+      "sentiment": "Negative"
     },
     {
       "date": "2026-03-27 15:51:04",
-      "title": "마이크로소프트(MSFT.US), Crusoe 데이터센터에서 900MW 용량 임차로 AI 컴퓨팅 파워 배치 확대 - Moomoo",
-      "url": "https://www.moomoo.com/news/post/67555020/microsoft-msftus-expands-its-ai-computing-power-layout-by-leasing?level=1&data_ticket=1774746856784244",
+      "title": "Microsoft (MSFT.US), Crusoe 데이터센터에서 900MW 용량 임대하며 AI 컴퓨팅 파워 배치 확대 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67555020/microsoft-msftus-expands-its-ai-computing-power-layout-by-leasing?level=1&data_ticket=1774833366496344",
       "sentiment": "Growth"
     },
     {
       "date": "2026-03-27 15:34:47",
-      "title": "이례적 옵션 거래: APA, MSFT 등 시장 베팅을 끌어들여, APA V/OI 비율 175.0에 도달 - Moomoo",
-      "url": "https://www.moomoo.com/news/post/67554322/unusual-options-activity-apa-msft-and-others-attract-market-bets?level=1&data_ticket=1774746856784244",
-      "sentiment": "Risk"
+      "title": "비정상적 옵션 거래: APA, MSFT 등 시장 베팅 유인, APA V/OI 비율 175.0 도달 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67554322/unusual-options-activity-apa-msft-and-others-attract-market-bets?level=1&data_ticket=1774833366496344",
+      "sentiment": "Neutral"
     },
     {
       "date": "2026-03-27 15:18:48",
-      "title": "마이크로소프트, 20년 만에 최악의 성적을 낼 수도. 너무 싸서 무시할 수 없나? - 247wallst.com",
-      "url": "https://247wallst.com/investing/2026/03/27/microsoft-may-have-its-worst-showing-in-20-years-is-it-too-cheap-to-ignore/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-27 15:18:48",
-      "title": "Microsoft는 20년 만에 최악의 실적을 낼 수도 있다. 무시하기엔 너무 싼가?",
+      "title": "Microsoft는 20년 만에 최악의 실적을 낼 수도 있다. 무시하기엔 너무 싼가? - Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-may-worst-showing-20-151848813.html",
-      "sentiment": "Risk"
+      "sentiment": "Negative"
     },
     {
-      "date": "2026-03-27 15:06:21",
-      "title": "LinkedIn 광고 성장의 수혜를 입는 Microsoft: 추가 상승 여력은?",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/1007885/microsoft-benefits-from-linkedin-ad-growth-more-upside-ahead/",
-      "sentiment": "Positive"
+      "date": "2026-03-27 15:18:48",
+      "title": "Microsoft는 20년 만에 최악의 실적을 낼 수도 있다. 무시하기엔 너무 싼가? - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/03/27/microsoft-may-have-its-worst-showing-in-20-years-is-it-too-cheap-to-ignore/",
+      "sentiment": "Negative"
     },
     {
       "date": "2026-03-27 13:51:53",
-      "title": "$Microsoft (MSFT.US)$ 형, 얼마나 더 떨어질 거야.",
+      "title": "$Microsoft (MSFT.US)$ 얼마나 더 떨어질 거냐, 형.",
       "url": "https://www.moomoo.com/community/feed/microsoft-msft-us-how-much-more-u-ll-fall-dude-116301464403974?chain_id=Name1K9-3FXPhg.1kscvqg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A62%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fnnq%22%7D",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-27 11:36:17",
-      "title": "Wedmont Private Capital, Microsoft Corporation $MSFT 보유 비중 축소 - MarketBeat",
+      "title": "Wedmont Private Capital, Microsoft Corporation $MSFT 지분 축소 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-wedmont-private-capital-cuts-position-in-microsoft-corporation-msft-2026-03-27/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-27 09:27:34",
-      "title": "Tounjian Advisory Partners LLC의 Microsoft Corporation $MSFT 주식 보유량 증가 - MarketBeat",
+      "title": "Tounjian Advisory Partners LLC, Microsoft Corporation $MSFT 보유 지분 확대 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-stock-holdings-lifted-by-tounjian-advisory-partners-llc-2026-03-27/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-27 09:26:13",
-      "title": "현금이 풍부하고 펀더멘털이 탄탄한 주식 2개와 역풍에 직면한 1개 - StockStory",
+      "title": "탄탄한 펀더멘털을 갖춘 현금 비중이 큰 종목 2개와 역풍에 직면한 1개 - StockStory",
       "url": "https://stockstory.org/us/stocks/nasdaq/msft/news/buy-or-sell/2-cash-heavy-stocks-with-solid-fundamentals-and-1-facing-headwinds",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-27 09:23:23",
-      "title": "Northside Capital Management LLC, Microsoft Corporation $MSFT 주식 매입 - MarketBeat",
+      "title": "Microsoft Corporation $MSFT 지분을 매입한 Northside Capital Management LLC - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-shares-acquired-by-northside-capital-management-llc-2026-03-27/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-27 09:15:22",
-      "title": "Microsoft Corporation $MSFT 보유 지분, Nordea Investment Management AB가 확대 - MarketBeat",
+      "title": "Microsoft Corporation $MSFT 보유 지분을 늘린 Nordea Investment Management AB - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-microsoft-corporation-msft-holdings-lifted-by-nordea-investment-management-ab-2026-03-27/",
       "sentiment": "Neutral"
     },
@@ -234,93 +331,27 @@
     },
     {
       "date": "2026-03-27 09:09:17",
-      "title": "Gryphon Financial Partners LLC, Microsoft Corporation $MSFT 주식 보유 비중 확대 - MarketBeat",
+      "title": "Gryphon Financial Partners LLC, Microsoft Corporation $MSFT 주식 포지션 확대 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-gryphon-financial-partners-llc-raises-stock-position-in-microsoft-corporation-msft-2026-03-27/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-27 03:37:00",
-      "title": "마이크로소프트, 메타, 알파벳 주가가 모두 급락하고 있다. 하지만 나는 그중 단 1종목만 살 만하다고 본다 - The Motley Fool",
+      "title": "마이크로소프트, 메타, 알파벳 주가가 모두 얻어맞고 있다. 하지만 제가 보기엔 살 만한 종목은 단 1개뿐이다 - fool.com",
       "url": "https://www.fool.com/investing/2026/03/26/microsoft-meta-and-alphabet-stocks-are-all-getting/",
-      "sentiment": "Risk"
+      "sentiment": "Mixed"
     },
     {
       "date": "2026-03-27 00:37:00",
-      "title": "AI 매도세: 왜 나는 이 놀라운 종목에 강하게 매수 의견을 외치는가 - The Motley Fool",
+      "title": "AI 매도세: 제가 이 놀라운 종목에 대해 강하게 매수 의견을 내는 이유 - fool.com",
       "url": "https://www.fool.com/investing/2026/03/26/ai-sell-off-why-im-pounding-the-table-on-this-incr/",
       "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-26 21:45:04",
-      "title": "마이크로소프트(MSFT) 주가 -1.37% 변동: 알아두어야 할 점 - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-moves-1-214504710.html",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-26 21:25:26",
-      "title": "마이크로소프트(MSFT) 주가 고점 대비 30% 하락 — 그러나 크레이머는 여전히 낙관적 - MEXC",
-      "url": "https://www.mexc.com/news/984978",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-26 21:06:52",
-      "title": "마이크로소프트(MSFT) 주가, AI 코파일럿 부진으로 월가 실망…32% 급락 - MEXC",
-      "url": "https://www.mexc.com/news/984885",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-26 20:59:53",
-      "title": "애널리스트 투자의견 하향으로 Microsoft(NASDAQ:MSFT) 1.4% 하락 거래 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/microsoft-nasdaqmsft-trading-down-14-on-analyst-downgrade-2026-03-26/",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-26 20:00:01",
-      "title": "Microsoft (NQ: MSFT - FinancialContent",
-      "url": "https://markets.financialcontent.com/stocks/quote?Symbol=NQ%3AMSFT",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 16:57:13",
-      "title": "Microsoft (MSFT) 주가, 기업 뉴스 및 차트 분석 - Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/microsoft-msft-stock-quotes-company-news-and-chart-analysis/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 14:02:21",
-      "title": "세계 최대 자산운용사가 Microsoft 목표주가를 90달러 하향 조정 - Watcher Guru",
-      "url": "https://watcher.guru/news/worlds-largest-wealth-manager-cuts-microsoft-stock-price-target",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-26 13:14:23",
-      "title": "새로운 AI 파트너십과 OpenAI 의존이 Microsoft(MSFT)의 투자 내러티브를 바꾸었는가? - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/software/nasdaq-msft/microsoft/news/did-new-ai-partnerships-and-openai-reliance-just-shift-micro",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-26 11:55:00",
-      "title": "Microsoft는 2008년 이후 최악의 해 출발을 보이고 있다. 이는 경고 신호일까, 아니면 10년에 한 번 올 매수 기회일까? - The Motley Fool",
-      "url": "https://www.fool.com/investing/2026/03/26/microsoft-is-having-its-worst-start-to-year-since/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-26 08:33:38",
-      "title": "$Microsoft (MSFT.US)$ 365 suite coming? - Moomoo",
-      "url": "https://www.moomoo.com/community/feed/microsoft-msft-us-365-suite-coming-116294550683654?chain_id=Name1K9-3FXPhg.1ks9tcg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FMSFT-CA%22%7D",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-26 06:40:00",
-      "title": "MSFT: Microsoft 주가, 고점 대비 33% 하락. 369달러 부근에 강한 지지선이 대기 중. - TradingView",
-      "url": "https://www.tradingview.com/news/tradingview:491702b3c094b:0-msft-microsoft-stock-slumps-33-from-record-big-support-looms-at-369/",
-      "sentiment": "Risk"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-26 ──\n  [Negative] 마이크로소프트(MSFT) 주가 -1.37% 변동: 알아두어야 할 점 - Yahoo Finance\n  [Risk] 마이크로소프트(MSFT) 주가 고점 대비 30% 하락 — 그러나 크레이머는 여전히 낙관적 - MEXC\n  [Negative] 마이크로소프트(MSFT) 주가, AI 코파일럿 부진으로 월가 실망…32% 급락 - MEXC\n  [Negative] 애널리스트 투자의견 하향으로 Microsoft(NASDAQ:MSFT) 1.4% 하락 거래 - MarketBeat\n  [Neutral] Microsoft (NQ: MSFT - FinancialContent\n  [Neutral] Microsoft (MSFT) 주가, 기업 뉴스 및 차트 분석 - Investor's Business Daily\n  [Mixed] 세계 최대 자산운용사가 Microsoft 목표주가를 90달러 하향 조정 - Watcher Guru\n  [Mixed] 새로운 AI 파트너십과 OpenAI 의존이 Microsoft(MSFT)의 투자 내러티브를 바꾸었는가? - simplywall.st\n  [Risk] Microsoft는 2008년 이후 최악의 해 출발을 보이고 있다. 이는 경고 신호일까, 아니면 10년에 한 번 올 매수 기회일까? - The Motley Fool\n  [Neutral] $Microsoft (MSFT.US)$ 365 suite coming? - Moomoo\n  [Risk] MSFT: Microsoft 주가, 고점 대비 33% 하락. 369달러 부근에 강한 지지선이 대기 중. - TradingView\n\n── 2026-03-27 ──\n  [Risk] 마이크로소프트 코퍼레이션(MSFT)이 2026년 3월 30일 주간 목표를 달성할까? 거래 확률 및 예측(2026년 3월 27일) - Polymarket\n  [Risk] Microsoft (MSFT)는 3월 30일 주간에 ___에 마감할까? 거래 확률 및 예측 - Polymarket\n  [Risk] Microsoft (MSFT)는 4월 말까지 ___를 상회하며 마감할까? 거래 확률 및 전망 - Polymarket\n  [Neutral] Microsoft(NASDAQ:MSFT) 2.5% 하락 거래 - 다음은? - MarketBeat\n  [Risk] Microsoft, 52주 신저가에 근접: OpenAI 트레이드 탓인가? - MarketWise\n  [Growth] 2025년을 위한 Magnificent 7 최고 종목 3선: Alphabet(GOOGL), Microsoft(MSFT), Amazon(AMZN)이 두드러진다 - MEXC\n  [Growth] Microsoft(MSFT) 주가: 텍사스에서 900MW AI 캠퍼스 확장 속 1.69% 하락 - CoinCentral\n  [Risk] Microsoft는 올해 24% 하락한 반면, AI에 분기당 300억 달러를 지출하고 있다 - 247wallst.com\n  [Neutral] 마이크로소프트 코퍼레이션(MSFT)의 부진은 일시적 잡음으로 간주 - Yahoo Finance\n  [Growth] 마이크로소프트(MSFT.US), Crusoe 데이터센터에서 900MW 용량 임차로 AI 컴퓨팅 파워 배치 확대 - Moomoo\n  [Risk] 이례적 옵션 거래: APA, MSFT 등 시장 베팅을 끌어들여, APA V/OI 비율 175.0에 도달 - Moomoo\n  [Risk] 마이크로소프트, 20년 만에 최악의 성적을 낼 수도. 너무 싸서 무시할 수 없나? - 247wallst.com\n  [Risk] Microsoft는 20년 만에 최악의 실적을 낼 수도 있다. 무시하기엔 너무 싼가?\n  [Positive] LinkedIn 광고 성장의 수혜를 입는 Microsoft: 추가 상승 여력은?\n  [Neutral] $Microsoft (MSFT.US)$ 형, 얼마나 더 떨어질 거야.\n  [Neutral] Wedmont Private Capital, Microsoft Corporation $MSFT 보유 비중 축소 - MarketBeat\n  [Neutral] Tounjian Advisory Partners LLC의 Microsoft Corporation $MSFT 주식 보유량 증가 - MarketBeat\n  [Neutral] 현금이 풍부하고 펀더멘털이 탄탄한 주식 2개와 역풍에 직면한 1개 - StockStory\n  [Neutral] Northside Capital Management LLC, Microsoft Corporation $MSFT 주식 매입 - MarketBeat\n  [Neutral] Microsoft Corporation $MSFT 보유 지분, Nordea Investment Management AB가 확대 - MarketBeat\n  [Neutral] Microsoft Corporation $MSFT는 Sarasin & Partners LLP의 최대 보유 종목 - MarketBeat\n  [Neutral] Gryphon Financial Partners LLC, Microsoft Corporation $MSFT 주식 보유 비중 확대 - MarketBeat\n  [Risk] 마이크로소프트, 메타, 알파벳 주가가 모두 급락하고 있다. 하지만 나는 그중 단 1종목만 살 만하다고 본다 - The Motley Fool\n  [Growth] AI 매도세: 왜 나는 이 놀라운 종목에 강하게 매수 의견을 외치는가 - The Motley Fool\n\n── 2026-03-28 ──\n  [Neutral] 멜린다 프렌치 게이츠는 25세에 마이크로소프트를 그만둘 뻔했다. 이제 그녀는 냉정함을 잃지 않고 피드백을 주는 간단한 원칙을 갖고 있다: '명확함은 친절이다' - Microsoft (NASDAQ:MSFT) - Benzinga\n  [Mixed] AI 지출과 채용 동결이 수년 만의 가장 가파른 조정을 촉발한 가운데 마이크로소프트(MSFT) 밸류에이션 살펴보기 - simplywall.st\n  [Neutral] 마이크로소프트: 주가가 답을 제시한 듯한 질문들 (NASDAQ:MSFT) - Seeking Alpha\n  [Neutral] Independence Wealth Advisors LLC, 마이크로소프트 코퍼레이션 $MSFT에 포지션 취득 - MarketBeat\n  [Neutral] M. Kulyk & Associates LLC, 마이크로소프트 코퍼레이션 $MSFT 1,788주 취득 - MarketBeat\n  [Neutral] Tompkins Financial Corp, Microsoft Corporation $MSFT 보유 비중 축소 - MarketBeat\n  [Neutral] Gradient Investments LLC, Microsoft Corporation $MSFT 주식 매입 - MarketBeat\n  [Neutral] NorthCrest Asset Manangement LLC, Microsoft Corporation $MSFT 주식 매입 - MarketBeat\n  [Neutral] Spartan Planning & Wealth Management, Microsoft Corporation $MSFT 주식 매도 - MarketBeat\n  [Neutral] Fulton Bank N.A., 마이크로소프트 코퍼레이션 $MSFT 주식 5,884만 달러 보유 - MarketBeat\n  [Risk] MSFT 주가 하락은 344달러 지지선에서 멈출까, 아니면 다음 주 300달러까지 밀릴까? - FXLeaders\n  [Risk] 오늘의 MSFT 주가, 3월 27일: OpenAI 리스크가 AI 서사를 시험하면서 과매도 구간 진입 - Meyka",
-    "sentiment_block": "총 뉴스 47건 분석 결과:\n  Positive     1건 (  2.1%) \n  Growth       4건 (  8.5%) █\n  Neutral     22건 ( 46.8%) █████████\n  Mixed        3건 (  6.4%) █\n  Risk        14건 ( 29.8%) █████\n  Negative     3건 (  6.4%) █\n\n날짜별 감정 흐름:\n  2026-03-26: Negative:3, Risk:3, Neutral:3, Mixed:2\n  2026-03-27: Neutral:10, Risk:9, Growth:4, Positive:1\n  2026-03-28: Neutral:9, Risk:2, Mixed:1",
+    "news_block": "\n── 2026-03-27 ──\n  [Mixed] Microsoft Corporation(MSFT)이 2026년 3월 30일 주간에 목표가? 거래 확률 및 예측 (2026년 3월 27일) - Polymarket\n  [Risk] Microsoft(MSFT)가 3월 30일 주간을 ___ 이상으로 마감할까? 거래 확률 및 예측 - Polymarket\n  [Risk] Microsoft (MSFT) closes week of Mar 30 at ___? Trading Odds & Predictions - Polymarket\n  [Mixed] Microsoft (NASDAQ:MSFT) Trading Down 2.5% - What's Next? - MarketBeat\n  [Negative] Microsoft Nearing 52-Week Lows: Blame the OpenAI Trade? - marketwise.com\n  [Growth] Microsoft (MSFT) Stock: Slips 1.69% as $900MW AI Campus Expands in Texas - CoinCentral\n  [Risk] Microsoft Is Down 24% This Year While Spending $30B a Quarter on AI - 24/7 Wall St.\n  [Risk] Microsoft는 올해 24% 하락했지만 분기당 AI에 300억 달러를 지출하고 있다 - Yahoo Finance\n  [Risk] Microsoft Corporation (MSFT) 부진은 단기 노이즈로 보인다 - Yahoo Finance\n  [Negative] 오늘 왜 MSFT, Google, Meta, Nvidia, Tesla 주가가 크게 하락했나? 빅테크를 움직이는 요인은 다음과 같다 - The Economic Times\n  [Growth] Microsoft (MSFT.US), Crusoe 데이터센터에서 900MW 용량 임대하며 AI 컴퓨팅 파워 배치 확대 - Moomoo\n  [Neutral] 비정상적 옵션 거래: APA, MSFT 등 시장 베팅 유인, APA V/OI 비율 175.0 도달 - Moomoo\n  [Negative] Microsoft는 20년 만에 최악의 실적을 낼 수도 있다. 무시하기엔 너무 싼가? - Yahoo Finance\n  [Negative] Microsoft는 20년 만에 최악의 실적을 낼 수도 있다. 무시하기엔 너무 싼가? - 24/7 Wall St.\n  [Neutral] $Microsoft (MSFT.US)$ 얼마나 더 떨어질 거냐, 형.\n  [Neutral] Wedmont Private Capital, Microsoft Corporation $MSFT 지분 축소 - MarketBeat\n  [Neutral] Tounjian Advisory Partners LLC, Microsoft Corporation $MSFT 보유 지분 확대 - MarketBeat\n  [Neutral] 탄탄한 펀더멘털을 갖춘 현금 비중이 큰 종목 2개와 역풍에 직면한 1개 - StockStory\n  [Neutral] Microsoft Corporation $MSFT 지분을 매입한 Northside Capital Management LLC - MarketBeat\n  [Neutral] Microsoft Corporation $MSFT 보유 지분을 늘린 Nordea Investment Management AB - MarketBeat\n  [Neutral] Microsoft Corporation $MSFT는 Sarasin & Partners LLP의 최대 보유 종목 - MarketBeat\n  [Neutral] Gryphon Financial Partners LLC, Microsoft Corporation $MSFT 주식 포지션 확대 - MarketBeat\n  [Mixed] 마이크로소프트, 메타, 알파벳 주가가 모두 얻어맞고 있다. 하지만 제가 보기엔 살 만한 종목은 단 1개뿐이다 - fool.com\n  [Growth] AI 매도세: 제가 이 놀라운 종목에 대해 강하게 매수 의견을 내는 이유 - fool.com\n\n── 2026-03-28 ──\n  [Negative] Microsoft(MSFT) 가치평가 살펴보기: AI 지출과 채용 동결이 수년 만의 가장 큰 조정을 촉발 - simplywall.st\n  [Neutral] Microsoft: 가격이 답해버린 질문들(NASDAQ:MSFT) - Seeking Alpha\n  [Risk] Microsoft(MSFT), 3월 30일 종가가 ___를 넘을까? 거래 확률 및 예측 - Polymarket\n  [Neutral] Independence Wealth Advisors LLC, Microsoft Corporation $MSFT에 신규 포지션 보유 - MarketBeat\n  [Neutral] M. Kulyk & Associates LLC, Microsoft Corporation $MSFT 1,788주 매입 - MarketBeat\n  [Neutral] Tompkins Financial Corp, Microsoft Corporation $MSFT 보유 비중 축소 - MarketBeat\n  [Neutral] Gradient Investments LLC, Microsoft Corporation $MSFT 주식 매입 - MarketBeat\n  [Neutral] Spartan Planning & Wealth Management, Microsoft Corporation $MSFT 주식 매도 - MarketBeat\n  [Neutral] NorthCrest Asset Manangement LLC, Microsoft Corporation $MSFT 주식 매입 - MarketBeat\n  [Neutral] MSFT - 누구? [df45e3] - Fathom Journal\n  [Neutral] Fulton Bank N.A., Microsoft Corporation $MSFT 지분 5,884만 달러 보유 - MarketBeat\n  [Risk] 오늘의 MSFT 주가, 3월 27일: OpenAI 리스크가 AI 서사를 시험하며 과매도 상태 - Meyka\n\n── 2026-03-29 ──\n  [Mixed] 지금 마이크로소프트 주식을 매수하기 좋은 시기인가? - The Globe and Mail\n  [Growth] UBS, Microsoft(MSFT) 목표주가 하향 조정, 매수 의견 유지 - Insider Monkey\n  [Risk] 나는 Nvidia, Microsoft, Meta를 보유하고 있다. 지금 이 세 종목에 대해 내가 하고 있는 일은 다음과 같다. - The Globe and Mail\n  [Negative] UBS, Microsoft(MSFT) 목표주가 하향 조정, 매수 의견 유지 - Yahoo Finance\n  [Neutral] MSFT - Sipping [6af900] - Fathom Journal\n  [Growth] Microsoft, 투자자들을 위해 AI 교육 확대와 내부 HR 조직 개편을 병행 - simplywall.st\n  [Neutral] Westview Management dba Westview Investment Advisors, Microsoft Corporation $MSFT 10,596주 매입 - MarketBeat\n  [Neutral] Generate Investment Management Ltd, Microsoft Corporation $MSFT 69,069주 매수 - MarketBeat\n  [Neutral] Seilern Investment Management Ltd, Microsoft Corporation $MSFT 지분 축소 - MarketBeat\n  [Neutral] Montecito Bank & Trust, Microsoft Corporation $MSFT 주식 매도 - MarketBeat\n  [Neutral] Charles Schwab Trust Co, Microsoft Corporation $MSFT 지분 확대 - MarketBeat\n  [Neutral] Dynamic Advisor Solutions LLC, Microsoft Corporation $MSFT 지분 축소 - MarketBeat\n  [Neutral] Affinity Capital Advisors LLC, Microsoft Corporation $MSFT 주식 보유 확대 - MarketBeat\n  [Risk] MSFT 주식 오늘: 3월 29일 – DMV 번호판 영상이 정부 AI·프라이버시 논쟁을 되살리다 - Meyka\n  [Neutral] Josh Gottheimer 하원의원, Microsoft Corporation(NASDAQ:MSFT) 주식 매도 - MarketBeat\n  [Neutral] Microsoft(NASDAQ:MSFT) 주식 매도 - 하원의원 Julia Letlow | MarketBeat",
+    "sentiment_block": "총 뉴스 52건 분석 결과:\n  Positive     0건 (  0.0%) \n  Growth       5건 (  9.6%) █\n  Neutral     28건 ( 53.8%) ██████████\n  Mixed        4건 (  7.7%) █\n  Risk         9건 ( 17.3%) ███\n  Negative     6건 ( 11.5%) ██\n\n날짜별 감정 흐름:\n  2026-03-27: Neutral:9, Risk:5, Negative:4, Mixed:3, Growth:3\n  2026-03-28: Neutral:9, Risk:2, Negative:1\n  2026-03-29: Neutral:10, Growth:2, Risk:2, Mixed:1, Negative:1",
     "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 62  Hold: 16  Sell: 0  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $675  Low: $392  Consensus: $583.67  Median: $600\n▶ 실적 추정치 (2030-06)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $321.67465848211185  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B+  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "[핵심 요약]\n* 3일간 MSFT는 **AI 코파일럿/월가 실망, 목표주가 하향, 고점 대비 큰 낙폭(30%~33% 하락권)** 등의 부정 재료가 반복되며 주가가 전반적으로 약세.\n* 동시에 **AI 인프라/컴퓨팅 확장(900MW 임차 등), LinkedIn 광고 성장 기대, 현금 및 펀더멘털 양호 평가, 일부 기관의 매수/비중 조정**이 균형 요인으로 함께 등장.\n* 결론적으로, 단기적으로는 **OpenAI/AI 서사(투자 지속성 vs 기대치) 점검 국면**이 우세하고, 가격은 **강한 지지선 근처(340~300달러대 언급)**로 “기회 vs 추가 하락”이 혼재.\n\n[전체 흐름 분석]\n* **26일:** AI 코파일럿 부진 및 애널리스트 의견 하향 등으로 **부정 뉴스 비중이 높고(Risk/Negative 다수)** 하락 압력이 강화.\n* **27일:** 변동성은 유지되지만, “일시적 잡음” 또는 “AI 매도세 기회” 같은 **완화/매수 프레임(Neutral 중심 + 일부 Growth/Positive)**이 나타남. 다만 **52주 신저가 근접, 옵션/수급 관련 불확실성**이 동반.\n* **28일:** 지지선(344달러 → 300달러 가능성) 언급과 함께 **OpenAI 리스크가 과매도 국면을 시험**한다는 내러티브가 강화. 즉, “밸류에이션 재평가(하락 반영) vs 추가 디레이팅/실망 지속”의 줄다리기.\n\n[긍정 요인]\n* **AI 인프라 확장 신호:** Crusoe 데이터센터 900MW 용량 임차 등으로 **AI 컴퓨팅 파워 배치 확대**가 언급됨(단기 실적 우려를 상쇄할 수 있는 구조적 요소).\n* **광고/수익원 기대:** LinkedIn 광고 성장 수혜 관점에서 **추가 상승 여력** 가능성이 제시됨(수익 믹스 개선 기대).\n* **수급/보유 관점의 분산:** 여러 MarketBeat 항목에서 매입/보유/포지션 조정이 혼재(완전한 이탈 신호로 보기 어려움).\n* **애널리스트 스펙트럼:** 등급 합산에서 **Sell/Strong Sell이 0, Buy 중심(Strong Buy 0, Buy 62, Hold 16)**으로 “장기 눈높이에서의 우호”가 존재.\n\n[부정 요인]\n* **AI 기대치 실망 및 내러티브 훼손:** “AI 코파일럿 부진으로 월가 실망”, “OpenAI 의존/리스크가 AI 서사를 시험” 같은 메시지가 반복.\n* **목표주가 하향/경고성 평가:** 목표주가를 **90달러 하향 조정**(Watcher Guru) 등 컨센서스 상향보다는 하향 쪽 흐름이 관측됨.\n* **가격 측면의 부담:** 고점 대비 **30%~33% 하락**, “2000년대 이후 최악 출발/실적 경고” 등으로 심리 부담이 지속.\n* **지지선 테스트 가능성:** 344달러 지지 여부, **300달러까지 밀릴 수 있음**이 동시에 거론되어 단기 리스크가 열려 있음.\n\n[투자 인사이트]\n* 이번 3일 흐름의 핵심 인과관계는 다음입니다.  \n  **(1) AI 제품/서비스(코파일럿 등) 기대치 미달 → (2) 월가 실망/목표주가 하향 → (3) 고점 대비 큰 폭의 디레이팅(30%대 하락) → (4) 그러나 동시에 AI 인프라 확장·수익원(LinkedIn) 모멘텀 및 기관의 보유/매수 조정이 하방을 일부 지지.**\n* 따라서 투자 관점에서는 **“AI 서사 훼손이 단기 실적/가이던스 변곡으로 이어지는지”**가 체크포인트입니다.  \n  - 만약 AI 관련 실망이 계속되면 지지선(344→300 언급) 하방이 현실화될 수 있고,  \n  - 반대로 인프라/상업화(광고 등)에서 기대에 부합하는 신호가 누적되면 현재의 하락은 “기회”로 전환될 여지가 있습니다.\n* 애널리스트 측면에서도 Sell 신호가 거의 없고 Buy/Hold 중심이라 **중장기 관점의 버팀목은 존재**합니다. 다만 뉴스 흐름상 단기 변동성은 여전히 높아 “지금 일괄 매수”보다 **가격 확인 후(지지선 부근 안정/추가 하락 제한) 단계적 접근**이 더 합리적입니다.\n\n[투자 판단]\n* **보류(Watch / 단계적 접근 우선)**\n\n[판단 근거]\n* 단기적으로는 **AI 코파일럿 부진·OpenAI 리스크·목표주가 하향**이 반복되어 하락 압력이 우세(뉴스/감정 흐름에서 Risk/Negative가 높게 나타남).\n* 반면 **AI 인프라 확장(900MW 임차), LinkedIn 광고 성장 기대, 애널리스트 등급이 Buy/Hold 중심(Strong Sell 0)**이라 “완전한 비투자”로 보기엔 근거가 부족.\n* 또한 **지지선(344달러) 시험 및 300달러까지 하락 가능성**이 동시에 언급되어, 현재는 “상승 전환 신호”가 확정되지 않았습니다.  \n→ 그래서 **추가 확인(지지선 방어/실망의 반복 여부) 전에는 신규 공격 매수보다 보류가 투자 리스크 관리 측면에서 우월**합니다."
+  "investment_judgment": "[핵심 요약]\n* 최근 3일(3/27~3/29) MSFT는 **주가 조정/약세 내러티브**가 강했습니다(52건 중 Risk 17.3%, Negative 11.5%).\n* 핵심 동인은 **AI 투자(대규모 지출/데이터센터 확장)**가 지속되는 가운데, **밸류에이션 부담·실적 우려(“수년 만의 가장 큰 조정”, “52주 저점 근접”)** 및 **옵션/매크로 영향 등 단기 변동성**이 겹친 흐름입니다.\n* 동시에 다수의 “중립/매수” 성격의 코멘트와 **기관 보유·매입/확대** 흐름이 확인되어, 하락이 전면적인 펀더멘털 붕괴라기보다 **기대/지출 간 타이밍 조정** 성격일 가능성이 큽니다.\n\n[전체 흐름 분석]\n* 3/27: AI 관련 “캠퍼스/컴퓨팅 파워 확장” 같은 Growth성 재료가 있었지만, **52주 저점 근접, 연간 -24%·단기 실적 우려**가 동시에 제기되며 시장은 “좋은 소식은 있으나 주가는 먼저 압박”하는 구도로 해석했습니다.\n* 3/28: AI 지출과 **채용 동결/가치평가 압박** 같은 문구가 더해지며 조정 논리가 강화됐습니다. 다만 전반 평가는 여전히 중립 비중이 높고(감정 Neutral 53.8%), 일부는 과매도/리스크를 제한적으로 해석했습니다.\n* 3/29: “매수 타이밍”을 묻는 질문형 기사와 함께, **UBS 목표주가 하향(매수 의견 유지)** 같은 반응이 나타나 **투자 의견은 유지하되 단기 눈높이는 낮아지는** 패턴이었습니다. 기관 거래도 완전히 한쪽(매도 우위)으로 쏠리진 않았습니다.\n\n[긍정 요인]\n* **AI 인프라 확장 지속**: 텍사스 900MW 규모 AI 캠퍼스 확장/데이터센터 컴퓨팅 파워 배치 확대 등(성장/긍정 재료).\n* **자본지출에도 불구하고 ‘내러티브’가 살아있음**: 부정 기사들이 많아도, AI 교육 확대/HR 조직 개편 같은 운영 대응이 함께 언급됨.\n* **전반적인 애널리스트 톤은 매수 쪽 우세**: Strong Buy 0이지만 Buy 62, Hold 16으로 **Sell·Strong Sell이 사실상 없음**.\n* **보유/매입 포지션이 관측됨**: MarketBeat 등에서 다양한 주체의 신규/추가 매수(또는 신규 보유) 코멘트가 다수.\n\n[부정 요인]\n* **단기 밸류에이션/실적 우려가 주가에 선반영**: “52주 저점 근접”, “올해 -24%”, “20년 만의 최악 실적 가능성”, “가치평가 조정 촉발(채용 동결 언급)” 등 부정 프레이밍이 반복.\n* **AI 지출 규모에 대한 부담 인식**: 분기 300억~수십억 달러 규모 AI 지출 관련 우려가 ‘성장 재료’와 동시에 ‘단기 마진/실적 가시성 리스크’로 연결.\n* **시장 변동성/매크로(빅테크 동반 하락 언급)**: 일부 기사에서 MSFT뿐 아니라 빅테크 전반의 하락 요인이 언급되어, 종목 고유보단 **섹터/리스크온-오프 영향**도 반영된 것으로 해석 가능.\n* **옵션/예측시장 리스크 문구**: Polymarket에서 “___ 이상으로 마감할까?” 같은 형태의 리스크성 예측이 존재(방향성 확정은 아니지만, 단기 레벨 부담 신호).\n\n[투자 인사이트]\n* 종합하면, **“AI 투자 확대(장기 성장)”는 유지되지만 “투자비 대비 실적/가시성(단기)”에 대한 불확실성이 주가를 누르는 국면**으로 읽힙니다.  \n* 이때 애널리스트 의견이 Sell 없이 Buy 중심이고(컨센서스 목표가 존재), 동시에 UBS 목표주가 하향처럼 **눈높이 조정이 진행 중**인 점을 고려하면:\n  * 단기적으로는 **변동성 확대 구간**(저점 테스트 가능성, 매수 타이밍 논쟁 지속)이 될 수 있으나,\n  * 장기 투자 관점에서는 **조정이 “펀더멘털 훼손”보다는 “기대-지출 간 타이밍 조정”**일 가능성이 상대적으로 큽니다(뉴스 전반이 AI 투자 자체를 부정하기보다는, 그 결과/속도에 대한 우려가 핵심).\n* 따라서 “올인 매수/즉시 강한 비중확대”보다는, **가격 리스크가 완화되는 구간 확인 후 분할 접근**이 합리적입니다(근거: 부정/리스크 뉴스 비중이 높고, 주가가 52주 저점 근접 언급까지 존재).\n\n[투자 판단]\n* **보류(분할매수 관점의 접근 권장)**\n\n[판단 근거]\n* **불확실성(리스크/네거티브) 비중이 높음**: 감정 결과에서 Risk 17.3%, Negative 11.5%로 단기 압력 신호가 뚜렷합니다.\n* **다만 Sell 의견이 사실상 없고 애널리스트 체계는 Buy 중심**: Buy 62 / Hold 16, Strong Sell 0으로 투자자문 톤이 완전히 꺾이지 않았습니다.\n* **AI 투자 확장은 긍정 팩터이나, 단기 실적 가시성/밸류에이션 우려가 동시에 존재**: 따라서 “지금 당장 강한 매수”는 근거가 약하고, “완전한 비투자” 역시 애널리스트 우호/기관 매입 코멘트가 남아 있습니다.\n* 결론적으로, 현 시점은 **추가 하락 가능성을 배제하기 어려운 조정 구간**이므로 “보류”가 더 보수적으로 합리적이며, 투자 실행은 **분할·조건부(저점 확인/변동성 축소 이후)**가 타당합니다."
 }
