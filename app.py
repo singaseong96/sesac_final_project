@@ -109,6 +109,15 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
     border-radius: 10px !important;
 }
 
+/* ── 사이드바 접기 버튼 텍스트 숨김 ── */
+[data-testid="stSidebarCollapseButton"] { display: none !important; }
+[data-testid="collapsedControl"] { display: none !important; }
+[data-testid="stToolbar"] { display: none !important; }
+[data-testid="stDecoration"] { display: none !important; }
+[data-testid="stStatusWidget"] { display: none !important; }
+.stDeployButton { display: none !important; }
+#MainMenu { display: none !important; }
+
 /* ── plotly 배경 투명 ── */
 .js-plotly-plot { background: transparent !important; }
 
@@ -141,6 +150,33 @@ hr { border-color: #1e2230 !important; margin: 24px 0 !important; }
     color: #f0f2fa !important;
     font-weight: 600 !important;
 }
+
+/* ── 홈화면 종목 카드 hover ── */
+.stock-card {
+    transition: border-color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease;
+    cursor: pointer;
+}
+.stock-card:hover {
+    border-color: #00d4a0 !important;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0,212,160,0.08);
+}
+
+/* ── Streamlit 버튼 공통 스타일 ── */
+[data-testid="stButton"] > button {
+    background: transparent !important;
+    border: 1px solid #1e2230 !important;
+    color: #dde1ee !important;
+    border-radius: 8px !important;
+    font-family: 'DM Sans', sans-serif !important;
+    font-weight: 500 !important;
+    transition: all 0.15s ease !important;
+}
+[data-testid="stButton"] > button:hover {
+    border-color: #00d4a0 !important;
+    color: #00d4a0 !important;
+    background: #00d4a008 !important;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -169,6 +205,24 @@ SENTIMENT_KO = {
 }
 
 # ─────────────────────────────────────────────────────────
+# 세션 상태 초기화
+# ─────────────────────────────────────────────────────────
+if "page" not in st.session_state:
+    st.session_state.page = "home"
+if "selected_symbol" not in st.session_state:
+    st.session_state.selected_symbol = None
+if "selected_model" not in st.session_state:
+    st.session_state.selected_model = "GPT"
+
+def go_home():
+    st.session_state.page = "home"
+
+def go_dashboard(symbol, model="GPT"):
+    st.session_state.page = "dashboard"
+    st.session_state.selected_symbol = symbol
+    st.session_state.selected_model  = model
+
+# ─────────────────────────────────────────────────────────
 # 사이드바
 # ─────────────────────────────────────────────────────────
 with st.sidebar:
@@ -185,11 +239,19 @@ with st.sidebar:
     </div>
     """, unsafe_allow_html=True)
 
-    st.markdown('<div style="height:1px;background:#1e2230;margin-bottom:20px;"></div>', unsafe_allow_html=True)
+    st.markdown('<div style="height:1px;background:#1e2230;margin-bottom:16px;"></div>', unsafe_allow_html=True)
+
+    # 홈 버튼
+    if st.button("🏠  홈으로", use_container_width=True):
+        go_home()
+        st.rerun()
+
+    st.markdown('<div style="height:1px;background:#1e2230;margin:16px 0;"></div>', unsafe_allow_html=True)
 
     model_choice = st.radio(
         "🤖 분석 모델",
         options=["GPT", "Claude"],
+        index=0 if st.session_state.selected_model == "GPT" else 1,
         horizontal=True,
     )
 
@@ -199,7 +261,13 @@ with st.sidebar:
     symbol = st.selectbox(
         "종목", STOCKS[sector],
         format_func=lambda s: f"{s}  ·  {COMPANY_NAME.get(s, '')}",
+        index=STOCKS[sector].index(st.session_state.selected_symbol)
+              if st.session_state.selected_symbol in STOCKS[sector] else 0,
     )
+
+    if st.button("📊  분석 보기", use_container_width=True):
+        go_dashboard(symbol, model_choice)
+        st.rerun()
 
     st.markdown('<div style="height:1px;background:#1e2230;margin:20px 0;"></div>', unsafe_allow_html=True)
     st.markdown("""
@@ -211,7 +279,8 @@ with st.sidebar:
     </div>
     """, unsafe_allow_html=True)
 
-company = COMPANY_NAME.get(symbol, symbol)
+company      = COMPANY_NAME.get(symbol, symbol)
+model_suffix = "GPT" if model_choice == "GPT" else "claude"
 
 # ─────────────────────────────────────────────────────────
 # 데이터 로드
@@ -232,10 +301,121 @@ def load_csv(path):
 def safe_get(d, section, key):
     return (d or {}).get(section, {}).get(key, {}).get("data") or []
 
-fmp          = load_json(os.path.join(OUTPUT_DIR, f"{symbol}.json"))
-df_sent      = load_csv(os.path.join(OUTPUT_DIR, f"{symbol}_sentiment.csv"))
-model_suffix = "GPT" if model_choice == "GPT" else "claude"
-analysis     = load_json(os.path.join(OUTPUT_DIR, f"{symbol}_analysis_{model_suffix}.json"))
+# ─────────────────────────────────────────────────────────
+# 홈화면
+# ─────────────────────────────────────────────────────────
+def render_home():
+    # ── 히어로 ──────────────────────────────────────────
+    st.markdown("""
+    <div style="padding: 60px 0 48px; text-align:center;">
+        <div style="font-family:'Bebas Neue',sans-serif; font-size:72px;
+                    letter-spacing:0.04em; line-height:1;
+                    background: linear-gradient(135deg, #ffffff 0%, #00d4a0 60%);
+                    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+                    background-clip: text;">
+            STOCK INSIGHT
+        </div>
+        <div style="font-size:17px; color:#8d97b0; margin-top:16px; font-weight:400;
+                    letter-spacing:0.01em; max-width:520px; margin-left:auto; margin-right:auto;
+                    line-height:1.7;">
+            AI 기반 뉴스 감정 분석과 애널리스트 데이터로<br>
+            더 나은 투자 판단을 내려보세요.
+        </div>
+    </div>
+    <div style="height:1px; background:linear-gradient(90deg,transparent,#00d4a030 40%,#00d4a030 60%,transparent);
+                margin-bottom:48px;"></div>
+    """, unsafe_allow_html=True)
+
+    # ── 종목 빠른 선택 ───────────────────────────────────
+    st.markdown("""
+    <div style="font-size:12px; font-weight:700; color:#8d97b0;
+                text-transform:uppercase; letter-spacing:0.1em; margin-bottom:20px;">
+        📌 종목 빠른 선택
+    </div>
+    """, unsafe_allow_html=True)
+
+    SECTOR_ICON = {
+        "테크·AI": "💻", "금융·핀테크": "🏦",
+        "에너지·원자재": "⚡", "헬스케어·바이오": "🧬",
+    }
+
+    for sec, syms in STOCKS.items():
+        st.markdown(f"""
+        <div style="font-size:13px; color:#6b7a99; font-weight:500;
+                    margin-bottom:10px; margin-top:4px;">
+            {SECTOR_ICON.get(sec,'')} {sec}
+        </div>
+        """, unsafe_allow_html=True)
+
+        cols = st.columns(len(syms))
+        for i, sym in enumerate(syms):
+            cname = COMPANY_NAME.get(sym, "")
+            # 분석 파일 존재 여부 확인
+            has_gpt    = os.path.exists(os.path.join(OUTPUT_DIR, f"{sym}_analysis_GPT.json"))
+            has_claude = os.path.exists(os.path.join(OUTPUT_DIR, f"{sym}_analysis_claude.json"))
+            badge = ""
+            if has_gpt and has_claude:
+                badge = '<span style="color:#00d4a0;font-size:10px;font-weight:600;">GPT · Claude</span>'
+            elif has_gpt:
+                badge = '<span style="color:#10a37f;font-size:10px;font-weight:600;">GPT</span>'
+            elif has_claude:
+                badge = '<span style="color:#cc785c;font-size:10px;font-weight:600;">Claude</span>'
+            else:
+                badge = '<span style="color:#3a3f52;font-size:10px;">미분석</span>'
+
+            with cols[i]:
+                # HTML 카드 (티커 볼드 + 기업명 + 배지)
+                st.markdown(f"""
+                <div style="background:#161923; border:1px solid #1e2230;
+                            border-radius:12px 12px 0 0; padding:18px 16px 14px;
+                            text-align:center;">
+                    <div style="font-family:'DM Mono',monospace; font-size:20px;
+                                font-weight:700; color:#f0f2fa; letter-spacing:0.04em;
+                                line-height:1.1;">
+                        {sym}
+                    </div>
+                    <div style="font-size:12px; color:#6b7a99; margin-top:5px;
+                                font-weight:400;">{cname}</div>
+                    <div style="margin-top:8px; min-height:16px;">{badge}</div>
+                </div>
+                """, unsafe_allow_html=True)
+
+                # 클릭 버튼 (카드 하단에 붙임)
+                st.markdown("""
+                <style>
+                div[data-testid="stButton"] > button {
+                    border-radius: 0 0 12px 12px !important;
+                    margin-top: -1px !important;
+                    border-top: 1px solid #1e2230 !important;
+                }
+                </style>
+                """, unsafe_allow_html=True)
+                if st.button("분석 보기 →", key=f"home_btn_{sym}",
+                             use_container_width=True):
+                    go_dashboard(sym, model_choice)
+                    st.rerun()
+
+        st.markdown("<div style='height:8px'></div>", unsafe_allow_html=True)
+
+# ─────────────────────────────────────────────────────────
+# 라우팅 분기
+# ─────────────────────────────────────────────────────────
+if st.session_state.page == "home":
+    render_home()
+    st.stop()
+
+# ── 대시보드: session_state의 symbol/model 우선 사용 ──
+if st.session_state.selected_symbol:
+    symbol       = st.session_state.selected_symbol
+    model_choice = st.session_state.selected_model
+    model_suffix = "GPT" if model_choice == "GPT" else "claude"
+    company      = COMPANY_NAME.get(symbol, symbol)
+    # 섹터 재탐색
+    sector = next((s for s, syms in STOCKS.items() if symbol in syms), sector)
+
+fmp      = load_json(os.path.join(OUTPUT_DIR, f"{symbol}.json"))
+df_sent  = load_csv(os.path.join(OUTPUT_DIR, f"{symbol}_sentiment.csv"))
+analysis = load_json(os.path.join(OUTPUT_DIR, f"{symbol}_analysis_{model_suffix}.json"))
 
 # ─────────────────────────────────────────────────────────
 # 페이지 헤더
