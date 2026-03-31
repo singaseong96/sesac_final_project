@@ -1,0 +1,432 @@
+{
+  "meta": {
+    "symbol": "V",
+    "analysis_date": "2026-03-31T02:13:10.136577+00:00",
+    "news_period": "2026-03-29 ~ 2026-03-30",
+    "news_count": 66,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Neutral": 54,
+    "Growth": 5,
+    "Positive": 3,
+    "Risk": 3,
+    "Negative": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-29": {
+      "Neutral": 3
+    },
+    "2026-03-30": {
+      "Neutral": 51,
+      "Growth": 5,
+      "Positive": 3,
+      "Risk": 3,
+      "Negative": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-30 23:34:30",
+      "title": "How to watch Iraq v Bolivia in World Cup playoff: Kick off time, TV details - football360.com.au",
+      "url": "https://football360.com.au/how-to-watch-iraq-bolivia-world-cup-playoff-kickoff-time-tv-details-tickets/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 23:24:07",
+      "title": "Unión start Copa Argentina v Agropecuario with changes, Radio Gol 96.7 - OneFootball",
+      "url": "https://onefootball.com/en/news/union-start-copa-argentina-v-agropecuario-with-changes-radio-gol-967-42637899",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 23:23:49",
+      "title": "Assessing WOTC and EZEC Eligibility for Professional Employer Organizations: A Review of Barrett Business Services, Inc. v. Commissioner - Current Federal Tax Developments",
+      "url": "https://www.currentfederaltaxdevelopments.com/blog/2026/3/30/assessing-wotc-and-ezec-eligibility-for-professional-employer-organizations-a-review-of-barrett-business-services-inc-v-commissioner",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 22:30:00",
+      "title": "HI v. Gerhardt Konig: Trouble in Paradise Trial - Court TV",
+      "url": "https://www.courttv.com/news/hi-v-gerhardt-konig-trouble-in-paradise-trial/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 22:01:20",
+      "title": "Visa (NYSE:V) Shares Up 1.2% - Still a Buy? - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/visa-nysev-shares-up-12-still-a-buy-2026-03-30/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 22:00:15",
+      "title": "The Last V8 Sedan You Could Buy With A Manual Transmission - HotCars",
+      "url": "https://www.hotcars.com/last-v8-sedan-could-buy-manual-transmission/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 22:00:00",
+      "title": "'Run, Don't Walk' — This Olive Garden Sister Chain Serves Truly Tantalizing Crab Cakes - tastingtable.com",
+      "url": "https://www.tastingtable.com/2131848/olive-garden-sister-chain-eddie-v-s-prime-crab-cakes/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 21:58:36",
+      "title": "GTA V debut gameplay trailer released - AOL.com",
+      "url": "https://www.aol.com/2013-07-09-gta-v-debut-gameplay-trailer-released.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 21:56:15",
+      "title": "Kansas Supreme Court Backs Governor Kelly’s Authority in Kelly v. Kobach, Allows Fight to Protect Federal Funds - KCLY Radio",
+      "url": "https://kclyradio.com/blog/kansas-supreme-court-backs-governor-kellys-authority-in-kelly-v-kobach-allows-fight-to-protect-federal-funds/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 21:52:47",
+      "title": "BTS rampages back to the top of the charts - NPR",
+      "url": "https://www.npr.org/2026/03/30/nx-s1-5766451/bts-arirang-pop-charts",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 21:49:25",
+      "title": "Ancelotti names a World Cup pick before Brazil v Croatia friendly - OneFootball",
+      "url": "https://onefootball.com/en/news/ancelotti-names-a-world-cup-pick-before-brazil-v-croatia-friendly-42637672",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 21:37:56",
+      "title": "Wrestling NCAA Championship Session V - University of Missouri Athletics",
+      "url": "https://mutigers.com/galleries/wrestling/wrestling-ncaa-championship-session-v/7698",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 21:21:24",
+      "title": "Ancelotti confirms one man for the World Cup before Brazil v Croatia - OneFootball",
+      "url": "https://onefootball.com/en/news/ancelotti-confirms-one-man-for-the-world-cup-before-brazil-v-croatia-42637672",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 21:07:43",
+      "title": "Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest - NASASpaceFlight.com -",
+      "url": "https://www.nasaspaceflight.com/2026/03/launch-preview-033026/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 21:00:19",
+      "title": "The True Legacy Of V For Vendetta Reflected On By Director 20 Years Later: \"Those Themes Were Circular & Cyclical\" - ScreenRant",
+      "url": "https://screenrant.com/v-for-vendetta-movie-true-legacy-james-mcteigue/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 20:58:48",
+      "title": "Preview: Bayern v United Women - Manchester United",
+      "url": "https://www.manutd.com/en/news/detail/how-to-watch-and-follow-second-leg-v-bayern-1-april-2026",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 20:06:51",
+      "title": "Key facts: Wells Suit Denial v JPMC; $4.1B Sealed Air Loan; Kinexys Powers Mitsubishi - TradingView",
+      "url": "https://www.tradingview.com/news/tradingview:1ee12336e6fac:0-key-facts-wells-suit-denial-v-jpmc-4-1b-sealed-air-loan-kinexys-powers-mitsubishi/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 20:03:06",
+      "title": "Supreme Court Clarifies Ex Post Facto Status of MVRA Restitution: Ellingburg v. United States - JD Supra",
+      "url": "https://www.jdsupra.com/legalnews/supreme-court-clarifies-ex-post-facto-7664909/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 19:59:11",
+      "title": "Chris Richards available for USMNT v Portugal as Johnny Cardoso leaves camp - OneFootball",
+      "url": "https://onefootball.com/en/news/chris-richards-available-for-usmnt-v-portugal-as-johnny-cardoso-leaves-camp-42637474",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 19:50:58",
+      "title": "São Paulo v Atlético-MG: where to watch, kick-off time today - OneFootball",
+      "url": "https://onefootball.com/en/news/sao-paulo-v-atletico-mg-where-to-watch-kick-off-time-today-42637128",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 19:43:00",
+      "title": "Two vehicle collision on Highway V - Missourian | Washington, MO",
+      "url": "https://www.missourian.com/local_news/two-vehicle-collision-on-highway-v/article_bed92876-a8e3-40cc-943c-ff49aac74e29.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 19:38:51",
+      "title": "Murthy v. Missouri Settlement Does Nothing To Combat Illegal Jawboning - publicknowledge.org",
+      "url": "https://publicknowledge.org/murthy-v-missouri-settlement-does-nothing-to-combat-illegal-jawboning/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 19:37:14",
+      "title": "Passengers fear further V/Line overcrowding as free travel begins - Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/news/2026-03-31/vline-overcrowding-fears-free-transport-victoria/106509860",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 19:29:21",
+      "title": "Scaloni confirms Messi to start v Zambia, World Cup squad almost set - OneFootball",
+      "url": "https://onefootball.com/en/news/scaloni-confirms-messi-to-start-v-zambia-world-cup-squad-almost-set-42637389",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 19:17:29",
+      "title": "Classic V-Disc Big Band Jazz Sessions - The Syncopated Times",
+      "url": "https://syncopatedtimes.com/classic-v-disc-big-band-jazz-sessions/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 18:22:26",
+      "title": "AI and Privilege After United States v. Heppner - Lawfare",
+      "url": "https://www.lawfaremedia.org/article/ai-and-privilege-after-united-states-v.-heppner",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 18:18:40",
+      "title": "São Paulo v Atlético-MG: where to watch, kick-off, Women's Brasileirão - OneFootball",
+      "url": "https://onefootball.com/en/news/sao-paulo-v-atletico-mg-where-to-watch-kick-off-womens-brasileirao-42637128",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 17:44:35",
+      "title": "Cato Fellow Responds to Oral Arguments in Abouammo v. United States - Cato Institute",
+      "url": "https://www.cato.org/news-releases/cato-fellow-responds-oral-arguments-abouammo-v-united-states",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 17:24:49",
+      "title": "Why Souper Cereal v. Pistfriend was Biased: I’m Right, You’re Wrong - The Irvington Voice",
+      "url": "https://ihsvoice.com/2026/03/30/why-souper-cereal-v-pistfriend-was-biased-im-right-youre-wrong/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 17:20:11",
+      "title": "Honda's Smallest US Crossover Gets The Tuner Touch From A JDM Legend - CarBuzz",
+      "url": "https://carbuzz.com/honda-us-crossover-gets-tuner-touch-jdm-legend/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 17:16:25",
+      "title": "Aave Released Aave v.4 - TradingView",
+      "url": "https://www.tradingview.com/news/coindar:d14ea18b7094b:0-aave-released-aave-v-4/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 16:58:20",
+      "title": "Copa do Nordeste: round 2 ends Monday with Jacuipense v América - OneFootball",
+      "url": "https://onefootball.com/en/news/copa-do-nordeste-round-2-ends-monday-with-jacuipense-v-america-42636776",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 16:56:35",
+      "title": "5th Anniversary V Foundation for Cancer Research Sonoma Epicurean Raises $3.5M to Fund Breakthrough Cancer Research - Wine Industry Advisor",
+      "url": "https://wineindustryadvisor.com/2026/03/30/5th-anniversary-v-foundation-for-cancer-research-sonoma-epicurean-raises-3-5m/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 16:47:38",
+      "title": "Trump Orders War Crimes. Then What? - The Bulwark",
+      "url": "https://www.thebulwark.com/p/trump-orders-war-crimes-then-what-iran",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 16:26:47",
+      "title": "\"Man v Machine\" improv series takes the stage at Dog Story Theater - FOX 17 West Michigan News",
+      "url": "https://www.fox17online.com/morning-mix/man-v-machine-improv-series-takes-the-stage-at-dog-story-theater",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 16:14:32",
+      "title": "Cashmere! V-Necks! Striped Polos! The Best Spring Sweaters to Shop Now - Yahoo",
+      "url": "https://shopping.yahoo.com/style/clothing/articles/cashmere-v-necks-striped-polos-161432135.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 15:42:00",
+      "title": "Covington Secures Checkmate in Ukraine v Russia Chess Arbitration Victory - Law.com",
+      "url": "https://www.law.com/international-edition/2026/03/30/covington-secures-checkmate-in-ukraine-v-russia-chess-arbitration-victory/?slreturn=20260330213959",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 15:37:35",
+      "title": "Watch England MU21s v Moldova live - englandfootball.com",
+      "url": "https://www.englandfootball.com/articles/2026/Mar/30/england-mu21s-v-moldova-live-report-20263003",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 15:11:47",
+      "title": "Casting Call – Week of March 30th - audacy.com",
+      "url": "https://www.audacy.com/v103/latest/casting-call-week-of-march-30th",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 15:00:43",
+      "title": "New stars in the cooling hardware universe, part 7—Formula V Line - HWCooling.net",
+      "url": "https://www.hwcooling.net/en/new-stars-in-the-cooling-hardware-universe-part-7-formula-v-line/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 14:52:29",
+      "title": "Royal Netherlands Navy declares Shield AI V-BAT operational - Defence Industry Europe",
+      "url": "https://defence-industry.eu/royal-netherlands-navy-declares-shield-ai-v-bat-drone-operational/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 13:47:35",
+      "title": "Fledgling Greek shipowner V Group ramps up tanker bet and widens Suez Canal play - Tradewinds News",
+      "url": "https://www.tradewindsnews.com/sustainability/fledgling-greek-shipowner-v-group-ramps-up-tanker-bet-and-widens-suez-canal-play/2-1-1966608",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 13:42:00",
+      "title": "RVCC Proposed As An LLVM Incubator For High Performance RISC-V Optimizations - Phoronix",
+      "url": "https://www.phoronix.com/news/LLVM-RVCC-Incubator-Proposed",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 13:40:41",
+      "title": "Trump v. Barbara: the Supreme Court case that could redefine birthright citizenship - Jurist.org",
+      "url": "https://www.jurist.org/features/2026/03/30/trump-v-barbara-the-supreme-court-case-that-could-redefine-birthright-citizenship/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 13:35:26",
+      "title": "Bosnia v Italy: all eyes on Muharemovic – Inter and Juventus have already made contact - Goal.com",
+      "url": "https://www.goal.com/en-us/lists/bosnia-v-italy-all-eyes-on-muharemovic-inter-and-juventus-have-already-made-contact/blt398f5efbc34d0852",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 13:31:57",
+      "title": "Molly V's hosting 2nd Homemade Ice Cream Contest - 13wham.com",
+      "url": "https://13wham.com/news/good-day-arc-rochester/molly-vs-hosting-2nd-homemade-ice-cream-contest",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 13:31:08",
+      "title": "Birthright citizenship: an animated explainer - scotusblog.com",
+      "url": "https://www.scotusblog.com/2026/03/trump-v-barbara-an-animated-explainer/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 13:26:01",
+      "title": "PTX Metals Inc. (PTX.V) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/PTX.V/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 13:09:10",
+      "title": "Two more arrests after Rangers v Celtic fan disorder - BBC",
+      "url": "https://www.bbc.com/news/articles/c145xpjzyj5o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 13:00:43",
+      "title": "Tag: Jeremiah V. Murphy - Media Nation",
+      "url": "https://dankennedy.net/tag/jeremiah-v-murphy/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 12:59:00",
+      "title": "This week on The V: Faith, politics and unfinished business - Alabama Political Reporter",
+      "url": "https://www.alreporter.com/2026/03/30/this-week-on-the-v-faith-politics-and-unfinished-business/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 12:34:09",
+      "title": "Kansas Supreme Court dismisses ‘Kelly v. Kobach’ lawsuit - sentinelksmo.org",
+      "url": "https://sentinelksmo.org/kansas-supreme-court-kelly-v-kobach/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 12:08:08",
+      "title": "Wesley injured: who will replace him in Inter v Roma? Tsimikas, Angelino, Rensch or El Shaarawy - Goal.com",
+      "url": "https://www.goal.com/en-us/lists/wesley-injured-who-will-replace-him-in-inter-v-roma-tsimikas-angelino-rensch-or-el-shaarawy/blt27885261670430ed",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-30 12:07:53",
+      "title": "OBITUARY: Don V. Mattingly - Williamson Source",
+      "url": "https://williamsonsource.com/obituary-don-v-mattingly/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 12:03:07",
+      "title": "5th Anniversary V Foundation for Cancer Research Sonoma Epicurean Raises $3.5M to Fund Breakthrough Cancer Research - Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260330867144/en/5th-Anniversary-V-Foundation-for-Cancer-Research-Sonoma-Epicurean-Raises-%243.5M-to-Fund-Breakthrough-Cancer-Research",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 12:00:00",
+      "title": "Defending Against the Unlawful Seizure of Ballots (Cervantes v. Bianco) - Campaign Legal Center",
+      "url": "https://campaignlegal.org/cases-actions/defending-against-unlawful-seizure-ballots-cervantes-v-bianco",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:54:54",
+      "title": "Despite the Gen V lot being in the trailer, The Boys' Eric Kripke ensures you don't have to do \"homework\" to watch season 5: \"It becoming a chore is something we're trying to avoid\" - Yahoo",
+      "url": "https://www.yahoo.com/entertainment/tv/articles/despite-gen-v-lot-being-105454570.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:51:00",
+      "title": "Vote for Section V's Girls Athlete of the Week for March 23-29 presented by Faber Builders - Democrat and Chronicle",
+      "url": "https://www.democratandchronicle.com/story/sports/high-school/athlete-of-the-week/2026/03/30/who-is-section-v-girls-athlete-of-the-week-for-march-23-29-vote-now/89336297007/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:02:19",
+      "title": "What channel is Republic of Ireland v North Macedonia international friendly on? TV details, live stream and kick-off time - Radio Times",
+      "url": "https://www.radiotimes.com/tv/sport/football/republic-of-ireland-north-macedonia-international-friendly-2026-preview/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 08:58:40",
+      "title": "Barça v Atlético triple-header: three very different matches in 10 days - Official FC Barcelona Website",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4475827/barca-v-atletico-triple-header-three-very-different-matches-in-10-days",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 08:01:56",
+      "title": "Price v Pineiro & Wilder v Chisora - all you need to know - BBC",
+      "url": "https://www.bbc.com/sport/boxing/articles/cwy34x83pnko",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 06:25:03",
+      "title": "This handsome face made BTS' V give up his dream — for a while - The Korea Times",
+      "url": "https://www.koreatimes.co.kr/entertainment/others/20260330/this-handsome-face-made-bts-v-give-up-his-dream-for-a-while",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 04:48:00",
+      "title": "From 25 fans to global stardom: BTS V recalls tiny first fan meeting - The Korea Times",
+      "url": "https://www.koreatimes.co.kr/amp/entertainment/k-pop/20260330/from-25-fans-to-global-stardom-bts-v-recalls-tiny-first-fan-meeting",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 20:15:35",
+      "title": "V.com weekend vote: How would you rate your own violin or viola posture? - Violinist.com",
+      "url": "https://www.violinist.com/blog/laurie/20263/30703/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 19:53:07",
+      "title": "MoraBanc Andorra v Kosner Baskonia - Courtside 1891",
+      "url": "https://www.courtside1891.basketball/videos/4478430/morabanc-andorra-v-kosner-baskonia",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 10:00:00",
+      "title": "DLSS 5 Isn't Anywhere Near As Impressive As V-Rally 3 on the Game Boy Advance - IGN",
+      "url": "https://www.ign.com/articles/dlss-5-isnt-anywhere-near-as-impressive-as-v-rally-3-on-the-game-boy-advance",
+      "sentiment": "Neutral"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-29 ──\n  [Neutral] V.com weekend vote: How would you rate your own violin or viola posture? - Violinist.com\n  [Neutral] MoraBanc Andorra v Kosner Baskonia - Courtside 1891\n  [Neutral] DLSS 5 Isn't Anywhere Near As Impressive As V-Rally 3 on the Game Boy Advance - IGN\n\n── 2026-03-30 ──\n  [Neutral] How to watch Iraq v Bolivia in World Cup playoff: Kick off time, TV details - football360.com.au\n  [Neutral] Unión start Copa Argentina v Agropecuario with changes, Radio Gol 96.7 - OneFootball\n  [Neutral] Assessing WOTC and EZEC Eligibility for Professional Employer Organizations: A Review of Barrett Business Services, Inc. v. Commissioner - Current Federal Tax Developments\n  [Neutral] HI v. Gerhardt Konig: Trouble in Paradise Trial - Court TV\n  [Positive] Visa (NYSE:V) Shares Up 1.2% - Still a Buy? - marketbeat.com\n  [Neutral] The Last V8 Sedan You Could Buy With A Manual Transmission - HotCars\n  [Neutral] 'Run, Don't Walk' — This Olive Garden Sister Chain Serves Truly Tantalizing Crab Cakes - tastingtable.com\n  [Growth] GTA V debut gameplay trailer released - AOL.com\n  [Neutral] Kansas Supreme Court Backs Governor Kelly’s Authority in Kelly v. Kobach, Allows Fight to Protect Federal Funds - KCLY Radio\n  [Positive] BTS rampages back to the top of the charts - NPR\n  [Neutral] Ancelotti names a World Cup pick before Brazil v Croatia friendly - OneFootball\n  [Neutral] Wrestling NCAA Championship Session V - University of Missouri Athletics\n  [Neutral] Ancelotti confirms one man for the World Cup before Brazil v Croatia - OneFootball\n  [Growth] Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest - NASASpaceFlight.com -\n  [Neutral] The True Legacy Of V For Vendetta Reflected On By Director 20 Years Later: \"Those Themes Were Circular & Cyclical\" - ScreenRant\n  [Neutral] Preview: Bayern v United Women - Manchester United\n  [Neutral] Key facts: Wells Suit Denial v JPMC; $4.1B Sealed Air Loan; Kinexys Powers Mitsubishi - TradingView\n  [Neutral] Supreme Court Clarifies Ex Post Facto Status of MVRA Restitution: Ellingburg v. United States - JD Supra\n  [Neutral] Chris Richards available for USMNT v Portugal as Johnny Cardoso leaves camp - OneFootball\n  [Neutral] São Paulo v Atlético-MG: where to watch, kick-off time today - OneFootball\n  [Neutral] Two vehicle collision on Highway V - Missourian | Washington, MO\n  [Neutral] Murthy v. Missouri Settlement Does Nothing To Combat Illegal Jawboning - publicknowledge.org\n  [Risk] Passengers fear further V/Line overcrowding as free travel begins - Australian Broadcasting Corporation\n  [Neutral] Scaloni confirms Messi to start v Zambia, World Cup squad almost set - OneFootball\n  [Neutral] Classic V-Disc Big Band Jazz Sessions - The Syncopated Times\n  [Risk] AI and Privilege After United States v. Heppner - Lawfare\n  [Neutral] São Paulo v Atlético-MG: where to watch, kick-off, Women's Brasileirão - OneFootball\n  [Neutral] Cato Fellow Responds to Oral Arguments in Abouammo v. United States - Cato Institute\n  [Neutral] Why Souper Cereal v. Pistfriend was Biased: I’m Right, You’re Wrong - The Irvington Voice\n  [Neutral] Honda's Smallest US Crossover Gets The Tuner Touch From A JDM Legend - CarBuzz\n  [Growth] Aave Released Aave v.4 - TradingView\n  [Neutral] Copa do Nordeste: round 2 ends Monday with Jacuipense v América - OneFootball\n  [Neutral] 5th Anniversary V Foundation for Cancer Research Sonoma Epicurean Raises $3.5M to Fund Breakthrough Cancer Research - Wine Industry Advisor\n  [Neutral] Trump Orders War Crimes. Then What? - The Bulwark\n  [Neutral] \"Man v Machine\" improv series takes the stage at Dog Story Theater - FOX 17 West Michigan News\n  [Neutral] Cashmere! V-Necks! Striped Polos! The Best Spring Sweaters to Shop Now - Yahoo\n  [Neutral] Covington Secures Checkmate in Ukraine v Russia Chess Arbitration Victory - Law.com\n  [Neutral] Watch England MU21s v Moldova live - englandfootball.com\n  [Neutral] Casting Call – Week of March 30th - audacy.com\n  [Neutral] New stars in the cooling hardware universe, part 7—Formula V Line - HWCooling.net\n  [Positive] Royal Netherlands Navy declares Shield AI V-BAT operational - Defence Industry Europe\n  [Growth] Fledgling Greek shipowner V Group ramps up tanker bet and widens Suez Canal play - Tradewinds News\n  [Growth] RVCC Proposed As An LLVM Incubator For High Performance RISC-V Optimizations - Phoronix\n  [Risk] Trump v. Barbara: the Supreme Court case that could redefine birthright citizenship - Jurist.org\n  [Neutral] Bosnia v Italy: all eyes on Muharemovic – Inter and Juventus have already made contact - Goal.com\n  [Neutral] Molly V's hosting 2nd Homemade Ice Cream Contest - 13wham.com\n  [Neutral] Birthright citizenship: an animated explainer - scotusblog.com\n  [Neutral] PTX Metals Inc. (PTX.V) Stock Price, News, Quote & History - Yahoo Finance\n  [Neutral] Two more arrests after Rangers v Celtic fan disorder - BBC\n  [Neutral] Tag: Jeremiah V. Murphy - Media Nation\n  [Neutral] This week on The V: Faith, politics and unfinished business - Alabama Political Reporter\n  [Neutral] Kansas Supreme Court dismisses ‘Kelly v. Kobach’ lawsuit - sentinelksmo.org\n  [Negative] Wesley injured: who will replace him in Inter v Roma? Tsimikas, Angelino, Rensch or El Shaarawy - Goal.com\n  [Neutral] OBITUARY: Don V. Mattingly - Williamson Source\n  [Neutral] 5th Anniversary V Foundation for Cancer Research Sonoma Epicurean Raises $3.5M to Fund Breakthrough Cancer Research - Business Wire\n  [Neutral] Defending Against the Unlawful Seizure of Ballots (Cervantes v. Bianco) - Campaign Legal Center\n  [Neutral] Despite the Gen V lot being in the trailer, The Boys' Eric Kripke ensures you don't have to do \"homework\" to watch season 5: \"It becoming a chore is something we're trying to avoid\" - Yahoo\n  [Neutral] Vote for Section V's Girls Athlete of the Week for March 23-29 presented by Faber Builders - Democrat and Chronicle\n  [Neutral] What channel is Republic of Ireland v North Macedonia international friendly on? TV details, live stream and kick-off time - Radio Times\n  [Neutral] Barça v Atlético triple-header: three very different matches in 10 days - Official FC Barcelona Website\n  [Neutral] Price v Pineiro & Wilder v Chisora - all you need to know - BBC\n  [Neutral] This handsome face made BTS' V give up his dream — for a while - The Korea Times\n  [Neutral] From 25 fans to global stardom: BTS V recalls tiny first fan meeting - The Korea Times",
+    "sentiment_block": "총 뉴스 66건 분석 결과:\n  Positive     3건 (  4.5%) \n  Growth       5건 (  7.6%) █\n  Neutral     54건 ( 81.8%) ████████████████\n  Mixed        0건 (  0.0%) \n  Risk         3건 (  4.5%) \n  Negative     1건 (  1.5%) \n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:3\n  2026-03-30: Neutral:51, Growth:5, Positive:3, Risk:3, Negative:1",
+    "analyst_block": ""
+  },
+  "investment_judgment": "# 투자 분석 보고서\n\n## [핵심 요약]\n\n최근 3일간 수집된 66건의 뉴스 데이터는 **광범위한 범주를 포함한 일반 뉴스 혼합**으로, 특정 투자 자산에 대한 명확한 신호를 제공하지 못하고 있습니다. 데이터의 대부분(81.8%)이 중립적 성격의 뉴스이며, 긍정 신호(4.5%)와 위험 신호(4.5%)가 균형을 이루고 있습니다.\n\n---\n\n## [전체 흐름 분석]\n\n**데이터의 특성:**\n- 뉴스 구성이 극도로 분산되어 있음: 스포츠(축구, 격투기), 법률 판례, 엔터테인먼트(BTS, The Boys), 기술(AI, RISC-V), 자동차, 금융 등 40개 이상의 무관한 주제\n- 3월 29일에는 순수 중립 뉴스만 존재하고, 3월 30일에 다양한 감정 신호 출현\n- **\"V\"라는 단어 검색 결과로 보이는 노이즈가 다량 포함**: 이는 특정 기업이나 자산을 타겟한 분석이 아닌 범용 검색의 결과\n\n**투자 관련 유의미한 신호:**\n1. **Visa (NYSE:V)** - Positive, +1.2% 상승, \"Still a Buy?\"\n2. **Aave v.4** - Growth 신호, 업그레이드 출시\n3. **Royal Netherlands Navy Shield AI V-BAT** - Growth 신호, 운영 개시\n4. **V Group (그리스 선사)** - Growth 신호, 유조선 베팅 확대 및 수에즈 운하 전략\n\n---\n\n## [긍정 요인]\n\n* **Visa의 기술적 상승**: 주가 1.2% 상승하며 여전히 매수 선택지 제시\n* **암호자산 프로토콜 진화**: Aave v.4 출시로 블록체인 생태계 기술적 진전\n* **국방 기술 상용화**: Shield AI의 V-BAT 드론 실전 배치로 방위산업 성장 신호\n* **해운업 성장 기대**: V Group의 유조선 확대 및 지정학적 운하 활용 전략\n\n---\n\n## [부정 요인]\n\n* **교통 인프라 위험**: V/Line 과다 혼잡 우려로 대중교통 서비스 품질 악화 신호\n* **법적 불확실성**: Trump v. Barbara 대법원 사건 (출생권 국적 재정의) 등 정책 리스크\n* **개인 피해**: Inter v Roma 경기 전 선수 부상 (스포츠 관련 사건이나 투자와 무관)\n* **신호 부족**: Risk 등급 뉴스 3건 중 대부분이 법률/정책 이슈로 구체적 투자 영향 불명확\n\n---\n\n## [투자 인사이트]\n\n**1. 데이터 신뢰성의 한계**\n- 제공된 데이터가 특정 자산 분석용으로 적절하지 않음\n- \"V\" 키워드 검색으로 인한 광범위한 노이즈가 신호 해석을 어렵게 함\n- 투자 판단에 필요한 **기본적 재무정보, 기술분석, 산업 성장성 데이터 부재**\n\n**2. 식별 가능한 투자 기회**\n- **Visa**: 유일한 상장 금융기업으로 긍정 신호 있음 (단, 단일 뉴스만 근거)\n- **블록체인/DeFi**: Aave 성장은 암호자산 생태계 활성화 신호\n- **방위산업/드론기술**: AI-기반 무인항공기 상용화 추세\n\n**3. 위험 요소의 모호성**\n- 정책적 불확실성(출생권, 전쟁범죄 명령 등)이 광범위하나 특정 섹터 영향 불명확\n- 교통/법률 이슈는 대부분 투자 자산과의 직접적 인과관계 없음\n\n---\n\n## [투자 판단]\n\n### **보류 (HOLD)**\n\n---\n\n## [판단 근거]\n\n**1. 분석 기초 부족**\n제공된 데이터는 투자 의사결정을 위한 필수 정보를 갖추지 못하고 있습니다:\n- 특정 투자 자산이 명확하지 않음 (Visa를 제외하고 상장기업 부족)\n- 재무 지표, 밸류에이션, 성장률 등 핵심 데이터 없음\n- 시장 전반의"
+}

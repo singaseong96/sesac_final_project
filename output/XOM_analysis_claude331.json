@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "symbol": "XOM",
+    "analysis_date": "2026-03-31T02:09:06.939756+00:00",
+    "news_period": "2026-03-28 ~ 2026-03-30",
+    "news_count": 53,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Neutral": 28,
+    "Positive": 12,
+    "Growth": 9,
+    "Risk": 3,
+    "Negative": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-28": {
+      "Neutral": 6,
+      "Growth": 3,
+      "Positive": 2,
+      "Risk": 1,
+      "Negative": 1
+    },
+    "2026-03-29": {
+      "Neutral": 15,
+      "Growth": 2
+    },
+    "2026-03-30": {
+      "Positive": 10,
+      "Neutral": 7,
+      "Growth": 4,
+      "Risk": 2
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-30 20:38:53",
+      "title": "Exxon Mobil Options Spot-On: On March 30th, 153.47K Contracts Were Traded, With 1.31 Million Open Interest - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67653074/exxon-mobil-options-spot-on-on-march-30th-153-47k?level=1&data_ticket=1774919671618425",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 20:36:14",
+      "title": "Exxon Mobil (XOM) Stock Gains 3% as Morgan Stanley Raises Target to $172 - MEXC",
+      "url": "https://www.mexc.com/news/991402",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 20:32:25",
+      "title": "Exxon Mobil (XOM) Stock Surges Over 3% Amid Oil Price Spike and Morgan Stanley Upgrade - MEXC",
+      "url": "https://www.mexc.com/news/991388",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 19:03:19",
+      "title": "ExxonMobil Benefits From Energy Shock As Supply Disruptions Reshape Cash Priorities - Yahoo Finance Australia",
+      "url": "https://au.finance.yahoo.com/news/exxonmobil-benefits-energy-shock-supply-190319232.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 17:33:00",
+      "title": "Exxon Mobil Stock (XOM) Opinions on Middle East Geopolitical Tensions - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Exxon+Mobil+Stock+%28XOM%29+Opinions+on+Middle+East+Geopolitical+Tensions",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 15:51:27",
+      "title": "Exxon and QaterEnergy's joint venture Golden Pass produces first LNG at new Texas facility - TradingView",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N40I0M3:0-exxon-and-qatarenergy-s-joint-venture-golden-pass-produces-first-lng-at-new-texas-facility/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 15:06:58",
+      "title": "Here's Why Exxon Mobil (XOM) is a Strong Momentum Stock - sharewise.com",
+      "url": "https://www.sharewise.com/de/news_articles/Heres_Why_Exxon_Mobil_XOM_is_a_Strong_Momentum_Stock_Zacks_20260330_1550",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 14:16:49",
+      "title": "Exxon Mobil (NYSE:XOM) Reaches New 12-Month High Following Analyst Upgrade - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-reaches-new-12-month-high-following-analyst-upgrade-2026-03-30/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 13:50:00",
+      "title": "The Energy Safe-Haven: A Deep Dive into Exxon Mobil (XOM) in 2026 - financialcontent.com",
+      "url": "https://www.financialcontent.com/article/finterra-2026-3-30-the-energy-safe-haven-a-deep-dive-into-exxon-mobil-xom-in-2026",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 13:48:05",
+      "title": "Exxon Mobil Corp Stock (XOM) Opened Up by 4.56% on Mar 30: What Signal Does It Send? - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261733894-market-movers-xom-20260330",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 13:11:47",
+      "title": "What's Going On With Exxon Mobil Shares Monday? - Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51537710/whats-going-on-with-exxon-mobil-shares-monday",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 12:38:40",
+      "title": "ChatGPT picks 3 best stocks to buy in April - Finbold",
+      "url": "https://finbold.com/chatgpt-picks-3-best-stocks-to-buy-in-april/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 12:30:00",
+      "title": "2 Oil Giants to Buy Immediately as the Iran Crisis Pushes Crude Toward $100 - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/30/2-oil-giants-to-buy-immediately-as-the-iran-crisis/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 10:30:00",
+      "title": "SK Telecom and DraftKings have been highlighted as Zacks Bull and Bear of the Day - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1036050/sk-telecom-and-draftkings-have-been-highlighted-as-zacks-bull-and-bear-of-the-day/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 10:29:21",
+      "title": "Exxon Mobil Corporation $XOM Position Boosted by Mechanics Bank Trust Department - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/30/exxon-mobil-corporation-xom-position-boosted-by-mechanics-bank-trust-department.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:29:21",
+      "title": "Exxon Mobil Corporation $XOM Position Raised by Wealthcare Advisory Partners LLC - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/30/exxon-mobil-corporation-xom-position-raised-by-wealthcare-advisory-partners-llc.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:15:57",
+      "title": "Exxon Mobil (XOM) Surges 3% Amid Oil Crisis as Morgan Stanley Ups Target to $172 - moneycheck.com",
+      "url": "https://moneycheck.com/exxon-mobil-xom-surges-3-amid-oil-crisis-as-morgan-stanley-ups-target-to-172/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 10:13:59",
+      "title": "Exxon Mobil (XOM) Stock Jumps Over 3% Amid Oil Surge and Morgan Stanley Upgrade to $172 - parameter.io",
+      "url": "https://parameter.io/exxon-mobil-xom-stock-jumps-over-3-amid-oil-surge-and-morgan-stanley-upgrade-to-172/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 10:10:56",
+      "title": "Exxon Mobil (XOM) Stock Surges Over 3% Amid Oil Price Spike and Morgan Stanley Upgrade - blockonomi.com",
+      "url": "https://blockonomi.com/exxon-mobil-xom-stock-surges-over-3-amid-oil-price-spike-and-morgan-stanley-upgrade/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 09:49:21",
+      "title": "InvesTrust Sells 5,226 Shares of Exxon Mobil Corporation $XOM - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/30/investrust-sells-5226-shares-of-exxon-mobil-corporation-xom.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 09:04:47",
+      "title": "5 Stocks Preventing a S&P 500 Correction (Hint: None Are in the \"Magnificent Seven\") - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM-N/pressreleases/1035898/5-stocks-preventing-a-sp-500-correction-hint-none-are-in-the-magnificent-seven/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 08:08:34",
+      "title": "Exchange Traded Concepts LLC Grows Stake in Exxon Mobil Corporation $XOM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-grows-stake-in-exxon-mobil-corporation-xom-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 01:41:02",
+      "title": "Why ExxonMobil, Transocean, SLB, and Other Oil Stocks Surged This Week - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM-N/pressreleases/1032811/why-exxonmobil-transocean-slb-and-other-oil-stocks-surged-this-week/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-29 13:35:53",
+      "title": "Top 5 Dividend Stocks for 2026: A Deep Dive into JNJ, PG, XOM, KO, and WMT - MEXC",
+      "url": "https://www.mexc.com/news/989854",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 12:08:02",
+      "title": "Is It Too Late To Consider Exxon Mobil (XOM) After A 50% One Year Surge - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/energy/nyse-xom/exxon-mobil/news/is-it-too-late-to-consider-exxon-mobil-xom-after-a-50-one-ye/amp",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 12:05:04",
+      "title": "The Best Oil Stock to Buy as Iran Tensions Rewrite the Global Energy Map - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1029533/the-best-oil-stock-to-buy-as-iran-tensions-rewrite-the-global-energy-map/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 11:19:27",
+      "title": "Top 5 Dividend Aristocrats for 2026: JNJ, PG, XOM Lead Income Portfolios - parameter.io",
+      "url": "https://parameter.io/top-5-dividend-aristocrats-for-2026-jnj-pg-xom-lead-income-portfolios/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 11:16:51",
+      "title": "Top 5 Dividend Stocks for 2026: A Deep Dive into JNJ, PG, XOM, KO, and WMT - blockonomi.com",
+      "url": "https://blockonomi.com/top-5-dividend-stocks-for-2026-a-deep-dive-into-jnj-pg-xom-ko-and-wmt/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 11:16:45",
+      "title": "Top 5 Dividend Stocks for 2026: JNJ, PG, XOM, KO & WMT Compared - moneycheck.com",
+      "url": "https://moneycheck.com/top-5-dividend-stocks-for-2026-jnj-pg-xom-ko-wmt-compared/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 10:03:31",
+      "title": "Capital Investment Advisors LLC Increases Position in Exxon Mobil Corporation $XOM - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/29/capital-investment-advisors-llc-increases-position-in-exxon-mobil-corporation-xom.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 10:03:31",
+      "title": "BWM Planning LLC Acquires 12,090 Shares of Exxon Mobil Corporation $XOM - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/29/bwm-planning-llc-acquires-12090-shares-of-exxon-mobil-corporation-xom.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 09:50:46",
+      "title": "Synergy Asset Management LLC Cuts Stock Holdings in Exxon Mobil Corporation $XOM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-synergy-asset-management-llc-cuts-stock-holdings-in-exxon-mobil-corporation-xom-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 09:40:54",
+      "title": "Parsons Capital Management Inc. RI Has $31.38 Million Stock Holdings in Exxon Mobil Corporation $XOM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-parsons-capital-management-inc-ri-has-3138-million-stock-holdings-in-exxon-mobil-corporation-xom-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 09:40:45",
+      "title": "Fort Washington Investment Advisors Inc. OH Has $251.83 Million Stake in Exxon Mobil Corporation $XOM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-fort-washington-investment-advisors-inc-oh-has-25183-million-stake-in-exxon-mobil-corporation-xom-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 08:58:30",
+      "title": "Dakota Wealth Management Purchases 74,300 Shares of Exxon Mobil Corporation $XOM - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/29/dakota-wealth-management-purchases-74300-shares-of-exxon-mobil-corporation-xom.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 08:29:55",
+      "title": "Exxon Mobil Corporation Trade Ideas — BSESOF:XONA - TradingView",
+      "url": "https://www.tradingview.com/symbols/BSESOF-XONA/ideas/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 06:23:13",
+      "title": "Exxon Mobil Sees Unusually High Options Volume (NYSE:XOM) - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/29/exxon-mobil-sees-unusually-high-options-volume-nysexom.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 06:13:37",
+      "title": "Rep. Josh Gottheimer Acquires Exxon Mobil Corporation (NYSE:XOM) Shares - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/rep-josh-gottheimer-acquires-exxon-mobil-corporation-nysexom-shares-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 05:42:54",
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Exxon Mobil (NYSE:XOM) Stock - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/29/morgan-stanley-forecasts-strong-price-appreciation-for-exxon-mobil-nysexom-stock.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 01:03:23",
+      "title": "Oil FADES $103 🔥 FOMC Day 1 As Iran Chokes Hormuz — $XOM $XLE Lead | Live Trading Mar 17 [cad2f0] - Fathom Journal",
+      "url": "https://fathomjournal.org/b453e9basmm/0cad2f0c-LlNI6mQxjSE.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 17:17:00",
+      "title": "Exxon stock jumps as today’s oil rally meets a bullish chart - Yahoo Finance Australia",
+      "url": "https://au.finance.yahoo.com/news/exxon-stock-jumps-today-oil-171700626.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-28 12:10:26",
+      "title": "Exxon Mobil Rose 7% This Week. Here’s Where the Stock Could Go in 2026 - TIKR.com",
+      "url": "https://www.tikr.com/blog/exxon-mobil-rose-7-this-week-heres-where-the-stock-could-go-in-2026",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 11:56:00",
+      "title": "Analysts’ Top Energy Picks: Exxon Mobil (XOM), Golar LNG (GLNG) - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1020919/analysts-top-energy-picks-exxon-mobil-xom-golar-lng-glng/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-28 11:43:00",
+      "title": "The 1 Number That Tells You Everything About ExxonMobil Right Now - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/28/the-1-number-that-tells-you-everything-about-exxon/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-28 11:12:51",
+      "title": "Is Exxon Mobil (XOM) Quietly Rebuilding Its Portfolio With New Debt And A New Zealand Exit? - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/energy/nyse-xom/exxon-mobil/news/is-exxon-mobil-xom-quietly-rebuilding-its-portfolio-with-new",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-28 11:03:00",
+      "title": "The 1 Number That Tells You Everything About ExxonMobil Right Now - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1020388/the-1-number-that-tells-you-everything-about-exxonmobil-right-now/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-28 09:33:43",
+      "title": "Exxon Mobil Corporation $XOM Shares Bought by Signal Advisors Wealth LLC - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exxon-mobil-corporation-xom-shares-bought-by-signal-advisors-wealth-llc-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 09:25:38",
+      "title": "Stokes Capital Advisors LLC Purchases Shares of 17,308 Exxon Mobil Corporation $XOM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-stokes-capital-advisors-llc-purchases-shares-of-17308-exxon-mobil-corporation-xom-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 08:09:09",
+      "title": "Exxon Mobil Corporation $XOM Shares Bought by Ferguson Wellman Capital Management Inc. - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exxon-mobil-corporation-xom-shares-bought-by-ferguson-wellman-capital-management-inc-2026-03-28/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 07:40:36",
+      "title": "Exxon Mobil Corporation $XOM Shares Acquired by Argentarii LLC - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/28/exxon-mobil-corporation-xom-shares-acquired-by-argentarii-llc.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-28 06:39:11",
+      "title": "Exxon Mobil Stock To $120? - trefis.com",
+      "url": "https://www.trefis.com/stock/xom/articles2/595139/exxon-mobil-stock-to-120/2026-03-28",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-28 06:10:20",
+      "title": "Exxon Mobil (NYSE:XOM) Stock Price Up 3.5% After Analyst Upgrade - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/28/exxon-mobil-nysexom-stock-price-up-3-5-after-analyst-upgrade.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-28 00:09:25",
+      "title": "Exxon Mobil Sees Unusually Large Options Volume (NYSE:XOM) - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-sees-unusually-large-options-volume-nysexom-2026-03-27/",
+      "sentiment": "Neutral"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-28 ──\n  [Growth] Exxon stock jumps as today’s oil rally meets a bullish chart - Yahoo Finance Australia\n  [Neutral] Exxon Mobil Rose 7% This Week. Here’s Where the Stock Could Go in 2026 - TIKR.com\n  [Growth] Analysts’ Top Energy Picks: Exxon Mobil (XOM), Golar LNG (GLNG) - theglobeandmail.com\n  [Growth] The 1 Number That Tells You Everything About ExxonMobil Right Now - The Motley Fool\n  [Risk] Is Exxon Mobil (XOM) Quietly Rebuilding Its Portfolio With New Debt And A New Zealand Exit? - simplywall.st\n  [Positive] The 1 Number That Tells You Everything About ExxonMobil Right Now - theglobeandmail.com\n  [Neutral] Exxon Mobil Corporation $XOM Shares Bought by Signal Advisors Wealth LLC - marketbeat.com\n  [Neutral] Stokes Capital Advisors LLC Purchases Shares of 17,308 Exxon Mobil Corporation $XOM - marketbeat.com\n  [Neutral] Exxon Mobil Corporation $XOM Shares Bought by Ferguson Wellman Capital Management Inc. - marketbeat.com\n  [Neutral] Exxon Mobil Corporation $XOM Shares Acquired by Argentarii LLC - Defense World\n  [Negative] Exxon Mobil Stock To $120? - trefis.com\n  [Positive] Exxon Mobil (NYSE:XOM) Stock Price Up 3.5% After Analyst Upgrade - Defense World\n  [Neutral] Exxon Mobil Sees Unusually Large Options Volume (NYSE:XOM) - marketbeat.com\n\n── 2026-03-29 ──\n  [Neutral] Top 5 Dividend Stocks for 2026: A Deep Dive into JNJ, PG, XOM, KO, and WMT - MEXC\n  [Neutral] Is It Too Late To Consider Exxon Mobil (XOM) After A 50% One Year Surge - simplywall.st\n  [Growth] The Best Oil Stock to Buy as Iran Tensions Rewrite the Global Energy Map - theglobeandmail.com\n  [Neutral] Top 5 Dividend Aristocrats for 2026: JNJ, PG, XOM Lead Income Portfolios - parameter.io\n  [Neutral] Top 5 Dividend Stocks for 2026: A Deep Dive into JNJ, PG, XOM, KO, and WMT - blockonomi.com\n  [Neutral] Top 5 Dividend Stocks for 2026: JNJ, PG, XOM, KO & WMT Compared - moneycheck.com\n  [Neutral] Capital Investment Advisors LLC Increases Position in Exxon Mobil Corporation $XOM - Defense World\n  [Neutral] BWM Planning LLC Acquires 12,090 Shares of Exxon Mobil Corporation $XOM - Defense World\n  [Neutral] Synergy Asset Management LLC Cuts Stock Holdings in Exxon Mobil Corporation $XOM - marketbeat.com\n  [Neutral] Parsons Capital Management Inc. RI Has $31.38 Million Stock Holdings in Exxon Mobil Corporation $XOM - marketbeat.com\n  [Neutral] Fort Washington Investment Advisors Inc. OH Has $251.83 Million Stake in Exxon Mobil Corporation $XOM - marketbeat.com\n  [Neutral] Dakota Wealth Management Purchases 74,300 Shares of Exxon Mobil Corporation $XOM - Defense World\n  [Neutral] Exxon Mobil Corporation Trade Ideas — BSESOF:XONA - TradingView\n  [Neutral] Exxon Mobil Sees Unusually High Options Volume (NYSE:XOM) - Defense World\n  [Neutral] Rep. Josh Gottheimer Acquires Exxon Mobil Corporation (NYSE:XOM) Shares - marketbeat.com\n  [Growth] Morgan Stanley Forecasts Strong Price Appreciation for Exxon Mobil (NYSE:XOM) Stock - Defense World\n  [Neutral] Oil FADES $103 🔥 FOMC Day 1 As Iran Chokes Hormuz — $XOM $XLE Lead | Live Trading Mar 17 [cad2f0] - Fathom Journal\n\n── 2026-03-30 ──\n  [Neutral] Exxon Mobil Options Spot-On: On March 30th, 153.47K Contracts Were Traded, With 1.31 Million Open Interest - Moomoo\n  [Positive] Exxon Mobil (XOM) Stock Gains 3% as Morgan Stanley Raises Target to $172 - MEXC\n  [Positive] Exxon Mobil (XOM) Stock Surges Over 3% Amid Oil Price Spike and Morgan Stanley Upgrade - MEXC\n  [Positive] ExxonMobil Benefits From Energy Shock As Supply Disruptions Reshape Cash Priorities - Yahoo Finance Australia\n  [Risk] Exxon Mobil Stock (XOM) Opinions on Middle East Geopolitical Tensions - Quiver Quantitative\n  [Positive] Exxon and QaterEnergy's joint venture Golden Pass produces first LNG at new Texas facility - TradingView\n  [Positive] Here's Why Exxon Mobil (XOM) is a Strong Momentum Stock - sharewise.com\n  [Positive] Exxon Mobil (NYSE:XOM) Reaches New 12-Month High Following Analyst Upgrade - marketbeat.com\n  [Positive] The Energy Safe-Haven: A Deep Dive into Exxon Mobil (XOM) in 2026 - financialcontent.com\n  [Positive] Exxon Mobil Corp Stock (XOM) Opened Up by 4.56% on Mar 30: What Signal Does It Send? - TradingKey\n  [Growth] What's Going On With Exxon Mobil Shares Monday? - Benzinga\n  [Neutral] ChatGPT picks 3 best stocks to buy in April - Finbold\n  [Growth] 2 Oil Giants to Buy Immediately as the Iran Crisis Pushes Crude Toward $100 - The Motley Fool\n  [Growth] SK Telecom and DraftKings have been highlighted as Zacks Bull and Bear of the Day - theglobeandmail.com\n  [Neutral] Exxon Mobil Corporation $XOM Position Boosted by Mechanics Bank Trust Department - Defense World\n  [Neutral] Exxon Mobil Corporation $XOM Position Raised by Wealthcare Advisory Partners LLC - Defense World\n  [Positive] Exxon Mobil (XOM) Surges 3% Amid Oil Crisis as Morgan Stanley Ups Target to $172 - moneycheck.com\n  [Growth] Exxon Mobil (XOM) Stock Jumps Over 3% Amid Oil Surge and Morgan Stanley Upgrade to $172 - parameter.io\n  [Positive] Exxon Mobil (XOM) Stock Surges Over 3% Amid Oil Price Spike and Morgan Stanley Upgrade - blockonomi.com\n  [Neutral] InvesTrust Sells 5,226 Shares of Exxon Mobil Corporation $XOM - Defense World\n  [Neutral] 5 Stocks Preventing a S&P 500 Correction (Hint: None Are in the \"Magnificent Seven\") - theglobeandmail.com\n  [Neutral] Exchange Traded Concepts LLC Grows Stake in Exxon Mobil Corporation $XOM - marketbeat.com\n  [Risk] Why ExxonMobil, Transocean, SLB, and Other Oil Stocks Surged This Week - theglobeandmail.com",
+    "sentiment_block": "총 뉴스 53건 분석 결과:\n  Positive    12건 ( 22.6%) ████\n  Growth       9건 ( 17.0%) ███\n  Neutral     28건 ( 52.8%) ██████████\n  Mixed        0건 (  0.0%) \n  Risk         3건 (  5.7%) █\n  Negative     1건 (  1.9%) \n\n날짜별 감정 흐름:\n  2026-03-28: Neutral:6, Growth:3, Positive:2, Risk:1, Negative:1\n  2026-03-29: Neutral:15, Growth:2\n  2026-03-30: Positive:10, Neutral:7, Growth:4, Risk:2",
+    "analyst_block": ""
+  },
+  "investment_judgment": "# 엑손모빌(XOM) 투자 분석 보고서\n\n## [핵심 요약]\n* **주가 상승 추세**: 3일간 누적 7-10% 상승, 12개월 신고가 경신\n* **긍정적 촉매제**: Morgan Stanley 목표가 상향($172), 이란 지정학적 긴장으로 유가 상승\n* **기관 수급 개선**: 다수 자산운용사의 매수/포지션 증가 관찰\n* **감정 지표 반전**: 3월28일의 혼조 흐름에서 3월30일 강한 긍정심리로 전환\n\n---\n\n## [전체 흐름 분석]\n\n**3월 28일 - 혼조 시작 단계**\n- 유가 랠리와 강세 차트 기술적 신호로 초반 상승 모멘텀 형성\n- 다만 신규 부채 취득 및 뉴질랜드 사업 철수 관련 포트폴리오 재편 우려 제기\n- 애널리스트 의견 불일치(일부는 $120 목표가로 조심스러운 입장)\n\n**3월 29일 - 정체 및 평가 단계**\n- 배당 aristocrat 지위 재확인으로 소득 투자자 관심 증가\n- 1년간 50% 상승에 따른 \"진입 시점이 늦었는가\" 질문 제기\n- 기관투자자의 포지션 조정: 일부는 증액, Synergy는 감소\n- 이란 긴장으로 글로벌 에너지 지형 변화 논의\n\n**3월 30일 - 강한 상승 확인**\n- Morgan Stanley 목표가 상향($172) 발표 → 직접적 주가 부양\n- 유가 급등(Oil $103 근처), 중동 공급 차질 우려 반영\n- Golden Pass LNG 시설 첫 생산 개시 → 구체적 수익 창출 증거\n- 강한 모멘텀 스톡 지위 확인, 기관 추가 매수 가속화\n\n---\n\n## [긍정 요인]\n\n* **유가 상승의 직접 수혜**: 이란-호르무즈 해협 긴장으로 유가 상승 → XOM의 업스트림(탐사·생산) 부문 마진율 개선\n\n* **Morgan Stanley의 강력한 애널리스트 지지**: $172 목표가는 현재가 대비 약 8-10% 상승여력을 제시하며 신뢰도 높은 기관의 공식 입장\n\n* **LNG 사업 실적화**: Golden Pass 공동벤처의 첫 생산 개시는 장기 성장 프로젝트의 현금화 시작 신호\n\n* **기관 수급 개선**: 3일간 Signal Advisors, Stokes Capital, Dakota Wealth Management 등 다수 자산운용사의 순매수 기록\n\n* **배당 Aristocrat 지위**: 안정적 배당 공급능력으로 경기 불확실성 속 방어성 자산으로 재평가\n\n* **기술적 강세**: 12개월 신고가 경신으로 상승 추세의 신뢰성 확인\n\n---\n\n## [부정 요인]\n\n* **높은 밸류에이션 우려**: 1년간 50% 상승으로 이미 상당 부분 상승을 반영했으며, 진입점 타이밍 논쟁 존재\n\n* **포트폴리오 재편 신호**: 뉴질랜드 사업 철수 및 신규 부채 취득은 자산 질의 변화 신호로 해석 가능\n\n* **지정학적 위험**: 이란 긴장은 단기 유가 상승을 유발하나, 중장기 지정학적 불확실성 잔존\n\n* **옵션 거래량 급증**: 비정상적 옵션 거래(153만 건 미결제 계약)는 변동성 확대 시 양날의 검 가능성\n\n* **Negative 의견 존재**: 트래피스 분석의 $120 목표가는 현재 가격과 乖離하며 조정 우려 신호\n\n* **일부 기관의 포지션 축소**: Synergy Asset Management의 주식 보유 감소는 수익 실현 신호\n\n---\n\n## [투자 인사이트]\n\n**시장 심리의 긍정적 전환이 명확한 시점**\n- 3월 28일의 혼조에서 3월 30일의 강한 상승으로 진화하는 과정은 긍정 시나리오로의 수렴을 의미\n- Morgan Stanley 같은 대형 중개사의 목표가 상향은 단순 뉴스가 아닌 기관 자금의 매수 신호\n\n**유가와 지정학의 동시"
+}
