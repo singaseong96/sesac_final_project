@@ -1,315 +1,310 @@
 {
   "meta": {
     "symbol": "NVDA",
-    "analysis_date": "2026-03-30T02:50:00.642288+00:00",
-    "news_period": "2026-03-27 ~ 2026-03-29",
-    "news_count": 45,
+    "analysis_date": "2026-03-31T02:50:44.251019+00:00",
+    "news_period": "2026-03-28 ~ 2026-03-30",
+    "news_count": 44,
     "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 16,
-    "Growth": 10,
-    "Mixed": 9,
-    "Risk": 7,
-    "Positive": 3
+    "Risk": 15,
+    "Growth": 14,
+    "Mixed": 7,
+    "Neutral": 5,
+    "Positive": 2,
+    "Negative": 1
   },
   "sentiment_by_date": {
-    "2026-03-27": {
-      "Mixed": 5,
-      "Risk": 4,
-      "Neutral": 4,
-      "Growth": 1
-    },
     "2026-03-28": {
-      "Growth": 6,
-      "Mixed": 2,
-      "Positive": 2,
-      "Risk": 2
+      "Growth": 3,
+      "Positive": 1,
+      "Mixed": 1,
+      "Risk": 1
     },
     "2026-03-29": {
-      "Neutral": 12,
       "Growth": 3,
-      "Mixed": 2,
+      "Risk": 2,
       "Positive": 1,
-      "Risk": 1
+      "Neutral": 1
+    },
+    "2026-03-30": {
+      "Risk": 12,
+      "Growth": 8,
+      "Mixed": 6,
+      "Neutral": 4,
+      "Negative": 1
     }
   },
   "news_with_sentiment": [
     {
-      "date": "2026-03-29 23:16:39",
-      "title": "NVIDIA (NVDA) 지원 스타트업 Reflection AI, 25억 달러 조달 예정 - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-backed-start-reflection-231639007.html",
-      "sentiment": "Positive"
+      "date": "2026-03-30 21:37:30",
+      "title": "NVIDIA(NASDAQ:NVDA) 거래 1.4% 하락 - 그 이유는 - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/nvidia-nasdaqnvda-trading-down-14-heres-why-2026-03-30/",
+      "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 19:47:00",
-      "title": "2026 회계연도에 Nvidia가 400억 달러의 실수를 했나? - fool.com",
-      "url": "https://www.fool.com/investing/2026/03/29/did-nvidia-make-a-40-billion-mistake-fiscal-2026/",
+      "date": "2026-03-30 20:35:30",
+      "title": "BofA, 주요 AI 반도체 선호 종목 공개: NVIDIA(NVDA), 브로드컴(AVGO), AMD가 선두 - MEXC",
+      "url": "https://www.mexc.com/news/992553",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 20:03:17",
+      "title": "Nvidia(NVDA) 주가, 우주와 지상에서 AI 하드웨어 수요 확대에 상승 - MEXC",
+      "url": "https://www.mexc.com/news/992568",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 19:59:50",
+      "title": "NVIDIA(NVDA)는 3월 30일 ___ 위에서 마감할까? 거래 확률 및 예측 - Polymarket",
+      "url": "https://polymarket.com/event/nvda-close-above-on-march-30-2026",
       "sentiment": "Mixed"
     },
     {
+      "date": "2026-03-30 19:44:14",
+      "title": "NVIDIA(NVDA)는 2026년 3월 30일 주간에 목표가를 달성할까? 거래 확률 및 예측(2026년 3월 27일) - Polymarket",
+      "url": "https://polymarket.com/event/will-nvda-hit-week-of-march-30-2026",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 19:33:52",
+      "title": "ARK Invest, 엔비디아(NVDA), 메타(META), AMD(AMD), 테슬라(TSLA) 매도 — 헬스케어 종목으로 전환 - MEXC",
+      "url": "https://www.mexc.com/news/992404",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 19:00:00",
+      "title": "슈퍼 마이크로 컴퓨터의 문제가 엔비디아 주가를 끌어내릴 수 있을까? - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/30/could-super-micro-computers-troubles-sink-nvidias/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 18:31:33",
+      "title": "엔비디아(NVDA), 8,000억 달러 시가총액 증발 후 S&P 500 밸류에이션 아래에서 거래 - MEXC",
+      "url": "https://www.mexc.com/news/991414",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 18:19:25",
+      "title": "BofA, 주요 AI 반도체 추천 종목 공개: 엔비디아(NVDA), 브로드컴(AVGO), AMD 선호 - Blockonomi",
+      "url": "https://blockonomi.com/bofa-reveals-top-ai-semiconductor-picks-nvidia-nvda-broadcom-avgo-and-amd-lead/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 18:13:22",
+      "title": "엔비디아(NVDA), 지구와 궤도에서 급증하는 AI 인프라 투자 속 상승세 - Blockonomi",
+      "url": "https://blockonomi.com/nvidia-nvda-gains-ground-amid-surging-ai-infrastructure-investment-on-earth-and-in-orbit/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 18:07:06",
+      "title": "이란 분쟁이 증시를 뒤흔들다 — 짐 크레이머의 대응 전략과 5개 종목 전망 - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/iran-conflict-rattles-stocks-jim-cramers-game-plan-and-5-stock-calls-1727109/5/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 17:58:20",
+      "title": "신호: Nvidia 주식의 저가 매수 타이밍인가 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/signal-time-buy-dip-nvidia-175820871.html",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-30 17:33:41",
+      "title": "빌 애크먼, 시장 매도세 속 Microsoft(MSFT)와 Nvidia(NVDA)를 ‘극도로 싸다’고 발언 - MEXC",
+      "url": "https://www.mexc.com/news/991830",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 17:17:00",
+      "title": "NVIDIA, S&P 500 선행 PER 아래에서 거래 중. NVDA를 지금 사야 할 때인가? - TIKR.com",
+      "url": "https://www.tikr.com/blog/nvidia-trades-below-the-sp-500s-forward-p-e-is-it-time-to-buy-nvda",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-30 17:12:08",
+      "title": "ARK Invest, Nvidia(NVDA), Meta(META), AMD(AMD), Tesla(TSLA) 매도 — 헬스케어 주식으로 선회 - Blockonomi",
+      "url": "https://blockonomi.com/ark-invest-dumps-nvidia-nvda-meta-meta-amd-amd-and-tesla-tsla-pivots-to-healthcare-stock/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 14:57:00",
+      "title": "Nvidia 주식이 10년 만에 처음으로 이런 일을 했다. 이것이 평생에 한 번 올 매수 기회일까? - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/30/nvidia-stock-just-did-something-for-the-first-time/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-30 14:54:16",
+      "title": "Nvidia가 세계에서 가장 중요한 주식 차트를 갖고 있는 이유 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/why-nvidia-has-the-important-stock-chart-in-the-world-145416630.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 14:51:00",
+      "title": "US10Y, USD/JPY, XLE 및 NVDA 전망 – 월요일에는 채권이 모든 것을 주도한다 - FXEmpire",
+      "url": "https://www.fxempire.com/forecasts/article/premium-us10y-usd-jpy-xle-and-nvda-forecasts-bonds-driving-everything-on-monday-1588415",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 14:22:58",
+      "title": "Nvidia 주식이 10년 만에 처음으로 이런 일을 했다. 이것이 평생에 한 번 올 매수 기회일까? - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/1042454/nvidia-stock-just-did-something-for-the-first-time-in-a-decade-is-this-the-buying-opportunity-of-a-lifetime/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-30 14:17:11",
+      "title": "NVIDIA(NVDA)는 3월 30일에 오를까, 내릴까? 거래 확률 및 예측(2026년 3월 30일) - Polymarket",
+      "url": "https://polymarket.com/event/nvda-up-or-down-on-march-30-2026",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 13:49:00",
+      "title": "Nvidia, AI 스타트업의 대규모 데이터센터 계획으로 상승; 지금 Nvidia는 매수할 만한가? - Investor's Business Daily",
+      "url": "https://www.investors.com/research/nvidia-stock-nvda-ai-data-center/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 13:43:00",
+      "title": "NVDA, INTC 및 AMD 전망 – 월요일 이른 시간 마이크로칩 반등 - FXEmpire",
+      "url": "https://www.fxempire.com/forecasts/article/nvda-intc-and-amd-forecasts-microchips-rallying-early-on-monday-1588474",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-30 12:56:26",
+      "title": "NVIDIA ‘당분 과다 효과’를 넘어: 왜 나는 포트폴리오를 AI의 ‘지루한’ 분야로 옮기고 싶은가 - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/03/30/beyond-the-nvidia-sugar-high-why-id-pivot-my-portfolio-toward-the-boring-side-of-ai/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 12:05:28",
+      "title": "Nvidia(NVDA) 주가, 사상 최고가 대비 20% 하락… 기관투자자 700억 달러 매도 - MEXC",
+      "url": "https://www.mexc.com/news/991472",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 11:23:58",
+      "title": "AI 칩 오늘 - AI가 위성 및 셀룰러 네트워크 혁신을 견인하다 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/ai-chips-today-ai-propels-satellite-and-cellular-network-rev",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 10:59:12",
+      "title": "NVIDIA (NASDAQ: NVDA), Founders Grove Wealth Partners LLC로부터 투자 유치 - Meyka",
+      "url": "https://meyka.com/blog/nvidia-nasdaq-nvda-attracts-investment-from-founders-grove-wealth-partners-llc/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 09:45:46",
+      "title": "Nvidia(NVDA) 주가, 기관투자자 700억 달러 매도 속 사상 최고가 대비 20% 하락 - CoinCentral",
+      "url": "https://coincentral.com/nvidia-nvda-stock-falls-20-from-record-high-as-institutions-sell-70b/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 08:51:25",
+      "title": "오늘 프리마켓에서 NVDA가 상승하는 이유는? - Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-is-nvda-rising-in-premarket-today/cZERS9eRIZk/amp",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 08:18:14",
+      "title": "$NVIDIA (NVDA.US)$ 그냥 168.6에 매도 - Moomoo",
+      "url": "https://www.moomoo.com/community/feed/nvidia-nvda-us-just-sell-168-6-116317139369990?chain_id=Name1K9-3FXPhg.1kskbc0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fetfs%2FDIPS-US%22%7D",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 07:00:00",
+      "title": "NVDA 20% 하락—6억 달러 규모의 스마트 머니 거래가 다음 흐름을 시사 | Smart Money Option - Moomoo",
+      "url": "https://www.moomoo.com/community/feed/nvda-down-20-600m-smart-money-trade-signals-what-s-116319877529606",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-30 04:00:00",
+      "title": "엔비디아 vs. 팔란티어: 어느 주식이 당신을 더 부유하게 만들까? - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/29/nvidia-vs-palantir-which-stock-will-make-you-riche/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 23:44:18",
+      "title": "나스닥, S&P 500 선물, 실업수당 청구 데이터 발표 앞두고 하락: 왜 NVDA, META, DXYZ, IBRX, SLS가 오늘 트레이더들을 사로잡고 있는가 - Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-fall-nvda-meta-ibrx-sls-smci-ugro-stocks-to-watch/cZ3rpRrRIjZ",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-29 23:27:00",
+      "title": "엔비디아(NVDA) 지원 스타트업 Reflection AI, 25억 달러 조달 예정 - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/nvidia-nvda-backed-start-up-reflection-ai-to-raise-2-5-billion-1727197/?amp=1",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-29 23:16:39",
+      "title": "엔비디아(NVDA) 지원 스타트업 Reflection AI, 25억 달러 조달 예정 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-backed-start-reflection-231639007.html",
+      "sentiment": "Growth"
+    },
+    {
       "date": "2026-03-29 18:11:12",
-      "title": "NVIDIA (NVDA) 3월 30일 마감 주간 ___? 거래 확률 및 전망 - Polymarket",
+      "title": "NVIDIA(NVDA)는 3월 30일이 끝나는 주를 ___로 마감할까? 거래 확률 & 예측 - Polymarket",
       "url": "https://polymarket.com/event/nvda-week-april-3-2026",
       "sentiment": "Risk"
     },
     {
-      "date": "2026-03-29 16:11:22",
-      "title": "금융 전문가들, 2026년 말 Nvidia 주가 전망 제시 - Finbold",
-      "url": "https://finbold.com/finance-experts-predict-nvidias-stock-price-for-end-of-2026/",
-      "sentiment": "Growth"
-    },
-    {
       "date": "2026-03-29 14:18:55",
-      "title": "최근 주가 하락 이후 Nvidia(NVDA)를 고려하기엔 너무 늦었나? - simplywall.st",
+      "title": "최근 주가 조정 이후 Nvidia(NVDA)를 고려하기엔 너무 늦었을까? - simplywall.st",
       "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/is-it-too-late-to-consider-nvidia-nvda-after-recent-share-pr-1",
       "sentiment": "Growth"
     },
     {
-      "date": "2026-03-29 13:51:25",
-      "title": "NVIDIA CORPORATION (NVDA) - MSN",
-      "url": "https://www.msn.com/en-us/money/stockdetails/nvda-us-stock/fi-a1yv52?id=a1yv52",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-29 11:17:26",
-      "title": "Westwind Capital, NVIDIA Corporation $NVDA에 1,950만 달러 신규 투자 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-westwind-capital-makes-new-1950-million-investment-in-nvidia-corporation-nvda-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 09:27:22",
-      "title": "Scott & Selber Inc.가 매도한 NVIDIA Corporation $NVDA 주식 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-sold-by-scott-selber-inc-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-29 07:44:00",
-      "title": "예측: 3년 뒤 Nvidia의 주가는 이렇게 될 것이다 - fool.com",
+      "title": "예측: 3년 후 Nvidia의 주가는 이렇게 될 것이다 - The Motley Fool",
       "url": "https://www.fool.com/investing/2026/03/29/prediction-this-will-be-nvidias-stock-price-3-year/",
       "sentiment": "Growth"
     },
     {
-      "date": "2026-03-29 07:36:15",
-      "title": "BDF Gestion, NVIDIA Corporation $NVDA 보유 비중 축소 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bdf-gestion-lowers-position-in-nvidia-corporation-nvda-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 07:36:13",
-      "title": "NVIDIA Corporation $NVDA 주식, Congress Asset Management Co.가 매도 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-sold-by-congress-asset-management-co-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 07:36:12",
-      "title": "Diversified Trust Co., NVIDIA Corporation $NVDA 포지션 축소 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-diversified-trust-co-reduces-position-in-nvidia-corporation-nvda-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 07:36:11",
-      "title": "Community Trust & Investment Co.가 NVIDIA Corporation $NVDA 주식 31,816주를 매입 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-community-trust-investment-co-acquires-31816-shares-of-nvidia-corporation-nvda-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 07:36:10",
-      "title": "Carderock Capital Management Inc.가 NVIDIA Corporation $NVDA 포지션 확대 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-carderock-capital-management-inc-increases-position-in-nvidia-corporation-nvda-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 07:36:10",
-      "title": "NVIDIA Corporation $NVDA는 Central Bank & Trust Co.의 최대 보유 종목 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-is-central-bank-trust-cos-largest-position-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 07:26:25",
-      "title": "Atlas Brown Inc.는 NVIDIA Corporation $NVDA 주식 보유액이 2,477만 달러 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-atlas-brown-inc-has-2477-million-stock-holdings-in-nvidia-corporation-nvda-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 07:14:00",
-      "title": "NVIDIA Corporation $NVDA 주식을 매도한 Assenagon Asset Management S.A. - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-sold-by-assenagon-asset-management-sa-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-29 06:47:35",
       "title": "$NVIDIA (NVDA.US)$ - Moomoo",
-      "url": "https://www.moomoo.com/community/feed/nvidia-nvda-us-116311120609286?chain_id=Name1K9-3FXPhg.1kshfv0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fetfs%2FNVDX-US%22%7D",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 00:26:18",
-      "title": "CNBC 오늘 NVIDIA 주식, OpenAI, Oracle - NVDA 업데이트 [976365] - Fathom Journal",
-      "url": "https://fathomjournal.org/c73282cesmm/29763656-VhiYqDRpmtk.html",
+      "url": "https://www.moomoo.com/community/feed/nvidia-nvda-us-116311120609286?chain_id=Name1K9-3FXPhg.1kshn00&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fetfs%2FDIPS-US%22%7D",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-28 19:43:00",
-      "title": "투자자들은 Nvidia 주식을 완전히 잘못 이해하고 있다 - fool.com",
+      "title": "투자자들은 Nvidia 주식에 대해 완전히 잘못 알고 있다 - The Motley Fool",
       "url": "https://www.fool.com/investing/2026/03/28/investors-are-completely-wrong-about-nvidia-stock/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-28 18:32:05",
-      "title": "NVIDIA(NVDA)는 2026년 3월 30일 주간에 목표가? 거래 확률 및 전망(2026년 3월 27일) - Polymarket",
-      "url": "https://polymarket.com/event/will-nvda-hit-week-of-march-30-2026",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-28 15:32:36",
-      "title": "애널리스트들, GTC 이후 엔비디아(NVDA) 목표주가 상향 조정 - Insider Monkey",
-      "url": "https://www.insidermonkey.com/blog/analysts-nudge-their-nvidia-nvda-price-targets-higher-after-gtc-1726701/?amp=1",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-28 15:18:38",
-      "title": "애널리스트들, GTC 이후 엔비디아(NVDA) 목표주가 상향 조정 - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-nudge-nvidia-nvda-price-151838495.html",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-03-28 13:53:03",
-      "title": "NVIDIA(NVDA) 주가, 짐 크레이머의 매도세 비판 이후 상승 - Insider Monkey",
-      "url": "https://www.insidermonkey.com/blog/nvidia-nvda-shares-higher-after-jim-cramer-criticized-sellers-1726786/?amp=1",
+      "date": "2026-03-28 15:18:38",
+      "title": "애널리스트들, GTC 이후 Nvidia(NVDA) 목표주가를 상향 조정 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-nudge-nvidia-nvda-price-151838495.html",
       "sentiment": "Growth"
     },
     {
       "date": "2026-03-28 13:49:35",
-      "title": "NVIDIA(NVDA) 주가, 짐 크레이머의 매도세 비판 이후 상승 - Yahoo Finance",
+      "title": "짐 크레이머가 매도세를 비판한 뒤 NVIDIA(NVDA) 주가 상승 - Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-shares-higher-jim-134935341.html",
       "sentiment": "Mixed"
     },
     {
-      "date": "2026-03-28 13:30:00",
-      "title": "이란은 잡음일 뿐, 인공범용지능은 신호다, 엔비디아가 트레이드다 (NVDA) - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4886587-iran-is-noise-artificial-general-intelligence-is-the-signal-nvidia-is-the-trade",
-      "sentiment": "Growth"
-    },
-    {
       "date": "2026-03-28 13:18:57",
-      "title": "엔비디아 암호화폐 채굴 소송, 과거 공시를 다시 주목하게 하다 - simplywall.st",
+      "title": "Nvidia 암호화폐 채굴 소송, 과거 공시를 새로운 시각으로 재검토하게 하다 - simplywall.st",
       "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/nvidia-crypto-mining-lawsuit-puts-past-disclosures-under-fre",
       "sentiment": "Risk"
     },
     {
       "date": "2026-03-28 12:23:08",
-      "title": "XRP와 비트코인에 1만 달러 vs 엔비디아에 1만 달러: 2026년 말까지 각각 얼마나 가치가 될 수 있을까 - 24/7 Wall St.",
+      "title": "XRP와 비트코인에 1만 달러 vs 엔비디아에 1만 달러: 2026년 말까지 각각 얼마의 가치가 될 수 있을까 - 24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/03/28/10000-in-xrp-and-bitcoin-vs-10000-in-nvidia-what-each-could-be-worth-by-the-end-of-2026/",
       "sentiment": "Growth"
     },
     {
-      "date": "2026-03-28 10:45:15",
-      "title": "$NVIDIA (NVDA.US)$ 거래 범위 이탈, 지지선 붕괴, 추가 하락 예상 - Moomoo",
-      "url": "https://www.moomoo.com/community/feed/nvidia-nvda-us-breakdown-from-trading-range-support-line-broken-116306392842246?chain_id=Name1K9-3FXPhg.1ksfd5g&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fetfs%2FNVDU-US%22%7D",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-28 10:10:00",
-      "title": "엔비디아, 중국에서 다시 사업을 재개할 수도 있다. 이것이 매출에 의미하는 바는 무엇인가. - fool.com",
-      "url": "https://www.fool.com/investing/2026/03/28/nvidia-may-be-back-in-business-in-china-heres-what/",
-      "sentiment": "Positive"
-    },
-    {
       "date": "2026-03-28 00:55:00",
-      "title": "월스트리트에 따르면, 급등하기 전에 사야 할 고민할 필요 없는 AI 주식 3종",
+      "title": "월가에 따르면 급등 전에 매수해야 할 의심할 여지 없는 AI 주식 3선 - The Motley Fool",
       "url": "https://www.fool.com/investing/2026/03/27/3-no-brainer-ai-stocks-to-buy-before-they-soar-acc/",
       "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-27 22:02:00",
-      "title": "오늘의 증시, 3월 27일: Nvidia, 선행이익 기준으로 밸류에이션이 S&P 500 아래로 떨어지며 하락",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/03/27/stock-market-today-march-27-nvidia-slides-as-valuation-drops-below-sp-500-on-forward-earnings/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-27 21:51:31",
-      "title": "NVIDIA(NASDAQ:NVDA) 주가 2.2% 하락 - 매도해야 할까?",
-      "url": "https://www.marketbeat.com/instant-alerts/nvidia-nasdaqnvda-shares-down-22-should-you-sell-2026-03-27/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 20:15:00",
-      "title": "BetterInvesting™ 잡지, NVIDIA Corp.(NASDAQ: NVDA) 및 Tennant Company(NYSE: TNC) 업데이트",
-      "url": "https://sg.finance.yahoo.com/news/betterinvesting-magazine-nvidia-corp-nasdaq-201500329.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 20:04:47",
-      "title": "핵심 사실: Nvidia AI 상승 여력 전망; 주가 하락; 소송; ARK 지분 축소",
-      "url": "https://www.tradingview.com/news/tradingview:af1e039682b94:0-key-facts-nvidia-ai-upside-forecasts-shares-dip-lawsuit-ark-trims-stake/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-27 20:03:44",
-      "title": "Nvidia (NVDA) 주식: 짐 크레이머, 눌림목에서 매수할지 여부에 대해 의견 제시 - mexc.com",
-      "url": "https://www.mexc.com/news/987476",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-27 17:11:00",
-      "title": "Nvidia (NVDA) 주가, 회사 뉴스 및 차트 분석 - Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-stock-price-quote-analysis/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 16:12:00",
-      "title": "지금 인공지능(AI)에 10,000달러를 투자할 수 있다면, 이 3개 종목에 나눠 담겠다 - fool.com",
-      "url": "https://www.fool.com/investing/2026/03/27/if-i-had-10000-to-invest-in-artificial-intelligenc/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-27 14:46:57",
-      "title": "Nvidia (NVDA) 주식: 짐 크레이머, 눌림목에서 매수할지 여부에 대해 의견 제시 - Blockonomi",
-      "url": "https://blockonomi.com/nvidia-nvda-stock-jim-cramer-weighs-in-on-whether-to-buy-during-the-dip/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-27 14:04:00",
-      "title": "NVIDIA 주식(NVDA) 최근 시장 조정에 대한 의견 - Quiver Quantitative",
-      "url": "https://www.quiverquant.com/news/NVIDIA+Stock+%28NVDA%29+Opinions+on+Recent+Market+Correction",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-27 13:30:03",
-      "title": "브로커들은 Nvidia(NVDA)를 좋은 투자처로 본다: 정말 그럴까? - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-considered-good-investment-133003498.html",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-27 12:34:05",
-      "title": "NVIDIA (NVDA)는 3월 30일 종가가 ___를 넘을까? 거래 확률 및 예측 - Polymarket",
-      "url": "https://polymarket.com/event/nvda-close-above-on-march-30-2026",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-27 11:36:14",
-      "title": "NVIDIA Corporation(NVDA) 주식, Wedmont Private Capital이 매도 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-sold-by-wedmont-private-capital-2026-03-27/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 10:32:46",
-      "title": "NVIDIA(NVDA)는 3월 23일 주를 ___ 이상으로 마감할까? 거래 확률 및 예측 - Polymarket",
-      "url": "https://polymarket.com/event/nvda-above-on-march-27-2026",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-27 04:30:00",
-      "title": "Nvidia 주가는 6개월째 제자리다. 주가가 더 오르려면 무엇이 필요할까? - fool.com",
-      "url": "https://www.fool.com/investing/2026/03/26/nvidia-stock-has-gone-nowhere-for-6-months-what-wi/",
-      "sentiment": "Mixed"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-27 ──\n  [Risk] 오늘의 증시, 3월 27일: Nvidia, 선행이익 기준으로 밸류에이션이 S&P 500 아래로 떨어지며 하락\n  [Neutral] NVIDIA(NASDAQ:NVDA) 주가 2.2% 하락 - 매도해야 할까?\n  [Neutral] BetterInvesting™ 잡지, NVIDIA Corp.(NASDAQ: NVDA) 및 Tennant Company(NYSE: TNC) 업데이트\n  [Risk] 핵심 사실: Nvidia AI 상승 여력 전망; 주가 하락; 소송; ARK 지분 축소\n  [Mixed] Nvidia (NVDA) 주식: 짐 크레이머, 눌림목에서 매수할지 여부에 대해 의견 제시 - mexc.com\n  [Neutral] Nvidia (NVDA) 주가, 회사 뉴스 및 차트 분석 - Investor's Business Daily\n  [Growth] 지금 인공지능(AI)에 10,000달러를 투자할 수 있다면, 이 3개 종목에 나눠 담겠다 - fool.com\n  [Risk] Nvidia (NVDA) 주식: 짐 크레이머, 눌림목에서 매수할지 여부에 대해 의견 제시 - Blockonomi\n  [Mixed] NVIDIA 주식(NVDA) 최근 시장 조정에 대한 의견 - Quiver Quantitative\n  [Risk] 브로커들은 Nvidia(NVDA)를 좋은 투자처로 본다: 정말 그럴까? - Yahoo Finance\n  [Mixed] NVIDIA (NVDA)는 3월 30일 종가가 ___를 넘을까? 거래 확률 및 예측 - Polymarket\n  [Neutral] NVIDIA Corporation(NVDA) 주식, Wedmont Private Capital이 매도 - MarketBeat\n  [Mixed] NVIDIA(NVDA)는 3월 23일 주를 ___ 이상으로 마감할까? 거래 확률 및 예측 - Polymarket\n  [Mixed] Nvidia 주가는 6개월째 제자리다. 주가가 더 오르려면 무엇이 필요할까? - fool.com\n\n── 2026-03-28 ──\n  [Growth] 투자자들은 Nvidia 주식을 완전히 잘못 이해하고 있다 - fool.com\n  [Mixed] NVIDIA(NVDA)는 2026년 3월 30일 주간에 목표가? 거래 확률 및 전망(2026년 3월 27일) - Polymarket\n  [Growth] 애널리스트들, GTC 이후 엔비디아(NVDA) 목표주가 상향 조정 - Insider Monkey\n  [Positive] 애널리스트들, GTC 이후 엔비디아(NVDA) 목표주가 상향 조정 - Yahoo Finance\n  [Growth] NVIDIA(NVDA) 주가, 짐 크레이머의 매도세 비판 이후 상승 - Insider Monkey\n  [Mixed] NVIDIA(NVDA) 주가, 짐 크레이머의 매도세 비판 이후 상승 - Yahoo Finance\n  [Growth] 이란은 잡음일 뿐, 인공범용지능은 신호다, 엔비디아가 트레이드다 (NVDA) - Seeking Alpha\n  [Risk] 엔비디아 암호화폐 채굴 소송, 과거 공시를 다시 주목하게 하다 - simplywall.st\n  [Growth] XRP와 비트코인에 1만 달러 vs 엔비디아에 1만 달러: 2026년 말까지 각각 얼마나 가치가 될 수 있을까 - 24/7 Wall St.\n  [Risk] $NVIDIA (NVDA.US)$ 거래 범위 이탈, 지지선 붕괴, 추가 하락 예상 - Moomoo\n  [Positive] 엔비디아, 중국에서 다시 사업을 재개할 수도 있다. 이것이 매출에 의미하는 바는 무엇인가. - fool.com\n  [Growth] 월스트리트에 따르면, 급등하기 전에 사야 할 고민할 필요 없는 AI 주식 3종\n\n── 2026-03-29 ──\n  [Positive] NVIDIA (NVDA) 지원 스타트업 Reflection AI, 25억 달러 조달 예정 - Yahoo Finance\n  [Mixed] 2026 회계연도에 Nvidia가 400억 달러의 실수를 했나? - fool.com\n  [Risk] NVIDIA (NVDA) 3월 30일 마감 주간 ___? 거래 확률 및 전망 - Polymarket\n  [Growth] 금융 전문가들, 2026년 말 Nvidia 주가 전망 제시 - Finbold\n  [Growth] 최근 주가 하락 이후 Nvidia(NVDA)를 고려하기엔 너무 늦었나? - simplywall.st\n  [Mixed] NVIDIA CORPORATION (NVDA) - MSN\n  [Neutral] Westwind Capital, NVIDIA Corporation $NVDA에 1,950만 달러 신규 투자 - MarketBeat\n  [Neutral] Scott & Selber Inc.가 매도한 NVIDIA Corporation $NVDA 주식 - MarketBeat\n  [Growth] 예측: 3년 뒤 Nvidia의 주가는 이렇게 될 것이다 - fool.com\n  [Neutral] BDF Gestion, NVIDIA Corporation $NVDA 보유 비중 축소 - MarketBeat\n  [Neutral] NVIDIA Corporation $NVDA 주식, Congress Asset Management Co.가 매도 - MarketBeat\n  [Neutral] Diversified Trust Co., NVIDIA Corporation $NVDA 포지션 축소 - MarketBeat\n  [Neutral] Community Trust & Investment Co.가 NVIDIA Corporation $NVDA 주식 31,816주를 매입 - MarketBeat\n  [Neutral] Carderock Capital Management Inc.가 NVIDIA Corporation $NVDA 포지션 확대 - MarketBeat\n  [Neutral] NVIDIA Corporation $NVDA는 Central Bank & Trust Co.의 최대 보유 종목 - MarketBeat\n  [Neutral] Atlas Brown Inc.는 NVIDIA Corporation $NVDA 주식 보유액이 2,477만 달러 - MarketBeat\n  [Neutral] NVIDIA Corporation $NVDA 주식을 매도한 Assenagon Asset Management S.A. - MarketBeat\n  [Neutral] $NVIDIA (NVDA.US)$ - Moomoo\n  [Neutral] CNBC 오늘 NVIDIA 주식, OpenAI, Oracle - NVDA 업데이트 [976365] - Fathom Journal",
-    "sentiment_block": "총 뉴스 45건 분석 결과:\n  Positive     3건 (  6.7%) █\n  Growth      10건 ( 22.2%) ████\n  Neutral     16건 ( 35.6%) ███████\n  Mixed        9건 ( 20.0%) ████\n  Risk         7건 ( 15.6%) ███\n  Negative     0건 (  0.0%) \n\n날짜별 감정 흐름:\n  2026-03-27: Mixed:5, Risk:4, Neutral:4, Growth:1\n  2026-03-28: Growth:6, Mixed:2, Positive:2, Risk:2\n  2026-03-29: Neutral:12, Growth:3, Mixed:2, Positive:1, Risk:1",
+    "news_block": "\n── 2026-03-28 ──\n  [Positive] 투자자들은 Nvidia 주식에 대해 완전히 잘못 알고 있다 - The Motley Fool\n  [Growth] 애널리스트들, GTC 이후 Nvidia(NVDA) 목표주가를 상향 조정 - Yahoo Finance\n  [Mixed] 짐 크레이머가 매도세를 비판한 뒤 NVIDIA(NVDA) 주가 상승 - Yahoo Finance\n  [Risk] Nvidia 암호화폐 채굴 소송, 과거 공시를 새로운 시각으로 재검토하게 하다 - simplywall.st\n  [Growth] XRP와 비트코인에 1만 달러 vs 엔비디아에 1만 달러: 2026년 말까지 각각 얼마의 가치가 될 수 있을까 - 24/7 Wall St.\n  [Growth] 월가에 따르면 급등 전에 매수해야 할 의심할 여지 없는 AI 주식 3선 - The Motley Fool\n\n── 2026-03-29 ──\n  [Risk] 나스닥, S&P 500 선물, 실업수당 청구 데이터 발표 앞두고 하락: 왜 NVDA, META, DXYZ, IBRX, SLS가 오늘 트레이더들을 사로잡고 있는가 - Stocktwits\n  [Positive] 엔비디아(NVDA) 지원 스타트업 Reflection AI, 25억 달러 조달 예정 - Insider Monkey\n  [Growth] 엔비디아(NVDA) 지원 스타트업 Reflection AI, 25억 달러 조달 예정 - Yahoo Finance\n  [Risk] NVIDIA(NVDA)는 3월 30일이 끝나는 주를 ___로 마감할까? 거래 확률 & 예측 - Polymarket\n  [Growth] 최근 주가 조정 이후 Nvidia(NVDA)를 고려하기엔 너무 늦었을까? - simplywall.st\n  [Growth] 예측: 3년 후 Nvidia의 주가는 이렇게 될 것이다 - The Motley Fool\n  [Neutral] $NVIDIA (NVDA.US)$ - Moomoo\n\n── 2026-03-30 ──\n  [Neutral] NVIDIA(NASDAQ:NVDA) 거래 1.4% 하락 - 그 이유는 - marketbeat.com\n  [Growth] BofA, 주요 AI 반도체 선호 종목 공개: NVIDIA(NVDA), 브로드컴(AVGO), AMD가 선두 - MEXC\n  [Growth] Nvidia(NVDA) 주가, 우주와 지상에서 AI 하드웨어 수요 확대에 상승 - MEXC\n  [Mixed] NVIDIA(NVDA)는 3월 30일 ___ 위에서 마감할까? 거래 확률 및 예측 - Polymarket\n  [Risk] NVIDIA(NVDA)는 2026년 3월 30일 주간에 목표가를 달성할까? 거래 확률 및 예측(2026년 3월 27일) - Polymarket\n  [Risk] ARK Invest, 엔비디아(NVDA), 메타(META), AMD(AMD), 테슬라(TSLA) 매도 — 헬스케어 종목으로 전환 - MEXC\n  [Risk] 슈퍼 마이크로 컴퓨터의 문제가 엔비디아 주가를 끌어내릴 수 있을까? - The Motley Fool\n  [Risk] 엔비디아(NVDA), 8,000억 달러 시가총액 증발 후 S&P 500 밸류에이션 아래에서 거래 - MEXC\n  [Growth] BofA, 주요 AI 반도체 추천 종목 공개: 엔비디아(NVDA), 브로드컴(AVGO), AMD 선호 - Blockonomi\n  [Growth] 엔비디아(NVDA), 지구와 궤도에서 급증하는 AI 인프라 투자 속 상승세 - Blockonomi\n  [Risk] 이란 분쟁이 증시를 뒤흔들다 — 짐 크레이머의 대응 전략과 5개 종목 전망 - Insider Monkey\n  [Mixed] 신호: Nvidia 주식의 저가 매수 타이밍인가 - Yahoo Finance\n  [Risk] 빌 애크먼, 시장 매도세 속 Microsoft(MSFT)와 Nvidia(NVDA)를 ‘극도로 싸다’고 발언 - MEXC\n  [Mixed] NVIDIA, S&P 500 선행 PER 아래에서 거래 중. NVDA를 지금 사야 할 때인가? - TIKR.com\n  [Risk] ARK Invest, Nvidia(NVDA), Meta(META), AMD(AMD), Tesla(TSLA) 매도 — 헬스케어 주식으로 선회 - Blockonomi\n  [Mixed] Nvidia 주식이 10년 만에 처음으로 이런 일을 했다. 이것이 평생에 한 번 올 매수 기회일까? - The Motley Fool\n  [Risk] Nvidia가 세계에서 가장 중요한 주식 차트를 갖고 있는 이유 - Yahoo Finance\n  [Neutral] US10Y, USD/JPY, XLE 및 NVDA 전망 – 월요일에는 채권이 모든 것을 주도한다 - FXEmpire\n  [Mixed] Nvidia 주식이 10년 만에 처음으로 이런 일을 했다. 이것이 평생에 한 번 올 매수 기회일까? - theglobeandmail.com\n  [Risk] NVIDIA(NVDA)는 3월 30일에 오를까, 내릴까? 거래 확률 및 예측(2026년 3월 30일) - Polymarket\n  [Neutral] Nvidia, AI 스타트업의 대규모 데이터센터 계획으로 상승; 지금 Nvidia는 매수할 만한가? - Investor's Business Daily\n  [Mixed] NVDA, INTC 및 AMD 전망 – 월요일 이른 시간 마이크로칩 반등 - FXEmpire\n  [Risk] NVIDIA ‘당분 과다 효과’를 넘어: 왜 나는 포트폴리오를 AI의 ‘지루한’ 분야로 옮기고 싶은가 - 24/7 Wall St.\n  [Risk] Nvidia(NVDA) 주가, 사상 최고가 대비 20% 하락… 기관투자자 700억 달러 매도 - MEXC\n  [Growth] AI 칩 오늘 - AI가 위성 및 셀룰러 네트워크 혁신을 견인하다 - simplywall.st\n  [Growth] NVIDIA (NASDAQ: NVDA), Founders Grove Wealth Partners LLC로부터 투자 유치 - Meyka\n  [Risk] Nvidia(NVDA) 주가, 기관투자자 700억 달러 매도 속 사상 최고가 대비 20% 하락 - CoinCentral\n  [Growth] 오늘 프리마켓에서 NVDA가 상승하는 이유는? - Stocktwits\n  [Neutral] $NVIDIA (NVDA.US)$ 그냥 168.6에 매도 - Moomoo\n  [Negative] NVDA 20% 하락—6억 달러 규모의 스마트 머니 거래가 다음 흐름을 시사 | Smart Money Option - Moomoo\n  [Growth] 엔비디아 vs. 팔란티어: 어느 주식이 당신을 더 부유하게 만들까? - The Motley Fool",
+    "sentiment_block": "총 뉴스 44건 분석 결과:\n  Positive     2건 (  4.5%) \n  Growth      14건 ( 31.8%) ██████\n  Neutral      5건 ( 11.4%) ██\n  Mixed        7건 ( 15.9%) ███\n  Risk        15건 ( 34.1%) ██████\n  Negative     1건 (  2.3%) \n\n날짜별 감정 흐름:\n  2026-03-28: Growth:3, Positive:1, Mixed:1, Risk:1\n  2026-03-29: Growth:3, Risk:2, Positive:1, Neutral:1\n  2026-03-30: Risk:12, Growth:8, Mixed:6, Neutral:4, Negative:1",
     "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 2  Buy: 58  Hold: 16  Sell: 3  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $400  Low: $140  Consensus: $278.59  Median: $275\n▶ 실적 추정치 (2031-01)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $232.52289158891952  현재가: $N/A\n▶ FMP 종합 등급\n  등급: A-  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "[핵심 요약]\n* 최근 3일간 NVDA는 **“밸류에이션 부담/기술적 약세”**(선행이익 기준 밸류에이션 하락, 지지선 붕괴 우려)와 **“성장 기대/목표가 상향”**(GTC 이후 목표주가 상향, AI 투자 논리 확산) 사이에서 **변동성 확대** 흐름을 보임.\n* 애널리스트 컨센서스는 **Buy(58) + Hold(16) + Sell(3)**로 전반적으로 우호적이며, 목표주가도 **컨센서스 $278.59(중앙값 $275)**로 형성.\n* 단기적으로는 소송/규제·리스크 이슈가 반복 언급되며 투자심리를 제한하는 모습.\n\n[전체 흐름 분석]\n* **3/27:** 선행이익 기준 밸류에이션이 S&P 500 아래로 내려갔다는 보도와 함께 하락 뉴스가 먼저 나오며, “지금 매수/매도?” 같은 논쟁이 확산(감정: Mixed·Risk 비중 높음).\n* **3/28:** 이후에는 **GTC 이후 목표주가 상향**과 크레이머 관련 매도세 논쟁이 주가 방향을 지지하는 형태로 전환(감정: Growth 비중 크게 증가).\n* **3/29:** 전반적으로 Neutral이 우세하되, **지원 스타트업(Reflection AI) 조달 소식** 등 생태계/수요 기대는 일부 Positive로 반영. 동시에 기관 투자자 포지션 조정(일부 축소·일부 확대)이 동시에 관측되어 단기 확신은 제한.\n\n[긍정 요인]\n* **애널리스트 목표주가 상향/우호적 등급 분포:** Strong Buy 2, Buy 58, Hold 16, Sell 3로 기울기가 Buy 쪽에 형성.\n* **성장 내러티브 재강화:** AI(범용지능/플랫폼) 관점에서 “신호”로 보는 해석이 반복(면밀한 수치 검증 없이도 수요 기대가 유지되는 흐름).\n* **생태계/수요 간접 지표:** Reflection AI의 25억 달러 조달 예정 보도는 AI 확장 투자 흐름과 맞물려 심리 측면에서 긍정.\n\n[부정 요인]\n* **밸류에이션/주가 조정 압력:** 3/27에 선행이익 기준 밸류에이션이 낮아졌다는 뉴스가 하락의 단초로 작용.\n* **기술적/단기 하방 리스크:** 지지선 붕괴 및 추가 하락 예상 같은 리스크(모멘텀 약화)가 3/28에 다시 등장.\n* **소송·규제성 이슈 반복:** 암호화폐 채굴 관련 소송 재주목 등 리스크 요인이 단기간에 투자심리를 누름.\n* **기관 포지션 혼재:** MarketBeat의 매도/축소와 매입/확대가 함께 나타나, “일괄적인 강한 매집”보다는 **선별적 조정** 성격이 강함.\n\n[투자 인사이트]\n* **핵심은 ‘장기 성장 vs 단기 조정’의 충돌**입니다. 3일 내내 Growth/목표가 상향(장기 기대)을 뒷받침하는 흐름이 있었지만, 동시에 밸류에이션 부담과 기술적 약세 신호가 단기 진입 타이밍을 어렵게 만들었습니다.\n* 투자전략 관점에서는:\n  * **공격적 신규 매수**라기보다, **변동성 구간에서의 분할 접근**이 더 합리적입니다(하방 리스크 시나리오가 뉴스 흐름에 존재).\n  * 반대로 **완전한 비투자/회피**는 애널리스트 합산 등급과 목표주가 상향 흐름 때문에 근거가 약합니다.\n* 또한 리스크(소송/규제) 언급이 반복된 만큼, **기본적으로 보유하되 이벤트/추가 악재 발생 시 리밸런싱 여지**를 두는 판단이 데이터에 더 부합합니다.\n\n[투자 판단]\n* **보류(관망) → 단, 분할 매수는 조건부 허용**  \n  (현재 시점에서 “전량 매수”보다는, 조정/기술적 안정 확인 후 비중 확대가 유리하다는 결론)\n\n[판단 근거]\n* 긍정(목표주가 상향, 애널리스트 Buy 다수, 생태계 투자 기대)과 부정(밸류에이션 압력, 지지선 붕괴/추가 하락 우려, 소송 리스크)이 **동시에 강하게 존재**합니다.\n* 감정 흐름도 3/27에는 Risk·Mixed가, 3/28 이후 Growth가 커졌지만, 3/29에는 Neutral이 압도적으로 높아 **확신 있는 방향성 베팅보다는 균형 유지**가 더 타당합니다.\n* 따라서 애널리스트 컨센서스의 우호성에도 불구하고, 단기 가격 변동/하방 리스크가 데이터 상 충분히 제시되어 **즉시 적극 투자보다 보류 후 확인**이 더 근거 있는 선택입니다."
+  "investment_judgment": "[핵심 요약]\n* 3일간 NVDA 뉴스 흐름은 **“AI 인프라 수요 확대/목표가 상향”**(성장·긍정)과 **“밸류에이션 부담·기관 매도/단기 변동성·법적/리스크 재부각”**(리스크·혼재)이 동시에 나타남.\n* 특히 2026-03-30에 리스크 비중이 크게 확대되어, **단기 조정(사상 최고가 대비 20% 하락, 기관 매도 언급)**이 투자심리를 흔드는 국면.\n* 다만 애널리스트 커버리지에서는 **Buy가 압도적(Strong Buy 2, Buy 58)**이며 컨센서스 목표가도 현재가 대비 **상방(Consensus $278.59 / Median $275)** 구조.\n\n[전체 흐름 분석]\n* **03/28~03/29:** GTC 이후 목표가 상향, AI 주도주로서의 구조적 성장 서사가 우세. 또한 AI 스타트업의 대규모 조달 등(Reflection AI) “생태계 자금 유입” 신호가 긍정으로 작용.\n* **03/30:** BofA의 AI 반도체 선호(여전히 NVDA 상위권) 같은 성장 뉴스도 나왔지만, 같은 날에 **기관투자자 대규모 매도(약 700억 달러), S&P 500 밸류에이션/선행 PER 언급, 당분 과다·차익/급락 가능성** 같은 단기 압력 뉴스가 대거 집중.\n* 감정 분포도 이 흐름을 반영: 03/30에 **Risk 12건이 집중**되며 “추세는 유지될 수 있으나 단기 변동성 확대”로 해석되는 구도.\n\n[긍정 요인]\n* **애널리스트 목표가 상향/선호 유지:** GTC 이후 목표가 상향 조정 흐름(03/28), 그리고 03/30에 BofA가 AI 반도체 선호 종목으로 NVDA를 명시.\n* **수요(생태계) 확장 서사 지속:** AI 하드웨어/인프라 투자 확대(지상·궤도 등 확장 포함) 같은 성장 기사들이 반복 노출.\n* **AI 스타트업 자금 조달 기대:** NVDA 지원 스타트업 Reflection AI가 25억 달러 조달 예정이라는 보도는 “AI 수요 파이프라인” 관점에서 우호적.\n\n[부정 요인]\n* **단기 조정 압력(기관 매도·밸류에이션 부담):** “사상 최고가 대비 20% 하락”, “기관투자자 700억 달러 매도” 같은 문구가 03/30에 집중. 이는 단기 수급 부담으로 작용할 가능성이 큼.\n* **리스크 재부각(법적/소송 관련):** 암호화폐 채굴 소송 공시를 새로운 시각으로 재검토(03/28) 같은 이슈는 불확실성 요인.\n* **시장 이벤트 전후 변동성 언급:** 실업수당 청구 데이터 발표 전후 선물 하락 등(03/29)으로, 전반 위험회피가 심해질 때 NVDA가 더 크게 흔들릴 수 있다는 시그널.\n\n[투자 인사이트]\n* 결론적으로, 이번 3일 뉴스는 **“중장기 내러티브(수요·선호)는 유지되지만, 단기에는 수급/밸류에이션 부담으로 변동성이 확대”**되는 패턴입니다.\n* 따라서 투자 접근은 **추격매수보다는 ‘가격 조정 구간에서의 분할 접근’**이 더 합리적입니다. 근거는 (1) 애널리스트의 Buy 우세로 중장기 기대는 살아 있으나 (2) 03/30에 기관 매도 및 밸류에이션 관련 리스크가 동시에 부각되어 단기 하방 압력이 커졌기 때문입니다.\n* “ETF/지수 대비 밸류에이션 아래 거래” 같은 표현이 일부 혼재하지만(TIKR.com, MEXC 등), 이는 방향성보다는 **타이밍(진입 시점)의 중요도**를 높이는 신호로 해석됩니다.\n\n[투자 판단]\n* **보류(Watch / 분할 접근 보류)**\n\n[판단 근거]\n* **투자자 관점의 상방 근거는 존재:** 애널리스트 등급이 Buy 중심(Strong Buy 2, Buy 58)이고, 목표주가 컨센서스($278.59)·미드($275)가 제시되어 있어 구조적 기대가 완전히 훼손되지는 않았습니다.\n* **하지만 단기 리스크가 03/30에 과도하게 집중:** 기관투자자 대규모 매도 및 최고가 대비 하락/밸류에이션 부담이 같은 날 다수 기사로 반복되어, 뉴스 흐름만 놓고 보면 “지금 당장의 일괄 매수” 리스크가 커 보입니다.\n* 또한 감정 분석에서 03/30의 Risk 비중이 급증(특히 Risk 12건)했고, Negative도 소수지만 존재해 **단기 변동성 국면**임을 뒷받침합니다.\n* 따라서 “중장기론 지지” vs “단기 타이밍 불리”가 충돌하는 구도이므로, 현 시점의 명확한 액션은 **보류 후 분할/재평가**가 합리적입니다."
 }
