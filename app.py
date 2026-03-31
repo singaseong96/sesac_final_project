@@ -722,30 +722,48 @@ with tab1:
                 result[key] = text[start:nxt_pos].strip()
             return result
 
-        secs   = split_sec(jt)
-        left_k = {"[핵심 요약]", "[긍정 요인]", "[투자 인사이트]", "[투자 판단]"}
-        cl, cr = st.columns(2)
+        secs = split_sec(jt)
 
-        for key, title in SECTION_LIST:
+        # ── 레이아웃:
+        # 좌) 투자 인사이트 → 긍정 요인 → 부정 요인
+        # 우) 핵심 요약     → 전체 흐름 분석 → 판단 근거
+        LEFT_ORDER  = [
+            ("[투자 인사이트]", "💡 투자 인사이트"),
+            ("[긍정 요인]",     "✅ 긍정 요인"),
+            ("[부정 요인]",     "⚠️ 부정 요인"),
+        ]
+        RIGHT_ORDER = [
+            ("[핵심 요약]",     "📌 핵심 요약"),
+            ("[전체 흐름 분석]","🔍 전체 흐름 분석"),
+            ("[판단 근거]",     "📋 판단 근거"),
+        ]
+
+        def render_card(key, title):
             content = secs.get(key, "")
             if not content:
-                continue
-            target   = cl if key in left_k else cr
+                return
             bg_color = "#edfaf5" if "긍정" in title else ("#fdf0f0" if "부정" in title else "#ffffff")
-            border_c = "#009e7822" if "긍정" in title else ("#dc262622" if "부정" in title else "#dde2f0")
-            with target:
-                st.markdown(f"""
-                <div style="background:{bg_color}; border:1px solid {border_c};
-                            border-radius:12px; padding:20px 22px; margin-bottom:16px;">
-                    <div style="font-size:17px; font-weight:700; color:#8892a4;
-                                text-transform:uppercase; letter-spacing:0.07em; margin-bottom:12px;">
-                        {title}
-                    </div>
-                    <div style="font-size:20px; color:#1a1f36; line-height:1.85;">
-                        {md_to_html(content)}
-                    </div>
+            border_c = "#009e7840" if "긍정" in title else ("#dc262640" if "부정" in title else "#dde2f0")
+            st.markdown(f"""
+            <div style="background:{bg_color}; border:1px solid {border_c};
+                        border-radius:12px; padding:20px 22px; margin-bottom:16px;">
+                <div style="font-size:17px; font-weight:700; color:#8892a4;
+                            text-transform:uppercase; letter-spacing:0.07em; margin-bottom:12px;">
+                    {title}
                 </div>
-                """, unsafe_allow_html=True)
+                <div style="font-size:20px; color:#1a1f36; line-height:1.85;">
+                    {md_to_html(content)}
+                </div>
+            </div>
+            """, unsafe_allow_html=True)
+
+        cl, cr = st.columns(2)
+        with cl:
+            for key, title in LEFT_ORDER:
+                render_card(key, title)
+        with cr:
+            for key, title in RIGHT_ORDER:
+                render_card(key, title)
 
         with st.expander(f"📄 {model_choice} 원문 전체 보기"):
             st.code(jt, language=None)
