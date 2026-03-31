@@ -342,6 +342,34 @@ ul[data-baseweb="menu"] {
     font-size: 18px !important;
     color: var(--text-main) !important;
 }
+
+/* ── 라디오 버튼 원 (미선택) ── */
+[data-baseweb="radio"] div[role="radio"] {
+    background-color: #ffffff !important;
+    border-color: var(--border-mid) !important;
+}
+
+/* ── 라디오 버튼 원 (선택됨) ── */
+[data-baseweb="radio"] div[role="radio"][aria-checked="true"] {
+    background-color: var(--accent) !important;
+    border-color: var(--accent) !important;
+}
+
+/* ── 라디오 내부 체크 점 ── */
+[data-baseweb="radio"] div[role="radio"][aria-checked="true"] > div {
+    background-color: #ffffff !important;
+}
+
+/* ── 라디오 항목 hover ── */
+[data-baseweb="radio"]:hover div[role="radio"] {
+    border-color: var(--accent) !important;
+}
+
+/* ── 라디오 전체 컨테이너 배경 ── */
+[data-testid="stRadio"] > div,
+[data-baseweb="radio-group"] {
+    background: transparent !important;
+}
 </style>
 """, unsafe_allow_html=True)
 
