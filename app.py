@@ -217,12 +217,38 @@ ul[data-baseweb="menu"] {
     letter-spacing: 0.06em !important;
 }
 
-/* ── 뉴스 expander: 카드에 붙어 보이게 ── */
+/* ── expander 전체 (기본 + 열린 상태) ── */
+[data-testid="stExpander"] {
+    background: #f9fafd !important;
+    border: 1px solid var(--border) !important;
+    border-radius: 10px !important;
+}
+/* expander 헤더 버튼 */
+[data-testid="stExpander"] summary,
+[data-testid="stExpander"] > details > summary,
+[data-testid="stExpander"] [data-testid="stExpanderToggleIcon"] {
+    background: #f9fafd !important;
+    color: var(--text-sub) !important;
+}
+/* 열렸을 때도 동일하게 */
+[data-testid="stExpander"][open] summary,
+[data-testid="stExpander"] details[open] > summary,
+[data-testid="stExpander"] summary:hover,
+[data-testid="stExpander"] summary:focus,
+[data-testid="stExpander"] summary:active {
+    background: #f0f3fa !important;
+    color: var(--text-main) !important;
+}
+/* expander 내부 콘텐츠 영역 */
+[data-testid="stExpander"] > div:last-child,
+[data-testid="stExpanderDetails"] {
+    background: #f9fafd !important;
+}
+/* 뉴스 카드 아래 expander: 위 테두리 제거하고 하단만 둥글게 */
 .news-card + div [data-testid="stExpander"] {
     border-top: none !important;
     border-radius: 0 0 10px 10px !important;
     margin-top: 0 !important;
-    background: #f9fafd !important;
 }
 
 /* ── 데스크톱: 사이드바 항상 표시 ── */
