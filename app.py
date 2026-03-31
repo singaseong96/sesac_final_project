@@ -217,11 +217,12 @@ ul[data-baseweb="menu"] {
     letter-spacing: 0.06em !important;
 }
 
-/* ── expander ── */
-[data-testid="stExpander"] {
-    background: var(--bg-card) !important;
-    border: 1px solid var(--border) !important;
-    border-radius: 10px !important;
+/* ── 뉴스 expander: 카드에 붙어 보이게 ── */
+.news-card + div [data-testid="stExpander"] {
+    border-top: none !important;
+    border-radius: 0 0 10px 10px !important;
+    margin-top: 0 !important;
+    background: #f9fafd !important;
 }
 
 /* ── 데스크톱: 사이드바 항상 표시 ── */
@@ -994,7 +995,11 @@ with tab3:
         </div>
         """, unsafe_allow_html=True)
 
-        for _, row in df_show.iterrows():
+        # 본문 컬럼 후보 (우선순위 순)
+        BODY_COLS = ["body_ko", "body", "summary_ko", "summary",
+                     "content_ko", "content", "text_ko", "text"]
+
+        for idx, (_, row) in enumerate(df_show.iterrows()):
             color    = SENTIMENT_COLOR.get(row["sentiment"], "#888")
             label    = SENTIMENT_KO.get(row["sentiment"], row["sentiment"])
             date_str = row["date"].strftime("%Y.%m.%d  %H:%M") \
@@ -1002,23 +1007,23 @@ with tab3:
             title    = row.get("title_ko") or row.get("title", "제목 없음")
             url      = row.get("url", "")
 
-            title_html = (
-                f'<a href="{url}" target="_blank" style="color:#0f1320; text-decoration:none; '
-                f'font-size:20px; font-weight:600; line-height:1.6; display:block;">'
-                f'{title}</a>'
-            ) if url else (
-                f'<span style="color:#0f1320; font-size:20px; font-weight:600; line-height:1.6;">'
-                f'{title}</span>'
-            )
+            # 번역 본문 (사용 가능한 첫 번째 컬럼)
+            body_text = ""
+            for col in BODY_COLS:
+                val = row.get(col, "")
+                if pd.notna(val) and str(val).strip():
+                    body_text = str(val).strip()
+                    break
 
+            # ── 카드 헤더 (항상 표시) ──────────────────────
             st.markdown(f"""
             <div class="news-card" style="
                 background:#ffffff;
                 border:1px solid #dde2f0;
-                border-left:3px solid {color};
-                border-radius:10px;
-                padding:16px 20px;
-                margin-bottom:10px;
+                border-left:4px solid {color};
+                border-radius:10px 10px 0 0;
+                padding:16px 20px 14px;
+                margin-bottom:0;
                 display:flex;
                 align-items:flex-start;
                 gap:14px;
@@ -1032,13 +1037,47 @@ with tab3:
                     </div>
                 </div>
                 <div style="flex:1; min-width:0;">
-                    {title_html}
-                    <div style="font-size:17px; color:#7a84a0; margin-top:7px;
+                    <div style="color:#0f1320; font-size:20px; font-weight:600;
+                                line-height:1.6;">
+                        {html.escape(title)}
+                    </div>
+                    <div style="font-size:17px; color:#7a84a0; margin-top:6px;
                                 font-family:'DM Mono',monospace; letter-spacing:0.02em;">
                         {date_str}
                     </div>
                 </div>
             </div>
             """, unsafe_allow_html=True)
+
+            # ── 본문 expander ──────────────────────────────
+            with st.expander("📄 번역 기사 보기", expanded=False):
+                if body_text:
+                    st.markdown(f"""
+                    <div style="font-size:18px; color:#1a1f36; line-height:1.95;
+                                padding:4px 2px 8px;">
+                        {md_to_html(body_text)}
+                    </div>
+                    """, unsafe_allow_html=True)
+                    if url:
+                        st.markdown(
+                            f'<a href="{url}" target="_blank" '
+                            f'style="font-size:16px; color:#009e78; font-weight:600; '
+                            f'text-decoration:none;">🔗 원문 기사 바로가기 ↗</a>',
+                            unsafe_allow_html=True,
+                        )
+                else:
+                    st.markdown(
+                        '<p style="color:#8892a4; font-size:17px;">번역된 본문 데이터가 없습니다.</p>',
+                        unsafe_allow_html=True,
+                    )
+                    if url:
+                        st.markdown(
+                            f'<a href="{url}" target="_blank" '
+                            f'style="font-size:16px; color:#009e78; font-weight:600; '
+                            f'text-decoration:none;">🔗 원문 기사 바로가기 ↗</a>',
+                            unsafe_allow_html=True,
+                        )
+
+            st.markdown("<div style='height:10px'></div>", unsafe_allow_html=True)
 
         st.markdown("<div style='height:40px'></div>", unsafe_allow_html=True)
