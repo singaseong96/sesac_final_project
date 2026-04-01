@@ -1,416 +1,444 @@
 {
   "meta": {
     "symbol": "V",
-    "analysis_date": "2026-03-30T02:31:41.959164+00:00",
-    "news_period": "2026-03-27 ~ 2026-03-29",
-    "news_count": 63,
+    "analysis_date": "2026-04-01T10:25:58.475942+00:00",
+    "news_period": "2026-03-29 ~ 2026-03-31",
+    "news_count": 67,
     "model": "claude-haiku-4-5-20251001"
   },
   "sentiment_summary": {
-    "Neutral": 56,
-    "Growth": 3,
-    "Negative": 3,
-    "Risk": 1
+    "Neutral": 50,
+    "Growth": 6,
+    "Positive": 4,
+    "Risk": 4,
+    "Negative": 3
   },
   "sentiment_by_date": {
-    "2026-03-27": {
-      "Neutral": 3,
-      "Growth": 1,
-      "Risk": 1
-    },
-    "2026-03-28": {
-      "Neutral": 8
-    },
     "2026-03-29": {
-      "Neutral": 45,
-      "Negative": 3,
-      "Growth": 2
+      "Neutral": 1
+    },
+    "2026-03-30": {
+      "Neutral": 5,
+      "Growth": 2,
+      "Risk": 1,
+      "Negative": 1
+    },
+    "2026-03-31": {
+      "Neutral": 44,
+      "Growth": 4,
+      "Positive": 4,
+      "Risk": 3,
+      "Negative": 2
     }
   },
   "news_with_sentiment": [
     {
-      "date": "2026-03-29 23:52:26",
-      "title": "BTS V’s father also dreamed of being an entertainer: “I’m the only one who made it” (‘Fairy Jae-hyung’) - 매일경제",
-      "url": "https://www.mk.co.kr/en/musics/12001941",
+      "date": "2026-03-31 23:23:01",
+      "title": "Preview: Bayern v United Women - Manchester United",
+      "url": "https://www.manutd.com/en/news/detail/how-to-watch-and-follow-second-leg-v-bayern-1-april-2026",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 23:45:26",
-      "title": "Mullins Madness! Freshman's 35-footer gives UConn a 73-72 win over Duke and a Final Four spot - NBC Connecticut",
-      "url": "https://www.nbcconnecticut.com/news/sports/ncaab/uconn-stuns-duke-with-epic-comeback-and-last-second-3-pointer/3719507/",
+      "date": "2026-03-31 23:18:37",
+      "title": "São Paulo v Internacional: where to watch, tips and kick-off time - OneFootball",
+      "url": "https://onefootball.com/en/news/sao-paulo-v-internacional-where-to-watch-tips-and-kick-off-time-42642740",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 22:56:55",
-      "title": "🚨 Pasto v Atlético Nacional line-ups are in - OneFootball",
-      "url": "https://onefootball.com/en/news/pasto-v-atletico-nacional-line-ups-are-in-42633746",
+      "date": "2026-03-31 23:07:05",
+      "title": "England v Japan: Water breaks in friendly to mimic World Cup conditions - BBC",
+      "url": "https://www.bbc.com/sport/football/articles/cwy3j4r421yo",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 22:47:00",
-      "title": "🚨 Pasto v Atlético Nacional line-ups are in - Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/pasto-v-atl-tico-nacional-224700271.html",
+      "date": "2026-03-31 22:41:20",
+      "title": "HI v. Gerhardt Konig: Trouble in Paradise Trial - Court TV",
+      "url": "https://www.courttv.com/news/hi-v-gerhardt-konig-trouble-in-paradise-trial/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 21:39:32",
-      "title": "BTS' V Calls J-Hope Group's Military-Style Leader - 조선일보",
-      "url": "https://www.chosun.com/english/kpop-culture-en/2026/03/30/CH4ABA4UINCSROB4XXIGCM7BLY/",
+      "date": "2026-03-31 22:40:20",
+      "title": "Internacional v São Paulo: top-three push meets mid-table climb in the Brasileirão - OneFootball",
+      "url": "https://onefootball.com/en/news/internacional-v-sao-paulo-top-three-push-meets-mid-table-climb-in-the-brasileirao-42642604",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 21:29:16",
-      "title": "BTS V Bulks Up to 80kg in Military, Members Joke About Retirement - 조선일보",
-      "url": "https://www.chosun.com/english/kpop-culture-en/2026/03/30/52WQHBRYHNG7XP3ZLO6S7YJ4MI/",
+      "date": "2026-03-31 22:38:49",
+      "title": "SCOTUS Defends Christian Counselor’s Right to Confidentiality - National Catholic Register",
+      "url": "https://www.ncregister.com/commentaries/scotus-chiles-v-salazar",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 21:29:00",
-      "title": "BTS V builds muscle in SDT, gains to 80kg then trims to 67kg - CHOSUNBIZ - Chosunbiz",
-      "url": "https://biz.chosun.com/en/en-entertainment/2026/03/30/22EJPD25PNDYJOMUM66KVUNVEM/",
+      "date": "2026-03-31 22:16:00",
+      "title": "A mom let her son use her card to buy GTA V in 2013 and accidentally won a real-life custom Dodge Viper she never knew she entered for - supercarblondie.com",
+      "url": "https://supercarblondie.com/mom-gta-v-custom-dodge-viper-prize/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 21:28:00",
-      "title": "BTS V names J‑Hope strictest, says members follow orders - CHOSUNBIZ - Chosunbiz",
-      "url": "https://biz.chosun.com/en/en-entertainment/2026/03/30/H7NARJLZRRG3XDKZAZOHYQ6P2M/",
+      "date": "2026-03-31 22:10:00",
+      "title": "A new Ryzen chip is pushing cache tech harder than anything - TechRadar",
+      "url": "https://www.techradar.com/pro/performance-without-compromise-amd-debuts-first-dual-3d-v-cache-ryzen-cpu-in-potential-lowdown-against-threadripper-and-epyc-siblings",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 22:00:20",
+      "title": "US stocks rebound as market achieves rare 'V-Bottom' - Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/us-stocks-rebound-as-market-achieves-rare-v-bottom-220000272.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 21:48:14",
+      "title": "After Uruguay friendlies, Canobbio misses Fluminense v Corinthians - OneFootball",
+      "url": "https://onefootball.com/en/news/after-uruguay-friendlies-canobbio-misses-fluminense-v-corinthians-42642419",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-31 21:45:00",
+      "title": "Beset by problems: São Paulo miss 10 v Inter, Roger names new faces - OneFootball",
+      "url": "https://onefootball.com/en/news/beset-by-problems-sao-paulo-miss-10-v-inter-roger-names-new-faces-42641887",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-31 21:41:07",
+      "title": "The why of the V - Austin Daily Herald",
+      "url": "https://www.austindailyherald.com/opinion/the-why-of-the-v-05e07aa1",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 21:03:48",
-      "title": "France are a force to be reckoned with: a 3-1 win over Colombia with a reserve side, a brace from Doué and a goal from Thuram - Goal.com",
-      "url": "https://www.goal.com/en/lists/france-are-a-force-to-be-reckoned-with-a-3-1-win-over-colombia-with-a-reserve-side-a-brace-from-doue-and-a-goal-from-thuram/bltf8eb8914b7d04475",
+      "date": "2026-03-31 21:41:00",
+      "title": "Anthony V. ‘Tony’ Russo, 63, Arnold - Leader Publications",
+      "url": "https://www.myleaderpaper.com/obituaries/obituary-for-anthony-v-tony-russo-of-arnold/article_9e0d427b-a359-478d-aec0-32dc87f8f1f7.html",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 20:54:35",
-      "title": "OSU vs. NW MTEN 32926 | Photo Galleries - Ohio State | Official Athletics Website",
-      "url": "https://ohiostatebuckeyes.com/galleries/mens-tennis/osu-v-nw-mten-32926/osu-vs-nw-mten-32926/3746/298097",
+      "date": "2026-03-31 21:16:14",
+      "title": "Ireland player ratings v North Macedonia: Dara O’Shea and Finn Azaz stand out in stalemate - The Irish Times",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/03/31/ireland-player-ratings-v-north-macedonia-dara-oshea-and-finn-azaz-stand-out-in-stalemate/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 20:36:25",
-      "title": "Tech: The Carr v. Cruz tactical divide - Punchbowl News",
-      "url": "https://punchbowl.news/article/tech/carr-vs-cruz/",
+      "date": "2026-03-31 21:14:19",
+      "title": "FIFA World Cup - UEFA Qualifiers - Finals - Bosnia and Herzegovina v Italy - UnionLeader.com",
+      "url": "https://www.unionleader.com/fifa-world-cup---uefa-qualifiers---finals---bosnia-and-herzegovina/image_7deb58c5-4243-54bd-a56d-6e6c8a110e35.html",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 20:28:00",
-      "title": "BTS V recalls ARMY forming purple lines at airports to protect members - CHOSUNBIZ - Chosunbiz",
-      "url": "https://biz.chosun.com/en/en-entertainment/2026/03/30/ICOZVHZURVEMBLFYLLMTAPNI3I/",
+      "date": "2026-03-31 21:10:31",
+      "title": "Turkey beat Kosovo to reach first World Cup in 24 years - BBC",
+      "url": "https://www.bbc.com/sport/football/live/c3ex17zp5wjt",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-29 20:25:45",
-      "title": "Neymar ‘to use’ Flamengo v Santos as key World Cup audition - OneFootball",
-      "url": "https://onefootball.com/en/news/neymar-to-use-flamengo-v-santos-as-key-world-cup-audition-42633388",
+      "date": "2026-03-31 21:08:33",
+      "title": "Sapiro v. Ford: The Jew Who Sued Henry Ford with Jennifer Bardi, Carol King, Gaylen Ross and Ben Shenkman - Moment Magazine",
+      "url": "https://momentmag.com/sapiro-v-ford-the-jew-who-sued-henry-ford-with-jennifer-bardi-carol-king-gaylen-ross-and-ben-shenkman/",
       "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 21:08:19",
+      "title": "Visa (V) Receives New Analyst Rating from Loop Capital | V Stock News - GuruFocus",
+      "url": "https://www.gurufocus.com/news/8762640/visa-v-receives-new-analyst-rating-from-loop-capital-v-stock-news",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 20:55:36",
+      "title": "Visa Inc. (V) Joins Canton Network to Accelerate Financials Mainstream Onchain Transition - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-inc-v-joins-canton-190036493.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 20:54:15",
+      "title": "BTS' V Gets Serious About Learning English: ‘I’m Locking in for Real This Time No Excuses' - Complex",
+      "url": "https://www.complex.com/music/a/alex-ocho/bts-v-learning-english-serious",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 20:44:00",
+      "title": "Execution Over Expansion: V Group Ranks No. 117 on Inc. Regionals Pacific List - PRWeb",
+      "url": "https://www.prweb.com/releases/execution-over-expansion-v-group-ranks-no-117-on-inc-regionals-pacific-list-302730427.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 20:30:10",
+      "title": "UBS Group Has Lowered Expectations for Visa (NYSE:V) Stock Price - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/ubs-group-has-lowered-expectations-for-visa-nysev-stock-price-2026-03-31/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 20:23:44",
+      "title": "Amazon v. Perplexity: Courts Weigh Authorization, Consent, and Agentic AI - jdsupra.com",
+      "url": "https://www.jdsupra.com/legalnews/amazon-v-perplexity-courts-weigh-5417167/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 19:47:11",
+      "title": "Republic of Ireland v North Macedonia - Who has impressed you? - BBC",
+      "url": "https://www.bbc.com/sport/football/articles/crm1k7ggmg2o",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 19:43:00",
+      "title": "🎥 At Bosnia v Italy it kicks off! Block of flats ablaze, Bastoni sees red - Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/bosnia-vs-italy-goes-flames-194300284.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 19:00:15",
+      "title": "Chelsea Women (1) v Arsenal (3) Preview - Arseblog News",
+      "url": "https://arseblog.news/2026/03/chelsea-women-1-v-arsenal-3-preview/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 18:56:00",
+      "title": "Bayern v United: What's the team news? - Manchester United",
+      "url": "https://www.manutd.com/en/news/detail/man-utd-women-team-news-pre-bayern-munich-away-terland",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 18:38:00",
+      "title": "Clare V. bags are a colorful rebellion against quiet luxury, and I'm here for it - Business Insider",
+      "url": "https://www.businessinsider.com/guides/style/clare-v-review",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 18:24:40",
+      "title": "GTA V voice actor Shawn Fonteno visits campus, surprises class - The Daily Beacon",
+      "url": "https://utdailybeacon.com/210950/news/gta-v-voice-actor-shawn-fonteno-visits-campus-surprises-class/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 18:20:00",
+      "title": "Five questions that will shape boys lacrosse season - Democrat and Chronicle",
+      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-boys-lacrosse-five-questions-for-2026-season/89112337007/?gca-cat=p&gnt-cfr=1",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 18:05:00",
+      "title": "These five matchups will be pivotal for boys lacrosse season - Democrat and Chronicle",
+      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-boys-lacrosse-five-matchups-to-watch-this-spring/89327190007/?gca-cat=p&gnt-cfr=1",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 18:02:05",
+      "title": "Liquid survive and advance in lower bracket v. HAVU at DraculaN Season 6 - Dust2.us",
+      "url": "https://www.dust2.us/news/72275/liquid-survive-and-advance-in-lower-bracket-v-havu-at-draculan-season-6",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 17:41:00",
+      "title": "These 123 Section V players are on the AGR boys lacrosse watch list - Democrat and Chronicle",
+      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-boys-lacrosse-watch-list-for-all-greater-rochester-team/89112364007/?gca-cat=p&gnt-cfr=1",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 16:59:00",
+      "title": "Stunlock Studios is No Longer Making New V Rising Content, Instead Moving On To a New Game Set Within the World of V Rising - Wccftech",
+      "url": "https://wccftech.com/v-rising-studio-getting-no-new-content-stunlock-studio-moving-to-new-project/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 16:47:00",
+      "title": "Obituary: Geist, Timothy V. - WTAP",
+      "url": "https://www.wtap.com/2026/03/31/obituary-geist-timothy-v/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 16:45:50",
+      "title": "Elastos Shares ElatOS Development Update Ahead of v.1.2 - tradingview.com",
+      "url": "https://www.tradingview.com/news/coindar:090b38b82094b:0-elastos-shares-elatos-development-update-ahead-of-v-1-2/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 16:41:36",
+      "title": "Who’s Ready to Invade Cuba?! - The Bulwark",
+      "url": "https://www.thebulwark.com/p/whos-ready-to-invade-cuba",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 16:16:00",
+      "title": "Spillin’ the Tea with Nikki V - KCTV",
+      "url": "https://www.kctv5.com/2026/03/31/spillin-tea-with-nikki-v/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 15:55:35",
+      "title": "Fancy Owning a Road-Legal 1960's Race Car? Lola Just Announced a Continuation of the V-8-Powered T70 - Car and Driver",
+      "url": "https://www.caranddriver.com/news/a70894413/lola-t70-v8-powered-continuation-announced/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 14:58:12",
+      "title": "UND closing in on all-time college hockey record - Grand Forks Herald",
+      "url": "https://www.grandforksherald.com/sports/und-hockey/und-closing-in-on-all-time-college-hockey-record",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 14:50:00",
+      "title": "Section V baseball to require safety base at first by 2027 - Democrat and Chronicle",
+      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-baseball-to-require-safety-base-at-first-base-by-2027/89381554007/?gca-cat=p&gnt-cfr=1",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 14:42:00",
+      "title": "More Section V baseball teams will take home titles in 2026 ions - Democrat and Chronicle",
+      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-baseball-adds-classifications-for-2026-season/89377014007/?gca-cat=p&gnt-cfr=1",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 14:31:05",
+      "title": "Obituary for Oretha \"Honey\" Byrd - Ronald V. Hall Funeral Home",
+      "url": "https://www.ronaldvhall.com/obituary/OrethaHoney-Byrd",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 14:30:00",
+      "title": "The Section V softball records that still define the standard - Democrat and Chronicle",
+      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-softball-records-for-hitting-pitching-coaching/89376526007/?gca-cat=p&gnt-cfr=1",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 14:26:19",
+      "title": "Cameron Art Museum acquires Ayana V. Jackson work - WECT",
+      "url": "https://www.wect.com/2026/03/31/cameron-art-museum-acquires-ayana-v-jackson-work/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 14:15:33",
+      "title": "7 Questions Left Over From 'Gen V' That 'The Boys' Can Answer - tvinsider.com",
+      "url": "https://www.tvinsider.com/gallery/gen-v-season-2-questions-for-the-boys-season-5/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 13:53:44",
+      "title": "The Dissenter’s Dilemma and Trump v. CASA - Divided Argument | Substack",
+      "url": "https://blog.dividedargument.com/p/the-dissenters-dilemma-and-trump",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 09:24:13",
+      "title": "Too Seedless to Infringe? Nador cott v Asda and the Dependent Variety Question - Wolters Kluwer",
+      "url": "https://legalblogs.wolterskluwer.com/patent-blog/too-seedless-to-infringe-nador-cott-v-asda-and-the-dependent-variety-question/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:25:11",
+      "title": "BTS's V Vows to Master English: 'No Excuses This Time' - chosun.com",
+      "url": "https://www.chosun.com/english/kpop-culture-en/2026/03/31/U2UY6Z4Z2RDU7KHPXFGVBEH3QA/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:01:04",
+      "title": "Reverend Emma V. Neff - Cadillac News",
+      "url": "https://www.cadillacnews.com/obituaries/reverend-emma-v-neff/article_6567e76d-1856-54f3-982f-c852e8fbaa2f.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 05:42:03",
+      "title": "BTS' V sparks buzz with English study push after RM comment - The Korea Times",
+      "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260331/bts-v-sparks-buzz-with-english-study-push-after-rm-comment",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 05:31:53",
+      "title": "England v Japan: Who are the Samurai Blue players to watch out for? - BBC",
+      "url": "https://www.bbc.com/sport/football/articles/cgldy0p024ro",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 05:02:57",
+      "title": "Sandra V. Lizotte - Monadnock Ledger-Transcript",
+      "url": "https://ledgertranscript.com/2026/03/31/obit-sandra-v-lizotte-211136152/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 04:26:47",
+      "title": "USA Must Rediscover Intensity In Tuneup v. Portugal: 'That's Non-Negotiable' - FOX Sports",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-2026-usa-portugal-pochettino",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 04:25:43",
+      "title": "Mary V. Flynn - citizensvoice.com",
+      "url": "https://www.citizensvoice.com/obituaries/mary-v-flynn-austin-tx/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 03:41:10",
+      "title": "Wales v Northern Ireland - the match nobody wants - BBC",
+      "url": "https://www.bbc.com/sport/football/articles/cwyvnrqd3zxo",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 02:02:32",
+      "title": "5th Anniversary V Foundation for Cancer Research Sonoma Epicurean Raises $3.5M to Fund Breakthrough Cancer Research - Wine Industry Advisor",
+      "url": "https://wineindustryadvisor.com/2026/03/30/5th-anniversary-v-foundation-for-cancer-research-sonoma-epicurean-raises-3-5m/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 21:07:43",
+      "title": "Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest - NASASpaceFlight.com -",
+      "url": "https://www.nasaspaceflight.com/2026/03/launch-preview-033026/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 19:02:53",
+      "title": "Obituary for Richard V. Cassineri - plainvillefh.com",
+      "url": "https://www.plainvillefh.com/obituary/Richard-Cassineri",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 17:24:49",
+      "title": "Why Souper Cereal v. Pistfriend was Biased: I’m Right, You’re Wrong - The Irvington Voice",
+      "url": "https://ihsvoice.com/2026/03/30/why-souper-cereal-v-pistfriend-was-biased-im-right-youre-wrong/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 14:34:37",
+      "title": "State v. Ducker Brief: Defending the Second Amendment Rights of North Carolinians - Cato Institute",
+      "url": "https://www.cato.org/blog/state-v-ducker-brief-defending-second-amendment-rights-north-carolinians",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 13:40:41",
+      "title": "Trump v. Barbara: the Supreme Court case that could redefine birthright citizenship - Jurist.org",
+      "url": "https://www.jurist.org/features/2026/03/30/trump-v-barbara-the-supreme-court-case-that-could-redefine-birthright-citizenship/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 13:26:01",
+      "title": "PTX Metals Inc. (PTX.V) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/PTX.V/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 12:00:00",
+      "title": "Defending Against the Unlawful Seizure of Ballots (Cervantes v. Bianco) - Campaign Legal Center",
+      "url": "https://campaignlegal.org/cases-actions/defending-against-unlawful-seizure-ballots-cervantes-v-bianco",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-30 06:25:03",
+      "title": "This handsome face made BTS' V give up his dream — for a while - The Korea Times",
+      "url": "https://www.koreatimes.co.kr/entertainment/others/20260330/this-handsome-face-made-bts-v-give-up-his-dream-for-a-while",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 02:15:00",
+      "title": "Raising Arizona 2026 V.2 - Lone Star Ball",
+      "url": "https://www.lonestarball.com/texas_rangers_prospects_and_minor_league_news/89383/raising-arizona-2026-v-2",
+      "sentiment": "Growth"
     },
     {
       "date": "2026-03-29 20:15:35",
       "title": "V.com weekend vote: How would you rate your own violin or viola posture? - Violinist.com",
       "url": "https://www.violinist.com/blog/laurie/20263/30703/",
       "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 20:04:31",
-      "title": "Jin Takes V and Jimin to the Kitchen for a Fun ‘Janchi Guksu’ Cooking Lesson - WPRO",
-      "url": "https://www.997wpro.com/2026/03/29/jin-takes-v-and-jimin-to-the-kitchen-for-a-fun-janchi-guksu-cooking-lesson/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 19:55:35",
-      "title": "Barca v Unicaja - Courtside 1891",
-      "url": "https://www.courtside1891.basketball/videos/4478432/barca-v-unicaja",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 19:46:20",
-      "title": "Highlights | Swansea City Women v The New Saints Women - Swansea City",
-      "url": "https://www.swanseacity.com/news/highlights-swansea-city-women-v-new-saints-women",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 19:41:37",
-      "title": "Clément Turpin to referee Bosnia v Italy World Cup 2026 play-off final - OneFootball",
-      "url": "https://onefootball.com/en/news/clement-turpin-to-referee-bosnia-v-italy-world-cup-2026-play-off-final-42633275",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 19:20:53",
-      "title": "\"I’m Waiting for the 2026 RAV4 Hybrid\": Why One Buyer Just Walked Away From a Better Deal on the Honda CR-V - Torque News",
-      "url": "https://www.torquenews.com/1084/im-waiting-2026-rav4-hybrid-why-one-buyer-just-walked-away-better-deal-honda-cr-v",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-29 18:42:29",
-      "title": "Man United - Manchester City FC",
-      "url": "https://www.mancity.com/matchday/fixtures/womens/2025/barclays-wsl/man-united-v-man-city-29-mar-2026?page=Commentary",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 18:15:07",
-      "title": "Review: HENRY V, Royal Shakespeare Theatre - BroadwayWorld.com",
-      "url": "https://www.broadwayworld.com/westend/article/Review-HENRY-V-Royal-Shakespeare-Theatre-20260329",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 18:03:11",
-      "title": "Watch Live - Kayo Sports",
-      "url": "https://kayosports.com.au/en-US/home",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 17:18:09",
-      "title": "New Gundam Game Features Epic 5 v 5 Battles (And It Arrives Later This Year) - ComicBook.com",
-      "url": "https://comicbook.com/gaming/news/new-gundam-game-features-epic-5-v-5-battles-and-it-arrives-later-this-year/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-29 17:12:35",
-      "title": "📸 Silencing the home crowd, France's final line-up v Colombia - OneFootball",
-      "url": "https://onefootball.com/en/news/silencing-the-home-crowd-frances-final-line-up-v-colombia-42632672",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 17:00:38",
-      "title": "América Women v Atlas – when and where to watch live? - OneFootball",
-      "url": "https://onefootball.com/en/news/america-women-v-atlas-when-and-where-to-watch-live-42632733",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 16:48:06",
-      "title": "Sale v Bath: Five takeaways as Bomb Squad perform 'epic rescue act' to leave Sharks 'soul-searching' - Planet Rugby",
-      "url": "https://www.planetrugby.com/news/sale-v-bath-five-takeaways-as-bomb-squad-perform-epic-rescue-act-to-leave-sharks-soul-searching",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 16:38:00",
-      "title": "📸 Cold shower at home.... France's last line-up v Colombia - Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/france-last-line-against-colombia-163800355.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 15:54:04",
-      "title": "Titleist-Vokey-WedgeWorks-V-Grind - Golficity",
-      "url": "https://golficity.com/first-look-titleist-unveils-new-vokey-wedgeworks-grind-lineup/titleist-vokey-wedgeworks-v-grind/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 15:42:15",
-      "title": "Kit colours leave players and viewers struggling in United States v Belgium friendly - OneFootball",
-      "url": "https://onefootball.com/en/news/kit-colours-leave-players-and-viewers-struggling-in-united-states-v-belgium-friendly-42632461",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 15:04:30",
-      "title": "NCCC News : FOLLOW LIVE: NOTTS V MIDDLESEX DAY ONE - Trent Bridge",
-      "url": "https://www.trentbridge.co.uk/news/2026/march/follow-live-notts-v-middlesex-day-one.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 14:04:00",
-      "title": "Visa Stock (V) Opinions on 52-Week Lows and AI Initiatives - Quiver Quantitative",
-      "url": "https://www.quiverquant.com/news/Visa+Stock+%28V%29+Opinions+on+52-Week+Lows+and+AI+Initiatives",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 13:42:45",
-      "title": "Bosnia v Italy is worth 30 million: the figures for the FIGC - Goal.com",
-      "url": "https://www.goal.com/en/lists/bosnia-v-italy-is-worth-30-million-the-figures-for-the-figc/bltfedba201a3d20a69",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 13:05:18",
-      "title": "BTS V's Father, Ex-MBC FD, Dreamed of Entertainment; V Succeeds - 조선일보",
-      "url": "https://www.chosun.com/english/kpop-culture-en/2026/03/29/VVV5YW4SIZG6NHCQRKM2HMMLSA/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 13:02:36",
-      "title": "WATCH LIVE: Palace Women v Charlton - Crystal Palace F.C.",
-      "url": "https://www.cpfc.co.uk/news/women/watch-live-palace-women-v-charlton/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 13:00:00",
-      "title": "Chelsea Women v Aston Villa Women | Match | Official Site - Chelsea Football Club",
-      "url": "https://www.chelseafc.com/en/match/chelsea-women-vs-aston-villa-women-english-womens-super-league-2026-03-29",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 12:22:44",
-      "title": "Allianz Football League finals recap - RTE.ie",
-      "url": "https://www.rte.ie/sport/football/2026/0329/1565759-sundays-allianz-league-finals-updates/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 12:15:42",
-      "title": "Gallery | Swansea City Women v The New Saints Women - Swansea City",
-      "url": "https://www.swanseacity.com/news/gallery-swansea-city-women-v-new-saints-women-2",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 11:13:45",
-      "title": "Watch Live - Kayo Sports",
-      "url": "https://kayosports.com.au/en-US/home",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-29 10:18:19",
-      "title": "Itauma v Franklin: Moses Itauma knocks out Jermaine Franklin in Manchester - BBC",
-      "url": "https://www.bbc.com/sport/boxing/videos/cy015zjndnyo",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 10:08:32",
-      "title": "Your Honda HR-V Can Finally Pull Off The Full Mugen Look - Carscoops",
-      "url": "https://www.carscoops.com/2026/03/your-honda-hr-v-can-finally-pull-off-the-full-mugen-look/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 10:00:00",
-      "title": "DLSS 5 Isn't Anywhere Near As Impressive As V-Rally 3 on the Game Boy Advance - IGN",
-      "url": "https://www.ign.com/articles/dlss-5-isnt-anywhere-near-as-impressive-as-v-rally-3-on-the-game-boy-advance",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 10:00:00",
-      "title": "City v Liverpool: Kick-off time, team news and TV information - Manchester City FC",
-      "url": "https://www.mancity.com/news/mens/city-v-liverpool-fa-cup-match-preview-63910370",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 10:00:00",
-      "title": "DLSS 5 will Never Look as Good as V-Rally 3 on the Game Boy Advance - IGN",
-      "url": "https://www.ign.com/videos/dlss-5-will-never-look-as-good-as-v-rally-3-on-the-game-boy-advance",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-29 10:00:00",
-      "title": "DLSS 5 will Never Look as Good as V-Rally 3 on the Game Boy Advance - IGN Nordic",
-      "url": "https://www.ign.com/videos/dlss-5-will-never-look-as-good-as-v-rally-3-on-the-game-boy-advance",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-29 09:00:00",
-      "title": "How can I watch City v Liverpool on TV? - Manchester City FC",
-      "url": "https://www.mancity.com/news/mens/city-v-liverpool-tv-listings-63910112",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 08:00:00",
-      "title": "Important dates to know as Section V girls lacrosse season begins - Democrat and Chronicle",
-      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/29/important-dates-as-2026-girls-lacrosse-season-begins-in-section-v/89344403007/?gca-cat=p&gnt-cfr=1",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 07:26:00",
-      "title": "Section V baseball season races weather, calendar - Democrat and Chronicle",
-      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/29/section-v-baseball-2026-key-dates-and-tournament-schedule/89364596007/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 07:10:38",
-      "title": "PTX Metals Inc. (PTX.V) Stock Price, News, Quote & History - finance.yahoo.com",
-      "url": "https://finance.yahoo.com/quote/PTX.V/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 07:00:00",
-      "title": "Section V softball adds two classes ahead of 2026 postseason - Democrat and Chronicle",
-      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/29/section-v-softball-classification-alignments-for-the-2026-season/89327261007/?gca-cat=p&gnt-cfr=1",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 02:12:19",
-      "title": "ULA Atlas V Rocket Launch Pushed Back Due to Weather Forecast Early Sunday at Cape Canaveral - Space Coast Daily",
-      "url": "https://spacecoastdaily.com/2026/03/ula-atlas-v-rocket-launch-pushed-back-due-to-weather-forecast-early-sunday-from-cape-canaveral/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 22:51:00",
-      "title": "This Day in History: Ruling made in United States v. Wong Kim Ark - wdbj7.com",
-      "url": "https://www.wdbj7.com/2026/03/28/this-day-history-ruling-made-united-states-v-wong-kim-ark/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 18:03:02",
-      "title": "Connacht v Ospreys: Five takeaways as 'constant thorn' undone by yellow card - Planet Rugby",
-      "url": "https://www.planetrugby.com/news/connacht-v-ospreys-five-takeaways-as-constant-thorn-undone-by-yellow-card-and-hosts-get-timely-prompt-from-two-try-hero",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 17:46:47",
-      "title": "Tickets and information for United Women v City - Manchester United",
-      "url": "https://www.manutd.com/en/news/detail/get-tickets-for-united-women-v-man-city-28-march-2026",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 15:08:01",
-      "title": "Bulls v Munster: Five takeaways as Springboks star is 'saved by the bunker' while Irish province a 'different beast' with Jack Crowley - Planet Rugby",
-      "url": "https://www.planetrugby.com/news/bulls-v-munster-five-takeaways-as-springboks-star-is-saved-by-the-bunker-while-irish-province-a-different-beast-with-jack-crowley",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 13:56:14",
-      "title": "Obituary for Pauline (Mosley) Petrosky - ronaldvhall.com",
-      "url": "https://www.ronaldvhall.com/obituary/Pauline-Petrosky",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 13:01:22",
-      "title": "Which Dodge Muscle Car Tests Better: The New Six-Cylinder Charger or the Old V-8 Challenger? - caranddriver.com",
-      "url": "https://www.caranddriver.com/news/a70783117/dodge-charger-six-cylinder-vs-challenger-v8-test-results-compared/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 09:00:00",
-      "title": "How can I watch Manchester United v City on TV? - Manchester City FC",
-      "url": "https://www.mancity.com/news/womens/united-v-city-women-tv-listings-63909856",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 07:22:31",
-      "title": "Sydney FC vs. Melbourne V (Mar 28, 2026) Live Score - ESPN",
-      "url": "https://www.espn.com/soccer/match/_/gameId/758673",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 23:28:00",
-      "title": "Haier oslavuje v Paríži excelentnosť s novým portfóliom pre inteligentnú domácnosť - PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/haier-oslavuje-v-parii-excelentnos-s-novym-portfoliom-pre-inteligentnu-domacnos-302727776.html",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-27 20:37:05",
-      "title": "What does an 8-year-old do after winning a Grammy? Fractions - NPR",
-      "url": "https://www.npr.org/2026/03/27/nx-s1-5742754/grammy-aura-fyutch-youngest-winner",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 19:27:40",
-      "title": "The Trump Administration Has Been Sued 650 Times. Track These Cases. - The New York Times",
-      "url": "https://www.nytimes.com/interactive/2026/us/trump-administration-lawsuits.html",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-27 07:00:00",
-      "title": "HI v. Gerhardt Konig: Trouble in Paradise Trial - Court TV",
-      "url": "https://www.courttv.com/news/hi-v-gerhardt-konig-trouble-in-paradise-trial/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 07:00:00",
-      "title": "MA v. Judy Church: Death by Antifreeze Trial - Court TV",
-      "url": "https://www.courttv.com/news/ma-v-judy-church-death-by-antifreeze-trial/",
-      "sentiment": "Neutral"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-27 ──\n  [Growth] Haier oslavuje v Paríži excelentnosť s novým portfóliom pre inteligentnú domácnosť - PR Newswire\n  [Neutral] What does an 8-year-old do after winning a Grammy? Fractions - NPR\n  [Risk] The Trump Administration Has Been Sued 650 Times. Track These Cases. - The New York Times\n  [Neutral] HI v. Gerhardt Konig: Trouble in Paradise Trial - Court TV\n  [Neutral] MA v. Judy Church: Death by Antifreeze Trial - Court TV\n\n── 2026-03-28 ──\n  [Neutral] This Day in History: Ruling made in United States v. Wong Kim Ark - wdbj7.com\n  [Neutral] Connacht v Ospreys: Five takeaways as 'constant thorn' undone by yellow card - Planet Rugby\n  [Neutral] Tickets and information for United Women v City - Manchester United\n  [Neutral] Bulls v Munster: Five takeaways as Springboks star is 'saved by the bunker' while Irish province a 'different beast' with Jack Crowley - Planet Rugby\n  [Neutral] Obituary for Pauline (Mosley) Petrosky - ronaldvhall.com\n  [Neutral] Which Dodge Muscle Car Tests Better: The New Six-Cylinder Charger or the Old V-8 Challenger? - caranddriver.com\n  [Neutral] How can I watch Manchester United v City on TV? - Manchester City FC\n  [Neutral] Sydney FC vs. Melbourne V (Mar 28, 2026) Live Score - ESPN\n\n── 2026-03-29 ──\n  [Neutral] BTS V’s father also dreamed of being an entertainer: “I’m the only one who made it” (‘Fairy Jae-hyung’) - 매일경제\n  [Neutral] Mullins Madness! Freshman's 35-footer gives UConn a 73-72 win over Duke and a Final Four spot - NBC Connecticut\n  [Neutral] 🚨 Pasto v Atlético Nacional line-ups are in - OneFootball\n  [Neutral] 🚨 Pasto v Atlético Nacional line-ups are in - Yahoo Sports\n  [Neutral] BTS' V Calls J-Hope Group's Military-Style Leader - 조선일보\n  [Neutral] BTS V Bulks Up to 80kg in Military, Members Joke About Retirement - 조선일보\n  [Neutral] BTS V builds muscle in SDT, gains to 80kg then trims to 67kg - CHOSUNBIZ - Chosunbiz\n  [Neutral] BTS V names J‑Hope strictest, says members follow orders - CHOSUNBIZ - Chosunbiz\n  [Neutral] France are a force to be reckoned with: a 3-1 win over Colombia with a reserve side, a brace from Doué and a goal from Thuram - Goal.com\n  [Neutral] OSU vs. NW MTEN 32926 | Photo Galleries - Ohio State | Official Athletics Website\n  [Neutral] Tech: The Carr v. Cruz tactical divide - Punchbowl News\n  [Neutral] BTS V recalls ARMY forming purple lines at airports to protect members - CHOSUNBIZ - Chosunbiz\n  [Neutral] Neymar ‘to use’ Flamengo v Santos as key World Cup audition - OneFootball\n  [Neutral] V.com weekend vote: How would you rate your own violin or viola posture? - Violinist.com\n  [Neutral] Jin Takes V and Jimin to the Kitchen for a Fun ‘Janchi Guksu’ Cooking Lesson - WPRO\n  [Neutral] Barca v Unicaja - Courtside 1891\n  [Neutral] Highlights | Swansea City Women v The New Saints Women - Swansea City\n  [Neutral] Clément Turpin to referee Bosnia v Italy World Cup 2026 play-off final - OneFootball\n  [Growth] \"I’m Waiting for the 2026 RAV4 Hybrid\": Why One Buyer Just Walked Away From a Better Deal on the Honda CR-V - Torque News\n  [Neutral] Man United - Manchester City FC\n  [Neutral] Review: HENRY V, Royal Shakespeare Theatre - BroadwayWorld.com\n  [Neutral] Watch Live - Kayo Sports\n  [Growth] New Gundam Game Features Epic 5 v 5 Battles (And It Arrives Later This Year) - ComicBook.com\n  [Neutral] 📸 Silencing the home crowd, France's final line-up v Colombia - OneFootball\n  [Neutral] América Women v Atlas – when and where to watch live? - OneFootball\n  [Neutral] Sale v Bath: Five takeaways as Bomb Squad perform 'epic rescue act' to leave Sharks 'soul-searching' - Planet Rugby\n  [Neutral] 📸 Cold shower at home.... France's last line-up v Colombia - Yahoo Sports\n  [Neutral] Titleist-Vokey-WedgeWorks-V-Grind - Golficity\n  [Neutral] Kit colours leave players and viewers struggling in United States v Belgium friendly - OneFootball\n  [Neutral] NCCC News : FOLLOW LIVE: NOTTS V MIDDLESEX DAY ONE - Trent Bridge\n  [Neutral] Visa Stock (V) Opinions on 52-Week Lows and AI Initiatives - Quiver Quantitative\n  [Neutral] Bosnia v Italy is worth 30 million: the figures for the FIGC - Goal.com\n  [Neutral] BTS V's Father, Ex-MBC FD, Dreamed of Entertainment; V Succeeds - 조선일보\n  [Neutral] WATCH LIVE: Palace Women v Charlton - Crystal Palace F.C.\n  [Neutral] Chelsea Women v Aston Villa Women | Match | Official Site - Chelsea Football Club\n  [Neutral] Allianz Football League finals recap - RTE.ie\n  [Neutral] Gallery | Swansea City Women v The New Saints Women - Swansea City\n  [Negative] Watch Live - Kayo Sports\n  [Neutral] Itauma v Franklin: Moses Itauma knocks out Jermaine Franklin in Manchester - BBC\n  [Neutral] Your Honda HR-V Can Finally Pull Off The Full Mugen Look - Carscoops\n  [Neutral] DLSS 5 Isn't Anywhere Near As Impressive As V-Rally 3 on the Game Boy Advance - IGN\n  [Neutral] City v Liverpool: Kick-off time, team news and TV information - Manchester City FC\n  [Negative] DLSS 5 will Never Look as Good as V-Rally 3 on the Game Boy Advance - IGN\n  [Negative] DLSS 5 will Never Look as Good as V-Rally 3 on the Game Boy Advance - IGN Nordic\n  [Neutral] How can I watch City v Liverpool on TV? - Manchester City FC\n  [Neutral] Important dates to know as Section V girls lacrosse season begins - Democrat and Chronicle\n  [Neutral] Section V baseball season races weather, calendar - Democrat and Chronicle\n  [Neutral] PTX Metals Inc. (PTX.V) Stock Price, News, Quote & History - finance.yahoo.com\n  [Neutral] Section V softball adds two classes ahead of 2026 postseason - Democrat and Chronicle\n  [Neutral] ULA Atlas V Rocket Launch Pushed Back Due to Weather Forecast Early Sunday at Cape Canaveral - Space Coast Daily",
-    "sentiment_block": "총 뉴스 63건 분석 결과:\n  Positive     0건 (  0.0%) \n  Growth       3건 (  4.8%) \n  Neutral     56건 ( 88.9%) █████████████████\n  Mixed        0건 (  0.0%) \n  Risk         1건 (  1.6%) \n  Negative     3건 (  4.8%) \n\n날짜별 감정 흐름:\n  2026-03-27: Neutral:3, Growth:1, Risk:1\n  2026-03-28: Neutral:8\n  2026-03-29: Neutral:45, Negative:3, Growth:2",
-    "analyst_block": ""
+    "news_block": "\n── 2026-03-29 ──\n  [Neutral] V.com weekend vote: How would you rate your own violin or viola posture? - Violinist.com\n\n── 2026-03-30 ──\n  [Growth] Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest - NASASpaceFlight.com -\n  [Neutral] Obituary for Richard V. Cassineri - plainvillefh.com\n  [Neutral] Why Souper Cereal v. Pistfriend was Biased: I’m Right, You’re Wrong - The Irvington Voice\n  [Neutral] State v. Ducker Brief: Defending the Second Amendment Rights of North Carolinians - Cato Institute\n  [Risk] Trump v. Barbara: the Supreme Court case that could redefine birthright citizenship - Jurist.org\n  [Neutral] PTX Metals Inc. (PTX.V) Stock Price, News, Quote & History - Yahoo Finance\n  [Negative] Defending Against the Unlawful Seizure of Ballots (Cervantes v. Bianco) - Campaign Legal Center\n  [Neutral] This handsome face made BTS' V give up his dream — for a while - The Korea Times\n  [Growth] Raising Arizona 2026 V.2 - Lone Star Ball\n\n── 2026-03-31 ──\n  [Neutral] Preview: Bayern v United Women - Manchester United\n  [Neutral] São Paulo v Internacional: where to watch, tips and kick-off time - OneFootball\n  [Neutral] England v Japan: Water breaks in friendly to mimic World Cup conditions - BBC\n  [Neutral] HI v. Gerhardt Konig: Trouble in Paradise Trial - Court TV\n  [Neutral] Internacional v São Paulo: top-three push meets mid-table climb in the Brasileirão - OneFootball\n  [Neutral] SCOTUS Defends Christian Counselor’s Right to Confidentiality - National Catholic Register\n  [Neutral] A mom let her son use her card to buy GTA V in 2013 and accidentally won a real-life custom Dodge Viper she never knew she entered for - supercarblondie.com\n  [Growth] A new Ryzen chip is pushing cache tech harder than anything - TechRadar\n  [Positive] US stocks rebound as market achieves rare 'V-Bottom' - Yahoo Finance\n  [Negative] After Uruguay friendlies, Canobbio misses Fluminense v Corinthians - OneFootball\n  [Negative] Beset by problems: São Paulo miss 10 v Inter, Roger names new faces - OneFootball\n  [Neutral] The why of the V - Austin Daily Herald\n  [Neutral] Anthony V. ‘Tony’ Russo, 63, Arnold - Leader Publications\n  [Neutral] Ireland player ratings v North Macedonia: Dara O’Shea and Finn Azaz stand out in stalemate - The Irish Times\n  [Neutral] FIFA World Cup - UEFA Qualifiers - Finals - Bosnia and Herzegovina v Italy - UnionLeader.com\n  [Neutral] Turkey beat Kosovo to reach first World Cup in 24 years - BBC\n  [Neutral] Sapiro v. Ford: The Jew Who Sued Henry Ford with Jennifer Bardi, Carol King, Gaylen Ross and Ben Shenkman - Moment Magazine\n  [Neutral] Visa (V) Receives New Analyst Rating from Loop Capital | V Stock News - GuruFocus\n  [Growth] Visa Inc. (V) Joins Canton Network to Accelerate Financials Mainstream Onchain Transition - Yahoo Finance\n  [Neutral] BTS' V Gets Serious About Learning English: ‘I’m Locking in for Real This Time No Excuses' - Complex",
+    "sentiment_block": "총 뉴스 67건 분석 결과:\n  Positive     4건 (  6.0%) █\n  Growth       6건 (  9.0%) █\n  Neutral     50건 ( 74.6%) ██████████████\n  Mixed        0건 (  0.0%) \n  Risk         4건 (  6.0%) █\n  Negative     3건 (  4.5%) \n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:1\n  2026-03-30: Neutral:5, Growth:2, Risk:1, Negative:1\n  2026-03-31: Neutral:44, Growth:4, Positive:4, Risk:3, Negative:2",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 52  Hold: 8  Sell: 0  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $425  Low: $160  Consensus: $377.83  Median: $394.5\n▶ 실적 추정치 (2030-09)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "# 투자 분석 보고서\n\n## [핵심 요약]\n* 3일간 63건의 뉴스 분석 결과, 대부분(88.9%)이 중립적 뉴스로 구성\n* Growth 신호 3건(4.8%), Negative 3건(4.8%), Risk 1건(1.6%)으로 제한적\n* 뉴스 포트폴리오가 다양한 산업·주제에 분산되어 있어 특정 투자 대상의 명확한 신호 부족\n\n---\n\n## [전체 흐름 분석]\n\n**데이터의 구조적 특성:**\n수집된 뉴스가 스포츠, 엔터테인먼트, 자동차, 게임, 우주, 법률 등 광범위한 분야에 걸쳐 있습니다. 이는 특정 기업이나 산업에 집중된 분석이 아닌, 일반 뉴스 피드 성격의 데이터로 보입니다.\n\n**시간 경과에 따른 감정 변화:**\n- **3월 27일**: Growth(Haier 스마트홈 포트폴리오 전시회), Risk(트럼프 행정부 소송) 혼재\n- **3월 28일**: 완전한 중립 상태 지속(8건 모두 Neutral)\n- **3월 29일**: 중립이 주도적(45건)이나 Negative 신호 3건 증가, Growth 2건 추가\n\n**시장 신호의 약약성:**\n전체적으로 강한 긍정 신호(Positive: 0건) 부재, 중립 지배적 구조는 시장의 방향성 부족을 암시합니다.\n\n---\n\n## [긍정 요인]\n\n* **Haier 스마트홈 포트폴리오(3월 27일)**: 파리 전시회 통해 혁신적 제품 라인업 공개 - IoT 시장 성장 수혜 가능성\n* **자동차 산업 수요 신호(3월 29일)**: \n  - RAV4 Hybrid 대기 수요 증가(구매자가 더 나은 CR-V를 포기하고 대기 중)\n  - 이는 소비자 신뢰도와 특정 모델에 대한 강한 선호도 반영\n* **엔터테인먼트/게임 섹터 활동**: 신작 Gundam 게임 출시(5v5 배틀), 다양한 콘텐츠 확대\n\n---\n\n## [부정 요인]\n\n* **강한 긍정 신호 전무(0%)**: Positive 지정 뉴스가 전혀 없음 - 명확한 상승 모멘텀 부재\n* **Negative 신호 출현(3건, 4.8%)**: \n  - DLSS 5 기술 이슈 반복(3월 29일)\n  - 기술 성능 기대치 미달 가능성\n* **Risk 신호 존재(1.6%)**: 트럼프 행정부 소송 650건 추적 - 규제 리스크 및 정치적 불확실성\n* **뉴스 데이터 품질**: 스포츠 경기 결과, 부고, 코트 판례 등 투자 분석과 무관한 콘텐츠 과다\n  - 분석 신뢰성 저하\n\n---\n\n## [투자 인사이트]\n\n**1. 데이터 신뢰성 문제**\n수집된 뉴스가 투자 대상의 펀더멘탈과 직결되지 않은 일반 뉴스 성격이므로, 이 데이터만으로는 투자 의사결정이 어렵습니다.\n\n**2. 시장 심리의 중립성**\n88.9%의 중립 감정은 명확한 시장 모멘텀이나 트렌드 변화 신호가 약함을 의미합니다. 강한 상승세나 하락세 진입 기반 부족.\n\n**3. 선택적 긍정 신호**\n- Haier의 혁신(스마트홈): 중장기 성장 잠재력 있으나 단편적\n- 자동차(RAV4 Hybrid): 소비자 선호도 강화 신호이나 개별 업체 분석 필요\n\n**4. 기술 리스크**\nDLSS 5 성능 이슈는 AI/그래픽 칩 관련 기업(NVIDIA 등)에 부정적일 가능성\n\n---\n\n## [투자 판단]\n\n**보류**\n\n---\n\n## [판단 근거]\n\n**1. 분석 기반 부족**\n- 뉴스 데이터가 특정 투자 대상의 구체적 정보를 제공하지 않음\n- Growth, Negative 신호가 모두 소수(각 4.8%)로 명확한 방향성 제시 불가\n- 데이터"
+  "investment_judgment": "# 투자 분석 종합 보고서\n\n## [핵심 요약]\n* 데이터 분석 대상: **Visa Inc. (V)** - 글로벌 결제 네트워크 회사\n* 분석 기간: 3월 29-31일 (3일)\n* 주요 뉴스: Visa의 Canton Network 참여 공식 발표 및 애널리스트의 일관된 긍정 평가\n* 시장 심리: 전반적으로 건전하고 긍정적 흐름 (중립 74.6%, 성장/긍정 15% vs 부정/위험 10.5%)\n\n---\n\n## [전체 흐름 분석]\n\n**데이터 특성:**\n분석 대상 67건의 뉴스 중 대다수(74.6%)가 중립적 성격이며, 이는 주로 스포츠, 법률, 부고 등 무관한 콘텐츠로 추정됩니다. 그러나 **Visa 관련 실질적 뉴스는 3건으로 수렴**되며, 모두 긍정적 신호를 전달합니다.\n\n**시간 경과에 따른 변화:**\n- **3월 29일**: 관련 정보 부족\n- **3월 30일**: 성장 신호 나타나기 시작 (Growth 2건, Risk 1건)\n- **3월 31일**: **긍정 신호 강화** (Positive 4건, Growth 4건 증가) + \"V-Bottom\" 시장 회복 언급\n\n**핵심 이벤트:**\n1. **Visa의 Canton Network 참여** - 온체인(블록체인) 금융 시스템 주류화 가속화 전략\n2. **US 주식시장의 'V-Bottom' 형성** - 광범위한 시장 반등 신호\n3. **애널리스트 강한 지지** - Buy 52건 vs Hold 8건 (86.7% 긍정 평가)\n\n---\n\n## [긍정 요인]\n\n1. **전략적 포지셔닝 강화**\n   - Canton Network 참여는 디지털 금융 미래에 대한 선제적 대응\n   - 기존 결제 네트워크의 블록체인 통합을 통한 경쟁력 강화\n\n2. **광범위한 애널리스트 지지**\n   - Buy 평가 52건(강한 지지)\n   - 목표주가 컨센서스: $377.83 (중간값 $394.5)\n   - 상향폭 범위: $160~$425 (안정적 가치대 형성)\n\n3. **시장 회복세 동반**\n   - 미국 주식시장의 V-Bottom 형성은 기술/금융 섹터의 회복 신호\n   - 결제 인프라 기업으로서 경제 회복의 직접 수혜자\n\n4. **중립 vs 긍정 비율**\n   - 부정/위험 요소(10.5%)에 비해 긍정/성장(15%)이 상대적으로 우월\n\n---\n\n## [부정 요인]\n\n1. **정보 부족의 위험**\n   - 실적 추정치 완전 부재 (2030-09 예상 매출/EPS 모두 $0.0B/$0.00)\n   - 밸류에이션 지표 불가능 (P/E, P/B, EV/EBITDA, ROE 모두 N/A)\n   - **단기 재무 성과 평가 불가**\n\n2. **블록체인 관련 규제 리스크**\n   - Canton Network 참여는 기술 입증 초기 단계\n   - 온체인 금융의 규제 환경 불확실성 존재\n\n3. **소수의 위험 신호**\n   - Risk 등급 4건 포함 (트럼프 v. 바바라 사건 등 정치적 불확실성)\n   - Negative 3건 (스포츠 관련이나 감정 지표 하락)\n\n4. **분석 데이터의 한계**\n   - 60개 이상의 뉴스가 Visa와 무관한 내용\n   - 실질적 Visa 관련 정보는 3건에 불과 (신뢰도 제약)\n\n---\n\n## [투자 인사이트]\n\n**1. 전략적 혁신의 신호**\nVisa의 Canton Network 참여는 단순한 파트너십을 넘어 **결제 산업의 미래 먹거리 선점**을 의미합니다. 중앙은행 디지털화폐(CBDC)와 블록체인 기반 금융의 주류화라는 메가트렌드에 선제적으로 대응하고 있습니다.\n\n**2. 애널리스트 컨센서스의 강도**\n86.7%의 Buy 평가는 **시장이 Visa의 장기 성장성을 고평가**하고 있음을 의미합니다. 목표주가 폭($160~$425)은 광범위하지만, 컨센서스 $377.83은 현재 가치 기준 합리적 기대를 반영합니다.\n\n**3. 시장 회복 싸이클과의 동기화**\nV-Bottom 형성은 경제 기반 회복을 시사하며, 결제 거래량 기반의 Visa는 **경제 활동 회복의 직접 수혜자**입니다.\n\n**4. 데이터 품질의 한계**\n최근 재무 지표 부재는 **단기 실적 악화 가능성** 또는 **분석 시점의 비효율**을 시사합니다. 의사결정 전 공식 실적 자료 확인 필수입니다.\n\n---\n\n## [투자 판단]\n\n### **투자 / (조건부 강화 매수)**\n\n---\n\n## [판단 근거]\n\n**투자 추천 이유:**\n\n1. **강력한 애널리스트 지지 (86.7% Buy)**\n   - 52건의 Buy 평가는 대다수 투자은행/애널리스트의 확신을 반영\n   - Sell/Strong Sell 평가 0건은 극도로 부정적 전망 부재를 의미\n\n2. **전략적 포지셔닝 우월성**\n   - Canton Network 참여는 **결제 업계의 디지털 전환 리더십** 입증\n   - 기존 지배적 시장지위(글로벌 결제 네트워크)와 신성장 영역의 결합\n\n3. **시장 심리의 개선 추세**\n   - 3월 30-31일 긍정 신호 증가 추세\n   - 거시경제 회복(V-Bottom) 신호와 동시에 나타남\n\n4. **밸류에이션의 합리성**\n   - 목표주가 중간값 $394.5는 현실적 기대치\n   - 광범위한 범위($160~$425)는 시나리오별 가치 반영\n\n**단, 투자 시 주의사항:**\n\n- ⚠️ **실적 데이터 부재 - 투자 전 최신 분기 실적/가이던스 확인 필수**\n- ⚠️ **블록체인 규제 환경 모니터링 필요**\n- ⚠️ **단기 변동성 가능성** - 3개월 이상 장기 관점 권장\n\n**결론:** Visa의 전략적 혁신과 압도적 애널리스트 지지는 **중장기 성장성을 뒷받침**하나, 단기 실적 확인 후 진입 규모 결정을 권장합니다."
 }

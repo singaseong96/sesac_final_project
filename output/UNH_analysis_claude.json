@@ -1,202 +1,161 @@
 {
   "meta": {
     "symbol": "UNH",
-    "analysis_date": "2026-03-30T02:34:46.803476+00:00",
-    "news_period": "2026-03-27 ~ 2026-03-29",
-    "news_count": 27,
+    "analysis_date": "2026-04-01T10:30:29.950396+00:00",
+    "news_period": "2026-03-29 ~ 2026-03-31",
+    "news_count": 20,
     "model": "claude-haiku-4-5-20251001"
   },
   "sentiment_summary": {
     "Neutral": 12,
-    "Growth": 6,
     "Negative": 4,
-    "Risk": 4,
-    "Positive": 1
+    "Positive": 2,
+    "Mixed": 1,
+    "Risk": 1
   },
   "sentiment_by_date": {
-    "2026-03-27": {
-      "Neutral": 7,
-      "Negative": 4,
-      "Risk": 4,
-      "Growth": 3
-    },
-    "2026-03-28": {
-      "Neutral": 4,
-      "Growth": 3,
-      "Positive": 1
-    },
     "2026-03-29": {
-      "Neutral": 1
+      "Neutral": 2,
+      "Negative": 1
+    },
+    "2026-03-30": {
+      "Neutral": 5,
+      "Negative": 2,
+      "Risk": 1
+    },
+    "2026-03-31": {
+      "Neutral": 5,
+      "Positive": 2,
+      "Mixed": 1,
+      "Negative": 1
     }
   },
   "news_with_sentiment": [
+    {
+      "date": "2026-03-31 21:48:45",
+      "title": "UnitedHealth Group (NYSE:UNH) Trading 3.2% Higher - Should You Buy? - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-nyseunh-trading-32-higher-should-you-buy-2026-03-31/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-31 18:12:48",
+      "title": "UnitedHealth Group Inc (UNH) Shares Up 3.69% on Mar 31 - GuruFocus",
+      "url": "https://www.gurufocus.com/news/8762051/unitedhealth-group-inc-unh-shares-up-369-on-mar-31",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 14:22:08",
+      "title": "Bernstein Maintains UnitedHealth(UNH.US) With Buy Rating, Maintains Target Price $405 - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70911534/bernstein-maintains-unitedhealth-unhus-with-buy-rating-maintains-target-price?level=1&data_ticket=1775006624882232",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 10:19:25",
+      "title": "J. Safra Sarasin Holding AG Acquires 19,591 Shares of UnitedHealth Group Incorporated $UNH - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-j-safra-sarasin-holding-ag-acquires-19591-shares-of-unitedhealth-group-incorporated-unh-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 10:07:18",
+      "title": "Retirement Systems of Alabama Has $63.61 Million Stock Position in UnitedHealth Group Incorporated $UNH - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-retirement-systems-of-alabama-has-6361-million-stock-position-in-unitedhealth-group-incorporated-unh-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 09:43:14",
+      "title": "Mn Services Vermogensbeheer B.V. Increases Position in UnitedHealth Group Incorporated $UNH - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-increases-position-in-unitedhealth-group-incorporated-unh-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 09:08:00",
+      "title": "Wage gap myth, Dennett Road disconnect, guns on UNH campus: Letters - Seacoastonline.com",
+      "url": "https://www.seacoastonline.com/story/opinion/letters/2026/03/31/wage-gap-myth-dennett-road-disconnect-guns-on-unh-campus-letters/89391761007/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:06:00",
+      "title": "UNH Stock Slides Back Below Warren Buffett’s Entry Price As Annual Revenue Faces First Decline In 30 Years — AI May Be Long-Term Fix - stocktwits.com",
+      "url": "https://stocktwits.com/news-articles/markets/equity/unh-stock-below-buffett-entry-price-first-revenue-decline-30-years-ai/cZEPohoRINz",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-31 04:22:05",
+      "title": "UNHU | Direxion Daily UNH Bull Institutional Ownership - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/stock/UNHU/institutions/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 22:01:17",
+      "title": "UnitedHealth Group (NYSE:UNH) Trading Up 1.1% - Here's Why - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-nyseunh-trading-up-11-heres-why-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 16:34:15",
+      "title": "Letter to the editor: UNH is home to the state’s largest school of nursing - NH Business Review",
+      "url": "https://www.nhbr.com/letter-to-the-editor-unh-is-home-to-the-states-largest-school-of-nursing/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 14:20:42",
+      "title": "Unitedhealth Group Inc Stock (UNH) Moved Down by 3.89% on Mar 30: What Investors Need To Know - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261734131-market-movers-unh-20260330",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-30 11:15:05",
+      "title": "UnitedHealth UNH Dividend Signals Market Shift - Colitco",
+      "url": "https://colitco.com/unitedhealth-unh-dividend-schd-dip-buying-3003202615/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 10:45:48",
+      "title": "TrueMark Investments LLC Makes New $3.46 Million Investment in UnitedHealth Group Incorporated $UNH - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-truemark-investments-llc-makes-new-346-million-investment-in-unitedhealth-group-incorporated-unh-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 08:40:50",
+      "title": "Donaldson Capital Management LLC Lowers Stock Holdings in UnitedHealth Group Incorporated $UNH - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-donaldson-capital-management-llc-lowers-stock-holdings-in-unitedhealth-group-incorporated-unh-2026-03-30/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-30 07:11:15",
+      "title": "Maine women’s basketball season ends in America East Championship Game - The Maine Campus",
+      "url": "https://mainecampus.com/category/sports/2026/03/maine-womens-basketball-season-ends-in-america-east-championship-game/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 07:00:00",
+      "title": "From Strategy to Cybersecurity Leadership: Gina Yacone’s Journey to CISO - University of New Hampshire",
+      "url": "https://www.unh.edu/wildcat-voices/2026/03/strategy-cybersecurity-leadership-gina-yacones-journey-ciso",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 16:57:40",
+      "title": "Warren Buffett has lost over $265 million on historic UnitedHealth stock bet - Finbold",
+      "url": "https://finbold.com/warren-buffett-has-lost-over-265-million-on-historic-unitedhealth-stock-bet/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-29 11:27:31",
+      "title": "UnitedHealth Group Incorporated $UNH Holdings Lowered by Wedge Capital Management L L P NC - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-unitedhealth-group-incorporated-unh-holdings-lowered-by-wedge-capital-management-l-l-p-nc-2026-03-29/",
+      "sentiment": "Neutral"
+    },
     {
       "date": "2026-03-29 07:03:16",
       "title": "UnitedHealth Group Incorporated $UNH Shares Sold by Acropolis Investment Management LLC - Defense World",
       "url": "https://www.defenseworld.net/2026/03/29/unitedhealth-group-incorporated-unh-shares-sold-by-acropolis-investment-management-llc.html",
       "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 21:23:25",
-      "title": "A Look At UnitedHealth Group (UNH) Valuation As Avery AI Launch Draws Fresh Attention - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/healthcare/nyse-unh/unitedhealth-group/news/a-look-at-unitedhealth-group-unh-valuation-as-avery-ai-launc",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-28 21:02:57",
-      "title": "UnitedHealth Group (UNH) Launches AI Companion Avery - Insider Monkey",
-      "url": "https://www.insidermonkey.com/blog/unitedhealth-group-unh-launches-ai-companion-avery-1726903/?amp=1",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-28 21:00:07",
-      "title": "UnitedHealth Group (UNH) Launches AI Companion Avery - Yahoo! Finance Canada",
-      "url": "https://ca.finance.yahoo.com/news/unitedhealth-group-unh-launches-ai-210007765.html",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-28 12:02:29",
-      "title": "Wealthcare Capital Partners LLC Sells 37,566 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthcare-capital-partners-llc-sells-37566-shares-of-unitedhealth-group-incorporated-unh-2026-03-28/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 10:46:09",
-      "title": "KMG Fiduciary Partners LLC Buys 3,895 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-kmg-fiduciary-partners-llc-buys-3895-shares-of-unitedhealth-group-incorporated-unh-2026-03-28/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 10:38:00",
-      "title": "UnitedHealth Group Incorporated $UNH Shares Sold by Generate Investment Management Ltd - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-unitedhealth-group-incorporated-unh-shares-sold-by-generate-investment-management-ltd-2026-03-28/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 08:19:17",
-      "title": "Dakota Wealth Management Lowers Holdings in UnitedHealth Group Incorporated $UNH - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-dakota-wealth-management-lowers-holdings-in-unitedhealth-group-incorporated-unh-2026-03-28/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 07:00:00",
-      "title": "If You Invested $100 In UnitedHealth Group Stock 15 Years Ago, You Would Have This Much Today - Sahm",
-      "url": "https://www.sahmcapital.com/news/content/if-you-invested-100-in-unitedhealth-group-stock-15-years-ago-you-would-have-this-much-today-2026-03-28",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-27 23:39:30",
-      "title": "UNH Stock Heads to 2025 Lows After Breaking Support as UnitedHealth Faces A Reset - FXLeaders",
-      "url": "https://www.fxleaders.com/news/2026/03/27/unh-stock-heads-to-2025-lows-after-breaking-support-as-unitedhealth-faces-a-reset/",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-27 21:58:17",
-      "title": "UnitedHealth Group (NYSE:UNH) Trading Down 3.3% - Should You Sell? - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-nyseunh-trading-down-33-should-you-sell-2026-03-27/",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-27 21:50:06",
-      "title": "UnitedHealth Group (UNH) Declines More Than Market: Some Information for Investors - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-unh-declines-more-215006005.html",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-27 20:20:31",
-      "title": "UnitedHealth Stock Slides Again as April Earnings Loom, Putting UNH Valuation Under New Scrutiny - TechStock²",
-      "url": "https://ts2.tech/en/unitedhealth-stock-slides-again-as-april-earnings-loom-putting-unh-valuation-under-new-scrutiny/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-27 20:04:15",
-      "title": "Henry Lee, world-renowned forensic scientist and longtime University of New Haven professor, dies - The Middletown Press",
-      "url": "https://www.middletownpress.com/news/article/ct-henry-lee-forensic-scientist-unh-professor-dies-22156045.php",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 18:27:02",
-      "title": "UnitedHealth AI Rollout With Avery Meets Depressed Valuation Expectations - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/healthcare/nyse-unh/unitedhealth-group/news/unitedhealth-ai-rollout-with-avery-meets-depressed-valuation",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-27 18:07:00",
-      "title": "Report: Predatory UNH Basketball Staffer Often Recorded Naked Players - Deadspin",
-      "url": "https://deadspin.com/report-predatory-unh-basketball-staffer-often-recorded-1694091218/",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-27 17:52:23",
-      "title": "Unh Stock: 3 pressure points behind the 2026 slide—and what investors should watch next - El-Balad.com",
-      "url": "https://www.el-balad.com/16894037",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-27 17:16:08",
-      "title": "Unitedhealth Group Inc Stock (UNH) Moved Down by 4.73% on Mar 27: Drivers Behind the Movement - TradingKey",
-      "url": "https://www.tradingkey.com/news/Market-Movers/261729048-market-movers-unh-20260327",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-27 16:49:42",
-      "title": "Former Ocean Spray CEO to serve as UNH commencement speaker - NH Business Review",
-      "url": "https://www.nhbr.com/former-ocean-spray-ceo-to-serve-as-unh-commencement-speaker/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 15:35:00",
-      "title": "Can UnitedHealth's Avery Redefine Healthcare Navigation at Scale? - TradingView",
-      "url": "https://www.tradingview.com/news/zacks:8d3d991fc094b:0-can-unitedhealth-s-avery-redefine-healthcare-navigation-at-scale/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-27 15:20:14",
-      "title": "$UnitedHealth (UNH.US)$ - moomoo.com",
-      "url": "https://www.moomoo.com/community/feed/unitedhealth-unh-us-116301811810310?chain_id=Name1K9-3FXPhg.1ksdrug&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A64%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Finvest-for-fun-104792421%22%7D",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 14:29:36",
-      "title": "UnitedHealth Stock After a 20% YTD Drop: Here’s What’s Driving the Valuation - TIKR.com",
-      "url": "https://www.tikr.com/blog/unitedhealth-stock-after-a-20-ytd-drop-heres-whats-driving-the-valuation",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-27 07:33:46",
-      "title": "Here's What to Expect From UnitedHealth's Next Earnings Report - inkl.com",
-      "url": "https://www.inkl.com/news/here-s-what-to-expect-from-unitedhealth-s-next-earnings-report",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 07:00:00",
-      "title": "UnitedHealth AI Rollout With Avery Meets Depressed Valuation Expectations - Sahm",
-      "url": "https://www.sahmcapital.com/news/content/unitedhealth-ai-rollout-with-avery-meets-depressed-valuation-expectations-2026-03-27",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-27 06:40:02",
-      "title": "(UNH) and the Role of Price-Sensitive Allocations - Stock Traders Daily",
-      "url": "https://news.stocktradersdaily.com/news_release/81/UNH_and_the_Role_of_Price-Sensitive_Allocations_032726064002_1774608002.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 06:39:40",
-      "title": "UnitedHealth Group Incorporated (NYSE:UNH) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-incorporated-nyseunh-receives-consensus-recommendation-of-moderate-buy-from-brokerages-2026-03-27/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 01:25:00",
-      "title": "Here's What to Expect From UnitedHealth's Next Earnings Report - FinancialContent",
-      "url": "https://markets.financialcontent.com/stocks/article/barchart-2026-3-27-heres-what-to-expect-from-unitedhealths-next-earnings-report",
-      "sentiment": "Neutral"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-27 ──\n  [Negative] UNH Stock Heads to 2025 Lows After Breaking Support as UnitedHealth Faces A Reset - FXLeaders\n  [Negative] UnitedHealth Group (NYSE:UNH) Trading Down 3.3% - Should You Sell? - MarketBeat\n  [Negative] UnitedHealth Group (UNH) Declines More Than Market: Some Information for Investors - Yahoo Finance\n  [Risk] UnitedHealth Stock Slides Again as April Earnings Loom, Putting UNH Valuation Under New Scrutiny - TechStock²\n  [Neutral] Henry Lee, world-renowned forensic scientist and longtime University of New Haven professor, dies - The Middletown Press\n  [Growth] UnitedHealth AI Rollout With Avery Meets Depressed Valuation Expectations - simplywall.st\n  [Negative] Report: Predatory UNH Basketball Staffer Often Recorded Naked Players - Deadspin\n  [Risk] Unh Stock: 3 pressure points behind the 2026 slide—and what investors should watch next - El-Balad.com\n  [Risk] Unitedhealth Group Inc Stock (UNH) Moved Down by 4.73% on Mar 27: Drivers Behind the Movement - TradingKey\n  [Neutral] Former Ocean Spray CEO to serve as UNH commencement speaker - NH Business Review\n  [Growth] Can UnitedHealth's Avery Redefine Healthcare Navigation at Scale? - TradingView\n  [Neutral] $UnitedHealth (UNH.US)$ - moomoo.com\n  [Risk] UnitedHealth Stock After a 20% YTD Drop: Here’s What’s Driving the Valuation - TIKR.com\n  [Neutral] Here's What to Expect From UnitedHealth's Next Earnings Report - inkl.com\n  [Growth] UnitedHealth AI Rollout With Avery Meets Depressed Valuation Expectations - Sahm\n  [Neutral] (UNH) and the Role of Price-Sensitive Allocations - Stock Traders Daily\n  [Neutral] UnitedHealth Group Incorporated (NYSE:UNH) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages - MarketBeat\n  [Neutral] Here's What to Expect From UnitedHealth's Next Earnings Report - FinancialContent\n\n── 2026-03-28 ──\n  [Growth] A Look At UnitedHealth Group (UNH) Valuation As Avery AI Launch Draws Fresh Attention - simplywall.st\n  [Growth] UnitedHealth Group (UNH) Launches AI Companion Avery - Insider Monkey\n  [Growth] UnitedHealth Group (UNH) Launches AI Companion Avery - Yahoo! Finance Canada\n  [Neutral] Wealthcare Capital Partners LLC Sells 37,566 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat\n  [Neutral] KMG Fiduciary Partners LLC Buys 3,895 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat\n  [Neutral] UnitedHealth Group Incorporated $UNH Shares Sold by Generate Investment Management Ltd - MarketBeat\n  [Neutral] Dakota Wealth Management Lowers Holdings in UnitedHealth Group Incorporated $UNH - MarketBeat\n  [Positive] If You Invested $100 In UnitedHealth Group Stock 15 Years Ago, You Would Have This Much Today - Sahm\n\n── 2026-03-29 ──\n  [Neutral] UnitedHealth Group Incorporated $UNH Shares Sold by Acropolis Investment Management LLC - Defense World",
-    "sentiment_block": "총 뉴스 27건 분석 결과:\n  Positive     1건 (  3.7%) \n  Growth       6건 ( 22.2%) ████\n  Neutral     12건 ( 44.4%) ████████\n  Mixed        0건 (  0.0%) \n  Risk         4건 ( 14.8%) ██\n  Negative     4건 ( 14.8%) ██\n\n날짜별 감정 흐름:\n  2026-03-27: Neutral:7, Negative:4, Risk:4, Growth:3\n  2026-03-28: Neutral:4, Growth:3, Positive:1\n  2026-03-29: Neutral:1",
-    "analyst_block": ""
+    "news_block": "\n── 2026-03-29 ──\n  [Negative] Warren Buffett has lost over $265 million on historic UnitedHealth stock bet - Finbold\n  [Neutral] UnitedHealth Group Incorporated $UNH Holdings Lowered by Wedge Capital Management L L P NC - marketbeat.com\n  [Neutral] UnitedHealth Group Incorporated $UNH Shares Sold by Acropolis Investment Management LLC - Defense World\n\n── 2026-03-30 ──\n  [Neutral] UnitedHealth Group (NYSE:UNH) Trading Up 1.1% - Here's Why - marketbeat.com\n  [Neutral] Letter to the editor: UNH is home to the state’s largest school of nursing - NH Business Review\n  [Negative] Unitedhealth Group Inc Stock (UNH) Moved Down by 3.89% on Mar 30: What Investors Need To Know - TradingKey\n  [Risk] UnitedHealth UNH Dividend Signals Market Shift - Colitco\n  [Neutral] TrueMark Investments LLC Makes New $3.46 Million Investment in UnitedHealth Group Incorporated $UNH - marketbeat.com\n  [Negative] Donaldson Capital Management LLC Lowers Stock Holdings in UnitedHealth Group Incorporated $UNH - marketbeat.com\n  [Neutral] Maine women’s basketball season ends in America East Championship Game - The Maine Campus\n  [Neutral] From Strategy to Cybersecurity Leadership: Gina Yacone’s Journey to CISO - University of New Hampshire\n\n── 2026-03-31 ──\n  [Mixed] UnitedHealth Group (NYSE:UNH) Trading 3.2% Higher - Should You Buy? - marketbeat.com\n  [Positive] UnitedHealth Group Inc (UNH) Shares Up 3.69% on Mar 31 - GuruFocus\n  [Positive] Bernstein Maintains UnitedHealth(UNH.US) With Buy Rating, Maintains Target Price $405 - 富途牛牛\n  [Neutral] J. Safra Sarasin Holding AG Acquires 19,591 Shares of UnitedHealth Group Incorporated $UNH - marketbeat.com\n  [Neutral] Retirement Systems of Alabama Has $63.61 Million Stock Position in UnitedHealth Group Incorporated $UNH - marketbeat.com\n  [Neutral] Mn Services Vermogensbeheer B.V. Increases Position in UnitedHealth Group Incorporated $UNH - marketbeat.com\n  [Neutral] Wage gap myth, Dennett Road disconnect, guns on UNH campus: Letters - Seacoastonline.com\n  [Negative] UNH Stock Slides Back Below Warren Buffett’s Entry Price As Annual Revenue Faces First Decline In 30 Years — AI May Be Long-Term Fix - stocktwits.com\n  [Neutral] UNHU | Direxion Daily UNH Bull Institutional Ownership - Quiver Quantitative",
+    "sentiment_block": "총 뉴스 20건 분석 결과:\n  Positive     2건 ( 10.0%) ██\n  Growth       0건 (  0.0%) \n  Neutral     12건 ( 60.0%) ████████████\n  Mixed        1건 (  5.0%) █\n  Risk         1건 (  5.0%) █\n  Negative     4건 ( 20.0%) ████\n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:2, Negative:1\n  2026-03-30: Neutral:5, Negative:2, Risk:1\n  2026-03-31: Neutral:5, Positive:2, Mixed:1, Negative:1",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 1  Buy: 40  Hold: 7  Sell: 4  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $444  Low: $327  Consensus: $385.38  Median: $390.5\n▶ 실적 추정치 (2030-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $213.24694651127882  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "# UnitedHealth Group (UNH) 투자 분석 보고서\n\n## [핵심 요약]\n\n* **3일간 가격 하락 심화**: 3월 27일 -3.3~4.73% 낙폭, 연초 대비 -20% YTD 하락 추세 지속\n* **감정 톤 개선 신호**: 부정적 뉴스 집중도(3월 27일) → 중립 및 성장 프레임 확대(3월 28~29일)\n* **AI 플랫폼 출시 주목**: Avery AI 출시가 긍정적 재평가 계기로 작용 중\n* **밸류에이션 리셋 진행**: 과도한 하락으로 \"억제된 밸류에이션\"에 도달한 상태로 평가\n\n---\n\n## [전체 흐름 분석]\n\n**Phase 1 (3월 27일) - 부정적 심화 국면**\n- 주가가 지지선 하단으로 내려가면서 강한 매도 심리 반영\n- 뉴스 포지션 분포: 부정(14.8%) + 리스크(14.8%)가 29.6%로 부정적 톤 주도\n- 중립 보도 7건도 대부분 \"밸류에이션 재검토\", \"4월 어닝 스트레스\" 등 약세 기조\n\n**Phase 2 (3월 28일) - 톤 전환의 시작**\n- Avery AI 공식 출시 발표로 신기술 주목도 상승\n- 감정 분포 급변: 성장 프레임(22.2%) 3배 강조, 부정/리스크 뉴스 소실\n- 장기 투자 가치(15년 누적 수익률) 강조 기사 등장\n- 기관 투자자 활동: 매도(Wealthcare, Generate) vs 매수(KMG) 혼재하나 순매도 우위\n\n**Phase 3 (3월 29일) - 정체 및 관망**\n- 뉴스 속보 감소로 시장 관망 국면 진입\n- 추가 기관 매도(Acropolis) 관찰되나 규모 제한적\n\n---\n\n## [긍정 요인]\n\n* **AI 기술 상용화 가시화**: Avery AI 플랫폼 출시로 \"헬스케어 네비게이션 재정의\" 가능성 제시\n  - 다중 소스에서 긍정 평가(simplywall.st, TradingView, Yahoo! Finance Canada)\n  \n* **극도의 밸류에이션 조정**: 20% YTD 하락 후 \"억제된 밸류에이션(Depressed Valuation)\"으로 평가\n  - 과매도 상태에서 역발동 가능성 내재\n  \n* **컨센서스 의견 완화**: 브로커 컨센서스 등급이 \"Moderate Buy\" 유지\n  - 극단적 약세 심화를 저지하는 심리적 지지선 역할\n  \n* **신기술 + 저평가의 조합**: AI 수익화 전망 + 현재 낮은 밸류에이션 = 향후 수익 공급 가능성\n\n---\n\n## [부정 요인]\n\n* **구조적 약세 지속**: 연초 대비 -20% 낙폭은 일시적 변동 수준을 초과\n  - \"2025년 최저가 돌파\", \"리셋 필요\" 등 구조적 재평가 신호\n  \n* **4월 어닝 불확실성**: 3월 27일 다수 보도에서 \"4월 어닝의 스트레스 검토\" 강조\n  - 현재 저평가가 어닝 쇼크 회피 목적의 선반영일 가능성\n  \n* **기관 투자자 순매도**: 3월 28일 매도(37,566 + α주) > 매수(3,895주) 명백\n  - 큰 자금의 손절 및 재배치 신호로 해석\n  \n* **UI/UX 리스크 없음**: Avery AI 성공 담보 불확실\n  - 출시 후 시장 채택률, 경쟁력 검증 필요 (초기 수익화 시점 불명확)\n\n---\n\n## [투자 인사이트]\n\n1. **밸류에이션 함정 vs 기회**\n   - 20% 낙폭 후 저평가는 매력적이지만, 추가 하락 리스크(어닝 미스)도 내재\n   - AI 출시 뉴스가 긍정 톤을 견인했으나, 실제 수익 기여는 Q2~Q3 이후 확인 필요\n\n2. **감정 흐름의 반전 신호 vs 조기 회복**\n   - 3월 27일의 강한 부정 → 3월 28일 긍정으로의 급변"
+  "investment_judgment": "# UnitedHealth Group (UNH) 투자 분석 리포트\n\n## [핵심 요약]\n* **Warren Buffett의 대규모 손실**: $265M 이상의 손실로 인한 신뢰도 훼손\n* **주가 변동성**: 3.89% 하락 후 3.69% 상승으로 방향성 불명확\n* **펀더멘탈 악화 신호**: 30년 만에 연간 수익 첫 감소 직면\n* **기관투자자 엇갈린 반응**: 일부는 신규 매수, 일부는 보유량 축소\n\n---\n\n## [전체 흐름 분석]\n\n**3월 29일~31일의 시장 흐름:**\n\n시장은 UNH에 대해 상반된 신호를 보내고 있습니다. \n\n초반(3.29)에는 Buffett의 손실 보도로 부정적 심리가 지배했으나, 이후 기관투자자들의 **선별적 매수** (TrueMark의 $3.46M 신규 투자, J. Safra Sarasin, Alabama Retirement Systems의 신규 매수)가 나타났습니다. \n\n최종적으로 3월 31일 애널리스트 Bernstein의 Buy 유지 및 $405 목표가 제시로 약세를 반등시켰습니다. 그러나 **\"수익 첫 감소\"라는 구조적 악재**는 단기 반등을 상쇄하고 있습니다.\n\n**감정 지표 해석:**\n- 전체적으로 Neutral(60%)이 지배적으로, 강한 확신 부재\n- 후반부(3.31)로 갈수록 긍정 신호 증가(Positive 2건 발생)\n- 그럼에도 부정 지표는 일관되게 존재(20%)\n\n---\n\n## [긍정 요인]\n\n* **강력한 애널리스트 지지**: Buy 40건 vs Sell 4건으로 10:1 비율, Strong Buy 1건 포함\n* **목표가 프리미엄**: 컨센서스 $385.38 대비 High $444로 15% 상승 여지\n* **기관투자자의 선택적 매수**: 약세 중에도 신규 투자 지속 (시장의 바닥 확인 신호)\n* **최근 반등력**: 3.69% 상승으로 기술적 회복 추세\n* **Median 목표가 $390.5**: 현재가 근처로 하방 위험 제한적\n\n---\n\n## [부정 요인]\n\n* **Warren Buffett 손실**: $265M 이상 손실은 신뢰성 훼손 및 심리적 약세 유발\n* **30년 만의 수익 감소**: 구조적 펀더멘탈 악화 신호로 성장성 약화\n* **배당신호의 경고**: \"Market Shift\"를 암시하는 배당 관련 뉴스\n* **기관투자자 이탈**: Wedge Capital, Donaldson Capital Management의 보유량 감소\n* **밸류에이션 부재**: P/E, P/B 등 핵심 지표 미제시로 상대가치 평가 불가\n* **DCF 내재가치($213) vs 목표가($385)**: 큰 괴리로 과평가 신호 가능\n\n---\n\n## [투자 인사이트]\n\n**1. 시장의 이중성 (Bifurcated Market Reaction)**\n- 애널리스트는 낙관적(Buy 중심)이나, 실적 악화는 현실\n- 기관투자자도 분열: 가치투자자는 매수, 모멘텀 투자자는 이탈\n\n**2. 가격대 vs 가치의 불일치**\n- DCF 내재가치 $213 대비 컨센서스 목표가 $385는 81% 프리미엄\n- 이는 시장이 **AI 솔루션의 장기 성장성**에 베팅 중임을 시사\n- 단기 수익 감소는 장기 구조 개선의 전환점으로 평가되는 중\n\n**3. Buffett 손실의 함의**\n- 저가 매수 대비 손실 발생 = 시장이 내재가치를 하향 재평가 중\n- 그럼에도 주요 기관은 매수 지속 = 과도한 약세 판단 시점\n\n**4. 실적 악화의 심각성**\n- \"첫 감소\"는 건강보험 업계 자체의 압력(원가 상승, 경쟁 심화) 반영\n- AI의 \"장기 수익 개선\"이 얼마나 빨리 실현될지가 핵심 리스크\n\n---\n\n## [투자 판단]\n\n### **보류 (HOLD)**\n\n---\n\n## [판단 근거]\n\n**1. 상충하는 신호로 명확한 방향성 부재**\n   - 애널리스트 강력 지지 vs 실적 첫 감소\n   - 기관투자자 선택적 매수 vs Buffett 대규모 손실\n   - 기술적 반등 vs 구조적 악화\n\n**2. 밸류에이션 리스크**\n   - DCF 내재가치는 심각한 과평가 신호($213 vs 시장 $380+)\n   - 목표가 범위($327~$444)의 광범위함은 컨센서스 약함을 의미\n   - AI 수익화의 불확실성이 가격에 제대로 반영되지 않을 가능성\n\n**3. 신뢰성 약화**\n   - Buffett 손실로 주요 기관투자자의 신뢰성 타격\n   - 향후 실적 발표까지는 불확실성 높음\n\n**4. 기다려야 할 카탈리스트**\n   - 다음 분기 실적에서 \"AI 기반 비용 절감\" 효과 최초 입증\n   - 수익 감소 추세의 반전 여부 확인\n   - 현재는 충분한 근거 없이 30% 프리미엄 가격에서 진입 위험\n\n**최적 진입 시기:** 차기 실적 발표 후 AI 효과 검증 및 목표가 재조정 후"
 }

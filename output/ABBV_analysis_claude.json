@@ -1,34 +1,150 @@
 {
   "meta": {
     "symbol": "ABBV",
-    "analysis_date": "2026-03-30T02:33:56.125137+00:00",
-    "news_period": "2026-03-27 ~ 2026-03-29",
-    "news_count": 16,
+    "analysis_date": "2026-04-01T10:29:47.031100+00:00",
+    "news_period": "2026-03-29 ~ 2026-03-31",
+    "news_count": 22,
     "model": "claude-haiku-4-5-20251001"
   },
   "sentiment_summary": {
-    "Neutral": 9,
-    "Positive": 4,
-    "Growth": 3
+    "Neutral": 17,
+    "Growth": 3,
+    "Positive": 1,
+    "Negative": 1
   },
   "sentiment_by_date": {
-    "2026-03-27": {
-      "Positive": 4,
-      "Growth": 1,
-      "Neutral": 1
-    },
-    "2026-03-28": {
-      "Neutral": 5,
-      "Growth": 2
-    },
     "2026-03-29": {
-      "Neutral": 3
+      "Neutral": 4
+    },
+    "2026-03-30": {
+      "Neutral": 4,
+      "Negative": 1,
+      "Growth": 1
+    },
+    "2026-03-31": {
+      "Neutral": 9,
+      "Growth": 2,
+      "Positive": 1
     }
   },
   "news_with_sentiment": [
     {
+      "date": "2026-03-31 21:50:47",
+      "title": "AbbVie (NYSE:ABBV) Shares Up 2% - Time to Buy? - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/abbvie-nyseabbv-shares-up-2-time-to-buy-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 18:46:12",
+      "title": "Bernstein Maintains AbbVie(ABBV.US) With Hold Rating, Maintains Target Price $225 - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70925509/bernstein-maintains-abbvie-abbvus-with-hold-rating-maintains-target-price?level=1&data_ticket=1775006624882232",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 17:26:15",
+      "title": "AbbVie Leans Into Consumer Aesthetics With CoolMonth And Neurotoxin Pipeline - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-abbv/abbvie/news/abbvie-leans-into-consumer-aesthetics-with-coolmonth-and-neu",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 16:20:09",
+      "title": "AbbVie Inc Stock (ABBV) Moved Up by 3.26% on Mar 31: Drivers Behind the Movement - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261739250-market-movers-abbv-20260331",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 13:38:00",
+      "title": "Study reveals South Africa's most-Googled text abbreviations for 2026 - Jacaranda FM",
+      "url": "https://www.jacarandafm.com/shows/drive/study-reveal-south-africa-most-google-abbreviation/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 13:27:00",
+      "title": "Will AbbVie's Oncology Drugs Aid Top Line in 2026? - tradingview.com",
+      "url": "https://www.tradingview.com/news/zacks:b607cf3b6094b:0-will-abbvie-s-oncology-drugs-aid-top-line-in-2026/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 12:00:00",
+      "title": "AbbVie to Host First-Quarter 2026 Earnings Conference Call - sg.finance.yahoo.com",
+      "url": "https://sg.finance.yahoo.com/news/abbvie-host-first-quarter-2026-120000541.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 10:53:39",
+      "title": "Range Financial Group LLC Has $1.08 Million Holdings in AbbVie Inc. $ABBV - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-range-financial-group-llc-has-108-million-holdings-in-abbvie-inc-abbv-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 10:15:21",
+      "title": "J. Safra Sarasin Holding AG Sells 36,172 Shares of AbbVie Inc. $ABBV - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-j-safra-sarasin-holding-ag-sells-36172-shares-of-abbvie-inc-abbv-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 09:43:15",
+      "title": "AbbVie Inc. $ABBV Holdings Lifted by Mn Services Vermogensbeheer B.V. - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-abbvie-inc-abbv-holdings-lifted-by-mn-services-vermogensbeheer-bv-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:39:01",
+      "title": "Financial Planning Hawaii Inc. Invests $2.90 Million in AbbVie Inc. $ABBV - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-financial-planning-hawaii-inc-invests-290-million-in-abbvie-inc-abbv-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:39:01",
+      "title": "Brookstone Capital Management Sells 6,299 Shares of AbbVie Inc. $ABBV - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-brookstone-capital-management-sells-6299-shares-of-abbvie-inc-abbv-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 22:01:20",
+      "title": "AbbVie (NYSE:ABBV) Stock Price Up 1.8% - Should You Buy? - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/abbvie-nyseabbv-stock-price-up-18-should-you-buy-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 21:45:03",
+      "title": "AbbVie (ABBV) Gains As Market Dips: What You Should Know - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/abbvie-abbv-gains-market-dips-214503254.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 16:11:00",
+      "title": "IRWD Stock Down 14% in a Month: Time to Buy, Sell or Hold the Stock? - sg.finance.yahoo.com",
+      "url": "https://sg.finance.yahoo.com/news/irwd-stock-down-14-month-161100981.html",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-30 10:47:50",
+      "title": "AbbVie Inc. $ABBV Stock Position Raised by TrueMark Investments LLC - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-abbvie-inc-abbv-stock-position-raised-by-truemark-investments-llc-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:29:39",
+      "title": "AbbVie Inc. $ABBV Shares Acquired by Stegent Equity Advisors Inc. - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-abbvie-inc-abbv-shares-acquired-by-stegent-equity-advisors-inc-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 06:18:02",
+      "title": "Assessing AbbVie (ABBV) Valuation After New Dermatology Data Underpins Immunology Growth Potential - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-abbv/abbvie/news/assessing-abbvie-abbv-valuation-after-new-dermatology-data-u",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 11:27:29",
+      "title": "Wedge Capital Management L L P NC Sells 6,019 Shares of AbbVie Inc. $ABBV - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wedge-capital-management-l-l-p-nc-sells-6019-shares-of-abbvie-inc-abbv-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
       "date": "2026-03-29 11:27:27",
-      "title": "AbbVie Inc. $ABBV Stock Holdings Lifted by Waycross Partners LLC - MarketBeat",
+      "title": "AbbVie Inc. $ABBV Stock Holdings Lifted by Waycross Partners LLC - marketbeat.com",
       "url": "https://www.marketbeat.com/instant-alerts/filing-abbvie-inc-abbv-stock-holdings-lifted-by-waycross-partners-llc-2026-03-29/",
       "sentiment": "Neutral"
     },
@@ -40,93 +156,15 @@
     },
     {
       "date": "2026-03-29 08:06:30",
-      "title": "Bell Bank Has $12.09 Million Stake in AbbVie Inc. $ABBV - MarketBeat",
+      "title": "Bell Bank Has $12.09 Million Stake in AbbVie Inc. $ABBV - marketbeat.com",
       "url": "https://www.marketbeat.com/instant-alerts/filing-bell-bank-has-1209-million-stake-in-abbvie-inc-abbv-2026-03-29/",
       "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 13:18:57",
-      "title": "AbbVie Dermatology Data Highlights Immunology Depth And Emerging Skin Disease Opportunities - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-abbv/abbvie/news/abbvie-dermatology-data-highlights-immunology-depth-and-emer",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-28 12:02:32",
-      "title": "Wealthcare Advisory Partners LLC Grows Stake in AbbVie Inc. $ABBV - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthcare-advisory-partners-llc-grows-stake-in-abbvie-inc-abbv-2026-03-28/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 10:32:03",
-      "title": "Generate Investment Management Ltd Sells 49,224 Shares of AbbVie Inc. $ABBV - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-generate-investment-management-ltd-sells-49224-shares-of-abbvie-inc-abbv-2026-03-28/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 10:20:20",
-      "title": "1 Reason Eli Lilly Stock Is Still a Buy - theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ABBV/pressreleases/1020117/1-reason-eli-lilly-stock-is-still-a-buy/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-28 09:17:51",
-      "title": "TABR Capital Management LLC Takes Position in AbbVie Inc. $ABBV - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-tabr-capital-management-llc-takes-position-in-abbvie-inc-abbv-2026-03-28/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 08:39:27",
-      "title": "Exchange Traded Concepts LLC Increases Stock Position in AbbVie Inc. $ABBV - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-increases-stock-position-in-abbvie-inc-abbv-2026-03-28/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-28 07:30:39",
-      "title": "AbbVie Inc. $ABBV Shares Bought by Capital Investment Advisors LLC - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-abbvie-inc-abbv-shares-bought-by-capital-investment-advisors-llc-2026-03-28/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 11:11:11",
-      "title": "3 Stocks That May Be Underestimated In March 2026 - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-lpla/lpl-financial-holdings/news/3-stocks-that-may-be-underestimated-in-march-2026",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-27 10:46:00",
-      "title": "Here's How Many Shares of AbbVie (ABBV) Stock You'd Need for $10,000 in Yearly Dividends - The Motley Fool",
-      "url": "https://www.fool.com/investing/2026/03/27/how-many-shares-abbvie-abbv-stock-10k-dividend/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-27 10:06:00",
-      "title": "Here's How Many Shares of AbbVie (ABBV) Stock You'd Need for $10,000 in Yearly Dividends - AOL.com",
-      "url": "https://www.aol.com/finance/heres-many-shares-abbvie-abbv-100600026.html",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-27 10:06:00",
-      "title": "Here's How Many Shares of AbbVie (ABBV) Stock You'd Need for $10,000 in Yearly Dividends - theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ABBV/pressreleases/1000808/heres-how-many-shares-of-abbvie-abbv-stock-youd-need-for-10000-in-yearly-dividends/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-27 07:52:02",
-      "title": "(ABBV) Price Dynamics and Execution-Aware Positioning - Stock Traders Daily",
-      "url": "https://news.stocktradersdaily.com/news_release/89/ABBV_Price_Dynamics_and_Execution-Aware_Positioning_032726075202_1774612322.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-27 05:01:00",
-      "title": "ABBV- An Attractive Income Stock in this Turbulent Market - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/abbv-attractive-income-stock-turbulent-050100450.html",
-      "sentiment": "Positive"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-27 ──\n  [Growth] 3 Stocks That May Be Underestimated In March 2026 - simplywall.st\n  [Positive] Here's How Many Shares of AbbVie (ABBV) Stock You'd Need for $10,000 in Yearly Dividends - The Motley Fool\n  [Positive] Here's How Many Shares of AbbVie (ABBV) Stock You'd Need for $10,000 in Yearly Dividends - AOL.com\n  [Positive] Here's How Many Shares of AbbVie (ABBV) Stock You'd Need for $10,000 in Yearly Dividends - theglobeandmail.com\n  [Neutral] (ABBV) Price Dynamics and Execution-Aware Positioning - Stock Traders Daily\n  [Positive] ABBV- An Attractive Income Stock in this Turbulent Market - Yahoo Finance\n\n── 2026-03-28 ──\n  [Growth] AbbVie Dermatology Data Highlights Immunology Depth And Emerging Skin Disease Opportunities - simplywall.st\n  [Neutral] Wealthcare Advisory Partners LLC Grows Stake in AbbVie Inc. $ABBV - MarketBeat\n  [Neutral] Generate Investment Management Ltd Sells 49,224 Shares of AbbVie Inc. $ABBV - MarketBeat\n  [Growth] 1 Reason Eli Lilly Stock Is Still a Buy - theglobeandmail.com\n  [Neutral] TABR Capital Management LLC Takes Position in AbbVie Inc. $ABBV - MarketBeat\n  [Neutral] Exchange Traded Concepts LLC Increases Stock Position in AbbVie Inc. $ABBV - MarketBeat\n  [Neutral] AbbVie Inc. $ABBV Shares Bought by Capital Investment Advisors LLC - MarketBeat\n\n── 2026-03-29 ──\n  [Neutral] AbbVie Inc. $ABBV Stock Holdings Lifted by Waycross Partners LLC - MarketBeat\n  [Neutral] Chesley Taft & Associates LLC Has $5.20 Million Stake in AbbVie Inc. $ABBV - Defense World\n  [Neutral] Bell Bank Has $12.09 Million Stake in AbbVie Inc. $ABBV - MarketBeat",
-    "sentiment_block": "총 뉴스 16건 분석 결과:\n  Positive     4건 ( 25.0%) █████\n  Growth       3건 ( 18.8%) ███\n  Neutral      9건 ( 56.2%) ███████████\n  Mixed        0건 (  0.0%) \n  Risk         0건 (  0.0%) \n  Negative     0건 (  0.0%) \n\n날짜별 감정 흐름:\n  2026-03-27: Positive:4, Growth:1, Neutral:1\n  2026-03-28: Neutral:5, Growth:2\n  2026-03-29: Neutral:3",
-    "analyst_block": ""
+    "news_block": "\n── 2026-03-29 ──\n  [Neutral] Wedge Capital Management L L P NC Sells 6,019 Shares of AbbVie Inc. $ABBV - marketbeat.com\n  [Neutral] AbbVie Inc. $ABBV Stock Holdings Lifted by Waycross Partners LLC - marketbeat.com\n  [Neutral] Chesley Taft & Associates LLC Has $5.20 Million Stake in AbbVie Inc. $ABBV - Defense World\n  [Neutral] Bell Bank Has $12.09 Million Stake in AbbVie Inc. $ABBV - marketbeat.com\n\n── 2026-03-30 ──\n  [Neutral] AbbVie (NYSE:ABBV) Stock Price Up 1.8% - Should You Buy? - marketbeat.com\n  [Neutral] AbbVie (ABBV) Gains As Market Dips: What You Should Know - Yahoo Finance\n  [Negative] IRWD Stock Down 14% in a Month: Time to Buy, Sell or Hold the Stock? - sg.finance.yahoo.com\n  [Neutral] AbbVie Inc. $ABBV Stock Position Raised by TrueMark Investments LLC - marketbeat.com\n  [Neutral] AbbVie Inc. $ABBV Shares Acquired by Stegent Equity Advisors Inc. - marketbeat.com\n  [Growth] Assessing AbbVie (ABBV) Valuation After New Dermatology Data Underpins Immunology Growth Potential - simplywall.st\n\n── 2026-03-31 ──\n  [Neutral] AbbVie (NYSE:ABBV) Shares Up 2% - Time to Buy? - marketbeat.com\n  [Neutral] Bernstein Maintains AbbVie(ABBV.US) With Hold Rating, Maintains Target Price $225 - 富途牛牛\n  [Growth] AbbVie Leans Into Consumer Aesthetics With CoolMonth And Neurotoxin Pipeline - simplywall.st\n  [Positive] AbbVie Inc Stock (ABBV) Moved Up by 3.26% on Mar 31: Drivers Behind the Movement - TradingKey\n  [Neutral] Study reveals South Africa's most-Googled text abbreviations for 2026 - Jacaranda FM\n  [Growth] Will AbbVie's Oncology Drugs Aid Top Line in 2026? - tradingview.com\n  [Neutral] AbbVie to Host First-Quarter 2026 Earnings Conference Call - sg.finance.yahoo.com\n  [Neutral] Range Financial Group LLC Has $1.08 Million Holdings in AbbVie Inc. $ABBV - marketbeat.com\n  [Neutral] J. Safra Sarasin Holding AG Sells 36,172 Shares of AbbVie Inc. $ABBV - marketbeat.com\n  [Neutral] AbbVie Inc. $ABBV Holdings Lifted by Mn Services Vermogensbeheer B.V. - marketbeat.com\n  [Neutral] Financial Planning Hawaii Inc. Invests $2.90 Million in AbbVie Inc. $ABBV - marketbeat.com\n  [Neutral] Brookstone Capital Management Sells 6,299 Shares of AbbVie Inc. $ABBV - marketbeat.com",
+    "sentiment_block": "총 뉴스 22건 분석 결과:\n  Positive     1건 (  4.5%) \n  Growth       3건 ( 13.6%) ██\n  Neutral     17건 ( 77.3%) ███████████████\n  Mixed        0건 (  0.0%) \n  Risk         0건 (  0.0%) \n  Negative     1건 (  4.5%) \n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:4\n  2026-03-30: Neutral:4, Negative:1, Growth:1\n  2026-03-31: Neutral:9, Growth:2, Positive:1",
+    "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 27  Hold: 12  Sell: 1  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $299  Low: $223  Consensus: $256.15  Median: $258\n▶ 실적 추정치 (2030-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $163.59675411271115  현재가: $N/A\n▶ FMP 종합 등급\n  등급: C+  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "# AbbVie (ABBV) 투자 분석 보고서\n\n## [핵심 요약]\n\n* AbbVie는 최근 3일간 전반적으로 긍정적 신호를 보이고 있으나, 감정 분석상 중립적 뉴스가 지배적(56.2%)\n* 배당 매력도와 피부질환 치료제 파이프라인 확대가 주요 긍정 요인\n* 기관투자자들의 지분 변화가 활발하게 진행 중이나 대규모 매도 신호는 부재\n* 감정 분석 흐름상 3월 27일의 강한 긍정 심리가 3월 28-29일로 갈수록 중립화되는 추세\n\n---\n\n## [전체 흐름 분석]\n\n분석 기간 동안 AbbVie에 대한 뉴스 감정은 **점진적 심리 약화** 패턴을 보입니다.\n\n**시간대별 흐름:**\n- **3월 27일**: 긍정(4건) + 성장(1건) 주도 → 배당 수익성과 저평가 관점의 강한 매수 심리\n- **3월 28일**: 긍정 뉴스 소멸, 성장(2건) 유지 → 피부질환 파이프라인 관련 펀더멘탈 뉴스 중심으로 전환\n- **3월 29일**: 순수 중립 뉴스(3건) → 기관투자자 지분 조정 뉴스만 남음\n\n이는 초반의 시장 관심도가 점차 **실적 기반의 펀더멘탈 검토 단계**로 이동하는 양상입니다.\n\n---\n\n## [긍정 요인]\n\n* **높은 배당 수익률**: 연 1만 달러의 배당 수익 달성 가능성이 여러 금융 매체에서 강조 (3월 27일 집중 보도)\n* **피부질환 치료제 파이프라인 확대**: 피부과학(Dermatology) 영역에서 면역학 역량 활용한 신규 기회 창출 중 (성장성 신호)\n* **기관투자자 수급 긍정**: Wealthcare Advisory Partners, TABR Capital Management, Capital Investment Advisors 등 주요 기관들이 신규 진입 또는 증액 (3월 28-29일)\n* **시장 변동성 속 안정성**: 부정(0건)과 위험(0건) 신호가 전무하여 공매도나 약세 심리 부재\n\n---\n\n## [부정 요인]\n\n* **감정 분석 악화 추세**: 긍정 뉴스가 3월 27일 이후 완전히 소멸, 중립 비중이 급증 (→ 초반 랠리 심리 이탈 가능성)\n* **혼재된 기관 수급**: Generate Investment Management의 49,224주 매도 사례 존재 (부분적 익절 신호)\n* **정보의 단순성**: 3월 29일 뉴스들은 보유 지분 공시 수준으로, 신규 투자 논거 부족\n* **경쟁사 비교 약세**: Eli Lilly 상승 관련 뉴스가 언급되어, 업계 내 상대적 약세 가능성\n\n---\n\n## [투자 인사이트]\n\n**수익 투자자 대 성장 투자자 간 관점 차이:**\n- 배당 수익률을 추구하는 보수적 투자자에게는 3월 27일의 강한 관심도가 매력적\n- 파이프라인 성장성을 중시하는 성장형 투자자는 피부질환 치료제 데이터 (3월 28일)에 집중\n- 다만 3월 29일의 뉴스 침체는 **신규 긍정 뉴스 부재**를 의미, 후속 모멘텀 약화 우려\n\n**시장 신호 해석:**\n초반 강한 매수 신호 → 기관투자자 수급 재조정 → 중립 흐름 정착이라는 패턴은 **전형적인 단기 랠리 후 조정국면**의 시작을 시사합니다. 배당과 파이프라인이 실질적 가치를 가지지만, 시장이 이를 재평가하는 과정 중입니다.\n\n---\n\n## [투자 판단]\n\n**보류**\n\n---\n\n## [판단 근거]\n\n1. **감정 흐름의 약화**: 긍정 뉴스가 초반 집중되었다가 소멸한 것은 **단기 매수 심리의 경화(exhaustion)** 신호입니다. 중립 뉴스로의 전환은 시장 관심도 하락을 의미합니다.\n\n2. **기간별 모"
+  "investment_judgment": "# AbbVie Inc. (ABBV) 투자 분석 보고서\n\n## [핵심 요약]\n* **주가 상승세**: 3월 30-31일 연속 상승(1.8%, 2%, 3.26%)으로 긍정적 모멘텀 형성\n* **신약 파이프라인 강화**: 피부과(Dermatology), 신경독소(Neurotoxin), 종양학(Oncology) 분야의 신규 데이터 발표로 성장성 입증\n* **기관투자자 투자 의욕**: 주요 기관들(TrueMark, Stegent 등)의 포지션 증가로 기관 신뢰 회복 신호\n\n---\n\n## [전체 흐름 분석]\n\n**긍정적 구조 형성 중:**\n3일간 공시된 정보들이 순차적으로 긍정 신호를 강화하는 구조를 띄고 있습니다.\n\n- **3월 29일**: 중립적 기관투자자 움직임(매도/매수 혼재)\n- **3월 30일**: 주가 1.8% 상승 및 피부과 데이터 공개로 **첫 성장 신호** 발생\n- **3월 31일**: 주가 추가 상승(2%, 3.26%)과 함께 **소비자 미용(CoolMonth), 종양학 약물 효과** 등 복수의 성장 드라이버 확보\n\n**감정 분석의 점진적 개선:**\n- Neutral 중심(77.3%)이지만 Growth 비중이 3.1% → 50%로 확대(3월 31일 기준)\n- Negative 신호는 1건(IRWD 관련, ABBV 직접 영향 없음)\n\n---\n\n## [긍정 요인]\n\n* **다각화된 성장 파이프라인**: 피부과(Dermatology) 신규 데이터, Consumer Aesthetics(CoolMonth) 진출, Neurotoxin 및 Oncology 약물 개발 등 3개 이상의 성장 축 보유\n* **주가 기술적 강세**: 3일 연속 상승으로 상승 모멘텀 형성, 시장이 신약 데이터에 긍정 반응\n* **애널리스트 강한 매수 선호**: Buy 27건 vs Hold 12건으로 27:12 비율(69% 매수 추천), Sell은 단 1건에 불과\n* **목표주가 프리미엄**: 컨센서스 $256.15, 중앙값 $258로 현재가 대비 상당한 상승 여력 내재(상한선 $299)\n* **기관투자자 재진입**: Waycross Partners, TrueMark, Stegent, Financial Planning Hawaii 등 주요 기관의 포지션 증대\n\n---\n\n## [부정 요인]\n\n* **애널리스트 강등(Hold) 존재**: Bernstein의 Hold 등급 유지로 일부 주요 애널리스트의 신중한 입장 존재\n* **DCF 가치와의 괴리**: DCF 내재가치 $163.60 vs 목표주가 $256.15로 56% 갭 발생(시장의 과도한 기대 또는 DCF 가정의 보수성 문제)\n* **기관투자자 선별적 움직임**: Wedge Capital(-6,019주), J. Safra Sarasin(-36,172주), Brookstone(-6,299주) 등 소규모 매도도 지속\n* **발표 신약의 시장화 불확실성**: \"파이프라인\"과 \"데이터\" 단계이므로 실제 매출 기여까지는 시간 필요\n* **밸류에이션 지표 부재**: P/E, P/B 등 핵심 지표 미제공으로 현재가 대비 상대가치 평가 불가능\n\n---\n\n## [투자 인사이트]\n\n**1. 성장성 회복 신호의 신뢰도**\n- 피부과, 종양학, 미용 분야의 신규 데이터 발표가 단순 뉴스 아닌 **임상 기반의 실질적 진전**으로 해석되고 있음\n- 주가 연속 상승이 단순 기술적 반등이 아닌 **기본가치 재평가에 기반**함을 시사\n\n**2. 애널리스트 컨센서스의 신뢰도 검증 필요**\n- Buy 27건(69%)은 강력해 보이지만, **목표주가 범위가 $223~$299로 광범위**\n- 이는 애널리스트 간 신약 상용화 시나리오에 대한 의견 차이가 큼을 의미\n- Bernstein의 Hold는 **보수적 입장의 견제 역할** 수행 중\n\n**3. 단기 vs 중기 관점의 괴리**\n- **단기(3개월)**: 신약 데이터 발표 → 기관 매수 → 주가 상승 모멘텀 확보\n- **중기(12개월+)**: 실제 매출 기여도, 시장 수용도, 경쟁사 대응 등 검증 필요\n- DCF-목표주가 갭($163→$256)은 **성장 실현 확률에 따른 가격 차별화** 필요\n\n---\n\n## [투자 판단]\n\n**→ 보류 (Selective Hold / 위험 선호 투자자 제한적 매수)**\n\n---\n\n## [판단 근거]\n\n**1. 긍정 신호의 충분성 vs 실현 가능성의 불확실성**\n\n| 측면 | 평가 |\n|------|------|\n| 단기 모멘텀 | ✅ 강함 (연속 상승, 기관 진입) |\n| 성장 파이프라인 | ✅ 다각화 (3개 이상 축) |\n| 애널리스트 합의도 | ⚠️ 중간 (목표가 27:12 but 범위 광범위) |\n| 가치평가 검증 | ❌ 약함 (DCF $163 vs 목표 $256) |\n| 실적 가시성 | ❌ 낮음 (파이프라인 단계) |\n\n**2. 투자 결정 기준**\n\n- **매수 추천 대상**: \n  - 신약 개발사의 장기 성장성에 베팅하는 투자자\n  - 3-5년 이상의 장기 보유 의향이 있는 투자자\n  - 목표가 $256에서 나타나는 20-30% 상승 여력에 매력을 느끼는 투자자\n\n- **매수 보류 대상**:\n  - 단기 수익 실현을 목표로 하는 투자자\n  - DCF 가치($163)보다 높은 가격대에서의 투자를 꺼리는 투자자\n  - 신약 상용화 불확실성이 높다고 판단하는 투자자\n\n**3. 핵심 리스크 요인**\n\n- 3월 31일의 3.26% 상승 후 **모멘텀 지속성 미검증** (추가 뉴스 필요)\n- Bernstein의 Hold 등급이 **주요 기관의 실사(Due Diligence)** 미완료 신호로 해석 가능\n- 신약 파이프라인의 **실제 시장 진입까지 2-4년 소요** 예상\n\n---\n\n**결론**: \n기초 심사(팬더멘탈)와 기술적 신호는 긍정적이나, **밸류에이션 정당성과 신약 상용화 확률 검증이 선행되어야 본격적 매수 시점**으로 판단됩니다. 현 시점은 **추가 실적 가시성 발표 대기 구간**으로 보류 입장 유지를 권장합니다."
 }
