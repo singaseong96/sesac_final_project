@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "symbol": "CVX",
+    "analysis_date": "2026-04-01T02:44:16.178368+00:00",
+    "news_period": "2026-03-29 ~ 2026-03-31",
+    "news_count": 49,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Neutral": 23,
+    "Growth": 12,
+    "Positive": 7,
+    "Risk": 4,
+    "Mixed": 2,
+    "Negative": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-29": {
+      "Neutral": 3,
+      "Risk": 1,
+      "Positive": 1,
+      "Growth": 1
+    },
+    "2026-03-30": {
+      "Neutral": 8,
+      "Growth": 4,
+      "Positive": 2,
+      "Negative": 1,
+      "Risk": 1
+    },
+    "2026-03-31": {
+      "Neutral": 12,
+      "Growth": 7,
+      "Positive": 4,
+      "Mixed": 2,
+      "Risk": 2
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-31 23:40:00",
+      "title": "Why Holding Chevron & Exxon Stock is Still Worthwhile - tradingview.com",
+      "url": "https://www.tradingview.com/news/zacks:6c4036e36094b:0-why-holding-chevron-exxon-stock-is-still-worthwhile/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 23:28:52",
+      "title": "Warren Buffett Made a $19.8 Billion Bet and It's Not on AI - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/1077825/warren-buffett-made-a-19-8-billion-bet-and-it-s-not-on-ai/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 22:56:12",
+      "title": "Chevron, Microsoft, Engine No. 1 Entered Into Agreement Related To Proposed Power Generation & Electricity Offtake Arrangement - tradingview.com",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN40J1W3:0-chevron-microsoft-engine-no-1-entered-into-agreement-related-to-proposed-power-generation-electricity-offtake-arrangement/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 22:34:59",
+      "title": "Microsoft in talks with Chevron, Engine No. 1 about $7B Texas power plant - Bloomberg (MSFT:NASDAQ) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4571018-microsoft-in-talks-with-chevron-engine-no-1-about-7b-texas-power-plant-bloomberg",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 21:30:37",
+      "title": "Chevron (NYSE:CVX) Trading Down 1.9% - Here's Why - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/chevron-nysecvx-trading-down-19-heres-why-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 21:30:04",
+      "title": "Chevron Options Spot-On: On March 31st, 70,265 Contracts Were Traded, With 583.79K Open Interest - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67727782/chevron-options-spot-on-on-march-31st-70265-contracts-were?level=1&data_ticket=1775006986719761",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 20:54:05",
+      "title": "2 of the Best Oil Stocks to Buy Now and Hold for Decades - AOL.com",
+      "url": "https://www.aol.com/articles/2-best-oil-stocks-buy-003500442.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 17:25:07",
+      "title": "2 Oil Stocks That Can Weather the Current Volatility - AOL.com",
+      "url": "https://www.aol.com/finance/2-oil-stocks-weather-current-172300910.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 16:03:13",
+      "title": "Oil Prices Are Near Multiyear Highs. Here's the Best Energy Stock to Buy With $1,000. - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1067868/oil-prices-are-near-multiyear-highs-heres-the-best-energy-stock-to-buy-with-1000/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 15:26:00",
+      "title": "Chevron Partners With Libya's NOC to Unlock Offshore Potential - tradingview.com",
+      "url": "https://www.tradingview.com/news/zacks:67093f494094b:0-chevron-partners-with-libya-s-noc-to-unlock-offshore-potential/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 14:43:03",
+      "title": "Chevron Stock Is Up 36% in 2026. Here’s Why Analysts See a $251 Target - TIKR.com",
+      "url": "https://www.tikr.com/blog/chevron-stock-is-up-36-in-2026-heres-why-analysts-see-a-251-target",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-31 13:00:06",
+      "title": "Chevron Corporation (CVX) is Attracting Investor Attention: Here is What You Should Know - sg.finance.yahoo.com",
+      "url": "https://sg.finance.yahoo.com/news/chevron-corporation-cvx-attracting-investor-130006529.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 11:42:56",
+      "title": "J.P. Morgan Maintains Chevron(CVX.US) With Buy Rating - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70903786/jp-morgan-maintains-chevron-cvxus-with-buy-rating?level=1&data_ticket=1775006624882232",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 11:20:00",
+      "title": "Despite Getting A War-Fueled Boost from Higher Oil Prices, This Top ETF Just Cut its Exposure to Energy Stocks - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1060027/despite-getting-a-war-fueled-boost-from-higher-oil-prices-this-top-etf-just-cut-its-exposure-to-energy-stocks/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 10:43:00",
+      "title": "Why Chevron Stock Jumped 40%? - Trefis",
+      "url": "https://www.trefis.com/stock/cvx/articles2/595299/why-chevron-stock-jumped-40/2026-03-31",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 10:41:27",
+      "title": "Rochester Wealth Strategies LLC Grows Stock Position in Chevron Corporation $CVX - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-rochester-wealth-strategies-llc-grows-stock-position-in-chevron-corporation-cvx-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 10:35:22",
+      "title": "Infinity Wealth Counsel LLC Buys New Shares in Chevron Corporation $CVX - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-infinity-wealth-counsel-llc-buys-new-shares-in-chevron-corporation-cvx-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 10:23:22",
+      "title": "Chevron Corporation $CVX Shares Acquired by James Hambro & Partners LLP - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-chevron-corporation-cvx-shares-acquired-by-james-hambro-partners-llp-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 10:07:18",
+      "title": "Retirement Systems of Alabama Decreases Stake in Chevron Corporation $CVX - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-retirement-systems-of-alabama-decreases-stake-in-chevron-corporation-cvx-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 09:33:10",
+      "title": "Chevron Corporation $CVX Shares Sold by Hennion & Walsh Asset Management Inc. - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-chevron-corporation-cvx-shares-sold-by-hennion-walsh-asset-management-inc-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:46:41",
+      "title": "Smart Money Is Piling Into These 2 Energy Stocks as the Iran Crisis Deepens -- Should You Follow? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1056421/smart-money-is-piling-into-these-2-energy-stocks-as-the-iran-crisis-deepens-should-you-follow/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 08:39:03",
+      "title": "12,987 Shares in Chevron Corporation $CVX Purchased by Financial Planning Hawaii Inc. - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-12987-shares-in-chevron-corporation-cvx-purchased-by-financial-planning-hawaii-inc-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:36:40",
+      "title": "Chevron Corporation $CVX Shares Sold by Clg LLC - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-chevron-corporation-cvx-shares-sold-by-clg-llc-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:11:24",
+      "title": "The Dow Is on the Verge of a Correction: 3 Stocks to Buy Now - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/1056055/the-dow-is-on-the-verge-of-a-correction-3-stocks-to-buy-now/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 05:05:34",
+      "title": "Oil Stocks To Keep An Eye On – March 29th - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/31/oil-stocks-to-keep-an-eye-on-march-29th.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 05:05:00",
+      "title": "Is It Too Late To Consider Chevron (CVX) After Strong Multi‑Year Share Price Gains? - Yahoo! Finance Canada",
+      "url": "https://ca.finance.yahoo.com/news/too-consider-chevron-cvx-strong-050510039.html",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-31 03:23:18",
+      "title": "Is Chevron (CVX) Pricing Reflect Long Term Value After Strong Multi Year Share Gains - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/energy/nyse-cvx/chevron/news/is-chevron-cvx-pricing-reflect-long-term-value-after-strong/amp",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 20:54:31",
+      "title": "Chevron to partner with Libya’s NOC to assess offshore oil exploration (CVX:NYSE) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4570434-chevron-to-partner-with-libya-s-noc-to-assess-offshore-oil-exploration",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 20:47:27",
+      "title": "Chevron Corporation Stock Hits New 52-Week High on Analyst Upgrades Amid Surging Oil Prices - AD HOC NEWS",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/chevron-corporation-stock-hits-new-52-week-high-on-analyst-upgrades-amid/69032615",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 20:04:14",
+      "title": "Key facts: Chevron Reconsiders Assets; Signs MoU on Libya Offshore Block - tradingview.com",
+      "url": "https://www.tradingview.com/news/tradingview:586a4538fdc09:0-key-facts-chevron-reconsiders-assets-signs-mou-on-libya-offshore-block/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 16:00:03",
+      "title": "What Makes Chevron (CVX) a Strong Momentum Stock: Buy Now? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-chevron-cvx-strong-momentum-160003915.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 15:40:02",
+      "title": "SSL vs. CVX: Which Stock Is the Better Value Option? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ssl-vs-cvx-stock-better-154002358.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 14:16:52",
+      "title": "Chevron (NYSE:CVX) Sets New 12-Month High on Analyst Upgrade - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/chevron-nysecvx-sets-new-12-month-high-on-analyst-upgrade-2026-03-30/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 14:12:00",
+      "title": "CVX Faces Extended Wheatstone LNG Outage After Cyclone Disruption - Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/cvx-faces-extended-wheatstone-lng-141200101.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAJ6vwI-vQAKMoFgxeJwxeZ3Pv5-wsgSW66zYr40C4Oh0RthidejdHbHM1CyUPhvbblLgUMPDdtULWeNwRwhpY4mQ4ai0yo43IzZZTJp9cwpJZ8IQAL26bR6_OCYyppRV3CwY9t5w9CzIY_b1DlgZ6vNnpjnCtejwf3JX73kxy6pQ",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-30 13:52:00",
+      "title": "The Titan of Reliability: A Deep-Dive Research Feature on Chevron (CVX) Amidst a New Global Energy Era - financialcontent.com",
+      "url": "https://www.financialcontent.com/article/finterra-2026-3-30-the-titan-of-reliability-a-deep-dive-research-feature-on-chevron-cvx-amidst-a-new-global-energy-era",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 13:30:03",
+      "title": "Wall Street Analysts Think Chevron (CVX) Is a Good Investment: Is It? - Yahoo Finance UK",
+      "url": "https://uk.finance.yahoo.com/news/wall-street-analysts-think-chevron-133003466.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 12:38:32",
+      "title": "Chevron says Wheatstone repairs to take weeks, further tightening global LNG supply (CVX:NYSE) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4570156-chevron-says-wheatstone-repairs-to-take-weeks-further-tightening-global-lng-supply",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 11:50:11",
+      "title": "2 Oil Giants to Buy Immediately as the Iran Crisis Pushes Crude Toward $100 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1038632/2-oil-giants-to-buy-immediately-as-the-iran-crisis-pushes-crude-toward-100/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 10:55:49",
+      "title": "R.H. Dinel Investment Counsel Inc. Trims Stock Position in Chevron Corporation $CVX - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-rh-dinel-investment-counsel-inc-trims-stock-position-in-chevron-corporation-cvx-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:07:48",
+      "title": "Goelzer Investment Management Inc. Boosts Stake in Chevron Corporation $CVX - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-goelzer-investment-management-inc-boosts-stake-in-chevron-corporation-cvx-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:07:47",
+      "title": "Spire Wealth Management Lowers Position in Chevron Corporation $CVX - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-spire-wealth-management-lowers-position-in-chevron-corporation-cvx-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 09:03:40",
+      "title": "5 Stocks Preventing a S&P 500 Correction (Hint: None Are in the \"Magnificent Seven\") - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1035898/5-stocks-preventing-a-sp-500-correction-hint-none-are-in-the-magnificent-seven/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 08:08:36",
+      "title": "Chevron Corporation $CVX Shares Sold by Exchange Traded Concepts LLC - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-chevron-corporation-cvx-shares-sold-by-exchange-traded-concepts-llc-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 18:24:50",
+      "title": "Chevron Wheatstone Outage Tests LNG Reliability And Investor Expectations - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/energy/nyse-cvx/chevron/news/chevron-wheatstone-outage-tests-lng-reliability-and-investor",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-29 10:45:49",
+      "title": "Warren Buffett Was Right: These Oil Stocks Are the Safest Bet in an Iran-Rattled Market - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1028797/warren-buffett-was-right-these-oil-stocks-are-the-safest-bet-in-an-iran-rattled-market/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-29 09:57:50",
+      "title": "Chevron Corporation $CVX Shares Purchased by Cypress Wealth Services LLC - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/29/chevron-corporation-cvx-shares-purchased-by-cypress-wealth-services-llc.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 08:58:30",
+      "title": "Eastern Bank Lowers Holdings in Chevron Corporation $CVX - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/29/eastern-bank-lowers-holdings-in-chevron-corporation-cvx.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 07:38:18",
+      "title": "Advisors Management Group Inc. ADV Has $5.70 Million Stock Position in Chevron Corporation $CVX - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/29/advisors-management-group-inc-adv-has-5-70-million-stock-position-in-chevron-corporation-cvx.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 06:48:16",
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Chevron (NYSE:CVX) Stock - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/29/morgan-stanley-forecasts-strong-price-appreciation-for-chevron-nysecvx-stock.html",
+      "sentiment": "Growth"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-29 ──\n  [Risk] Chevron Wheatstone Outage Tests LNG Reliability And Investor Expectations - simplywall.st\n  [Positive] Warren Buffett Was Right: These Oil Stocks Are the Safest Bet in an Iran-Rattled Market - The Globe and Mail\n  [Neutral] Chevron Corporation $CVX Shares Purchased by Cypress Wealth Services LLC - Defense World\n  [Neutral] Eastern Bank Lowers Holdings in Chevron Corporation $CVX - Defense World\n  [Neutral] Advisors Management Group Inc. ADV Has $5.70 Million Stock Position in Chevron Corporation $CVX - Defense World\n  [Growth] Morgan Stanley Forecasts Strong Price Appreciation for Chevron (NYSE:CVX) Stock - Defense World\n\n── 2026-03-30 ──\n  [Growth] Chevron to partner with Libya’s NOC to assess offshore oil exploration (CVX:NYSE) - Seeking Alpha\n  [Positive] Chevron Corporation Stock Hits New 52-Week High on Analyst Upgrades Amid Surging Oil Prices - AD HOC NEWS\n  [Neutral] Key facts: Chevron Reconsiders Assets; Signs MoU on Libya Offshore Block - tradingview.com\n  [Neutral] What Makes Chevron (CVX) a Strong Momentum Stock: Buy Now? - Yahoo Finance\n  [Neutral] SSL vs. CVX: Which Stock Is the Better Value Option? - Yahoo Finance\n  [Growth] Chevron (NYSE:CVX) Sets New 12-Month High on Analyst Upgrade - marketbeat.com\n  [Negative] CVX Faces Extended Wheatstone LNG Outage After Cyclone Disruption - Yahoo Finance\n  [Growth] The Titan of Reliability: A Deep-Dive Research Feature on Chevron (CVX) Amidst a New Global Energy Era - financialcontent.com\n  [Positive] Wall Street Analysts Think Chevron (CVX) Is a Good Investment: Is It? - Yahoo Finance UK\n  [Risk] Chevron says Wheatstone repairs to take weeks, further tightening global LNG supply (CVX:NYSE) - Seeking Alpha\n  [Growth] 2 Oil Giants to Buy Immediately as the Iran Crisis Pushes Crude Toward $100 - The Globe and Mail\n  [Neutral] R.H. Dinel Investment Counsel Inc. Trims Stock Position in Chevron Corporation $CVX - marketbeat.com\n  [Neutral] Goelzer Investment Management Inc. Boosts Stake in Chevron Corporation $CVX - marketbeat.com\n  [Neutral] Spire Wealth Management Lowers Position in Chevron Corporation $CVX - marketbeat.com\n  [Neutral] 5 Stocks Preventing a S&P 500 Correction (Hint: None Are in the \"Magnificent Seven\") - The Globe and Mail\n  [Neutral] Chevron Corporation $CVX Shares Sold by Exchange Traded Concepts LLC - marketbeat.com\n\n── 2026-03-31 ──\n  [Positive] Why Holding Chevron & Exxon Stock is Still Worthwhile - tradingview.com\n  [Positive] Warren Buffett Made a $19.8 Billion Bet and It's Not on AI - The Globe and Mail\n  [Growth] Chevron, Microsoft, Engine No. 1 Entered Into Agreement Related To Proposed Power Generation & Electricity Offtake Arrangement - tradingview.com\n  [Growth] Microsoft in talks with Chevron, Engine No. 1 about $7B Texas power plant - Bloomberg (MSFT:NASDAQ) - Seeking Alpha\n  [Neutral] Chevron (NYSE:CVX) Trading Down 1.9% - Here's Why - marketbeat.com\n  [Neutral] Chevron Options Spot-On: On March 31st, 70,265 Contracts Were Traded, With 583.79K Open Interest - Moomoo\n  [Growth] 2 of the Best Oil Stocks to Buy Now and Hold for Decades - AOL.com\n  [Growth] 2 Oil Stocks That Can Weather the Current Volatility - AOL.com\n  [Growth] Oil Prices Are Near Multiyear Highs. Here's the Best Energy Stock to Buy With $1,000. - The Globe and Mail\n  [Growth] Chevron Partners With Libya's NOC to Unlock Offshore Potential - tradingview.com\n  [Mixed] Chevron Stock Is Up 36% in 2026. Here’s Why Analysts See a $251 Target - TIKR.com\n  [Neutral] Chevron Corporation (CVX) is Attracting Investor Attention: Here is What You Should Know - sg.finance.yahoo.com\n  [Positive] J.P. Morgan Maintains Chevron(CVX.US) With Buy Rating - 富途牛牛\n  [Risk] Despite Getting A War-Fueled Boost from Higher Oil Prices, This Top ETF Just Cut its Exposure to Energy Stocks - The Globe and Mail\n  [Positive] Why Chevron Stock Jumped 40%? - Trefis\n  [Neutral] Rochester Wealth Strategies LLC Grows Stock Position in Chevron Corporation $CVX - marketbeat.com\n  [Neutral] Infinity Wealth Counsel LLC Buys New Shares in Chevron Corporation $CVX - marketbeat.com\n  [Neutral] Chevron Corporation $CVX Shares Acquired by James Hambro & Partners LLP - marketbeat.com\n  [Neutral] Retirement Systems of Alabama Decreases Stake in Chevron Corporation $CVX - marketbeat.com\n  [Neutral] Chevron Corporation $CVX Shares Sold by Hennion & Walsh Asset Management Inc. - marketbeat.com\n  [Growth] Smart Money Is Piling Into These 2 Energy Stocks as the Iran Crisis Deepens -- Should You Follow? - The Globe and Mail\n  [Neutral] 12,987 Shares in Chevron Corporation $CVX Purchased by Financial Planning Hawaii Inc. - marketbeat.com\n  [Neutral] Chevron Corporation $CVX Shares Sold by Clg LLC - marketbeat.com\n  [Risk] The Dow Is on the Verge of a Correction: 3 Stocks to Buy Now - The Globe and Mail\n  [Neutral] Oil Stocks To Keep An Eye On – March 29th - Defense World\n  [Mixed] Is It Too Late To Consider Chevron (CVX) After Strong Multi‑Year Share Price Gains? - Yahoo! Finance Canada\n  [Neutral] Is Chevron (CVX) Pricing Reflect Long Term Value After Strong Multi Year Share Gains - simplywall.st",
+    "sentiment_block": "총 뉴스 49건 분석 결과:\n  Positive     7건 ( 14.3%) ██\n  Growth      12건 ( 24.5%) ████\n  Neutral     23건 ( 46.9%) █████████\n  Mixed        2건 (  4.1%) \n  Risk         4건 (  8.2%) █\n  Negative     1건 (  2.0%) \n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:3, Risk:1, Positive:1, Growth:1\n  2026-03-30: Neutral:8, Growth:4, Positive:2, Negative:1, Risk:1\n  2026-03-31: Neutral:12, Growth:7, Positive:4, Mixed:2, Risk:2",
+    "analyst_block": ""
+  },
+  "investment_judgment": "# 셰브론(CVX) 투자 분석 보고서\n\n## [핵심 요약]\n\n* **유가 급등 + 지정학적 리스크(이란 위기)**: 유류 수급 긴장 상황에서 유가가 멀티이어 고점 근처까지 상승\n* **공급 차질 이슈**: 호주 휘트스톤 LNG 플랜트의 사이클론 피해로 수주간 복구 필요 → 글로벌 LNG 공급 추가 긴장\n* **신규 성장동력 확보**: 마이크로소프트와의 70억 달러 규모 텍사스 발전소 협력 및 리비아 해상 유전 탐사 사업 추진\n* **주가 강세**: 2026년 초 대비 40% 상승, 52주 신고가 돌파, 월스트리트 애널리스트 평가 상향\n* **기관투자자 관심 증가**: 워런 버핏의 대규모 투자, 다수의 자산운용사들의 포지션 증가\n\n---\n\n## [전체 흐름 분석]\n\n**3월 29일 → 3월 30일 → 3월 31일로 갈수록 긍정적 신호가 강화되는 추세를 보임.**\n\n**3월 29일**: 초기 단계로 분석 시작, 중립 평가 및 리스크 첫 지적\n- 휘트스톤 가동 중단으로 인한 신뢰성 우려 제기\n- 그러나 유가 강세 시장에서 석유주 매력 언급\n\n**3월 30일**: 긍정 신호 확산 단계\n- 52주 신고가 달성, 애널리스트 상향 평가 시작\n- 리비아 해상 유전 협력 발표로 성장 동력 포착\n- 부정적 영향(휘트스톤 복구 수주 소요)은 존재하지만, 유가 상승의 수익성 개선 효과로 상쇄\n\n**3월 31일**: 모멘텀 강화 단계\n- 마이크로소프트 협력 70억 달러 규모 발전소 계약 체결 (주요 긍정 요인)\n- 12개월 신고가 돌파, 주가 40% 상승 실적\n- 워런 버핏의 195억 달러 대규모 투자 재강조\n- 일부 리스크 우려(에너지 ETF의 익스포저 감소) 존재하지만 소수 의견\n\n**핵심 흐름**: 단기 공급 차질 우려 < 유가 급등 수익성 + 신규 성장 계약 체결 효과\n\n---\n\n## [긍정 요인]\n\n1. **유가 멀티이어 고점 근처 상승**\n   - 이란 위기로 인한 지정학적 긴장이 유류 수요 불안감 유발\n   - 셰브론의 주요 수익 원천인 유가가 경쟁력 있는 수준에서 형성\n\n2. **신규 대규모 계약 체결**\n   - 마이크로소프트, Engine No. 1과 70억 달러 텍사스 발전소 협력 계약 체결\n   - 전력 공급 오프테이크 계약으로 장기 수익 안정성 확보\n\n3. **국제 석유 개발 확대**\n   - 리비아 국영석유공사(NOC)와 해상 블록 탐사 양해각서(MOU) 체결\n   - 신규 사업 지역 확보로 중장기 성장성 강화\n\n4. **시장 신뢰도 상승**\n   - 52주 신고가 달성, 12개월 신고가 돌파\n   - J.P. Morgan 등 주요 투행사 'Buy' 등급 유지\n   - 2026년 초 대비 40% 상승\n\n5. **기관투자자 수급 개선**\n   - 워런 버핏의 195억 달러 대규모 신규 투자\n   - 다수의 자산운용사(Rochester, Infinity Wealth, Goelzer 등)의 포지션 증가\n   - 개인 펀드매니저들의 매수 지속\n\n6. **벨류에이션 적절성**\n   - 강한 주가 상승에도 불구하고 애널리스트 목표가 251달러(현재가 대비 수익성 고려시 합리적 범위)\n   - \"오래 보유할 가치 있는 석유주\" 평가\n\n---\n\n## [부정 요인]\n\n1. **호주 휘트스톤 LNG 플랜트 가동 중단**\n   - 사이클론으로 인한 피해, 복구에 수주 소요\n   - 글로벌 LNG 공급 추가 긴장"
+}

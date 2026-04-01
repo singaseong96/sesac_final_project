@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "symbol": "UNH",
+    "analysis_date": "2026-04-01T02:45:28.721884+00:00",
+    "news_period": "2026-03-29 ~ 2026-03-31",
+    "news_count": 19,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Neutral": 15,
+    "Mixed": 2,
+    "Negative": 2
+  },
+  "sentiment_by_date": {
+    "2026-03-29": {
+      "Neutral": 2,
+      "Negative": 1
+    },
+    "2026-03-30": {
+      "Neutral": 6,
+      "Negative": 1,
+      "Mixed": 1
+    },
+    "2026-03-31": {
+      "Neutral": 7,
+      "Mixed": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-31 21:48:45",
+      "title": "UnitedHealth Group (NYSE:UNH) Trading 3.2% Higher - Should You Buy? - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-nyseunh-trading-32-higher-should-you-buy-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 14:22:08",
+      "title": "Bernstein Maintains UnitedHealth(UNH.US) With Buy Rating, Maintains Target Price $405 - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70911534/bernstein-maintains-unitedhealth-unhus-with-buy-rating-maintains-target-price?level=1&data_ticket=1775006624882232",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 10:19:25",
+      "title": "J. Safra Sarasin Holding AG Acquires 19,591 Shares of UnitedHealth Group Incorporated $UNH - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-j-safra-sarasin-holding-ag-acquires-19591-shares-of-unitedhealth-group-incorporated-unh-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 10:07:18",
+      "title": "Retirement Systems of Alabama Has $63.61 Million Stock Position in UnitedHealth Group Incorporated $UNH - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-retirement-systems-of-alabama-has-6361-million-stock-position-in-unitedhealth-group-incorporated-unh-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 09:43:14",
+      "title": "Mn Services Vermogensbeheer B.V. Increases Position in UnitedHealth Group Incorporated $UNH - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-increases-position-in-unitedhealth-group-incorporated-unh-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 09:08:00",
+      "title": "Wage gap myth, Dennett Road disconnect, guns on UNH campus: Letters - Seacoastonline.com",
+      "url": "https://www.seacoastonline.com/story/opinion/letters/2026/03/31/wage-gap-myth-dennett-road-disconnect-guns-on-unh-campus-letters/89391761007/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:06:00",
+      "title": "UNH Stock Slides Back Below Warren Buffett’s Entry Price As Annual Revenue Faces First Decline In 30 Years — AI May Be Long-Term Fix - stocktwits.com",
+      "url": "https://stocktwits.com/news-articles/markets/equity/unh-stock-below-buffett-entry-price-first-revenue-decline-30-years-ai/cZEPohoRINz",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-31 04:22:05",
+      "title": "UNHU | Direxion Daily UNH Bull Institutional Ownership - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/stock/UNHU/institutions/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 22:01:17",
+      "title": "UnitedHealth Group (NYSE:UNH) Trading Up 1.1% - Here's Why - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-nyseunh-trading-up-11-heres-why-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 16:34:15",
+      "title": "Letter to the editor: UNH is home to the state’s largest school of nursing - NH Business Review",
+      "url": "https://www.nhbr.com/letter-to-the-editor-unh-is-home-to-the-states-largest-school-of-nursing/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 14:20:42",
+      "title": "Unitedhealth Group Inc Stock (UNH) Moved Down by 3.89% on Mar 30: What Investors Need To Know - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261734131-market-movers-unh-20260330",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-30 11:15:05",
+      "title": "UnitedHealth UNH Dividend Signals Market Shift - Colitco",
+      "url": "https://colitco.com/unitedhealth-unh-dividend-schd-dip-buying-3003202615/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-30 10:45:48",
+      "title": "TrueMark Investments LLC Makes New $3.46 Million Investment in UnitedHealth Group Incorporated $UNH - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-truemark-investments-llc-makes-new-346-million-investment-in-unitedhealth-group-incorporated-unh-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 08:40:50",
+      "title": "Donaldson Capital Management LLC Lowers Stock Holdings in UnitedHealth Group Incorporated $UNH - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-donaldson-capital-management-llc-lowers-stock-holdings-in-unitedhealth-group-incorporated-unh-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 07:11:15",
+      "title": "Maine women’s basketball season ends in America East Championship Game - The Maine Campus",
+      "url": "https://mainecampus.com/category/sports/2026/03/maine-womens-basketball-season-ends-in-america-east-championship-game/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 07:00:00",
+      "title": "From Strategy to Cybersecurity Leadership: Gina Yacone’s Journey to CISO - University of New Hampshire",
+      "url": "https://www.unh.edu/wildcat-voices/2026/03/strategy-cybersecurity-leadership-gina-yacones-journey-ciso",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 16:57:40",
+      "title": "Warren Buffett has lost over $265 million on historic UnitedHealth stock bet - Finbold",
+      "url": "https://finbold.com/warren-buffett-has-lost-over-265-million-on-historic-unitedhealth-stock-bet/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-29 11:27:31",
+      "title": "UnitedHealth Group Incorporated $UNH Holdings Lowered by Wedge Capital Management L L P NC - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-unitedhealth-group-incorporated-unh-holdings-lowered-by-wedge-capital-management-l-l-p-nc-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 07:03:16",
+      "title": "UnitedHealth Group Incorporated $UNH Shares Sold by Acropolis Investment Management LLC - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/29/unitedhealth-group-incorporated-unh-shares-sold-by-acropolis-investment-management-llc.html",
+      "sentiment": "Neutral"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-29 ──\n  [Negative] Warren Buffett has lost over $265 million on historic UnitedHealth stock bet - Finbold\n  [Neutral] UnitedHealth Group Incorporated $UNH Holdings Lowered by Wedge Capital Management L L P NC - marketbeat.com\n  [Neutral] UnitedHealth Group Incorporated $UNH Shares Sold by Acropolis Investment Management LLC - Defense World\n\n── 2026-03-30 ──\n  [Neutral] UnitedHealth Group (NYSE:UNH) Trading Up 1.1% - Here's Why - marketbeat.com\n  [Neutral] Letter to the editor: UNH is home to the state’s largest school of nursing - NH Business Review\n  [Negative] Unitedhealth Group Inc Stock (UNH) Moved Down by 3.89% on Mar 30: What Investors Need To Know - TradingKey\n  [Mixed] UnitedHealth UNH Dividend Signals Market Shift - Colitco\n  [Neutral] TrueMark Investments LLC Makes New $3.46 Million Investment in UnitedHealth Group Incorporated $UNH - marketbeat.com\n  [Neutral] Donaldson Capital Management LLC Lowers Stock Holdings in UnitedHealth Group Incorporated $UNH - marketbeat.com\n  [Neutral] Maine women’s basketball season ends in America East Championship Game - The Maine Campus\n  [Neutral] From Strategy to Cybersecurity Leadership: Gina Yacone’s Journey to CISO - University of New Hampshire\n\n── 2026-03-31 ──\n  [Neutral] UnitedHealth Group (NYSE:UNH) Trading 3.2% Higher - Should You Buy? - marketbeat.com\n  [Neutral] Bernstein Maintains UnitedHealth(UNH.US) With Buy Rating, Maintains Target Price $405 - 富途牛牛\n  [Neutral] J. Safra Sarasin Holding AG Acquires 19,591 Shares of UnitedHealth Group Incorporated $UNH - marketbeat.com\n  [Neutral] Retirement Systems of Alabama Has $63.61 Million Stock Position in UnitedHealth Group Incorporated $UNH - marketbeat.com\n  [Neutral] Mn Services Vermogensbeheer B.V. Increases Position in UnitedHealth Group Incorporated $UNH - marketbeat.com\n  [Neutral] Wage gap myth, Dennett Road disconnect, guns on UNH campus: Letters - Seacoastonline.com\n  [Mixed] UNH Stock Slides Back Below Warren Buffett’s Entry Price As Annual Revenue Faces First Decline In 30 Years — AI May Be Long-Term Fix - stocktwits.com\n  [Neutral] UNHU | Direxion Daily UNH Bull Institutional Ownership - Quiver Quantitative",
+    "sentiment_block": "총 뉴스 19건 분석 결과:\n  Positive     0건 (  0.0%) \n  Growth       0건 (  0.0%) \n  Neutral     15건 ( 78.9%) ███████████████\n  Mixed        2건 ( 10.5%) ██\n  Risk         0건 (  0.0%) \n  Negative     2건 ( 10.5%) ██\n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:2, Negative:1\n  2026-03-30: Neutral:6, Negative:1, Mixed:1\n  2026-03-31: Neutral:7, Mixed:1",
+    "analyst_block": ""
+  },
+  "investment_judgment": "# UnitedHealth Group (UNH) 투자 분석 보고서\n\n## [핵심 요약]\n* Warren Buffett의 대규모 손실(2억 6,500만 달러) 발생으로 인한 신뢰도 하락\n* 3월 30일 3.89% 급락 후 3월 31일 3.2% 반등하며 변동성 확대\n* 30년 만에 첫 연간 수익 감소 예상되나, 기관투자자들의 지속적인 포지션 증설\n* 전반적으로 중립적 시장 평가(78.9%)로 혼합된 신호 발생\n\n## [전체 흐름 분석]\n\n**시간대별 변동 패턴:**\n- **3월 29일**: Warren Buffett의 대규모 손실 공개로 부정적 심리 형성 (Negative 1건)\n- **3월 30일**: 주가 하락(3.89%)과 기관투자자의 포지션 조정 발생. 배당금 신호 관련 혼합 의견 출현\n- **3월 31일**: 주가 3.2% 반등, 감정 지표 개선. 다수 기관투자자의 추가 매입 기록\n\n**시장의 이중성:**\n뉴스 감정 분석에서 중립(78.9%)이 압도적이나, 실제 시장 움직임은 상당한 변동성을 보임. 이는 펀더멘탈 약세(30년 만의 수익 감소)와 기관투자자의 매수 심리가 충돌하는 상황을 반영함.\n\n## [긍정 요인]\n\n* **기관투자자의 적극적 매수**: TrueMark Investments($3.46M), J. Safra Sarasin Holding AG(19,591주), Retirement Systems of Alabama($63.61M), Mn Services Vermogensbeheer B.V. 등 다수 기관이 포지션 증설 중\n* **애널리스트 지지**: Bernstein이 Buy 등급 유지, 목표가 $405 제시\n* **기술적 반등**: 3월 31일 3.2% 상승으로 약세 심화 방지\n* **배당금 유지**: 배당금 신호가 시장에 존재하여 안정성 평가 받음\n\n## [부정 요인]\n\n* **Warren Buffett 손실 심화**: 2억 6,500만 달러의 손실은 세계 최고의 투자자도 회피하는 신호로 작용\n* **펀더멘탈 악화**: 30년 만에 처음으로 연간 수익 감소 예상\n* **주가 약세**: Warren Buffett의 진입가 이하로 하락 중\n* **기관투자자의 포지션 축소**: Wedge Capital Management, Acropolis Investment Management, Donaldson Capital Management 등이 보유주식 감소\n* **변동성 확대**: 3월 30일 -3.89%, 3월 31일 +3.2%의 급등락으로 불확실성 표현\n\n## [투자 인사이트]\n\n1. **신호의 모순성**: 기관투자자들이 계속 매수 중이지만 이는 장기 가치 투자 관점일 가능성이 높으며, 단기 수익성은 악화 중\n2. **Buffett 신호의 중요성**: 역사적 대손실은 단순 시장 변동이 아닌 구조적 문제 신호로 해석 가능\n3. **AI 언급의 한계**: \"AI가 장기적 해결책\"이라는 언급은 현재 수익 악화에 대한 즉시 해결책이 되지 못함\n4. **포지션 양극화**: 매수 기관과 매도 기관이 동시에 움직이며 시장 컨센서스 부재 상태\n\n## [투자 판단]\n\n**보류 (HOLD)**\n\n## [판단 근거]\n\n**투자를 피하지는 않되 신중한 태도 권고:**\n\n1. **부정 요인이 더 강력함**: \n   - Warren Buffett의 손실과 30년 만의 수익 감소는 장기 투자 가치에 의구심을 제시\n   - 주가가 Buffett 진입가 이하로 하락 중인 것은 현 수익 전망이 부정적임을 의미\n\n2. **긍정 요인의 신뢰도 부족**:\n   - 기관투자자 매수는 이미 하락한 가격에서의 평가 매매일 가능성\n   - Bernstein의 Buy 평가는 수익 악화 전망을 반영하지 못한 것으로 보임\n\n3. **명확한 전환신호 부재**:\n   - 78.9%의 중립 평가는 시장이 명확한 방향성을 결정하지 못했음을 의미\n   - 수익 회복에 대한 구"
+}

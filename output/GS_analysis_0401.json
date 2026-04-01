@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "symbol": "GS",
+    "analysis_date": "2026-04-01T02:43:04.436128+00:00",
+    "news_period": "2026-03-29 ~ 2026-03-31",
+    "news_count": 50,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Neutral": 31,
+    "Growth": 7,
+    "Positive": 7,
+    "Risk": 4,
+    "Negative": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-29": {
+      "Neutral": 11,
+      "Growth": 1
+    },
+    "2026-03-30": {
+      "Neutral": 11,
+      "Positive": 2,
+      "Risk": 2,
+      "Growth": 2
+    },
+    "2026-03-31": {
+      "Neutral": 9,
+      "Positive": 5,
+      "Growth": 4,
+      "Risk": 2,
+      "Negative": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-31 23:42:00",
+      "title": "NH Securities lifts GS E&C target as cost stabilization boosts outlook - CHOSUNBIZ - biz.chosun.com",
+      "url": "https://biz.chosun.com/en/en-finance/2026/04/01/ZUYDEKBSIBFZLNU3U64XTQEG6A/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 23:10:07",
+      "title": "[Click e-Stock] \"GS E&C Expected to Undergo Structural Reform Centered on New Businesses... Target Price Raised\" - 아시아경제",
+      "url": "https://www.asiae.co.kr/en/article/notable-stocks/2026040108100600631",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 20:19:00",
+      "title": "IAPP GS Day 2: Courts' Powers Over Privacy and US-EU Data Law Tension - Law.com",
+      "url": "https://www.law.com/legaltechnews/2026/03/31/iapp-gs-day-2-courts-powers-over-privacy-and-us-eu-data-law-tension-/?slreturn=20260331215839",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 19:16:56",
+      "title": "Goldman Sachs Group Inc Stock (GS) Moved Up by 4.95% on Mar 31: Facts Behind the Movement - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261739762-market-movers-gs-20260331",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 17:34:38",
+      "title": "Mark Wilf Talks 2026 NFL Offseason, Quarterback Room, Rob Brzezinski, General Manager Search, Proposal to Host 2028 NFL Draft & More - Minnesota Vikings",
+      "url": "https://www.vikings.com/video/mark-wilf-talks-2026-nfl-offseason-quarterback-room-rob-brzezinski-general-manager-search-proposal-to-host-2028-nfl-draft-more",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 17:03:12",
+      "title": "Lunchbreak: ESPN Projects ‘Perfect Fits’ for NFL Draft Prospects - Minnesota Vikings",
+      "url": "https://www.vikings.com/news/2026-nfl-draft-prospects-projections-brian-oneill-high-school",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 16:00:00",
+      "title": "MLB DFS Picks: Starting Pitcher Rankings for Tuesday 3/31/26 - DraftKings Network",
+      "url": "https://dknetwork.draftkings.com/2026/03/31/mlb-dfs-picks-starting-pitcher-rankings-for-tuesday-3-31-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 15:50:36",
+      "title": "That’s A Wrap: G’s Travel Your Heart Out Roadshow Raises $10K for Planeterra - Travel Market Report",
+      "url": "https://www.travelmarketreport.com/canada/packaged-travel/articles/thats-a-wrap-gs-travel-your-heart-out-roadshow-raises-10k-for-planeterra",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 15:40:55",
+      "title": "Gen.G’s Ruler Faces Possible LCK Discipline After Tax Avoidance Controversy - invenglobal.com",
+      "url": "https://www.invenglobal.com/articles/20374/gengs-ruler-faces-possible-lck-discipline-after-tax-avoidance-controversy",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 15:10:01",
+      "title": "South Korean Refineries Rush to Secure Costly U.S. Crude - Businesskorea",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=266610",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 11:08:00",
+      "title": "Wells Fargo Reaffirms Their Buy Rating on Goldman Sachs Group (GS) - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/GS/pressreleases/1059738/wells-fargo-reaffirms-their-buy-rating-on-goldman-sachs-group-gs/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 10:07:59",
+      "title": "Several Greek hydrogen projects in ENTSO-G’s new development plan - Balkan Green Energy News",
+      "url": "https://balkangreenenergynews.com/several-greek-hydrogen-projects-in-entso-gs-new-development-plan/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 09:43:15",
+      "title": "Mn Services Vermogensbeheer B.V. Boosts Holdings in The Goldman Sachs Group, Inc. $GS - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-boosts-holdings-in-the-goldman-sachs-group-inc-gs-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:07:00",
+      "title": "First Grand Soleil's flagship GS Plus 80 Long Cruise launched - Sail World Cruising",
+      "url": "https://www.sailworldcruising.com/news/294867/Grand-Soleil-GS-Plus-80-Long-Cruise-launched",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 08:00:00",
+      "title": "Sister Act: Elisabeth and Mary Bocock go 1-2 in GS on Day 3 of U.S. nationals in Vail - AspenTimes.com",
+      "url": "https://www.aspentimes.com/news/sister-act-elisabeth-and-mary-bocock-go-1-2-in-gs-on-day-3-of-u-s-nationals-in-vail/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 06:49:44",
+      "title": "The Goldman Sachs Group, Inc. (NYSE:GS) Receives Consensus Recommendation of \"Hold\" from Analysts - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/the-goldman-sachs-group-inc-nysegs-receives-consensus-recommendation-of-hold-from-analysts-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 06:09:46",
+      "title": "Why HEXON Is the Top-Rated VDE Insulated Hand Tool Solutions Provider from China With GS Certification - Issuewire",
+      "url": "https://www.issuewire.com/why-hexon-is-the-top-rated-vde-insulated-hand-tool-solutions-provider-from-china-with-gs-certification-1861073457856329",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 06:00:00",
+      "title": "Hong Soon-ki leads GS holding company shift as finance-driven ‘steward’ - CHOSUNBIZ - biz.chosun.com",
+      "url": "https://biz.chosun.com/en/en-industry/2026/03/31/T7ETWCGPABHQ5LAJCYJPIDDEWA/?outputType=amp",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 05:46:14",
+      "title": "Alanya-FB, BJK-Hatay, Gençlerbirliği-GS, Şampiyonlar Ligi | Uğur Karakullukçu & Emre Özcan #144 [3a64b5] - Fathom Journal",
+      "url": "https://fathomjournal.org/bed841b7smm/73a64b50-pFqJiQ_rk-E.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 00:36:28",
+      "title": "Gas One GS-3400P Review - GearLab",
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-stove/gas-one-gs-3400p",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-31 00:00:00",
+      "title": "Will Goldman Sachs (GS) beat quarterly earnings? Predicti... - Polymarket",
+      "url": "https://polymarket.com/event/gs-quarterly-earnings-gaap-eps-04-13-2026-15pt95",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 23:38:36",
+      "title": "Bocock Sisters Go 1–2 in Women’s GS at U.S. Alpine Nationals Presented by Stifel - Ski Racing Media",
+      "url": "https://skiracing.com/womens-giant-slalom-us-alpine-nationals-presented-by-stifel-results/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 23:13:56",
+      "title": "Today, investment trusts such as 'GS Corporate Bonds/One U.S. Equity Strategy Fund 2026-03' have been established. - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70859414/today-investment-trusts-such-as-gs-corporate-bonds-one-us?level=1&data_ticket=1775006624882232",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 21:58:08",
+      "title": "Georgia Southern @ North Florida - Watch/Listen - Powered by SIDEARM Showcase - Georgia Southern University Athletics",
+      "url": "https://gseagles.com/watch/?Live=2884&type=Live",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 19:43:00",
+      "title": "IAPP GS Day One: OpenAI, Anthropic Attorneys Delve Into the Privacy-Safety Tradeoff in AI - Law.com",
+      "url": "https://www.law.com/legaltechnews/2026/03/30/iapp-gs-day-one-openai-anthropic-attorneys-delve-into-the-privacy-safety-tradeoff-in-ai-/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 16:00:00",
+      "title": "MLB DFS Picks: Starting Pitcher Rankings for Monday 3/30/26 - DraftKings Network",
+      "url": "https://dknetwork.draftkings.com/2026/03/30/mlb-dfs-picks-starting-pitcher-rankings-for-monday-3-30-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 13:52:28",
+      "title": "Becky G’s Cami Top Is a Moment for the Mirrors as She Drops New Song - Reality Tea",
+      "url": "https://www.realitytea.com/2026/03/30/becky-g-cami-top-mirror-dance-new-song-photo/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 13:30:03",
+      "title": "Why Goldman Sachs (GS) is a Top Stock for the Long-Term - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-goldman-sachs-gs-top-133003429.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 13:01:00",
+      "title": "The Number Ones: Polo G’s “Rapstar” - Stereogum",
+      "url": "https://stereogum.com/2493339/the-number-ones-polo-gs-rapstar/columns/the-number-ones",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 11:43:20",
+      "title": "Wells Fargo Maintains Goldman Sachs(GS.US) With Buy Rating, Maintains Target Price $1,050 - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70830905/wells-fargo-maintains-goldman-sachs-gsus-with-buy-rating-maintains?level=1&data_ticket=1775006624882232",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 08:28:44",
+      "title": "Donaldson Capital Management LLC Has $64.50 Million Holdings in The Goldman Sachs Group, Inc. $GS - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-donaldson-capital-management-llc-has-6450-million-holdings-in-the-goldman-sachs-group-inc-gs-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 08:27:58",
+      "title": "GS Microelectronics U.S., Inc. Accelerates 6G, 7G and Wi-Fi 7 Development with Tarana Deal - TechAfrica News",
+      "url": "https://techafricanews.com/2026/03/30/gs-microelectronics-u-s-inc-accelerates-6g-7g-and-wi-fi-7-development-with-tarana-deal/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 07:24:14",
+      "title": "What is the GS Center? – Center for Japanese Language, Waseda University - waseda.jp",
+      "url": "https://www.waseda.jp/inst/cjl/news-en/2026/03/30/18450/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 07:10:40",
+      "title": "Tongwei moves into hybrid heterojunction back contact solar cell technology - pv magazine International",
+      "url": "https://www.pv-magazine.com/2026/03/30/tongwei-moves-into-hybrid-heterojunction-back-contact-solar-cell-technology/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 02:58:11",
+      "title": "ABIOPXX Seasonals Chart - tradingview.com",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ABIOPXX/seasonals/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 02:46:00",
+      "title": "Goldman Sachs sees jobless rate overshooting Fed forecasts as price shocks curb hiring - CNBC",
+      "url": "https://www.cnbc.com/video/2026/03/30/goldman-sachs-expects-unemployment-rate-to-rise-further-than-fed-projections-due-to-price-shocks-likely-dampening-hiring-appetite.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 02:40:38",
+      "title": "GS Finance Corp. Capped Point to Point Fully Principally Protected Note ABFFIXX - tradingview.com",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ABFFIXX/seasonals/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 00:24:09",
+      "title": "AARFHXX Seasonals Chart - tradingview.com",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-AARFHXX/seasonals/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 22:15:25",
+      "title": "GS Engineering Unveils 49-Floor 'Changwon Zay The Sky' at Former Hotel Site - chosun.com",
+      "url": "https://www.chosun.com/english/industry-en/2026/03/30/XE66BJHQ7JFR5MK33KNXUB7VRM/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 21:12:11",
+      "title": "Golden State Warriors vs. Denver Nuggets Odds, Betting Lines, Expert picks, Game Projections, DFS Projections and Player Prop Projections - Sunday 03/29 19:00 PM - SportsLine",
+      "url": "https://www.sportsline.com/NBA/game-forecast/NBA_20260329_GS@DEN/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 20:57:41",
+      "title": "AARFHXX Stock Price and Chart — NASDAQ:AARFHXX - tradingview.com",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-AARFHXX/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 19:47:22",
+      "title": "Portland Fire 2026 Regular Season WNBA Fixtures - ESPN Singapore",
+      "url": "https://www.espn.com.sg/wnba/team/schedule/_/name/POR",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 17:50:12",
+      "title": "ABEFVXX Seasonals Chart - tradingview.com",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ABEFVXX/seasonals/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 17:41:46",
+      "title": "ABFYMXX Stock Price and Chart — NASDAQ:ABFYMXX - tradingview.com",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ABFYMXX/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 17:31:07",
+      "title": "ABNQPXX Seasonals Chart - tradingview.com",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ABNQPXX/seasonals/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 12:54:46",
+      "title": "Alexis Pinturault 1st Place World Cup GS Adelboden (07-01-2017) [424266] - Fathom Journal",
+      "url": "https://fathomjournal.org/97d2d509smm/e4242663-TLFM4VWATiM.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 10:43:05",
+      "title": "Game Plan Financial Advisors LLC Increases Position in The Goldman Sachs Group, Inc. $GS - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-game-plan-financial-advisors-llc-increases-position-in-the-goldman-sachs-group-inc-gs-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 10:13:29",
+      "title": "Portland Fire 2026 Regular Season WNBA Fixtures - ESPN",
+      "url": "https://www.espn.com.au/wnba/team/schedule/_/name/POR",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 08:26:05",
+      "title": "ABFFIXX Stock Price and Chart — NASDAQ:ABFFIXX - tradingview.com",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ABFFIXX/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 07:54:23",
+      "title": "Exchange Traded Concepts LLC Buys 13,970 Shares of The Goldman Sachs Group, Inc. $GS - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-buys-13970-shares-of-the-goldman-sachs-group-inc-gs-2026-03-29/",
+      "sentiment": "Neutral"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-29 ──\n  [Growth] GS Engineering Unveils 49-Floor 'Changwon Zay The Sky' at Former Hotel Site - chosun.com\n  [Neutral] Golden State Warriors vs. Denver Nuggets Odds, Betting Lines, Expert picks, Game Projections, DFS Projections and Player Prop Projections - Sunday 03/29 19:00 PM - SportsLine\n  [Neutral] AARFHXX Stock Price and Chart — NASDAQ:AARFHXX - tradingview.com\n  [Neutral] Portland Fire 2026 Regular Season WNBA Fixtures - ESPN Singapore\n  [Neutral] ABEFVXX Seasonals Chart - tradingview.com\n  [Neutral] ABFYMXX Stock Price and Chart — NASDAQ:ABFYMXX - tradingview.com\n  [Neutral] ABNQPXX Seasonals Chart - tradingview.com\n  [Neutral] Alexis Pinturault 1st Place World Cup GS Adelboden (07-01-2017) [424266] - Fathom Journal\n  [Neutral] Game Plan Financial Advisors LLC Increases Position in The Goldman Sachs Group, Inc. $GS - marketbeat.com\n  [Neutral] Portland Fire 2026 Regular Season WNBA Fixtures - ESPN\n  [Neutral] ABFFIXX Stock Price and Chart — NASDAQ:ABFFIXX - tradingview.com\n  [Neutral] Exchange Traded Concepts LLC Buys 13,970 Shares of The Goldman Sachs Group, Inc. $GS - marketbeat.com\n\n── 2026-03-30 ──\n  [Neutral] Bocock Sisters Go 1–2 in Women’s GS at U.S. Alpine Nationals Presented by Stifel - Ski Racing Media\n  [Positive] Today, investment trusts such as 'GS Corporate Bonds/One U.S. Equity Strategy Fund 2026-03' have been established. - 富途牛牛\n  [Neutral] Georgia Southern @ North Florida - Watch/Listen - Powered by SIDEARM Showcase - Georgia Southern University Athletics\n  [Risk] IAPP GS Day One: OpenAI, Anthropic Attorneys Delve Into the Privacy-Safety Tradeoff in AI - Law.com\n  [Neutral] MLB DFS Picks: Starting Pitcher Rankings for Monday 3/30/26 - DraftKings Network\n  [Neutral] Becky G’s Cami Top Is a Moment for the Mirrors as She Drops New Song - Reality Tea\n  [Positive] Why Goldman Sachs (GS) is a Top Stock for the Long-Term - Yahoo Finance\n  [Neutral] The Number Ones: Polo G’s “Rapstar” - Stereogum\n  [Neutral] Wells Fargo Maintains Goldman Sachs(GS.US) With Buy Rating, Maintains Target Price $1,050 - 富途牛牛\n  [Neutral] Donaldson Capital Management LLC Has $64.50 Million Holdings in The Goldman Sachs Group, Inc. $GS - marketbeat.com\n  [Growth] GS Microelectronics U.S., Inc. Accelerates 6G, 7G and Wi-Fi 7 Development with Tarana Deal - TechAfrica News\n  [Neutral] What is the GS Center? – Center for Japanese Language, Waseda University - waseda.jp\n  [Growth] Tongwei moves into hybrid heterojunction back contact solar cell technology - pv magazine International\n  [Neutral] ABIOPXX Seasonals Chart - tradingview.com\n  [Risk] Goldman Sachs sees jobless rate overshooting Fed forecasts as price shocks curb hiring - CNBC\n  [Neutral] GS Finance Corp. Capped Point to Point Fully Principally Protected Note ABFFIXX - tradingview.com\n  [Neutral] AARFHXX Seasonals Chart - tradingview.com\n\n── 2026-03-31 ──\n  [Growth] NH Securities lifts GS E&C target as cost stabilization boosts outlook - CHOSUNBIZ - biz.chosun.com\n  [Growth] [Click e-Stock] \"GS E&C Expected to Undergo Structural Reform Centered on New Businesses... Target Price Raised\" - 아시아경제\n  [Neutral] IAPP GS Day 2: Courts' Powers Over Privacy and US-EU Data Law Tension - Law.com\n  [Positive] Goldman Sachs Group Inc Stock (GS) Moved Up by 4.95% on Mar 31: Facts Behind the Movement - TradingKey\n  [Neutral] Mark Wilf Talks 2026 NFL Offseason, Quarterback Room, Rob Brzezinski, General Manager Search, Proposal to Host 2028 NFL Draft & More - Minnesota Vikings\n  [Neutral] Lunchbreak: ESPN Projects ‘Perfect Fits’ for NFL Draft Prospects - Minnesota Vikings\n  [Neutral] MLB DFS Picks: Starting Pitcher Rankings for Tuesday 3/31/26 - DraftKings Network\n  [Positive] That’s A Wrap: G’s Travel Your Heart Out Roadshow Raises $10K for Planeterra - Travel Market Report\n  [Risk] Gen.G’s Ruler Faces Possible LCK Discipline After Tax Avoidance Controversy - invenglobal.com\n  [Risk] South Korean Refineries Rush to Secure Costly U.S. Crude - Businesskorea\n  [Positive] Wells Fargo Reaffirms Their Buy Rating on Goldman Sachs Group (GS) - The Globe and Mail\n  [Growth] Several Greek hydrogen projects in ENTSO-G’s new development plan - Balkan Green Energy News\n  [Neutral] Mn Services Vermogensbeheer B.V. Boosts Holdings in The Goldman Sachs Group, Inc. $GS - marketbeat.com\n  [Positive] First Grand Soleil's flagship GS Plus 80 Long Cruise launched - Sail World Cruising\n  [Neutral] Sister Act: Elisabeth and Mary Bocock go 1-2 in GS on Day 3 of U.S. nationals in Vail - AspenTimes.com\n  [Neutral] The Goldman Sachs Group, Inc. (NYSE:GS) Receives Consensus Recommendation of \"Hold\" from Analysts - marketbeat.com\n  [Positive] Why HEXON Is the Top-Rated VDE Insulated Hand Tool Solutions Provider from China With GS Certification - Issuewire\n  [Neutral] Hong Soon-ki leads GS holding company shift as finance-driven ‘steward’ - CHOSUNBIZ - biz.chosun.com\n  [Neutral] Alanya-FB, BJK-Hatay, Gençlerbirliği-GS, Şampiyonlar Ligi | Uğur Karakullukçu & Emre Özcan #144 [3a64b5] - Fathom Journal\n  [Negative] Gas One GS-3400P Review - GearLab\n  [Growth] Will Goldman Sachs (GS) beat quarterly earnings? Predicti... - Polymarket",
+    "sentiment_block": "총 뉴스 50건 분석 결과:\n  Positive     7건 ( 14.0%) ██\n  Growth       7건 ( 14.0%) ██\n  Neutral     31건 ( 62.0%) ████████████\n  Mixed        0건 (  0.0%) \n  Risk         4건 (  8.0%) █\n  Negative     1건 (  2.0%) \n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:11, Growth:1\n  2026-03-30: Neutral:11, Positive:2, Risk:2, Growth:2\n  2026-03-31: Neutral:9, Positive:5, Growth:4, Risk:2, Negative:1",
+    "analyst_block": ""
+  },
+  "investment_judgment": "# 투자 분석 보고서\n\n## [핵심 요약]\n\n* **골드만삭스(GS)**: 주가 3월 31일 4.95% 상승, 애널리스트 매수 평가 유지, 목표주가 $1,050 유지\n* **GS E&C(건설)**: 원가 안정화로 구조 개혁 기대, 투자 회사들의 목표주가 상향\n* **기술 분야**: GS 마이크로일렉트로닉스의 6G/7G 개발 가속화, Tongwei의 태양광 기술 진전\n* **감정 분석**: 3일간 긍정/성장 신호 증가 추세(29일 12% → 30일 16% → 31일 18%)\n\n---\n\n## [전체 흐름 분석]\n\n최근 3일간 데이터는 **두 개의 명확한 긍정 트렌드**를 보여줍니다.\n\n**1. 금융 부문(골드만삭스) 강세**\n- Wells Fargo의 매수 등급 재확인(목표주가 $1,050)\n- 3월 31일 주가 4.95% 상승으로 긍정 신호 확인\n- 기관 투자자들(Game Plan Financial, Donaldson Capital Management 등)의 지분 증가\n- \"장기 투자에 최적의 주식\" 평가(Yahoo Finance)\n\n**2. 건설/산업 부문(GS E&C) 상향 평가**\n- NH증권과 아시아경제의 투자 등급 상향\n- 원가 안정화와 신사업 구조 개혁 중심의 긍정 평가\n- 회사 다각화 전략에 대한 시장 신뢰도 증가\n\n**3. 감정 지표의 점진적 개선**\n- 중립 평가 비중 감소(69% → 55% → 45%)\n- 긍정+성장 신호 증가 추세(12% → 16% → 18%)\n- 리스크 요인 상대적으로 제한적(4건, 8%)\n\n---\n\n## [긍정 요인]\n\n* **주가 모멘텀**: 3월 31일 4.95% 상승으로 기술적 강세 신호 확인\n* **애널리스트 강세 입장**: Wells Fargo 매수 등급 유지, 다수 기관의 지분 확대\n* **원가 구조 개선**: GS E&C의 원가 안정화가 수익성 개선으로 연결되는 중\n* **신사업 포트폴리오**: 6G/7G 개발, 태양광 기술 등 성장 분야 진출\n* **기관 투자 수요**: 코스닥 투자신탁 신규 설정, 다수 자산운용사의 매입\n* **일관된 긍정 평가**: 3일간 긍정/성장 평가가 누적되며 신뢰도 증가\n\n---\n\n## [부정 요인]\n\n* **거시경제 리스크**: 골드만삭스의 \"실업률이 연준 예상을 넘어설 수 있다\" 경고(CNBC)\n* **유가 상승 압박**: 한국 정유사들의 미국산 유류 구매 증가 → 원가 상승 압력\n* **리스크 신호 존재**: 4건의 리스크 평가(AI 규제, 세금 회피 논란 등)\n* **제한된 양적 근거**: 애널리스트 공식 의견 부재로 심층 분석 제약\n* **시장 불확실성**: 혼합(Mixed) 평가 없음은 시장 의견이 명확하지 않을 수 있음을 시사\n\n---\n\n## [투자 인사이트]\n\n1. **타이밍 관점**: 주가 4.95% 상승 직후의 \"추격 매수\" 시점이므로 단기 모멘텀 대비 리스크 증가\n2. **다각화 전략의 타당성**: GS E&C의 구조 개혁(건설 → 신사업 중심)이 시장에서 긍정 평가되는 중\n3. **듀얼 투자 기회**: 금융(골드만삭스 주식) + 실물(GS E&C 프로젝트) 모두 긍정 신호\n4. **거시경제 헤지 필요**: 실업률 상승 우려와 유가 상승이 동시에 진행 중 → 포트폴리오 분산 필수\n5. **기술 성장성**: 6G/태양광 등 미래 기술 진출로 중기 성장성 확보\n\n---\n\n## [투자 판단]\n\n**투자 (단, 조건부)**\n\n---\n\n## [판단 근거]\n\n**투자를 권장하는 이유:**\n\n1. **명확한 상향 트렌드**: 감정 분석에서 긍정+성장"
+}
