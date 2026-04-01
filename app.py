@@ -7,7 +7,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
-import json, os, re, html
+import json, os, re, html, glob
 
 # ─────────────────────────────────────────────────────────
 # 페이지 설정
@@ -494,6 +494,14 @@ def load_json(path):
         with open(path, encoding="utf-8") as f:
             return json.load(f)
     return None
+def get_latest_claude_file(symbol):
+    """output/{symbol}_analysis_claude_*.json 중 가장 최신 파일 경로 반환"""
+    pattern = os.path.join(OUTPUT_DIR, f"{symbol}_analysis_claude_*.json")
+    files = glob.glob(pattern)
+    if not files:
+        return None
+    # 파일명 기준 정렬 → 날짜 형식이 YYYYMMDD 또는 YYYY-MM-DD이면 사전순 = 날짜순
+    return sorted(files)[-1]
 
 def load_csv(path):
     if os.path.exists(path):
@@ -556,7 +564,7 @@ def render_home():
             cname = COMPANY_NAME.get(sym, "")
             # 분석 파일 존재 여부 확인
             has_gpt    = os.path.exists(os.path.join(OUTPUT_DIR, f"{sym}_analysis_GPT.json"))
-            has_claude = os.path.exists(os.path.join(OUTPUT_DIR, f"{sym}_analysis_claude_*.json"))
+            has_claude = bool(get_latest_claude_file(sym))
             badge = ""
             if has_gpt and has_claude:
                 badge = '<span style="color:#0d8a6a;font-size:16px;font-weight:600;">GPT</span><span style="color:#9aa3b8;font-size:16px;"> · </span><span style="color:#b5603e;font-size:16px;font-weight:600;">Claude</span>'
@@ -609,7 +617,11 @@ if st.session_state.selected_symbol:
 
 fmp      = load_json(os.path.join(OUTPUT_DIR, f"{symbol}.json"))
 df_sent  = load_csv(os.path.join(OUTPUT_DIR, f"{symbol}_sentiment.csv"))
-analysis = load_json(os.path.join(OUTPUT_DIR, f"{symbol}_analysis_{model_suffix}.json"))
+if model_choice == "GPT":
+    analysis = load_json(os.path.join(OUTPUT_DIR, f"{symbol}_analysis_GPT.json"))
+else:
+    claude_path = get_latest_claude_file(symbol)
+    analysis = load_json(claude_path) if claude_path else None
 
 # ─────────────────────────────────────────────────────────
 # 페이지 헤더
