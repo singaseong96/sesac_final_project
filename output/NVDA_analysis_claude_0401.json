@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "symbol": "NVDA",
+    "analysis_date": "2026-04-01T02:38:09.130087+00:00",
+    "news_period": "2026-03-29 ~ 2026-03-31",
+    "news_count": 64,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Growth": 34,
+    "Risk": 12,
+    "Neutral": 11,
+    "Positive": 3,
+    "Mixed": 3,
+    "Negative": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-29": {
+      "Growth": 2,
+      "Neutral": 1
+    },
+    "2026-03-30": {
+      "Risk": 5,
+      "Mixed": 3,
+      "Growth": 2,
+      "Neutral": 2,
+      "Positive": 1
+    },
+    "2026-03-31": {
+      "Growth": 30,
+      "Neutral": 8,
+      "Risk": 7,
+      "Positive": 2,
+      "Negative": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-31 23:12:58",
+      "title": "Stock Market Today, March 31: Nvidia Rises on $2 Billion Marvell AI Infrastructure Partnership - The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/03/31/stock-market-today-march-31-nvidia-rises-on-usd2-billion-marvell-ai-infrastructure-partnership/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 22:49:11",
+      "title": "NVIDIA Corporation (NVDA) Positioned to Benefit as Customers Ramp up AI Hardware Spend - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/nvidia-corporation-nvda-positioned-to-benefit-as-customers-ramp-up-ai-hardware-spend-1729460/?amp=1",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 22:35:49",
+      "title": "NVIDIA Corporation (NVDA) Positioned to Benefit as Customers Ramp up AI Hardware Spend - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-positioned-benefit-223549308.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 22:31:21",
+      "title": "Nvidia Just Invested $2 Billion in This Chip Stock. Here's What Investors Should Know - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/31/nvidia-just-invested-2-billion-in-this-chip-stock/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 21:24:52",
+      "title": "NVIDIA (NASDAQ:NVDA) Trading Up 5.6% - Here's What Happened - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/nvidia-nasdaqnvda-trading-up-56-heres-what-happened-2026-03-31/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 20:34:09",
+      "title": "Benchmark Co. Maintains NVIDIA(NVDA.US) With Buy Rating, Maintains Target Price $250 - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70929376/benchmark-co-maintains-nvidia-nvdaus-with-buy-rating-maintains-target?level=1&data_ticket=1775006624882232",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 20:22:00",
+      "title": "Why Did Nvidia Stock Pop Today? - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/31/why-did-nvidia-stock-pop-today/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 19:08:43",
+      "title": "AI & Quantum Opportunities After Tech Sell-Off: 2 Stocks for April - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/1072524/ai-quantum-opportunities-after-tech-sell-off-2-stocks-for-april/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 18:32:02",
+      "title": "Slow 2026 Starts Present Opportunities: AAPL, NVDA - Zacks Investment Research",
+      "url": "https://www.zacks.com/commentary/2892452/slow-2026-starts-present-opportunities-aapl-nvda",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 18:30:11",
+      "title": "5 Stocks That Win Big From NVIDIA’s NVLink Fusion AI Ecosystem Expansion - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/03/31/5-stocks-that-win-big-from-nvidias-nvlink-fusion-ai-ecosystem-expansion/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 18:15:43",
+      "title": "Nvidia stock price today surges: Why NVDA jumps after $2 billion Marvell deal sparking massive AI growth b - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/international/us/nvidia-stock-price-today-surges-why-nvda-jumps-after-2-billion-marvell-deal-sparking-massive-ai-growth-buzz/articleshow/129934396.cms?from=mdr",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 18:09:42",
+      "title": "MSFT, NVDA, TSLA Stocks Update: Tech Stocks Climb Even as Iran Targets U.S. Firms - cryptorank.io",
+      "url": "https://cryptorank.io/news/feed/328d1-msft-nvda-tsla-stocks-update-tech-stocks-climb-even-as-iran-targets-u-s-firms",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 18:08:55",
+      "title": "ARK Invest Exits Nvidia (NVDA) and Meta (META) in Major Portfolio Shakeup - MEXC",
+      "url": "https://www.mexc.com/news/995080",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-31 17:15:42",
+      "title": "NVIDIA Corp Stock (NVDA) Moved Up by 4.80% on Mar 31: What Signal Does It Send? - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261739406-market-movers-nvda-20260331",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 16:05:02",
+      "title": "Jim Cramer Says “The Investments That NVIDIA Makes Are Part of Creating an Ecosystem That Wants to Use NVIDIA” - sg.finance.yahoo.com",
+      "url": "https://sg.finance.yahoo.com/news/jim-cramer-says-investments-nvidia-160502261.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 15:57:35",
+      "title": "Nvidia Takes $2 Billion Stake in Marvell - tradingview.com",
+      "url": "https://www.tradingview.com/news/gurufocus:e26fa7e87094b:0-nvidia-takes-2-billion-stake-in-marvell/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 15:56:07",
+      "title": "Fractile Seeks $200 Million as Nvidia Faces Inference Pressure - tradingview.com",
+      "url": "https://www.tradingview.com/news/gurufocus:3191c77d0094b:0-fractile-seeks-200-million-as-nvidia-faces-inference-pressure/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 15:45:48",
+      "title": "Marvell Shares Jump After Nvidia Takes $2 Billion Stake - tradingview.com",
+      "url": "https://www.tradingview.com/news/gurufocus:a7e9bbe5d094b:0-marvell-shares-jump-after-nvidia-takes-2-billion-stake/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 15:39:45",
+      "title": "Nvidia Design Shift Triggers Selloff in Memory Stocks - tradingview.com",
+      "url": "https://www.tradingview.com/news/gurufocus:4e19193f2094b:0-nvidia-design-shift-triggers-selloff-in-memory-stocks/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 15:21:53",
+      "title": "Why I’m Staying Cautious on NVIDIA—and the Stocks I Prefer Instead - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/03/31/why-im-staying-cautious-on-nvidia-and-the-stocks-i-prefer-instead/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 15:20:52",
+      "title": "Why NVIDIA's $2B Bet Validates Marvell - Zacks Investment Research",
+      "url": "https://www.zacks.com/commentary/2892356/why-nvidias-2b-bet-validates-marvell",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 14:57:02",
+      "title": "NVIDIA Corporation (NVDA) to Supply GPUs to AWS - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/nvidia-corporation-nvda-to-supply-gpus-to-aws-1727138/?amp=1",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 14:42:24",
+      "title": "NVIDIA Corporation (NVDA) to Supply GPUs to AWS - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-supply-gpus-144224592.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 14:16:37",
+      "title": "Nvidia just invested in Marvell stock: should you too? - tradingview.com",
+      "url": "https://www.tradingview.com/news/invezz:23d89c6d0094b:0-nvidia-just-invested-in-marvell-stock-should-you-too/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 14:02:48",
+      "title": "NVIDIA Up on Marvell Deal: 3 Reasons the $2 Billion Investment Has the AI World Talking - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/03/31/nvidia-up-on-marvell-deal-3-reasons-the-2-billion-investment-has-the-ai-world-talking/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 13:53:14",
+      "title": "Marvell Technology (MRVL.US) shares surged pre-market following a $2 billion investment from NVIDIA (NVDA.US) and the establishment of a strategic partnership! - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67708008/marvell-technology-mrvlus-shares-surged-pre-market-following-a-2?level=1&data_ticket=1775006986719761",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 13:16:00",
+      "title": "NVIDIA (NVDA.US) Plans to Invest USD2 Billion in Marvell (MRVL.US); Marvell's Stock Rises 9% Pre-Market - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/usq/news/comment.aspx?source=AAFN&id=NOW.1515001&catg=1",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 13:03:28",
+      "title": "DLSS 4.5 Dynamic Multi Frame Generation & Multi Frame Generation 6X Available Now - NVIDIA",
+      "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-generation-6x-mode-released/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 13:00:00",
+      "title": "Nvidia: Something Big Is Coming (NASDAQ:NVDA) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4887301-nvidia-something-big-is-coming",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 12:46:02",
+      "title": "Nvidia (NVDA) Stock; Slips as PE Ratio Hits 7-Year Low Amid Market Selloff - mexc.co",
+      "url": "https://www.mexc.co/en-PH/news/994382",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 12:34:00",
+      "title": "Nvidia Invests $2 Billion in Marvell, Expands AI Ecosystem Partnership - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Nvidia+Invests+%242+Billion+in+Marvell%2C+Expands+AI+Ecosystem+Partnership",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 12:30:04",
+      "title": "NVIDIA (NVDA) closes above ___ on April 1? Trading Odds & Predictions - Polymarket",
+      "url": "https://polymarket.com/event/nvda-close-above-on-april-1-2026",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 12:26:15",
+      "title": "NVIDIA Broadens AI Factory Partnerships Tying Compute Directly To Real-World Infrastructure - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/nvidia-broadens-ai-factory-partnerships-tying-compute-direct",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 12:24:21",
+      "title": "Nvidia Stock vs. XRP: Which $1,000 Investment Wins by the End of 2026? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/1060885/nvidia-stock-vs-xrp-which-1000-investment-wins-by-the-end-of-2026/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 12:24:00",
+      "title": "Down 19%, Is It Time to Buy the Dip on Nvidia Stock? - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/31/down-19-is-it-time-to-buy-the-dip-on-nvidia-stock/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 11:21:40",
+      "title": "Wealth Management Partners LLC Has $31.48 Million Holdings in NVIDIA Corporation $NVDA - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wealth-management-partners-llc-has-3148-million-holdings-in-nvidia-corporation-nvda-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 11:21:38",
+      "title": "NVIDIA Corporation $NVDA Stock Position Reduced by Viking Fund Management LLC - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-stock-position-reduced-by-viking-fund-management-llc-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 11:13:00",
+      "title": "Nvidia invests $2B in Marvell Technology as part of AI infrastructure partnership - Proactive financial news",
+      "url": "https://www.proactiveinvestors.com/companies/news/1089855/nvidia-invests-2b-in-marvell-technology-as-part-of-ai-infrastructure-partnership-1089855.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 10:24:47",
+      "title": "Nvidia At A Discount? Tech Valuations Look Attractive And Mark Gibbens Says It's 'A Great Time to Get In' - Benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/03/51561183/nvidia-at-a-discount-tech-valuations-look-attractive-and-mark-gibbens-says-its-a-great-time-to-get-in-on-pltr-nvda-and-googl",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 10:20:03",
+      "title": "Stocks making the biggest moves premarket: McCormick, Diageo, Nvidia & more - CNBC",
+      "url": "https://www.cnbc.com/2026/03/31/stocks-making-the-biggest-moves-premarket-mkc-deo-nvda.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 09:56:59",
+      "title": "Nvidia (NVDA) Stock; Slips as PE Ratio Hits 7-Year Low Amid Market Selloff - coincentral.com",
+      "url": "https://coincentral.com/nvidia-nvda-stock-pe-ratio-7-year-low-market-selloff-ai-spending/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 09:09:01",
+      "title": "NVIDIA Corporation $NVDA Shares Sold by Moody National Bank Trust Division - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-sold-by-moody-national-bank-trust-division-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 09:09:01",
+      "title": "Schaper Benz & Wise Investment Counsel Inc. WI Lowers Stock Position in NVIDIA Corporation $NVDA - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-schaper-benz-wise-investment-counsel-inc-wi-lowers-stock-position-in-nvidia-corporation-nvda-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 09:09:01",
+      "title": "Pensionfund Sabic Acquires New Holdings in NVIDIA Corporation $NVDA - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pensionfund-sabic-acquires-new-holdings-in-nvidia-corporation-nvda-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:00:26",
+      "title": "NVIDIA Corporation $NVDA Stock Position Trimmed by Eastover Investment Advisors LLC - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-stock-position-trimmed-by-eastover-investment-advisors-llc-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 07:56:34",
+      "title": "Fjell Capital LLC Raises Holdings in NVIDIA Corporation $NVDA - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-fjell-capital-llc-raises-holdings-in-nvidia-corporation-nvda-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 06:24:17",
+      "title": "NVIDIA Stock To $213? - Trefis",
+      "url": "https://www.trefis.com/stock/nvda/articles2/595295/nvidia-stock-to-213/2026-03-31",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 03:15:00",
+      "title": "Nvidia's Rubin Chip Arrives in Late 2026. Is Now the Time to Buy This Artificial Intelligence (AI) Stock? - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/30/nvidias-rubin-chip-arrives-in-late-2026-is-now-the/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 22:26:01",
+      "title": "NVIDIA (NVDA) closes above ___ on March 30? Trading Odds & Predictions - Polymarket",
+      "url": "https://polymarket.com/event/nvda-close-above-on-march-30-2026",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-30 19:44:14",
+      "title": "Will NVIDIA (NVDA) hit Week of March 30 2026? Trading Odds & Predictions (Mar. 27, 2026) - Polymarket",
+      "url": "https://polymarket.com/event/will-nvda-hit-week-of-march-30-2026",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 19:00:00",
+      "title": "Could Super Micro Computer's Troubles Sink Nvidia's Stock? - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/30/could-super-micro-computers-troubles-sink-nvidias/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 17:17:00",
+      "title": "NVIDIA Trades Below the S&P 500’s Forward P/E. Is It Time to Buy NVDA? - TIKR.com",
+      "url": "https://www.tikr.com/blog/nvidia-trades-below-the-sp-500s-forward-p-e-is-it-time-to-buy-nvda",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-30 15:42:00",
+      "title": "Nvidia (NVDA) Shares Slide 2.2% as Risk-Off Sentiment Grips the $4.4 Trillion AI Leader - FinancialContent",
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-3-30-nvidia-nvda-shares-slide-22-as-risk-off-sentiment-grips-the-44-trillion-ai-leader",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 14:57:00",
+      "title": "Nvidia Stock Just Did Something for the First Time in a Decade. Is This the Buying Opportunity of a Lifetime? - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/30/nvidia-stock-just-did-something-for-the-first-time/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-30 14:12:01",
+      "title": "Nvidia: Helium Shortage Problems (NASDAQ:NVDA) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4887081-nvidia-stock-helium-shortage-problems-reiterate-strong-sell",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 13:49:00",
+      "title": "Nvidia Up Amid AI Startup's Massive Data Center Plan; Is Nvidia A Buy Now? - Investor's Business Daily",
+      "url": "https://www.investors.com/research/nvidia-stock-nvda-ai-data-center/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 12:56:26",
+      "title": "Beyond the NVIDIA ‘Sugar High’: Why I’d Pivot My Portfolio Toward the ‘Boring’ Side of AI - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/03/30/beyond-the-nvidia-sugar-high-why-id-pivot-my-portfolio-toward-the-boring-side-of-ai/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 12:51:22",
+      "title": "Nvidia valuation falls to S&P 500 parity for first time in over a decade (NVDA:NASDAQ) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4570171-nvidia-valuation-falls-to-sp-500-parity-for-first-time-in-over-a-decade",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 12:34:00",
+      "title": "Nvidia’s $97 Billion Shareholder Bonanza - Forbes",
+      "url": "https://www.forbes.com/sites/greatspeculations/2026/03/30/nvidias-97-billion-shareholder-bonanza/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 08:18:14",
+      "title": "$NVIDIA (NVDA.US)$ just sell 168.6 - Moomoo",
+      "url": "https://www.moomoo.com/community/feed/nvidia-nvda-us-just-sell-168-6-116317139369990?chain_id=Name1K9-3FXPhg.1kskbc0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fetfs%2FDIPS-US%22%7D",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 07:00:00",
+      "title": "NVDA Down 20%—$600M Smart Money Trade Signals What’s Next | Smart Money Option - Moomoo",
+      "url": "https://www.moomoo.com/community/feed/nvda-down-20-600m-smart-money-trade-signals-what-s-116319877529606",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-29 23:16:39",
+      "title": "NVIDIA (NVDA) Backed Start-up Reflection AI To Raise $2.5 Billion - Yahoo Finance UK",
+      "url": "https://uk.finance.yahoo.com/news/nvidia-nvda-backed-start-reflection-231639007.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 14:18:55",
+      "title": "Is It Too Late To Consider Nvidia (NVDA) After Recent Share Price Pullback? - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/is-it-too-late-to-consider-nvidia-nvda-after-recent-share-pr-1",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 07:44:00",
+      "title": "Prediction: This Will Be Nvidia's Stock Price 3 Years From Now - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/03/29/prediction-this-will-be-nvidias-stock-price-3-year/",
+      "sentiment": "Growth"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-29 ──\n  [Growth] NVIDIA (NVDA) Backed Start-up Reflection AI To Raise $2.5 Billion - Yahoo Finance UK\n  [Neutral] Is It Too Late To Consider Nvidia (NVDA) After Recent Share Price Pullback? - simplywall.st\n  [Growth] Prediction: This Will Be Nvidia's Stock Price 3 Years From Now - The Motley Fool\n\n── 2026-03-30 ──\n  [Mixed] NVIDIA (NVDA) closes above ___ on March 30? Trading Odds & Predictions - Polymarket\n  [Growth] Will NVIDIA (NVDA) hit Week of March 30 2026? Trading Odds & Predictions (Mar. 27, 2026) - Polymarket\n  [Risk] Could Super Micro Computer's Troubles Sink Nvidia's Stock? - The Motley Fool\n  [Mixed] NVIDIA Trades Below the S&P 500’s Forward P/E. Is It Time to Buy NVDA? - TIKR.com\n  [Risk] Nvidia (NVDA) Shares Slide 2.2% as Risk-Off Sentiment Grips the $4.4 Trillion AI Leader - FinancialContent\n  [Mixed] Nvidia Stock Just Did Something for the First Time in a Decade. Is This the Buying Opportunity of a Lifetime? - The Motley Fool\n  [Risk] Nvidia: Helium Shortage Problems (NASDAQ:NVDA) - Seeking Alpha\n  [Growth] Nvidia Up Amid AI Startup's Massive Data Center Plan; Is Nvidia A Buy Now? - Investor's Business Daily\n  [Risk] Beyond the NVIDIA ‘Sugar High’: Why I’d Pivot My Portfolio Toward the ‘Boring’ Side of AI - 24/7 Wall St.\n  [Neutral] Nvidia valuation falls to S&P 500 parity for first time in over a decade (NVDA:NASDAQ) - Seeking Alpha\n  [Positive] Nvidia’s $97 Billion Shareholder Bonanza - Forbes\n  [Neutral] $NVIDIA (NVDA.US)$ just sell 168.6 - Moomoo\n  [Risk] NVDA Down 20%—$600M Smart Money Trade Signals What’s Next | Smart Money Option - Moomoo\n\n── 2026-03-31 ──\n  [Growth] Stock Market Today, March 31: Nvidia Rises on $2 Billion Marvell AI Infrastructure Partnership - The Motley Fool\n  [Growth] NVIDIA Corporation (NVDA) Positioned to Benefit as Customers Ramp up AI Hardware Spend - Insider Monkey\n  [Growth] NVIDIA Corporation (NVDA) Positioned to Benefit as Customers Ramp up AI Hardware Spend - Yahoo Finance\n  [Growth] Nvidia Just Invested $2 Billion in This Chip Stock. Here's What Investors Should Know - The Motley Fool\n  [Positive] NVIDIA (NASDAQ:NVDA) Trading Up 5.6% - Here's What Happened - marketbeat.com\n  [Positive] Benchmark Co. Maintains NVIDIA(NVDA.US) With Buy Rating, Maintains Target Price $250 - 富途牛牛\n  [Growth] Why Did Nvidia Stock Pop Today? - The Motley Fool\n  [Growth] AI & Quantum Opportunities After Tech Sell-Off: 2 Stocks for April - The Globe and Mail\n  [Risk] Slow 2026 Starts Present Opportunities: AAPL, NVDA - Zacks Investment Research\n  [Growth] 5 Stocks That Win Big From NVIDIA’s NVLink Fusion AI Ecosystem Expansion - 24/7 Wall St.\n  [Growth] Nvidia stock price today surges: Why NVDA jumps after $2 billion Marvell deal sparking massive AI growth b - The Economic Times\n  [Risk] MSFT, NVDA, TSLA Stocks Update: Tech Stocks Climb Even as Iran Targets U.S. Firms - cryptorank.io\n  [Negative] ARK Invest Exits Nvidia (NVDA) and Meta (META) in Major Portfolio Shakeup - MEXC\n  [Growth] NVIDIA Corp Stock (NVDA) Moved Up by 4.80% on Mar 31: What Signal Does It Send? - TradingKey\n  [Growth] Jim Cramer Says “The Investments That NVIDIA Makes Are Part of Creating an Ecosystem That Wants to Use NVIDIA” - sg.finance.yahoo.com\n  [Growth] Nvidia Takes $2 Billion Stake in Marvell - tradingview.com\n  [Risk] Fractile Seeks $200 Million as Nvidia Faces Inference Pressure - tradingview.com\n  [Growth] Marvell Shares Jump After Nvidia Takes $2 Billion Stake - tradingview.com\n  [Risk] Nvidia Design Shift Triggers Selloff in Memory Stocks - tradingview.com\n  [Risk] Why I’m Staying Cautious on NVIDIA—and the Stocks I Prefer Instead - 24/7 Wall St.\n  [Growth] Why NVIDIA's $2B Bet Validates Marvell - Zacks Investment Research\n  [Growth] NVIDIA Corporation (NVDA) to Supply GPUs to AWS - Insider Monkey\n  [Growth] NVIDIA Corporation (NVDA) to Supply GPUs to AWS - Yahoo Finance\n  [Growth] Nvidia just invested in Marvell stock: should you too? - tradingview.com\n  [Growth] NVIDIA Up on Marvell Deal: 3 Reasons the $2 Billion Investment Has the AI World Talking - 24/7 Wall St.\n  [Growth] Marvell Technology (MRVL.US) shares surged pre-market following a $2 billion investment from NVIDIA (NVDA.US) and the establishment of a strategic partnership! - Moomoo\n  [Growth] NVIDIA (NVDA.US) Plans to Invest USD2 Billion in Marvell (MRVL.US); Marvell's Stock Rises 9% Pre-Market - AASTOCKS.com\n  [Growth] DLSS 4.5 Dynamic Multi Frame Generation & Multi Frame Generation 6X Available Now - NVIDIA\n  [Growth] Nvidia: Something Big Is Coming (NASDAQ:NVDA) - Seeking Alpha\n  [Risk] Nvidia (NVDA) Stock; Slips as PE Ratio Hits 7-Year Low Amid Market Selloff - mexc.co\n  [Growth] Nvidia Invests $2 Billion in Marvell, Expands AI Ecosystem Partnership - Quiver Quantitative\n  [Growth] NVIDIA (NVDA) closes above ___ on April 1? Trading Odds & Predictions - Polymarket\n  [Growth] NVIDIA Broadens AI Factory Partnerships Tying Compute Directly To Real-World Infrastructure - simplywall.st\n  [Growth] Nvidia Stock vs. XRP: Which $1,000 Investment Wins by the End of 2026? - The Globe and Mail\n  [Growth] Down 19%, Is It Time to Buy the Dip on Nvidia Stock? - The Motley Fool\n  [Neutral] Wealth Management Partners LLC Has $31.48 Million Holdings in NVIDIA Corporation $NVDA - marketbeat.com\n  [Neutral] NVIDIA Corporation $NVDA Stock Position Reduced by Viking Fund Management LLC - marketbeat.com\n  [Growth] Nvidia invests $2B in Marvell Technology as part of AI infrastructure partnership - Proactive financial news\n  [Growth] Nvidia At A Discount? Tech Valuations Look Attractive And Mark Gibbens Says It's 'A Great Time to Get In' - Benzinga\n  [Neutral] Stocks making the biggest moves premarket: McCormick, Diageo, Nvidia & more - CNBC\n  [Risk] Nvidia (NVDA) Stock; Slips as PE Ratio Hits 7-Year Low Amid Market Selloff - coincentral.com\n  [Neutral] NVIDIA Corporation $NVDA Shares Sold by Moody National Bank Trust Division - marketbeat.com\n  [Neutral] Schaper Benz & Wise Investment Counsel Inc. WI Lowers Stock Position in NVIDIA Corporation $NVDA - marketbeat.com\n  [Neutral] Pensionfund Sabic Acquires New Holdings in NVIDIA Corporation $NVDA - marketbeat.com\n  [Neutral] NVIDIA Corporation $NVDA Stock Position Trimmed by Eastover Investment Advisors LLC - marketbeat.com\n  [Neutral] Fjell Capital LLC Raises Holdings in NVIDIA Corporation $NVDA - marketbeat.com\n  [Growth] NVIDIA Stock To $213? - Trefis\n  [Growth] Nvidia's Rubin Chip Arrives in Late 2026. Is Now the Time to Buy This Artificial Intelligence (AI) Stock? - The Motley Fool",
+    "sentiment_block": "총 뉴스 64건 분석 결과:\n  Positive     3건 (  4.7%) \n  Growth      34건 ( 53.1%) ██████████\n  Neutral     11건 ( 17.2%) ███\n  Mixed        3건 (  4.7%) \n  Risk        12건 ( 18.8%) ███\n  Negative     1건 (  1.6%) \n\n날짜별 감정 흐름:\n  2026-03-29: Growth:2, Neutral:1\n  2026-03-30: Risk:5, Mixed:3, Growth:2, Neutral:2, Positive:1\n  2026-03-31: Growth:30, Neutral:8, Risk:7, Positive:2, Negative:1",
+    "analyst_block": ""
+  },
+  "investment_judgment": "# NVIDIA (NVDA) 투자 분석 보고서\n\n## [핵심 요약]\n\n* **Marvell 기술 $2B 투자 발표**: 3월 31일 NVIDIA의 Marvell Technology에 대한 $2B 투자 및 전략적 파트너십 발표가 시장의 주요 촉매제로 작용\n* **시장 심리의 급변**: 3월 30일 위험 심화(Risk 5건)에서 3월 31일 성장 우위(Growth 30건)로의 급격한 전환\n* **밸류에이션 재평가**: S&P 500 평균 PER과의 패리티 달성으로 고평가 우려 완화\n* **포트폴리오 리밸런싱 신호**: ARK Invest의 NVIDIA 매도, 기관투자자들의 포지션 조정 나타남\n\n---\n\n## [전체 흐름 분석]\n\n**3월 29-30일: 조정 국면**\n- 초기 긍정적 신호(Reflection AI 펀딩, 3년 주가 예측)가 있었으나 30일부터 기술 주식 전반적 약세 시작\n- 슈퍼마이크로 컴퓨터 문제, 헬륨 부족, 2.2% 낙폭 등 공급망 우려 부각\n- 20% 낙폭 이후 스마트머니의 옵션 포지셔닝 신호 포착\n\n**3월 31일: 극적인 반전**\n- Marvell 투자 발표 이후 강력한 반등 시작(+5.6%, +4.8%)\n- Growth 감정 비중 53.1%에서 80% 수준으로 급상승 (30/37건 제외 시)\n- AWS GPU 공급 계약 발표로 고객층 확대 확인\n- AI 에코시스템 구축(NVLink Fusion) 전략의 구체화\n\n**핵심 전환점의 의미**\n단순 주가 반등이 아닌 **전략적 수익 창출 경로의 가시화**:\n- 칩 설계 → 자체 인프라 투자(Marvell) → 고객 수요 창출의 선순환 구조\n- Jim Cramer 발언: \"NVIDIA의 투자는 자신의 생태계 사용을 원하는 고객층 창출\" 핵심 인사이트 제시\n\n---\n\n## [긍정 요인]\n\n**1. 전략적 생태계 확대 (핵심)**\n- Marvell $2B 투자로 AI 인프라 공급망 수직통합 시작\n- AWS GPU 공급 계약으로 대형 클라우드 고객 확보 구체화\n- DLSS 4.5, Rubin 칩(2026년 말) 등 기술 로드맵 강화\n\n**2. 밸류에이션 정상화**\n- S&P 500 평균 PER 수준으로 하향 조정 (7년 저점)\n- 고평가 우려 완화로 진입 기회 포착\n- 19-20% 낙폭 후 매수 기회 형성\n\n**3. 기술 분야 구체적 성과**\n- GPU 수요의 인프라 투자로의 전환(Inference 압박 대응)\n- 메모리 칩 설계 전환을 통한 비용 구조 개선 신호\n\n**4. 기관 투자자의 선별적 진입**\n- Benchmark Co. Buy 등급 유지, $250 목표가 제시\n- Pensionfund 등 장기 기관투자자의 신규 진입\n\n---\n\n## [부정 요인]\n\n**1. 포트폴리오 이탈 신호**\n- ARK Invest(성장주 대표 펀드)의 NVIDIA 및 META 메이저 포지션 청산\n- 기관투자자 중 일부의 포지션 감소 추세 (Viking Fund, Moody National Bank 등)\n- 강한 반등에도 불구하고 주요 기관의 이탈 지속\n\n**2. 공급망 및 산업 구조적 리스크**\n- 헬륨 부족 이슈로 제조 차질 가능성\n- 슈퍼마이크로 컴퓨터 문제가 NVIDIA 수요에 미치는 영향 여전히 불확실\n- 메모리 칩 설계 전환으로 메모리 칩 제조사 타격(공급망 불안정성)\n\n**3. 단기 성장성에 대한 회의**\n- Fractile의 $200M 추가 펀딩 모색(인프라 경쟁 심화 신호)\n- Inference 압박(추론 시장에서의 경쟁 심화)\n- \"AI 슈거 하이\" 이후 포지셔닝 전환 권고(24/7 Wall St.)\n\n**4. 가시성 제한"
+}

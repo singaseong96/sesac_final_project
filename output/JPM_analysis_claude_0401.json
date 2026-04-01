@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "symbol": "JPM",
+    "analysis_date": "2026-04-01T02:33:28.937115+00:00",
+    "news_period": "2026-03-29 ~ 2026-03-31",
+    "news_count": 48,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Neutral": 20,
+    "Growth": 12,
+    "Positive": 8,
+    "Risk": 5,
+    "Mixed": 2,
+    "Negative": 1
+  },
+  "sentiment_by_date": {
+    "2026-03-29": {
+      "Neutral": 3
+    },
+    "2026-03-30": {
+      "Neutral": 5,
+      "Risk": 4,
+      "Positive": 3,
+      "Mixed": 1,
+      "Growth": 1
+    },
+    "2026-03-31": {
+      "Neutral": 12,
+      "Growth": 11,
+      "Positive": 5,
+      "Risk": 1,
+      "Mixed": 1,
+      "Negative": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-31 21:26:53",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading Up 3.7% - Here's Why - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-trading-up-37-heres-why-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 21:23:37",
+      "title": "JPMorgan's $3.8B AI Data Center Bond Draws $14B in Orders - tradingview.com",
+      "url": "https://www.tradingview.com/news/gurufocus:af8eb2d02094b:0-jpmorgan-s-3-8b-ai-data-center-bond-draws-14b-in-orders/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 19:12:05",
+      "title": "J.P. Morgan Private Capital Expands Team - FIN News",
+      "url": "https://www.fin-news.com/2026/03/31/j-p-morgan-private-capital-expands-team/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 19:04:33",
+      "title": "JPMorgan Chase (JPM) Stock Is Up, What You Need To Know - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/JPM/pressreleases/1072758/jpmorgan-chase-jpm-stock-is-up-what-you-need-to-know/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 18:15:53",
+      "title": "JPMorgan Chase & Co Stock (JPM) Moved Up by 3.42% on Mar 31: What Signal Does It Send? - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261739624-market-movers-jpm-20260331",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 16:24:49",
+      "title": "JPMorgan Chase American Dream Push Highlights Small Business And Valuation Story - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-american-dream-push-highlights-small-business",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 16:06:00",
+      "title": "JPMorgan Scales Blockchain Platform via Mitsubishi Tie-Up - tradingview.com",
+      "url": "https://www.tradingview.com/news/zacks:0e9089f87094b:0-jpmorgan-scales-blockchain-platform-via-mitsubishi-tie-up/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 16:02:45",
+      "title": "The labor market is ‘really insulated,’ says J.P. Morgan’s Phil Camporeale - CNBC",
+      "url": "https://www.cnbc.com/video/2026/03/31/the-labor-market-is-really-insulated-says-jp-morgans-phil-camporeale.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 15:51:01",
+      "title": "JPMorgan Commits $80 Billion to Small Business Lending: Numbers Point to a $389 Bull Case - TIKR.com",
+      "url": "https://www.tikr.com/blog/jpmorgan-commits-80-billion-to-small-business-lending-numbers-point-to-a-389-bull-case",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 15:04:00",
+      "title": "JP Morgan strengthens Emea trade and working capital team - Global Trade Review (GTR)",
+      "url": "https://www.gtreview.com/news/on-the-move/jp-morgan-strengthens-emea-trade-and-working-capital-team/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 14:16:44",
+      "title": "Mitsubishi Advances Intragroup Cash Management With Kinexys - J.P. Morgan",
+      "url": "https://www.jpmorgan.com/payments/newsroom/mitsubishi-cash-management-kinexys",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 14:11:11",
+      "title": "JPMorgan (JPM.US) will increase its lending to small businesses. - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70912232/jpmorgan-jpmus-will-increase-its-lending-to-small-businesses?level=1&data_ticket=1775006624882232",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 13:55:00",
+      "title": "JPMorgan pledges USD80b in small business lending under ‘American Dream Initiative’ - Capital Brief",
+      "url": "https://www.capitalbrief.com/briefing/jpmorgan-pledges-usd80b-in-small-business-lending-under-american-dream-initiative-57e5c0fa-343b-45d8-8041-34007b02564f/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 13:35:44",
+      "title": "JPMorgan Leads $500M Mativ Loan at 95 Amid Weak Demand - tradingview.com",
+      "url": "https://www.tradingview.com/news/gurufocus:6cf540660094b:0-jpmorgan-leads-500m-mativ-loan-at-95-amid-weak-demand/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-31 13:18:00",
+      "title": "JPM to Increase Loans to Small Businesses - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/usq/news/comment.aspx?source=AAFN&id=NOW.1515002&catg=1",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 13:18:00",
+      "title": "JPM to Increase Loans to Small Businesses - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/stocks/news/aafn-news/NOW.1515002/2",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 12:52:08",
+      "title": "Mezz notes come wide as JP Morgan prices $523m non-prime RMBS - GlobalCapital",
+      "url": "https://www.globalcapital.com/securitization/article/2g6clveluy9lj8ei9xm9s/securitization/rmbs/mezz-notes-come-wide-as-jp-morgan-prices-523m-non-prime-rmbs",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 12:44:05",
+      "title": "J.P. Morgan Private Capital Expands Team With Senior Hires - tradingview.com",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA4WDNNR:0-j-p-morgan-private-capital-expands-team-with-senior-hires/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 12:30:00",
+      "title": "J.P. Morgan Private Capital Expands Team with Senior Hires – Company Announcement - Financial Times",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603310830PR_NEWS_USPRX____NY23205-1",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 11:56:00",
+      "title": "J.P. Morgan Remains a Hold on Cushman & Wakefield (CWK) - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CWK/pressreleases/1060854/jp-morgan-remains-a-hold-on-cushman-wakefield-cwk/",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-31 11:48:27",
+      "title": "Wells Fargo Keeps Their Buy Rating on JPMorgan Chase (JPM) - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/JPM-N/pressreleases/1060585/wells-fargo-keeps-their-buy-rating-on-jpmorgan-chase-jpm/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 11:21:38",
+      "title": "Synergy Asset Management LLC Purchases 16,801 Shares of JPMorgan Chase & Co. $JPM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-synergy-asset-management-llc-purchases-16801-shares-of-jpmorgan-chase-co-jpm-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 10:42:34",
+      "title": "JPMorgan Chase (JPM) Stock Plans $80B Small Business Lending Push – Here’s Why - CoinCentral",
+      "url": "https://coincentral.com/jpmorgan-chase-jpm-stock-plans-80b-small-business-lending-push-heres-why/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 10:00:00",
+      "title": "JPMorganChase Launches American Dream Initiative to Expand Local Economic Opportunity - Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260331050943/en/JPMorganChase-Launches-American-Dream-Initiative-to-Expand-Local-Economic-Opportunity",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 09:09:00",
+      "title": "NatWest Group plc Raises Position in JPMorgan Chase & Co. $JPM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-natwest-group-plc-raises-position-in-jpmorgan-chase-co-jpm-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:51:51",
+      "title": "Mitsubishi adopts JP Morgan’s 24/7 blockchain payments - ledgerinsights.com",
+      "url": "https://www.ledgerinsights.com/mitsubishi-adopts-jp-morgans-24-7-blockchain-payments/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 07:56:36",
+      "title": "JPMorgan Chase & Co. $JPM is Dakota Wealth Management's 9th Largest Position - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-is-dakota-wealth-managements-9th-largest-position-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 07:56:35",
+      "title": "Fort Washington Investment Advisors Inc. OH Grows Stock Holdings in JPMorgan Chase & Co. $JPM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-fort-washington-investment-advisors-inc-oh-grows-stock-holdings-in-jpmorgan-chase-co-jpm-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 07:56:34",
+      "title": "Geremia Financial Services LLC Purchases Shares of 4,451 JPMorgan Chase & Co. $JPM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-geremia-financial-services-llc-purchases-shares-of-4451-jpmorgan-chase-co-jpm-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 06:04:00",
+      "title": "Is It Time To Reassess JPMorgan Chase (JPM) After Recent Share Price Swings? - sg.finance.yahoo.com",
+      "url": "https://sg.finance.yahoo.com/news/time-reassess-jpmorgan-chase-jpm-060436573.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 05:37:42",
+      "title": "Former Koreatown bank manager settles suit against JP Morgan Chase - 2UrbanGirls",
+      "url": "https://2urbangirls.com/2026/03/former-koreatown-bank-manager-settles-suit-against-jp-morgan-chase/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-03-30 22:39:12",
+      "title": "JPMorgan Chase & Co. (JPM) Price Target Cut by Truist as Macro Pressures Weigh on Outlook - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/jpmorgan-chase-co-jpm-price-target-cut-by-truist-as-macro-pressures-weigh-on-outlook-1728061/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 19:36:00",
+      "title": "How many sweeteners does JP Morgan need to build an office in Canary Wharf? | Nils Pratley - The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/mar/30/how-many-sweeteners-does-jp-morgan-need-to-build-an-office-in-canary-wharf",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 19:06:19",
+      "title": "Credit Management & Credit Decisioning Guide for Businesses - J.P. Morgan",
+      "url": "https://www.jpmorgan.com/insights/business-planning/credit-management-and-credit-decisioning-guide-for-businesses",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 18:26:34",
+      "title": "JPMorgan Chase & Co.'s (JPM) Overweight Rating Reaffirmed at Piper Sandler - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-cos-jpm-overweight-rating-reaffirmed-at-piper-sandler-2026-03-30/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 17:32:51",
+      "title": "JPMorganChase partners with sports legends to help athletes master their money - Indianapolis Recorder",
+      "url": "https://indianapolisrecorder.com/jpmorganchase-partners-with-sports-legends-to-help-athletes-master-their-finances/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 15:45:03",
+      "title": "JPMorgan Chase & Co. (JPM) Could Be a Great Choice - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-could-154503178.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 14:00:00",
+      "title": "The Fortress in the Storm: A Deep Dive into JPMorgan Chase (JPM) as the Dow Enters Correction Territory - FinancialContent",
+      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-3-30-the-fortress-in-the-storm-a-deep-dive-into-jpmorgan-chase-jpm-as-the-dow-enters-correction-territory",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 13:45:07",
+      "title": "European equities already pricing in more bearish outlook than 2022 energy shock, says JP Morgan - Yahoo! Finance Canada",
+      "url": "https://ca.finance.yahoo.com/news/european-equities-already-pricing-more-134507354.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 13:36:09",
+      "title": "Piper Sandler Maintains JPMorgan(JPM.US) With Buy Rating, Cuts Target Price to $325 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67626411/piper-sandler-maintains-jpmorgan-jpmus-with-buy-rating-cuts-target?level=1&data_ticket=1775006986719761",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-03-30 11:48:05",
+      "title": "JPMorgan Chase & Co. $JPM Stock Holdings Lifted by World Investment Advisors - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-holdings-lifted-by-world-investment-advisors-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:49:00",
+      "title": "JPM Warns of Vulnerability That Could Add $20 to Oil Price - Rigzone",
+      "url": "https://www.rigzone.com/news/jpm_warns_of_vulnerability_that_could_add_20_to_oil_price-30-mar-2026-183325-article/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 10:23:51",
+      "title": "How Investors May Respond To JPM (JPM) Balancing Caution On Private Credit With Strategic Market Positioning - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/how-investors-may-respond-to-jpm-jpm-balancing-caution-on-pr",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 07:56:32",
+      "title": "Ferguson Wellman Capital Management Inc. Acquires 4,265 Shares of JPMorgan Chase & Co. $JPM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ferguson-wellman-capital-management-inc-acquires-4265-shares-of-jpmorgan-chase-co-jpm-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 02:08:16",
+      "title": "J.P. Morgan Payments recognised for advancing AI in Payments software - The Digital Banker",
+      "url": "https://thedigitalbanker.com/j-p-morgan-payments-recognised-for-advancing-ai-in-payments-software/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 09:27:22",
+      "title": "JPMorgan Chase & Co. $JPM Shares Sold by Moody National Bank Trust Division - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-moody-national-bank-trust-division-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 07:46:21",
+      "title": "JPMorgan Chase & Co. $JPM Shares Acquired by Czech National Bank - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-acquired-by-czech-national-bank-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 04:22:06",
+      "title": "Is It Time To Reconsider JPMorgan Chase (JPM) After Recent Share Price Weakness? - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/is-it-time-to-reconsider-jpmorgan-chase-jpm-after-recent-sha",
+      "sentiment": "Neutral"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-29 ──\n  [Neutral] JPMorgan Chase & Co. $JPM Shares Sold by Moody National Bank Trust Division - marketbeat.com\n  [Neutral] JPMorgan Chase & Co. $JPM Shares Acquired by Czech National Bank - marketbeat.com\n  [Neutral] Is It Time To Reconsider JPMorgan Chase (JPM) After Recent Share Price Weakness? - simplywall.st\n\n── 2026-03-30 ──\n  [Risk] JPMorgan Chase & Co. (JPM) Price Target Cut by Truist as Macro Pressures Weigh on Outlook - Insider Monkey\n  [Neutral] How many sweeteners does JP Morgan need to build an office in Canary Wharf? | Nils Pratley - The Guardian\n  [Neutral] Credit Management & Credit Decisioning Guide for Businesses - J.P. Morgan\n  [Positive] JPMorgan Chase & Co.'s (JPM) Overweight Rating Reaffirmed at Piper Sandler - marketbeat.com\n  [Positive] JPMorganChase partners with sports legends to help athletes master their money - Indianapolis Recorder\n  [Positive] JPMorgan Chase & Co. (JPM) Could Be a Great Choice - Yahoo Finance\n  [Neutral] The Fortress in the Storm: A Deep Dive into JPMorgan Chase (JPM) as the Dow Enters Correction Territory - FinancialContent\n  [Risk] European equities already pricing in more bearish outlook than 2022 energy shock, says JP Morgan - Yahoo! Finance Canada\n  [Mixed] Piper Sandler Maintains JPMorgan(JPM.US) With Buy Rating, Cuts Target Price to $325 - Moomoo\n  [Neutral] JPMorgan Chase & Co. $JPM Stock Holdings Lifted by World Investment Advisors - marketbeat.com\n  [Risk] JPM Warns of Vulnerability That Could Add $20 to Oil Price - Rigzone\n  [Risk] How Investors May Respond To JPM (JPM) Balancing Caution On Private Credit With Strategic Market Positioning - simplywall.st\n  [Neutral] Ferguson Wellman Capital Management Inc. Acquires 4,265 Shares of JPMorgan Chase & Co. $JPM - marketbeat.com\n  [Growth] J.P. Morgan Payments recognised for advancing AI in Payments software - The Digital Banker\n\n── 2026-03-31 ──\n  [Neutral] JPMorgan Chase & Co. (NYSE:JPM) Trading Up 3.7% - Here's Why - marketbeat.com\n  [Growth] JPMorgan's $3.8B AI Data Center Bond Draws $14B in Orders - tradingview.com\n  [Positive] J.P. Morgan Private Capital Expands Team - FIN News\n  [Growth] JPMorgan Chase (JPM) Stock Is Up, What You Need To Know - The Globe and Mail\n  [Positive] JPMorgan Chase & Co Stock (JPM) Moved Up by 3.42% on Mar 31: What Signal Does It Send? - TradingKey\n  [Growth] JPMorgan Chase American Dream Push Highlights Small Business And Valuation Story - simplywall.st\n  [Growth] JPMorgan Scales Blockchain Platform via Mitsubishi Tie-Up - tradingview.com\n  [Neutral] The labor market is ‘really insulated,’ says J.P. Morgan’s Phil Camporeale - CNBC\n  [Growth] JPMorgan Commits $80 Billion to Small Business Lending: Numbers Point to a $389 Bull Case - TIKR.com\n  [Neutral] JP Morgan strengthens Emea trade and working capital team - Global Trade Review (GTR)\n  [Positive] Mitsubishi Advances Intragroup Cash Management With Kinexys - J.P. Morgan\n  [Growth] JPMorgan (JPM.US) will increase its lending to small businesses. - 富途牛牛\n  [Positive] JPMorgan pledges USD80b in small business lending under ‘American Dream Initiative’ - Capital Brief\n  [Risk] JPMorgan Leads $500M Mativ Loan at 95 Amid Weak Demand - tradingview.com\n  [Growth] JPM to Increase Loans to Small Businesses - AASTOCKS.com\n  [Growth] JPM to Increase Loans to Small Businesses - AASTOCKS.com\n  [Neutral] Mezz notes come wide as JP Morgan prices $523m non-prime RMBS - GlobalCapital\n  [Neutral] J.P. Morgan Private Capital Expands Team With Senior Hires - tradingview.com\n  [Growth] J.P. Morgan Private Capital Expands Team with Senior Hires – Company Announcement - Financial Times\n  [Mixed] J.P. Morgan Remains a Hold on Cushman & Wakefield (CWK) - The Globe and Mail\n  [Positive] Wells Fargo Keeps Their Buy Rating on JPMorgan Chase (JPM) - The Globe and Mail\n  [Neutral] Synergy Asset Management LLC Purchases 16,801 Shares of JPMorgan Chase & Co. $JPM - marketbeat.com\n  [Growth] JPMorgan Chase (JPM) Stock Plans $80B Small Business Lending Push – Here’s Why - CoinCentral\n  [Neutral] JPMorganChase Launches American Dream Initiative to Expand Local Economic Opportunity - Business Wire\n  [Neutral] NatWest Group plc Raises Position in JPMorgan Chase & Co. $JPM - marketbeat.com\n  [Growth] Mitsubishi adopts JP Morgan’s 24/7 blockchain payments - ledgerinsights.com\n  [Neutral] JPMorgan Chase & Co. $JPM is Dakota Wealth Management's 9th Largest Position - marketbeat.com\n  [Neutral] Fort Washington Investment Advisors Inc. OH Grows Stock Holdings in JPMorgan Chase & Co. $JPM - marketbeat.com\n  [Neutral] Geremia Financial Services LLC Purchases Shares of 4,451 JPMorgan Chase & Co. $JPM - marketbeat.com\n  [Neutral] Is It Time To Reassess JPMorgan Chase (JPM) After Recent Share Price Swings? - sg.finance.yahoo.com\n  [Negative] Former Koreatown bank manager settles suit against JP Morgan Chase - 2UrbanGirls",
+    "sentiment_block": "총 뉴스 48건 분석 결과:\n  Positive     8건 ( 16.7%) ███\n  Growth      12건 ( 25.0%) █████\n  Neutral     20건 ( 41.7%) ████████\n  Mixed        2건 (  4.2%) \n  Risk         5건 ( 10.4%) ██\n  Negative     1건 (  2.1%) \n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:3\n  2026-03-30: Neutral:5, Risk:4, Positive:3, Mixed:1, Growth:1\n  2026-03-31: Neutral:12, Growth:11, Positive:5, Risk:1, Mixed:1, Negative:1",
+    "analyst_block": ""
+  },
+  "investment_judgment": "# JPMorgan Chase (JPM) 투자 분석 보고서\n\n## [핵심 요약]\n\n* **3월 29-30일**: 거시경제 압박으로 가격 목표 인하되었으나, 애널리스트 레이팅 유지로 혼조 신호 발생\n* **3월 31일**: 주가 3.7% 상승 반전과 함께 성장 관련 긍정 뉴스 집중 (소액금융 $80B 약속, AI 데이터센터, 블록체인 확대)\n* **전체 감정 분석**: 긍정(성장 포함 41.7%) > 중립(41.7%) >> 위험(10.4%) 순으로, 약한 강세 신호\n\n---\n\n## [전체 흐름 분석]\n\n**약한 약세에서 성장 모멘텀으로의 전환**\n\n초반 2-3일간 JPM은 거시경제 불확실성(Truist의 가격 목표 인하, 유럽 주식의 약세 전망, 거유 대출 시장 조심)으로 인한 압박을 받았습니다. 그러나 3월 31일 기점으로 완전히 다른 양상으로 전환됩니다.\n\n주목할 점은 **수량 대비 성질의 변화**입니다. 29-30일에는 중립적 기관 거래와 리스크 평가가 지배적이었으나, 31일에는 **전략적 성장 이니셔티브**에 대한 집중 보도(소액금융 $80B, AI 데이터센터 $3.8B 채권, 블록체인 플랫폼 확대)가 감정 지표를 역전시킵니다.\n\n---\n\n## [긍정 요인]\n\n* **구체적 성장 약속의 실행화**: \n  - 소액금융에 $80B 투자 공약 (American Dream Initiative) → 중소기업 시장 지배력 강화 신호\n  - $3.8B AI 데이터센터 채권에 $14B 초과 수주 → 시장의 AI 인프라 투자 신뢰도 증명\n\n* **기술 및 디지털 전략 진전**:\n  - 블록체인 결제 플랫폼 확대 (미쓰비시와의 파트너십)\n  - 24/7 블록체인 결제 시스템 도입 → 글로벌 결제 수익 다각화 가능성\n\n* **조직 강화**:\n  - Private Capital 팀 확충 및 시니어 인력 영입 → 고액 자산관리 경쟁력 강화\n  - Emea 무역금융팀 확대 → 국제 사업 확장 의지 반영\n\n* **애널리스트 지지 유지**:\n  - Piper Sandler Overweight 등급 재확인 (목표가 $325로 인하에도 불구하고)\n  - Wells Fargo Buy 등급 유지\n\n* **기관 투자자의 순매수 신호**:\n  - 여러 자산운용사의 지분 인상 (Czech National Bank, Ferguson Wellman, NatWest 등)\n\n---\n\n## [부정 요인]\n\n* **거시경제 헤드윈드**:\n  - Truist의 가격 목표 인하 → 매크로 경기 전망 약화 시사\n  - 유럽 주식의 2022년 에너지 충격 이상의 약세 프라이싱 경고\n  - 대출 시장 약한 수요 (Mativ Loan의 95bp 스프레드, 비우량 RMBS 가격 약화)\n\n* **사적 신용(Private Credit) 시장 불확실성**:\n  - JPM의 신중한 포지셔닝 권고 (사적 신용 시장 밸런싱 우려)\n  - 대출 조건 약화 신호\n\n* **제한적 부정 신호**:\n  - Koreatown 은행 매니저 소송 합의 (개별 사건이지만 평판 리스크)\n  - 혼합 평가 2건 (소수)\n\n---\n\n## [투자 인사이트]\n\n**시장 재평가의 신호로 해석되는 흐름**\n\n1. **시간차 효과**: 거시경제 우려(29-30일)에서 회사의 구체적 성장 전략(31일) 발표로의 시간차는 전형적인 '나쁜 뉴스 먼저, 좋은 뉴스는 나중' 패턴입니다. 이는 **진정성 있는 재평가**의 신호입니다.\n\n2. **채권 수주 초과 vs. 대출 시장 약세의 대비**:\n   - AI 인프라 채권: $14B 초과 수주 (3.8배 수요)\n   - 일반 대출: 약한 수요, 높"
+}

@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "symbol": "TSM",
+    "analysis_date": "2026-04-01T02:39:24.577681+00:00",
+    "news_period": "2026-03-29 ~ 2026-03-31",
+    "news_count": 45,
+    "model": "claude-haiku-4-5-20251001"
+  },
+  "sentiment_summary": {
+    "Neutral": 22,
+    "Growth": 16,
+    "Risk": 5,
+    "Positive": 2
+  },
+  "sentiment_by_date": {
+    "2026-03-29": {
+      "Neutral": 7,
+      "Growth": 2
+    },
+    "2026-03-30": {
+      "Growth": 9,
+      "Neutral": 8,
+      "Risk": 5,
+      "Positive": 1
+    },
+    "2026-03-31": {
+      "Neutral": 7,
+      "Growth": 5,
+      "Positive": 1
+    }
+  },
+  "news_with_sentiment": [
+    {
+      "date": "2026-03-31 23:17:15",
+      "title": "Stock Traders Buy High Volume of Call Options on Taiwan Semiconductor Manufacturing (NYSE:TSM) - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/stock-traders-buy-high-volume-of-call-options-on-taiwan-semiconductor-manufacturing-nysetsm-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 21:30:37",
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Up 6.8% - Here's Why - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/taiwan-semiconductor-manufacturing-nysetsm-shares-up-68-heres-why-2026-03-31/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 16:52:35",
+      "title": "TSM vs. AVGO: Which is a Better Semiconductor Stock? - AOL.com",
+      "url": "https://www.aol.com/articles/tsm-vs-avgo-better-semiconductor-160812154.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 15:00:53",
+      "title": "Will TSM's Advanced Packaging Push Unlock a New Growth Phase? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/1066742/will-tsms-advanced-packaging-push-unlock-a-new-growth-phase/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 14:15:48",
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Up by 3.09% on Mar 31: Facts Behind the Movement - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261738756-market-movers-tsm-20260331",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 13:34:48",
+      "title": "TSMC Starts 2 Nanometer Era As AI Demand Reframes Valuation - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/tsmc-starts-2-nanometer-era-as-ai-demand-reframes-valuation",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 13:09:02",
+      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Gains from Strong Demand and Its Industry-Leading Manufacturing Capabilities - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-130902244.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 11:45:41",
+      "title": "Vaughan Nelson Investment Management L.P. Has $218.95 Million Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-vaughan-nelson-investment-management-lp-has-21895-million-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 11:05:43",
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Raub Brock Capital Management LP - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-raub-brock-capital-management-lp-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 10:41:31",
+      "title": "Northstar Advisory Group LLC Sells 1,768 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-northstar-advisory-group-llc-sells-1768-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 10:12:12",
+      "title": "J. Safra Sarasin Holding AG Sells 20,787 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-j-safra-sarasin-holding-ag-sells-20787-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:44:49",
+      "title": "Boston Common Asset Management LLC Has $164.73 Million Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-boston-common-asset-management-llc-has-16473-million-holdings-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 07:38:44",
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Allspring Global Investments Holdings LLC - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-allspring-global-investments-holdings-llc-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 22:22:07",
+      "title": "1 Brilliant Growth Stock to Buy Before It Joins Nvidia, Apple, and Alphabet in the $3 Trillion Club - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/1050856/1-brilliant-growth-stock-to-buy-before-it-joins-nvidia-apple-and-alphabet-in-the-3-trillion-club/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 21:45:04",
+      "title": "TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-falls-more-steeply-214504101.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 21:37:29",
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Down 3.1% - Time to Sell? - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/taiwan-semiconductor-manufacturing-nysetsm-shares-down-31-time-to-sell-2026-03-30/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 21:06:17",
+      "title": "Taiwan Semiconductor Options Spot-On: On March 30th, 145.46K Contracts Were Traded, With 1.62 Million Open Interest - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70855996/taiwan-semiconductor-options-spot-on-on-march-30th-145-46k?level=1&data_ticket=1775006624882232",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 20:26:40",
+      "title": "TSM launches osu ai for automated Minecraft building - VPEsports",
+      "url": "https://vpesports.com/featured-news/tsms-osu-ai-app-minecraft-building",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 18:45:00",
+      "title": "Insider Stock Purchases: March 30, 2026 - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Insider+Stock+Purchases%3A+March+30%2C+2026",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 18:28:06",
+      "title": "Promising Manufacturing Stocks To Watch Today - March 30th - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/promising-manufacturing-stocks-to-watch-today-march-30th-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 18:15:40",
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.42% on Mar 30: A Full Analysis - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261734872-market-movers-tsm-20260330",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 17:36:18",
+      "title": "Dan Rohinton’s Top Picks for March 30, 2026 - BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/markets/2026/03/30/dan-rohintons-top-picks-for-march-30-2026/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 17:33:00",
+      "title": "TSMC Stock (TSM) Opinions on Capacity Constraints - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/TSMC+Stock+%28TSM%29+Opinions+on+Capacity+Constraints",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 14:05:47",
+      "title": "TSMC 2nm Ramp And AI Demand Reframe Growth And Valuation Narrative - sg.finance.yahoo.com",
+      "url": "https://sg.finance.yahoo.com/news/tsmc-2nm-ramp-ai-demand-140547329.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 13:27:02",
+      "title": "What's Going On With Taiwan Semiconductor Stock Monday? - Taiwan Semiconductor (NYSE:TSM) - Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/03/51538010/taiwan-semiconductor-anchors-explosive-320-billion-chip-boom-in-2025",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 13:12:55",
+      "title": "Strong Demand Lifted Taiwan Semiconductor Manufacturing Company Limited (TSM) Higher in Q4 - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/strong-demand-lifted-taiwan-semiconductor-manufacturing-company-limited-tsm-higher-in-q4-1727596/?amp=1",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 13:08:51",
+      "title": "Taiwan Semiconductor Manufacturing Co. (TSM) is Benefiting from Strong Underlying Business Growth - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/taiwan-semiconductor-manufacturing-co-tsm-is-benefiting-from-strong-underlying-business-growth-1727584/?amp=1",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 13:01:06",
+      "title": "Strong Demand Lifted Taiwan Semiconductor Manufacturing Company Limited (TSM) Higher in Q4 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-demand-lifted-taiwan-semiconductor-130106361.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 12:56:04",
+      "title": "Taiwan Semiconductor Manufacturing Co. (TSM) is Benefiting from Strong Underlying Business Growth - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-co-tsm-125604873.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 11:30:09",
+      "title": "MOR Wealth Management LLC Makes New $719,000 Investment in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mor-wealth-management-llc-makes-new-719000-investment-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 11:16:05",
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Bought by Private Advisory Group LLC - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-bought-by-private-advisory-group-llc-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:45:50",
+      "title": "TrueMark Investments LLC Has $3.74 Million Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-truemark-investments-llc-has-374-million-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:45:00",
+      "title": "Insider Purchase: VP of $TSM Buys 2,000 Shares - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Insider+Purchase%3A+VP+of+%24TSM+Buys+2%2C000+Shares",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 10:05:51",
+      "title": "Taiwan Semiconductor (TSM) Stock: TSMC Is Up While Nvidia, Apple, and Meta Are All Down – Here’s Why - MEXC",
+      "url": "https://www.mexc.com/news/991208",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-30 08:40:48",
+      "title": "Donaldson Capital Management LLC Boosts Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-donaldson-capital-management-llc-boosts-holdings-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-30/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-30 08:34:34",
+      "title": "Taiwan Semiconductor (TSM) Stock: TSMC Is Up While Nvidia, Apple, and Meta Are All Down - Here's Why - CoinCentral",
+      "url": "https://coincentral.com/taiwan-semiconductor-tsm-stock-tsmc-is-up-while-nvidia-apple-and-meta-are-all-down-heres-why/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 23:27:01",
+      "title": "Is Taiwan Semiconductor Manufacturing Company Limited (TSM) A Good Stock To Buy Now? - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/is-taiwan-semiconductor-manufacturing-company-limited-tsm-a-good-stock-to-buy-now-1726222/?amp=1",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 23:20:32",
+      "title": "Is Taiwan Semiconductor Manufacturing Company Limited (TSM) A Good Stock To Buy Now? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-232032970.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 14:42:22",
+      "title": "Micron vs Taiwan Semiconductor Manufacturing: Which AI Chipmaker Is the Better Buy Right Now? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/1030116/micron-vs-taiwan-semiconductor-manufacturing-which-ai-chipmaker-is-the-better-buy-right-now/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 11:05:00",
+      "title": "Elon Musk's Terafab: What It Is, and the 2 Stocks That Give You Exposure Right Now - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/1029528/elon-musks-terafab-what-it-is-and-the-2-stocks-that-give-you-exposure-right-now/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-29 10:22:57",
+      "title": "Hunter Perkins Capital Management LLC Sells 8,589 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hunter-perkins-capital-management-llc-sells-8589-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 08:36:09",
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Position Reduced by Canoe Financial LP - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-position-reduced-by-canoe-financial-lp-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 08:06:27",
+      "title": "Bell Bank Raises Stake in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bell-bank-raises-stake-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-29/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 07:13:17",
+      "title": "Rep. Julia Letlow Purchases Shares of Taiwan Semiconductor Manufacturing Company Ltd. (NYSE:TSM) - Defense World",
+      "url": "https://www.defenseworld.net/2026/03/29/rep-julia-letlow-purchases-shares-of-taiwan-semiconductor-manufacturing-company-ltd-nysetsm.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-29 06:13:36",
+      "title": "Rep. Julia Letlow Purchases Shares of Taiwan Semiconductor Manufacturing Company Ltd. (NYSE:TSM) - marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/rep-julia-letlow-purchases-shares-of-taiwan-semiconductor-manufacturing-company-ltd-nysetsm-2026-03-29/",
+      "sentiment": "Neutral"
+    }
+  ],
+  "analyst_context": {
+    "news_block": "\n── 2026-03-29 ──\n  [Neutral] Is Taiwan Semiconductor Manufacturing Company Limited (TSM) A Good Stock To Buy Now? - Insider Monkey\n  [Neutral] Is Taiwan Semiconductor Manufacturing Company Limited (TSM) A Good Stock To Buy Now? - Yahoo Finance\n  [Growth] Micron vs Taiwan Semiconductor Manufacturing: Which AI Chipmaker Is the Better Buy Right Now? - The Globe and Mail\n  [Growth] Elon Musk's Terafab: What It Is, and the 2 Stocks That Give You Exposure Right Now - The Globe and Mail\n  [Neutral] Hunter Perkins Capital Management LLC Sells 8,589 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM Position Reduced by Canoe Financial LP - marketbeat.com\n  [Neutral] Bell Bank Raises Stake in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com\n  [Neutral] Rep. Julia Letlow Purchases Shares of Taiwan Semiconductor Manufacturing Company Ltd. (NYSE:TSM) - Defense World\n  [Neutral] Rep. Julia Letlow Purchases Shares of Taiwan Semiconductor Manufacturing Company Ltd. (NYSE:TSM) - marketbeat.com\n\n── 2026-03-30 ──\n  [Growth] 1 Brilliant Growth Stock to Buy Before It Joins Nvidia, Apple, and Alphabet in the $3 Trillion Club - The Globe and Mail\n  [Risk] TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know - Yahoo Finance\n  [Risk] Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Down 3.1% - Time to Sell? - marketbeat.com\n  [Neutral] Taiwan Semiconductor Options Spot-On: On March 30th, 145.46K Contracts Were Traded, With 1.62 Million Open Interest - 富途牛牛\n  [Growth] TSM launches osu ai for automated Minecraft building - VPEsports\n  [Neutral] Insider Stock Purchases: March 30, 2026 - Quiver Quantitative\n  [Neutral] Promising Manufacturing Stocks To Watch Today - March 30th - marketbeat.com\n  [Risk] Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.42% on Mar 30: A Full Analysis - TradingKey\n  [Risk] Dan Rohinton’s Top Picks for March 30, 2026 - BNN Bloomberg\n  [Risk] TSMC Stock (TSM) Opinions on Capacity Constraints - Quiver Quantitative\n  [Growth] TSMC 2nm Ramp And AI Demand Reframe Growth And Valuation Narrative - sg.finance.yahoo.com\n  [Growth] What's Going On With Taiwan Semiconductor Stock Monday? - Taiwan Semiconductor (NYSE:TSM) - Benzinga\n  [Growth] Strong Demand Lifted Taiwan Semiconductor Manufacturing Company Limited (TSM) Higher in Q4 - Insider Monkey\n  [Growth] Taiwan Semiconductor Manufacturing Co. (TSM) is Benefiting from Strong Underlying Business Growth - Insider Monkey\n  [Positive] Strong Demand Lifted Taiwan Semiconductor Manufacturing Company Limited (TSM) Higher in Q4 - Yahoo Finance\n  [Growth] Taiwan Semiconductor Manufacturing Co. (TSM) is Benefiting from Strong Underlying Business Growth - Yahoo Finance\n  [Neutral] MOR Wealth Management LLC Makes New $719,000 Investment in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Bought by Private Advisory Group LLC - marketbeat.com\n  [Neutral] TrueMark Investments LLC Has $3.74 Million Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com\n  [Neutral] Insider Purchase: VP of $TSM Buys 2,000 Shares - Quiver Quantitative\n  [Growth] Taiwan Semiconductor (TSM) Stock: TSMC Is Up While Nvidia, Apple, and Meta Are All Down – Here’s Why - MEXC\n  [Neutral] Donaldson Capital Management LLC Boosts Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com\n  [Growth] Taiwan Semiconductor (TSM) Stock: TSMC Is Up While Nvidia, Apple, and Meta Are All Down - Here's Why - CoinCentral\n\n── 2026-03-31 ──\n  [Neutral] Stock Traders Buy High Volume of Call Options on Taiwan Semiconductor Manufacturing (NYSE:TSM) - marketbeat.com\n  [Positive] Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Up 6.8% - Here's Why - marketbeat.com\n  [Growth] TSM vs. AVGO: Which is a Better Semiconductor Stock? - AOL.com\n  [Growth] Will TSM's Advanced Packaging Push Unlock a New Growth Phase? - The Globe and Mail\n  [Growth] Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Up by 3.09% on Mar 31: Facts Behind the Movement - TradingKey\n  [Growth] TSMC Starts 2 Nanometer Era As AI Demand Reframes Valuation - simplywall.st\n  [Growth] Taiwan Semiconductor Manufacturing Company Limited (TSM) Gains from Strong Demand and Its Industry-Leading Manufacturing Capabilities - Yahoo Finance\n  [Neutral] Vaughan Nelson Investment Management L.P. Has $218.95 Million Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Raub Brock Capital Management LP - marketbeat.com\n  [Neutral] Northstar Advisory Group LLC Sells 1,768 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com\n  [Neutral] J. Safra Sarasin Holding AG Sells 20,787 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com\n  [Neutral] Boston Common Asset Management LLC Has $164.73 Million Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - marketbeat.com\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Allspring Global Investments Holdings LLC - marketbeat.com",
+    "sentiment_block": "총 뉴스 45건 분석 결과:\n  Positive     2건 (  4.4%) \n  Growth      16건 ( 35.6%) ███████\n  Neutral     22건 ( 48.9%) █████████\n  Mixed        0건 (  0.0%) \n  Risk         5건 ( 11.1%) ██\n  Negative     0건 (  0.0%) \n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:7, Growth:2\n  2026-03-30: Growth:9, Neutral:8, Risk:5, Positive:1\n  2026-03-31: Neutral:7, Growth:5, Positive:1",
+    "analyst_block": ""
+  },
+  "investment_judgment": "# TSM (Taiwan Semiconductor Manufacturing Company) 투자 분석 보고서\n\n## [핵심 요약]\n\n* **3월 29일**: 중립적 평가 우세, 기관 투자자들의 엇갈린 움직임 (매도/매입 혼재)\n* **3월 30일**: 단기 낙폭(-3.1~3.42%)에도 불구하고 강한 펀더멘탈 긍정론 부상 (성장성, AI 수요, 2nm 랩)\n* **3월 31일**: 강한 반등(+6.8%)으로 긍정적 종결, 기술 리더십과 수요 강세 재확인\n\n---\n\n## [전체 흐름 분석]\n\n**3일간의 시장 심리 변화는 명확한 상승 궤적을 보여줍니다:**\n\n1. **3월 29-30일의 일시적 조정**: 3월 30일 3% 이상의 낙폭은 기술주 변동성을 반영하지만, **낙폭과 동시에 펀더멘탈 강점에 대한 긍정적 분석이 집중 보도됨** (2nm 기술, AI 수요, Q4 실적 강세)\n\n2. **3월 31일의 명확한 반등**: +6.8% 상승으로 기술 리더십과 산업 수요 회복 확신을 반영했으며, 콜옵션 거래량 증가는 상승 심리를 지지\n\n3. **감정 분석의 명확한 신호**: \n   - 3월 30일 growth 뉴스가 9건으로 peak (35.6% 평균의 2.5배)\n   - 전체 45건 중 긍정(4.4%+35.6%)이 40%, 부정(11.1%)보다 3.6배 우월\n   - 부정 뉴스(Negative) 0건 - 구조적 약점 보도 부재\n\n---\n\n## [긍정 요인]\n\n* **기술 리더십 심화**: 2nm 기술 본격화로 경쟁 우위 확대, AI 칩 수요 주도권 확보\n* **실적 기반 강화**: Q4 강한 수요로 반영된 실적 개선, 강한 기저 비즈니스 성장 지속\n* **고급 패키징 기술**: 신규 성장 동력으로 평가되는 Advanced Packaging 솔루션 전개\n* **시장 상대 강세**: Nvidia, Apple, Meta 등이 하락할 때 TSM이 상승 - 선택적 자금 유입 확인\n* **기관 투자자 관심**: 3월 30-31일 다수 기관의 신규/증액 매입(MOR Wealth, TrueMark, Donaldson Capital 등)\n* **내부자 매입**: VP 주식 매입(2,000주)은 경영진 신뢰도 반영\n\n---\n\n## [부정 요인]\n\n* **단기 변동성**: 3월 30일 -3.1~3.42% 낙폭은 기술주 변동성 위험 시사\n* **용량 제약 우려**: 기관 간 의견 분산(capacity constraints 논의)\n* **기관의 분산적 움직임**: 일부 기관의 매도 지속(Hunter Perkins, Canoe Financial, Northstar 등)\n* **Risk 평가 5건**: 11.1% 비중으로 무시할 수 없는 하방 리스크 인식\n\n---\n\n## [투자 인사이트]\n\n**1. 기술 사이클과 수요의 동시 호재**\n- 2nm 양산 시점의 AI 칩 초수요 결합 = 공급 독점 우위 형성\n- 이는 1~2년 지속 가능한 마진 개선 기대\n\n**2. 가격 조정의 건전성**\n- 3월 30일 낙폭은 과열된 기술주 시장의 정상적 조정\n- 낙폭 속에서도 앗되는 강한 긍정 분석 = 저점 매입 기회로 평가됨\n- 3월 31일 반등(+6.8%)으로 조정이 일시적임 입증\n\n**3. 경쟁 환경 우위**\n- 삼성(비유), 인텔 등과의 기술 격차 확대 중\n- AI 인프라 투자 가속화로 제조 선도 기업의 마진율 상승 확실\n\n**4. 밸류에이션 재평가**\n- \"$3조 클럽 진입\" 관련 분석들 = 현재 밸류에이션이 낮게 평가 중일 가능성 시사\n\n---\n\n## [투자 판단]\n\n**✅ 투자 추천** (매수)\n\n---\n\n## [판단 근거]\n\n1. **감정 분석의 강한 양호도**\n   - 긍정(Growth + Positive) 40% vs"
+}
