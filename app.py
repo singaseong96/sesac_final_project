@@ -556,7 +556,7 @@ def render_home():
             cname = COMPANY_NAME.get(sym, "")
             # 분석 파일 존재 여부 확인
             has_gpt    = os.path.exists(os.path.join(OUTPUT_DIR, f"{sym}_analysis_GPT.json"))
-            has_claude = os.path.exists(os.path.join(OUTPUT_DIR, f"{sym}_analysis_claude.json"))
+            has_claude = os.path.exists(os.path.join(OUTPUT_DIR, f"{sym}_analysis_claude_*.json"))
             badge = ""
             if has_gpt and has_claude:
                 badge = '<span style="color:#0d8a6a;font-size:16px;font-weight:600;">GPT</span><span style="color:#9aa3b8;font-size:16px;"> · </span><span style="color:#b5603e;font-size:16px;font-weight:600;">Claude</span>'
