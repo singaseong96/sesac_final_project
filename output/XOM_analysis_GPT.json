@@ -1,62 +1,201 @@
 {
   "meta": {
     "symbol": "XOM",
-    "analysis_date": "2026-04-01T03:09:50.233619+00:00",
-    "news_period": "2026-03-29 ~ 2026-03-31",
-    "news_count": 44,
+    "analysis_date": "2026-04-02T03:22:08.485600+00:00",
+    "news_period": "2026-03-30 ~ 2026-04-01",
+    "news_count": 54,
     "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 18,
-    "Positive": 14,
-    "Growth": 8,
-    "Risk": 2,
-    "Negative": 1,
-    "Mixed": 1
+    "Positive": 19,
+    "Neutral": 15,
+    "Risk": 8,
+    "Growth": 6,
+    "Negative": 4,
+    "Mixed": 2
   },
   "sentiment_by_date": {
-    "2026-03-29": {
-      "Neutral": 11,
-      "Positive": 3,
-      "Growth": 1
-    },
     "2026-03-30": {
-      "Positive": 9,
-      "Neutral": 6,
-      "Growth": 5,
-      "Risk": 1
+      "Positive": 10,
+      "Neutral": 4,
+      "Risk": 3,
+      "Growth": 3,
+      "Mixed": 1
     },
     "2026-03-31": {
-      "Growth": 2,
-      "Positive": 2,
-      "Neutral": 1,
-      "Negative": 1,
-      "Mixed": 1,
-      "Risk": 1
+      "Neutral": 4,
+      "Positive": 4,
+      "Risk": 1,
+      "Mixed": 1
+    },
+    "2026-04-01": {
+      "Neutral": 7,
+      "Positive": 5,
+      "Risk": 4,
+      "Negative": 4,
+      "Growth": 3
     }
   },
   "news_with_sentiment": [
     {
+      "date": "2026-04-01 22:00:53",
+      "title": "에너지 위기의 어머니 격인 사태는 이제 막 시작됐을 뿐, IEA 경고 — 4월은 '훨씬 더 악화'할 것 - Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51615744/the-mother-of-all-energy-crises-is-just-beginning-iea-warns-april-will-be-much-worse",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 21:49:19",
+      "title": "Exxon Mobil(NYSE:XOM) 5.2% 하락 - 이유는 이렇다 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-trading-down-52-heres-why-2026-04-01/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-04-01 21:04:23",
+      "title": "Exxon Mobil 옵션 거래가 적중: 4월 1일 15.8만 계약 거래, 미결제약정 132만 계약 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67798339/exxon-mobil-options-spot-on-on-april-1st-158k-contracts?level=1&data_ticket=1775092281418537",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 19:20:41",
+      "title": "지난 한 달 동안 상승한 섹터는 단 하나 - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1098402/only-1-sector-is-up-over-the-past-month/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 18:13:37",
+      "title": "Exxon Mobil과 Chevron 5% 하락: 이란 대통령이 미국 석유주에 방금 한 일 - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/04/01/exxon-mobil-and-chevron-fall-5-what-irans-president-just-did-to-u-s-oil-stocks/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-04-01 17:37:52",
+      "title": "엑손 모빌의 조류 프로젝트 차질, 사업 신뢰성과 향후 투자 계획 재검토로 이어져 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/energy/nyse-xom/exxon-mobil/news/exxon-mobil-algae-setback-puts-integrity-and-future-investme",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 17:27:08",
+      "title": "에너지주 급락 속 엑손이 하락세 주도, 1년 만의 최대 낙폭 페이스 (XOM:NYSE) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4571712-exxon-leads-energy-stock-rout-on-pace-for-biggest-drop-in-a-year",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-04-01 16:14:23",
+      "title": "XOM의 우수한 업스트림 자산이 어떻게 성장 엔진으로 작용하는가 - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/COP/pressreleases/1094753/heres-how-xoms-advantaged-upstream-assets-act-as-its-growth-engine/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 16:10:02",
+      "title": "엑손(XOM)은 실적 서프라이즈 연승을 이어갈 수 있을까? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/exxon-xom-keep-earnings-surprise-161002036.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 15:43:30",
+      "title": "유가 하락에 엑손모빌 주가 하락, 그러나 랠리는 아직 끝나지 않았을 수도 - tradingview.com",
+      "url": "https://www.tradingview.com/news/invezz:dda5a8a89094b:0-exxonmobil-stock-slips-as-oil-falls-but-rally-may-not-be-over-yet/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 15:08:55",
+      "title": "2026년 4월 1일 기업 뉴스 - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1093132/company-news-for-apr-1-2026/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 14:50:00",
+      "title": "이란 휴전 기대감 재부상에 원유 가격이 후퇴하며 Exxon Mobil 하락 - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Exxon+Mobil+slides+as+crude+prices+retreat+on+renewed+Iran+ceasefire+optimism",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 14:44:55",
+      "title": "지연에도 불구하고 ExxonMobil은 이 LNG 프로젝트를 완벽한 시점에 완성했다. 최고 에너지주 매수 시점일까? - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1092809/despite-delays-exxonmobil-timed-this-lng-project-perfectly-is-it-time-to-buy-the-top-energy-stock/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 14:18:00",
+      "title": "Exxon Mobil Corp 주식(XOM), 4월 1일 3.53% 하락: 어떤 신호를 보내나? - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261743513-market-movers-xom-20260401",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-04-01 14:07:00",
+      "title": "새로운 에너지 강자: ExxonMobil(XOM)의 2026년 지배력 심층 분석 - FinancialContent",
+      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-4-1-the-new-energy-king-a-deep-dive-into-exxonmobils-xom-2026-dominance",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 13:46:23",
+      "title": "TD Cowen, Exxon Mobil(XOM.US) 매수 의견 유지, 목표주가 175달러로 상향 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67782940/td-cowen-maintains-exxon-mobil-xomus-with-buy-rating-raises?level=1&data_ticket=1775092281418537",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 13:42:29",
+      "title": "$Exxon Mobil (XOM.US)$ - Moomoo",
+      "url": "https://www.moomoo.com/community/feed/exxon-mobil-xom-us-116329738928534?chain_id=Name1K9-3FXPhg.1ksq5mg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FXOM-US%22%7D",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 11:24:46",
+      "title": "Zacks 애널리스트 블로그: Exxon, Coca-Cola, Uber - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1086674/the-zacks-analyst-blog-exxon-the-coca-cola-and-uber/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 09:42:12",
+      "title": "엑슨 모빌 코퍼레이션 $XOM 지분을 매도한 Alabama Retirement Systems - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exxon-mobil-corporation-xom-shares-sold-by-retirement-systems-of-alabama-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 09:42:11",
+      "title": "Northstar Advisory Group LLC, Exxon Mobil Corporation $XOM 주식 30,478주 추가 매입 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-northstar-advisory-group-llc-acquires-30478-shares-of-exxon-mobil-corporation-xom-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 09:32:08",
+      "title": "Private Advisory Group LLC, 엑슨 모빌 코퍼레이션 $XOM 지분 1,655만 달러 보유 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-private-advisory-group-llc-has-1655-million-position-in-exxon-mobil-corporation-xom-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 08:09:26",
+      "title": "Chatham Capital Group Inc., Exxon Mobil Corporation $XOM 주식 보유 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-chatham-capital-group-inc-boosts-stock-holdings-in-exxon-mobil-corporation-xom-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 00:13:39",
+      "title": "XOM.SW 엑슨 모빌(SIX) +35.04%로 개장 전 CHF101.01, 2026년 4월 1일: 거래량 급증 - Meyka",
+      "url": "https://meyka.com/blog/xomsw-exxon-mobil-six-3504-to-chf10101-pre-market-01-apr-2026-vol-spike-0104/",
+      "sentiment": "Positive"
+    },
+    {
       "date": "2026-03-31 20:53:01",
-      "title": "Exxon Mobil, 2076년 만기 변동금리채 1억 6,931만 2천 달러 가격 결정 - tradingview.com",
+      "title": "Exxon Mobil, 2076년 만기 변동금리채 1억 6,931만 2,000달러 가격 결정 - tradingview.com",
       "url": "https://www.tradingview.com/news/tradingview:2363c23526da3:0-exxon-mobil-prices-169-312m-floating-rate-notes-due-2076/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 20:24:07",
-      "title": "엑슨모빌 주가가 화요일 오후 하락하는 이유 - Benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51584438/why-exxon-mobil-stock-is-falling-tuesday-afternoon",
-      "sentiment": "Negative"
+      "date": "2026-03-31 20:14:57",
+      "title": "Exxon Mobil 주가 전망: XOM, 1분기 추가 이익 45억 달러, 4월 2일 실적 발표 전 매수 - TradingNEWS",
+      "url": "https://www.tradingnews.com/news/exxon-stock-price-forecast-iran-war-delivers-45b-us-q1-earnings-windfall",
+      "sentiment": "Positive"
     },
     {
-      "date": "2026-03-31 20:14:57",
-      "title": "Exxon Mobil 주가 전망: XOM 45억 달러의 1분기 추가 이익, 4월 2일 실적 발표 전에 매수 - TradingNEWS",
-      "url": "https://www.tradingnews.com/news/exxon-stock-price-forecast-iran-war-delivers-45b-us-q1-earnings-windfall",
-      "sentiment": "Growth"
+      "date": "2026-03-31 19:30:48",
+      "title": "엑손 모빌, 코카콜라, 우버에 대한 주요 애널리스트 보고서 - Zacks Investment Research",
+      "url": "https://www.zacks.com/research-daily/2892293/top-analyst-reports-for-exxon-mobil-coca-cola-uber",
+      "sentiment": "Neutral"
     },
     {
       "date": "2026-03-31 17:45:00",
-      "title": "ExxonMobil-카타르에너지 합작사, 텍사스 시설에서 LNG 생산 시작 - tradingview.com",
+      "title": "ExxonMobil-카타르에너지 JV, 텍사스 시설에서 LNG 생산 시작 - tradingview.com",
       "url": "https://www.tradingview.com/news/zacks:bb5418a96094b:0-exxonmobil-qatarenergy-jv-starts-lng-output-at-texas-facility/",
       "sentiment": "Positive"
     },
@@ -64,61 +203,73 @@
       "date": "2026-03-31 12:19:55",
       "title": "Exxon Mobil, Golden Pass LNG 생산 시작으로 현금흐름 스토리 확대 - simplywall.st",
       "url": "https://simplywall.st/stocks/us/energy/nyse-xom/exxon-mobil/news/exxon-mobil-starts-golden-pass-lng-production-and-expands-ca",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-31 11:09:01",
-      "title": "엑손 모빌 주식, 상승세 지속: 지금 들어갈 때인가, 아니면 차익 실현할 때인가? - Trefis",
-      "url": "https://www.trefis.com/stock/xom/articles2/595297/exxon-mobil-stock-on-a-winning-streak-time-to-get-in-or-book-profits/2026-03-31",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-31 09:48:18",
-      "title": "$97에서 $176까지, XOM 주가의 놀라운 상승과 그로 인해 남겨진 질문들 - CryptoNexa",
-      "url": "https://www.cryptonexa.com/from-97-to-176-the-surprising-climb-of-xom-stock-and-the-questions-it-leaves-open/",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-03-31 05:05:34",
-      "title": "주목해야 할 석유주 – 3월 29일 - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/31/oil-stocks-to-keep-an-eye-on-march-29th.html",
+      "date": "2026-03-31 11:09:01",
+      "title": "Exxon Mobil 주가 상승세: 지금 진입할 때인가, 아니면 차익 실현할 때인가? - trefis.com",
+      "url": "https://www.trefis.com/stock/xom/articles2/595297/exxon-mobil-stock-on-a-winning-streak-time-to-get-in-or-book-profits/2026-03-31",
       "sentiment": "Risk"
     },
     {
-      "date": "2026-03-30 22:07:26",
-      "title": "엑슨모빌: 강력한 가격 및 물량 순풍에 힘입어 상승 (NYSE:XOM) - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4887226-exxon-mobil-boosted-by-powerful-pricing-and-volume-tailwinds",
-      "sentiment": "Growth"
+      "date": "2026-03-31 09:48:18",
+      "title": "97달러에서 176달러로, XOM 주가의 놀라운 상승과 그로 인해 남는 질문들 - CryptoNexa",
+      "url": "https://www.cryptonexa.com/from-97-to-176-the-surprising-climb-of-xom-stock-and-the-questions-it-leaves-open/",
+      "sentiment": "Mixed"
     },
     {
-      "date": "2026-03-30 20:36:14",
-      "title": "엑슨모빌(XOM) 주가, 모건스탠리가 목표주가를 172달러로 상향하며 3% 상승 - MEXC",
-      "url": "https://www.mexc.com/news/991402",
+      "date": "2026-03-31 08:08:44",
+      "title": "Eastern Bank, Exxon Mobil Corporation $XOM 주식 7,594주 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-eastern-bank-sells-7594-shares-of-exxon-mobil-corporation-xom-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 08:08:40",
+      "title": "Chesley Taft & Associates LLC, Exxon Mobil Corporation $XOM 지분 1,632만 달러 보유 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-chesley-taft-associates-llc-has-1632-million-stake-in-exxon-mobil-corporation-xom-2026-03-31/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 05:45:37",
+      "title": "Exxon Mobil(NYSE:XOM), 애널리스트 상향에 힘입어 52주 신고가 경신 - defenseworld.net",
+      "url": "https://www.defenseworld.net/2026/03/31/exxon-mobil-nysexom-reaches-new-52-week-high-on-analyst-upgrade.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-30 21:47:13",
+      "title": "오늘의 주식시장, 3월 30일: 높은 유가가 위험회피 심리를 자극, 나스닥 0.7% 하락 - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM-N/pressreleases/1050358/stock-market-today-march-30-high-oil-prices-drive-risk-off-sentiment-nasdaq-falls-0-7/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-03-30 20:49:35",
+      "title": "Exxon Mobil(XOM) 주가 3% 상승, Morgan Stanley가 목표주가를 172달러로 상향 - mexc.co",
+      "url": "https://www.mexc.co/en-PH/news/991402",
       "sentiment": "Positive"
     },
     {
       "date": "2026-03-30 20:32:25",
-      "title": "유가 급등과 모건스탠리의 투자의견 상향 속 엑슨모빌(XOM) 주가 3% 이상 급등 - MEXC",
+      "title": "유가 급등과 Morgan Stanley의 투자의견 상향 속 Exxon Mobil(XOM) 주가 3% 이상 급등 - MEXC",
       "url": "https://www.mexc.com/news/991388",
       "sentiment": "Positive"
     },
     {
       "date": "2026-03-30 19:03:19",
-      "title": "공급 차질로 현금 활용 우선순위가 재편되며 엑슨모빌, 에너지 충격의 수혜 - Yahoo Finance Australia",
+      "title": "공급 차질이 현금 우선순위를 재편하는 가운데 에너지 충격의 수혜를 입는 ExxonMobil - Yahoo Finance Australia",
       "url": "https://au.finance.yahoo.com/news/exxonmobil-benefits-energy-shock-supply-190319232.html",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-30 17:33:00",
-      "title": "엑슨모빌 주식(XOM), 중동 지정학적 긴장에 대한 견해 - Quiver Quantitative",
-      "url": "https://www.quiverquant.com/news/Exxon+Mobil+Stock+%28XOM%29+Opinions+on+Middle+East+Geopolitical+Tensions",
       "sentiment": "Growth"
     },
     {
+      "date": "2026-03-30 17:33:00",
+      "title": "중동 지정학적 긴장에 대한 Exxon Mobil 주식(XOM) 관련 의견 - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Exxon+Mobil+Stock+%28XOM%29+Opinions+on+Middle+East+Geopolitical+Tensions",
+      "sentiment": "Mixed"
+    },
+    {
       "date": "2026-03-30 15:51:27",
-      "title": "Exxon과 QaterEnergy의 합작사 Golden Pass, 텍사스 신규 시설에서 첫 LNG 생산 - tradingview.com",
+      "title": "Exxon과 QaterEnergy의 합작법인 Golden Pass, 텍사스 신규 시설에서 첫 LNG 생산 - tradingview.com",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N40I0M3:0-exxon-and-qatarenergy-s-joint-venture-golden-pass-produces-first-lng-at-new-texas-facility/",
-      "sentiment": "Neutral"
+      "sentiment": "Positive"
     },
     {
       "date": "2026-03-30 15:06:58",
@@ -128,183 +279,93 @@
     },
     {
       "date": "2026-03-30 14:16:49",
-      "title": "Exxon Mobil(NYSE:XOM), 애널리스트 상향 조정 이후 새로운 12개월 최고가 경신 - marketbeat.com",
+      "title": "Exxon Mobil(NYSE:XOM), 애널리스트 상향 조정 후 새로운 12개월 최고가 기록 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-reaches-new-12-month-high-following-analyst-upgrade-2026-03-30/",
       "sentiment": "Positive"
     },
     {
       "date": "2026-03-30 13:50:00",
-      "title": "에너지 안전자산: 2026년 Exxon Mobil(XOM)에 대한 심층 분석 - financialcontent.com",
+      "title": "에너지 안전자산: 2026년 엑슨 모빌(XOM) 심층 분석 - FinancialContent",
       "url": "https://www.financialcontent.com/article/finterra-2026-3-30-the-energy-safe-haven-a-deep-dive-into-exxon-mobil-xom-in-2026",
       "sentiment": "Positive"
     },
     {
       "date": "2026-03-30 13:48:05",
-      "title": "Exxon Mobil Corp 주식(XOM), 3월 30일 4.56% 상승 출발: 어떤 신호를 보내는가? - TradingKey",
+      "title": "엑슨 모빌 주식(XOM), 3월 30일 4.56% 상승 개장: 어떤 신호를 보내는가? - TradingKey",
       "url": "https://www.tradingkey.com/news/Market-Movers/261733894-market-movers-xom-20260330",
-      "sentiment": "Positive"
+      "sentiment": "Risk"
     },
     {
       "date": "2026-03-30 12:30:00",
-      "title": "이란 위기가 유가를 100달러 방향으로 밀어올리는 가운데 즉시 매수할 만한 석유 거물 2곳 - The Motley Fool",
+      "title": "이란 위기가 유가를 100달러로 밀어올리자 즉시 사야 할 석유 대형주 2곳 - The Motley Fool",
       "url": "https://www.fool.com/investing/2026/03/30/2-oil-giants-to-buy-immediately-as-the-iran-crisis/",
-      "sentiment": "Growth"
+      "sentiment": "Positive"
     },
     {
       "date": "2026-03-30 10:29:21",
-      "title": "Wealthcare Advisory Partners LLC, Exxon Mobil Corporation $XOM 지분 확대 - Defense World",
+      "title": "Exxon Mobil Corporation $XOM 포지션, Wealthcare Advisory Partners LLC가 확대 - defenseworld.net",
       "url": "https://www.defenseworld.net/2026/03/30/exxon-mobil-corporation-xom-position-raised-by-wealthcare-advisory-partners-llc.html",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-30 10:29:21",
-      "title": "Mechanics Bank Trust Department, Exxon Mobil Corporation $XOM 보유 확대 - Defense World",
+      "title": "Exxon Mobil Corporation $XOM 포지션, Mechanics Bank Trust Department에 의해 확대 - defenseworld.net",
       "url": "https://www.defenseworld.net/2026/03/30/exxon-mobil-corporation-xom-position-boosted-by-mechanics-bank-trust-department.html",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-30 10:15:57",
-      "title": "Exxon Mobil(XOM), 유가 위기 속 3% 급등… Morgan Stanley, 목표주가 172달러로 상향 - MoneyCheck",
+      "title": "Exxon Mobil(XOM), 유가 위기 속 3% 급등… Morgan Stanley 목표주가 172달러로 상향 - MoneyCheck",
       "url": "https://moneycheck.com/exxon-mobil-xom-surges-3-amid-oil-crisis-as-morgan-stanley-ups-target-to-172/",
       "sentiment": "Positive"
     },
     {
       "date": "2026-03-30 10:13:59",
-      "title": "엑슨 모빌(XOM) 주가, 유가 급등과 모건스탠리의 목표주가 172달러 상향에 힘입어 3% 이상 급등 - parameter.io",
+      "title": "Exxon Mobil(XOM) 주가, 유가 급등과 Morgan Stanley의 172달러 상향에 3% 이상 급등 - parameter.io",
       "url": "https://parameter.io/exxon-mobil-xom-stock-jumps-over-3-amid-oil-surge-and-morgan-stanley-upgrade-to-172/",
       "sentiment": "Positive"
     },
     {
       "date": "2026-03-30 10:10:56",
-      "title": "엑슨 모빌(XOM) 주가, 유가 급등과 모건스탠리의 상향 조정 속 3% 이상 급등 - Blockonomi",
+      "title": "Exxon Mobil(XOM) 주가, 유가 급등과 Morgan Stanley 상향에 3% 이상 급등 - blockonomi.com",
       "url": "https://blockonomi.com/exxon-mobil-xom-stock-surges-over-3-amid-oil-price-spike-and-morgan-stanley-upgrade/",
       "sentiment": "Positive"
     },
     {
+      "date": "2026-03-30 10:04:04",
+      "title": "Exxon Mobil(XOM) 주가, Morgan Stanley가 목표주가를 172달러로 상향하며 3% 상승 - CoinCentral",
+      "url": "https://coincentral.com/exxon-mobil-xom-stock-gains-3-as-morgan-stanley-raises-target-to-172/",
+      "sentiment": "Positive"
+    },
+    {
       "date": "2026-03-30 09:49:21",
-      "title": "InvesTrust, 엑슨 모빌 코퍼레이션(XOM) 주식 5,226주 매도 - Defense World",
+      "title": "InvesTrust, 엑손 모빌 주식 5,226주 매도 - defenseworld.net",
       "url": "https://www.defenseworld.net/2026/03/30/investrust-sells-5226-shares-of-exxon-mobil-corporation-xom.html",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-30 09:16:00",
-      "title": "SK텔레콤과 DraftKings, Zacks의 당일 강세주와 약세주로 선정 - The Globe and Mail",
+      "title": "SK텔레콤과 DraftKings, Zacks의 Bull of the Day와 Bear of the Day로 선정 - theglobeandmail.com",
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM/pressreleases/1036050/sk-telecom-and-draftkings-have-been-highlighted-as-zacks-bull-and-bear-of-the-day/",
       "sentiment": "Growth"
     },
     {
-      "date": "2026-03-30 09:04:47",
-      "title": "S&P 500 조정을 막고 있는 5개 종목(힌트: ‘매그니피센트 세븐’에는 없음) - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM-N/pressreleases/1035898/5-stocks-preventing-a-sp-500-correction-hint-none-are-in-the-magnificent-seven/",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-30 08:08:34",
-      "title": "Exchange Traded Concepts LLC, Exxon Mobil Corporation $XOM 지분 확대 - marketbeat.com",
+      "title": "Exchange Traded Concepts LLC, 엑손 모빌 코퍼레이션 $XOM 지분 확대 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-grows-stake-in-exxon-mobil-corporation-xom-2026-03-30/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-30 01:41:02",
-      "title": "왜 ExxonMobil, Transocean, SLB 등 석유주가 이번 주 급등했나 - The Globe and Mail",
+      "title": "왜 ExxonMobil, Transocean, SLB 및 기타 석유주가 이번 주 급등했는가 - theglobeandmail.com",
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM-N/pressreleases/1032811/why-exxonmobil-transocean-slb-and-other-oil-stocks-surged-this-week/",
       "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-29 13:35:53",
-      "title": "2026년을 위한 배당주 상위 5종목: JNJ, PG, XOM, KO, WMT 심층 분석 - MEXC",
-      "url": "https://www.mexc.com/news/989854",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 12:45:00",
-      "title": "이란 긴장이 글로벌 에너지 지도를 다시 그리면서 매수해야 할 최고의 석유주 - The Motley Fool",
-      "url": "https://www.fool.com/investing/2026/03/29/best-oil-stock-buy-iran-tensions-global-energy/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-29 12:13:47",
-      "title": "이란 긴장이 글로벌 에너지 지도를 다시 그리면서 매수해야 할 최고의 석유주 - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XOM-N/pressreleases/1029533/the-best-oil-stock-to-buy-as-iran-tensions-rewrite-the-global-energy-map/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-29 12:08:02",
-      "title": "50%의 1년 급등 이후 엑손 모빌(XOM)을 고려하기엔 너무 늦었나 - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/energy/nyse-xom/exxon-mobil/news/is-it-too-late-to-consider-exxon-mobil-xom-after-a-50-one-ye/amp",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-29 11:19:27",
-      "title": "2026년 배당 귀족주 상위 5종목: JNJ, PG, XOM가 소득 포트폴리오를 선도 - parameter.io",
-      "url": "https://parameter.io/top-5-dividend-aristocrats-for-2026-jnj-pg-xom-lead-income-portfolios/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-29 11:16:51",
-      "title": "2026년 배당주 상위 5종목: JNJ, PG, XOM, KO, WMT 심층 분석 - Blockonomi",
-      "url": "https://blockonomi.com/top-5-dividend-stocks-for-2026-a-deep-dive-into-jnj-pg-xom-ko-and-wmt/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 11:16:45",
-      "title": "2026년 배당주 상위 5종목: JNJ, PG, XOM, KO & WMT 비교 - MoneyCheck",
-      "url": "https://moneycheck.com/top-5-dividend-stocks-for-2026-jnj-pg-xom-ko-wmt-compared/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 10:03:31",
-      "title": "BWM Planning LLC, 엑손 모빌 보통주 12,090주 매수 - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/29/bwm-planning-llc-acquires-12090-shares-of-exxon-mobil-corporation-xom.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 10:03:31",
-      "title": "Capital Investment Advisors LLC, Exxon Mobil Corporation $XOM 보유 비중 확대 - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/29/capital-investment-advisors-llc-increases-position-in-exxon-mobil-corporation-xom.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 09:50:46",
-      "title": "Synergy Asset Management LLC, Exxon Mobil Corporation $XOM 주식 보유 축소 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-synergy-asset-management-llc-cuts-stock-holdings-in-exxon-mobil-corporation-xom-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 09:40:54",
-      "title": "Parsons Capital Management Inc. RI, Exxon Mobil Corporation $XOM 주식 보유액 3,138만 달러 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-parsons-capital-management-inc-ri-has-3138-million-stock-holdings-in-exxon-mobil-corporation-xom-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 09:40:45",
-      "title": "Fort Washington Investment Advisors Inc. OH, Exxon Mobil Corporation $XOM 지분 2억 5,183만 달러 보유 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-fort-washington-investment-advisors-inc-oh-has-25183-million-stake-in-exxon-mobil-corporation-xom-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 08:58:30",
-      "title": "Dakota Wealth Management, Exxon Mobil Corporation $XOM 주식 74,300주 매수 - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/29/dakota-wealth-management-purchases-74300-shares-of-exxon-mobil-corporation-xom.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 08:29:55",
-      "title": "Exxon Mobil Corporation Trade Ideas — BSESOF:XONA - tradingview.com",
-      "url": "https://www.tradingview.com/symbols/BSESOF-XONA/ideas/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 06:23:13",
-      "title": "Exxon Mobil Sees Unusually High Options Volume (NYSE:XOM) - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/29/exxon-mobil-sees-unusually-high-options-volume-nysexom.html",
-      "sentiment": "Neutral"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-29 ──\n  [Neutral] 2026년을 위한 배당주 상위 5종목: JNJ, PG, XOM, KO, WMT 심층 분석 - MEXC\n  [Growth] 이란 긴장이 글로벌 에너지 지도를 다시 그리면서 매수해야 할 최고의 석유주 - The Motley Fool\n  [Positive] 이란 긴장이 글로벌 에너지 지도를 다시 그리면서 매수해야 할 최고의 석유주 - The Globe and Mail\n  [Positive] 50%의 1년 급등 이후 엑손 모빌(XOM)을 고려하기엔 너무 늦었나 - simplywall.st\n  [Positive] 2026년 배당 귀족주 상위 5종목: JNJ, PG, XOM가 소득 포트폴리오를 선도 - parameter.io\n  [Neutral] 2026년 배당주 상위 5종목: JNJ, PG, XOM, KO, WMT 심층 분석 - Blockonomi\n  [Neutral] 2026년 배당주 상위 5종목: JNJ, PG, XOM, KO & WMT 비교 - MoneyCheck\n  [Neutral] BWM Planning LLC, 엑손 모빌 보통주 12,090주 매수 - Defense World\n  [Neutral] Capital Investment Advisors LLC, Exxon Mobil Corporation $XOM 보유 비중 확대 - Defense World\n  [Neutral] Synergy Asset Management LLC, Exxon Mobil Corporation $XOM 주식 보유 축소 - marketbeat.com\n  [Neutral] Parsons Capital Management Inc. RI, Exxon Mobil Corporation $XOM 주식 보유액 3,138만 달러 - marketbeat.com\n  [Neutral] Fort Washington Investment Advisors Inc. OH, Exxon Mobil Corporation $XOM 지분 2억 5,183만 달러 보유 - marketbeat.com\n  [Neutral] Dakota Wealth Management, Exxon Mobil Corporation $XOM 주식 74,300주 매수 - Defense World\n  [Neutral] Exxon Mobil Corporation Trade Ideas — BSESOF:XONA - tradingview.com\n  [Neutral] Exxon Mobil Sees Unusually High Options Volume (NYSE:XOM) - Defense World\n\n── 2026-03-30 ──\n  [Growth] 엑슨모빌: 강력한 가격 및 물량 순풍에 힘입어 상승 (NYSE:XOM) - Seeking Alpha\n  [Positive] 엑슨모빌(XOM) 주가, 모건스탠리가 목표주가를 172달러로 상향하며 3% 상승 - MEXC\n  [Positive] 유가 급등과 모건스탠리의 투자의견 상향 속 엑슨모빌(XOM) 주가 3% 이상 급등 - MEXC\n  [Positive] 공급 차질로 현금 활용 우선순위가 재편되며 엑슨모빌, 에너지 충격의 수혜 - Yahoo Finance Australia\n  [Growth] 엑슨모빌 주식(XOM), 중동 지정학적 긴장에 대한 견해 - Quiver Quantitative\n  [Neutral] Exxon과 QaterEnergy의 합작사 Golden Pass, 텍사스 신규 시설에서 첫 LNG 생산 - tradingview.com\n  [Growth] Exxon Mobil(XOM)이 강한 모멘텀 주식인 이유 - sharewise.com\n  [Positive] Exxon Mobil(NYSE:XOM), 애널리스트 상향 조정 이후 새로운 12개월 최고가 경신 - marketbeat.com\n  [Positive] 에너지 안전자산: 2026년 Exxon Mobil(XOM)에 대한 심층 분석 - financialcontent.com\n  [Positive] Exxon Mobil Corp 주식(XOM), 3월 30일 4.56% 상승 출발: 어떤 신호를 보내는가? - TradingKey\n  [Growth] 이란 위기가 유가를 100달러 방향으로 밀어올리는 가운데 즉시 매수할 만한 석유 거물 2곳 - The Motley Fool\n  [Neutral] Wealthcare Advisory Partners LLC, Exxon Mobil Corporation $XOM 지분 확대 - Defense World\n  [Neutral] Mechanics Bank Trust Department, Exxon Mobil Corporation $XOM 보유 확대 - Defense World\n  [Positive] Exxon Mobil(XOM), 유가 위기 속 3% 급등… Morgan Stanley, 목표주가 172달러로 상향 - MoneyCheck\n  [Positive] 엑슨 모빌(XOM) 주가, 유가 급등과 모건스탠리의 목표주가 172달러 상향에 힘입어 3% 이상 급등 - parameter.io\n  [Positive] 엑슨 모빌(XOM) 주가, 유가 급등과 모건스탠리의 상향 조정 속 3% 이상 급등 - Blockonomi\n  [Neutral] InvesTrust, 엑슨 모빌 코퍼레이션(XOM) 주식 5,226주 매도 - Defense World\n  [Growth] SK텔레콤과 DraftKings, Zacks의 당일 강세주와 약세주로 선정 - The Globe and Mail\n  [Neutral] S&P 500 조정을 막고 있는 5개 종목(힌트: ‘매그니피센트 세븐’에는 없음) - The Globe and Mail\n  [Neutral] Exchange Traded Concepts LLC, Exxon Mobil Corporation $XOM 지분 확대 - marketbeat.com\n  [Risk] 왜 ExxonMobil, Transocean, SLB 등 석유주가 이번 주 급등했나 - The Globe and Mail\n\n── 2026-03-31 ──\n  [Neutral] Exxon Mobil, 2076년 만기 변동금리채 1억 6,931만 2천 달러 가격 결정 - tradingview.com\n  [Negative] 엑슨모빌 주가가 화요일 오후 하락하는 이유 - Benzinga\n  [Growth] Exxon Mobil 주가 전망: XOM 45억 달러의 1분기 추가 이익, 4월 2일 실적 발표 전에 매수 - TradingNEWS\n  [Positive] ExxonMobil-카타르에너지 합작사, 텍사스 시설에서 LNG 생산 시작 - tradingview.com\n  [Growth] Exxon Mobil, Golden Pass LNG 생산 시작으로 현금흐름 스토리 확대 - simplywall.st\n  [Mixed] 엑손 모빌 주식, 상승세 지속: 지금 들어갈 때인가, 아니면 차익 실현할 때인가? - Trefis\n  [Positive] $97에서 $176까지, XOM 주가의 놀라운 상승과 그로 인해 남겨진 질문들 - CryptoNexa\n  [Risk] 주목해야 할 석유주 – 3월 29일 - Defense World",
-    "sentiment_block": "총 뉴스 44건 분석 결과:\n  Positive    14건 ( 31.8%) ██████\n  Growth       8건 ( 18.2%) ███\n  Neutral     18건 ( 40.9%) ████████\n  Mixed        1건 (  2.3%) \n  Risk         2건 (  4.5%) \n  Negative     1건 (  2.3%) \n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:11, Positive:3, Growth:1\n  2026-03-30: Positive:9, Neutral:6, Growth:5, Risk:1\n  2026-03-31: Growth:2, Positive:2, Neutral:1, Negative:1, Mixed:1, Risk:1",
+    "news_block": "\n── 2026-03-30 ──\n  [Risk] 오늘의 주식시장, 3월 30일: 높은 유가가 위험회피 심리를 자극, 나스닥 0.7% 하락 - theglobeandmail.com\n  [Positive] Exxon Mobil(XOM) 주가 3% 상승, Morgan Stanley가 목표주가를 172달러로 상향 - mexc.co\n  [Positive] 유가 급등과 Morgan Stanley의 투자의견 상향 속 Exxon Mobil(XOM) 주가 3% 이상 급등 - MEXC\n  [Growth] 공급 차질이 현금 우선순위를 재편하는 가운데 에너지 충격의 수혜를 입는 ExxonMobil - Yahoo Finance Australia\n  [Mixed] 중동 지정학적 긴장에 대한 Exxon Mobil 주식(XOM) 관련 의견 - Quiver Quantitative\n  [Positive] Exxon과 QaterEnergy의 합작법인 Golden Pass, 텍사스 신규 시설에서 첫 LNG 생산 - tradingview.com\n  [Growth] Exxon Mobil(XOM)이 강한 모멘텀 주식인 이유 - sharewise.com\n  [Positive] Exxon Mobil(NYSE:XOM), 애널리스트 상향 조정 후 새로운 12개월 최고가 기록 - MarketBeat\n  [Positive] 에너지 안전자산: 2026년 엑슨 모빌(XOM) 심층 분석 - FinancialContent\n  [Risk] 엑슨 모빌 주식(XOM), 3월 30일 4.56% 상승 개장: 어떤 신호를 보내는가? - TradingKey\n  [Positive] 이란 위기가 유가를 100달러로 밀어올리자 즉시 사야 할 석유 대형주 2곳 - The Motley Fool\n  [Neutral] Exxon Mobil Corporation $XOM 포지션, Wealthcare Advisory Partners LLC가 확대 - defenseworld.net\n  [Neutral] Exxon Mobil Corporation $XOM 포지션, Mechanics Bank Trust Department에 의해 확대 - defenseworld.net\n  [Positive] Exxon Mobil(XOM), 유가 위기 속 3% 급등… Morgan Stanley 목표주가 172달러로 상향 - MoneyCheck\n  [Positive] Exxon Mobil(XOM) 주가, 유가 급등과 Morgan Stanley의 172달러 상향에 3% 이상 급등 - parameter.io\n  [Positive] Exxon Mobil(XOM) 주가, 유가 급등과 Morgan Stanley 상향에 3% 이상 급등 - blockonomi.com\n  [Positive] Exxon Mobil(XOM) 주가, Morgan Stanley가 목표주가를 172달러로 상향하며 3% 상승 - CoinCentral\n  [Neutral] InvesTrust, 엑손 모빌 주식 5,226주 매도 - defenseworld.net\n  [Growth] SK텔레콤과 DraftKings, Zacks의 Bull of the Day와 Bear of the Day로 선정 - theglobeandmail.com\n  [Neutral] Exchange Traded Concepts LLC, 엑손 모빌 코퍼레이션 $XOM 지분 확대 - MarketBeat\n  [Risk] 왜 ExxonMobil, Transocean, SLB 및 기타 석유주가 이번 주 급등했는가 - theglobeandmail.com\n\n── 2026-03-31 ──\n  [Neutral] Exxon Mobil, 2076년 만기 변동금리채 1억 6,931만 2,000달러 가격 결정 - tradingview.com\n  [Positive] Exxon Mobil 주가 전망: XOM, 1분기 추가 이익 45억 달러, 4월 2일 실적 발표 전 매수 - TradingNEWS\n  [Neutral] 엑손 모빌, 코카콜라, 우버에 대한 주요 애널리스트 보고서 - Zacks Investment Research\n  [Positive] ExxonMobil-카타르에너지 JV, 텍사스 시설에서 LNG 생산 시작 - tradingview.com\n  [Positive] Exxon Mobil, Golden Pass LNG 생산 시작으로 현금흐름 스토리 확대 - simplywall.st\n  [Risk] Exxon Mobil 주가 상승세: 지금 진입할 때인가, 아니면 차익 실현할 때인가? - trefis.com\n  [Mixed] 97달러에서 176달러로, XOM 주가의 놀라운 상승과 그로 인해 남는 질문들 - CryptoNexa\n  [Neutral] Eastern Bank, Exxon Mobil Corporation $XOM 주식 7,594주 매도 - MarketBeat\n  [Neutral] Chesley Taft & Associates LLC, Exxon Mobil Corporation $XOM 지분 1,632만 달러 보유 - MarketBeat\n  [Positive] Exxon Mobil(NYSE:XOM), 애널리스트 상향에 힘입어 52주 신고가 경신 - defenseworld.net\n\n── 2026-04-01 ──\n  [Risk] 에너지 위기의 어머니 격인 사태는 이제 막 시작됐을 뿐, IEA 경고 — 4월은 '훨씬 더 악화'할 것 - Benzinga\n  [Negative] Exxon Mobil(NYSE:XOM) 5.2% 하락 - 이유는 이렇다 - MarketBeat\n  [Neutral] Exxon Mobil 옵션 거래가 적중: 4월 1일 15.8만 계약 거래, 미결제약정 132만 계약 - Moomoo\n  [Positive] 지난 한 달 동안 상승한 섹터는 단 하나 - theglobeandmail.com\n  [Negative] Exxon Mobil과 Chevron 5% 하락: 이란 대통령이 미국 석유주에 방금 한 일 - 24/7 Wall St.\n  [Risk] 엑손 모빌의 조류 프로젝트 차질, 사업 신뢰성과 향후 투자 계획 재검토로 이어져 - simplywall.st\n  [Negative] 에너지주 급락 속 엑손이 하락세 주도, 1년 만의 최대 낙폭 페이스 (XOM:NYSE) - Seeking Alpha\n  [Growth] XOM의 우수한 업스트림 자산이 어떻게 성장 엔진으로 작용하는가 - theglobeandmail.com\n  [Positive] 엑손(XOM)은 실적 서프라이즈 연승을 이어갈 수 있을까? - Yahoo Finance\n  [Risk] 유가 하락에 엑손모빌 주가 하락, 그러나 랠리는 아직 끝나지 않았을 수도 - tradingview.com\n  [Neutral] 2026년 4월 1일 기업 뉴스 - theglobeandmail.com\n  [Risk] 이란 휴전 기대감 재부상에 원유 가격이 후퇴하며 Exxon Mobil 하락 - Quiver Quantitative\n  [Growth] 지연에도 불구하고 ExxonMobil은 이 LNG 프로젝트를 완벽한 시점에 완성했다. 최고 에너지주 매수 시점일까? - theglobeandmail.com\n  [Negative] Exxon Mobil Corp 주식(XOM), 4월 1일 3.53% 하락: 어떤 신호를 보내나? - TradingKey\n  [Growth] 새로운 에너지 강자: ExxonMobil(XOM)의 2026년 지배력 심층 분석 - FinancialContent\n  [Positive] TD Cowen, Exxon Mobil(XOM.US) 매수 의견 유지, 목표주가 175달러로 상향 - Moomoo\n  [Neutral] $Exxon Mobil (XOM.US)$ - Moomoo\n  [Positive] Zacks 애널리스트 블로그: Exxon, Coca-Cola, Uber - theglobeandmail.com\n  [Neutral] 엑슨 모빌 코퍼레이션 $XOM 지분을 매도한 Alabama Retirement Systems - MarketBeat\n  [Neutral] Northstar Advisory Group LLC, Exxon Mobil Corporation $XOM 주식 30,478주 추가 매입 - MarketBeat\n  [Neutral] Private Advisory Group LLC, 엑슨 모빌 코퍼레이션 $XOM 지분 1,655만 달러 보유 - MarketBeat\n  [Neutral] Chatham Capital Group Inc., Exxon Mobil Corporation $XOM 주식 보유 확대 - MarketBeat\n  [Positive] XOM.SW 엑슨 모빌(SIX) +35.04%로 개장 전 CHF101.01, 2026년 4월 1일: 거래량 급증 - Meyka",
+    "sentiment_block": "총 뉴스 54건 분석 결과:\n  Positive    19건 ( 35.2%) ███████\n  Growth       6건 ( 11.1%) ██\n  Neutral     15건 ( 27.8%) █████\n  Mixed        2건 (  3.7%) \n  Risk         8건 ( 14.8%) ██\n  Negative     4건 (  7.4%) █\n\n날짜별 감정 흐름:\n  2026-03-30: Positive:10, Neutral:4, Risk:3, Growth:3, Mixed:1\n  2026-03-31: Neutral:4, Positive:4, Risk:1, Mixed:1\n  2026-04-01: Neutral:7, Positive:5, Risk:4, Negative:4, Growth:3",
     "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 1  Buy: 22  Hold: 26  Sell: 4  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $183  Low: $123  Consensus: $146.77  Median: $145\n▶ 실적 추정치 (2030-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $118.81339067832242  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B+  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "[핵심 요약]\n* 최근 3일(3/29~3/31) 동안 엑손모빌(XOM)은 **유가 상승/중동 지정학적 긴장 기대**와 **애널리스트(모건스탠리) 목표주가 상향**이 겹치며 주가 모멘텀이 강화됨.\n* 동시에 **LNG 사업(카타르에너지 합작, Golden Pass) 텍사스 시설 생산 시작** 뉴스가 “현금흐름 스토리 확대”로 연결되며 중장기 내러티브를 보강.\n* 다만 3/31에 **단기 하락(“하락 이유”/Benzinga) 및 석유주 급등의 배경 리스크**가 일부 제기되어, 상승 후 구간에서는 변동성/차익실현 가능성도 관측됨.\n\n[전체 흐름 분석]\n* 감정 흐름은 3/29(Neutral 우세) → 3/30(Positive/Growth 확대) → 3/31(Positive·Growth는 유지되나 Negative/Risk·Mixed가 소폭 유입)로 전개.\n* 인과관계로 보면,\n  1) **중동 지정학적 긴장 → 유가 급등 기대**  \n  2) 그 기대가 **단기 실적/현금흐름에 대한 기대**와 결합  \n  3) 여기에 **모건스탠리 목표주가 상향(172달러)** 및 “상승 모멘텀” 관련 보도가 추가  \n  4) 그리고 **LNG 생산 개시**가 중장기 성장/현금흐름 내러티브를 뒷받침  \n  → 결과적으로 3/30에 특히 강한 긍정 전개.\n* 3/31에는 이런 “기대의 선반영” 이후, 일부 매도/하락 신호(뉴스 형태)가 섞이면서 단기 추격매수의 부담이 생기는 모습.\n\n[긍정 요인]\n* **유가 방향성(지정학 긴장) 수혜**: “유가 급등/에너지 충격 수혜”가 반복적으로 등장.\n* **애널리스트 상향**: 모건스탠리 목표주가 172달러 상향 관련 보도 다수(3% 이상 급등과 연결).\n* **LNG 생산 시작(텍사스 시설)**: Golden Pass에서 생산 시작 → “현금흐름 스토리 확대”로 해석(중장기 펀더멘털 강화 요인).\n* **수급 측면의 혼재 속도 조절**: 일부 기관은 확대/매수, 일부는 축소/매도(서로 상쇄 가능). 다만 전체적으로 관련 공시/뉴스가 많아 관심도가 높음.\n\n[부정 요인]\n* **단기 변동성 신호**: 3/31에 “주가 하락 이유” 및 “석유주가 급등한 이유(리스크)” 류의 기사 존재 → 과열/차익실현 또는 기대 선반영 우려.\n* **상승 후 ‘지금 들어갈 때/차익 실현’ 같은 혼재**: Trefis의 Mixed 성격의 해석처럼 단기 타이밍 논란.\n* **밸류에이션 수치 한계**: 제공된 애널리스트/DCF 자료상 현재가(P/A로 보이는 $N/A) 등 정량 비교가 제한적이라, 순수 밸류 매력(싼지/비싼지) 판단의 근거가 약함.\n\n[투자 인사이트]\n* 이번 3일 흐름은 “**유가(매크로/지정학) + 애널리스트 레벨 상향(시그널) + LNG(내러티브/현금흐름)**”의 3요인이 동시에 맞물린 국면으로 해석됩니다.\n* 따라서 투자 접근은 다음이 합리적입니다.\n  * **중장기 관점(분할매수/보유)**: LNG 생산 개시 뉴스가 단순 단발성 모멘텀이 아니라 현금흐름 스토리 보강으로 연결될 가능성이 있어, 단기 급등 이후에도 펀더멘털 내러티브는 유지될 여지가 큼.\n  * **단기 관점(추격매수 보류)**: 단기 급등 후 하락/리스크 언급이 섞여 있어, “지금 당장 전량 매수”보다는 **가격 조정 시 분할로 접근**하는 전략이 기대값 측면에서 유리할 수 있음.\n* 결론적으로, 이번 뉴스 묶음은 “리스크가 생겼다”기보다는 “좋은 재료가 이미 주가에 반영될 수 있는 구간”에서, **중장기 보유 논리는 상대적으로 강하고 단기 타이밍만 보수적으로 가져가야 하는 장**으로 보입니다.\n\n[투자 판단]\n* **투자(분할매수/보유 우위)**\n\n[판단 근거]\n* 감정 분석에서 Positive/Growth가 3/30에 집중적으로 강화되었고(Positive 비중 상승), 실제로 **유가 급등 기대 + 모건스탠리 목표가 상향**이 같은 방향 신호로 반복되어 단기 모멘텀이 형성됨.\n* 동시에 **Golden Pass LNG 생산 개시**가 중장기 현금흐름 스토리를 보강하는 구조로 연결되어, 단기 조정이 오더라도 내러티브 훼손 가능성은 상대적으로 낮음.\n* 다만 3/31의 Negative/Risk/Mixed가 존재하므로 “공격적 추격매수”는 불리할 수 있어 **분할 접근**이 타당하다고 판단함.\n* 애널리스트 합산 등급은 Buy/Hold 비중이 높고(Strong Buy 1, Buy 22, Hold 26), 컨센서스 목표가(Consensus $146.77)가 제시되어 있어, 단기 흔들림이 있어도 중장기 관점에서 “완전 비투자”로 보기엔 근거가 부족함."
+  "investment_judgment": "[핵심 요약]\n* 최근 3일간 XOM은 **유가(리스크)와 애널리스트 상향(모멘텀)**, 그리고 **Golden Pass(텍사스) LNG 생산 개시**가 맞물리며 강하게 재평가되는 흐름\n* 다만 4/1에는 **이란발 완화 기대/유가 후퇴**, **조류 프로젝트 차질 우려**, **에너지주 전반 급락** 등으로 **하락 전환**도 동시에 나타남\n* 감정 흐름은 긍정이 우세(3/30 Positive 10건)했으나, 4/1에 Risk/Negative가 동반 증가( Risk 4, Negative 4)하며 변동성 확대\n\n[전체 흐름 분석]\n* **3/30~3/31:** 유가가 지정학 긴장과 함께 강세를 보이는 가운데, **Morgan Stanley 목표가 상향(172달러)** 등 애널리스트 모멘텀이 주가를 견인. 동시에 **Golden Pass LNG 생산 시작**이 “현금흐름 스토리”를 보강하는 재료로 반복 노출됨.\n* **4/1:** 같은 지정학 재료가 **“휴전 기대”처럼 완화 신호로 해석**되며 **유가가 후퇴 → XOM도 동반 하락**. 또한 프로젝트(조류 프로젝트) **차질/투자계획 재검토** 우려가 일부 부각되며 상승 탄력이 둔화.\n\n[긍정 요인]\n* **애널리스트 상향 및 목표가 리레이팅:** 3/30 Morgan Stanley 목표가 상향, 3/31~4/1에도 TD Cowen 상향 등 “상단 재평가” 흐름이 다수(Positive 다수, 강한 Buy는 1건이지만 Buy 22건).\n* **LNG 캐시카우 기대 현실화:** Golden Pass 관련 뉴스가 3일 내 반복적으로 Positive/Growth로 등장(텍사스 시설 첫 LNG 생산, 현금흐름 스토리 확대).\n* **업스트림 자산/성장 엔진 논리 확산:** XOM의 자산이 성장 모멘텀으로 작동한다는 해설성 기사들이 긍정적으로 누적.\n\n[부정 요인]\n* **유가 변동에 대한 취약성(단기 방향성):** 4/1에 “유가 후퇴 → XOM 하락”이 명확히 연결(이란 휴전 기대감/원유 가격 후퇴 언급).  \n* **프로젝트 리스크 재부각:** “조류 프로젝트 차질”로 사업 신뢰성과 향후 투자 계획 재검토 우려가 제기(단기 투자심리 부담).\n* **에너지 섹터 내 동행/급락 위험:** Seeking Alpha/기타 기사에서 “에너지주 급락 속 하락 주도” 및 랠리 종료 가능성 같은 톤이 일부 존재.\n\n[투자 인사이트]\n* 최근 3일의 핵심은 **(1) 유가 사이클 + (2) 애널리스트 상향(밸류에이션 지지) + (3) LNG 생산 개시(중장기 현금흐름 재료)**가 동시에 작동했다는 점입니다.  \n  * 따라서 XOM은 단기적으로는 **유가 방향에 흔들리는 시장 민감도**가 유지되지만, 추세 측면에서는 **기본 체력(현금흐름 스토리)과 월가 목표가 상향이 하방을 지지**하는 구도입니다.\n* 4/1의 하락은 “완전히 꺾였다”기보다는, **지정학 기대의 속도 차이(긴장→완화 기대)로 유가가 꺾이며 단기 모멘텀이 조정**된 성격이 강합니다.  \n* 다만 조류 프로젝트 차질 우려가 언급된 만큼, **유가가 다시 지지받더라도 ‘프로젝트 불확실성’이 리스크 프리미엄으로 남을 수 있는지**를 추가 확인할 필요가 있습니다.\n\n[투자 판단]\n* **보류(Watch/보유 관점의 신중 접근)**\n\n[판단 근거]\n* **투자 찬성 근거:** 애널리스트 상향 및 목표가 상향 흐름이 우세하고(긍정 감정 다수), Golden Pass LNG 생산 개시로 중장기 현금흐름 기대가 누적됨.\n* **투자 보류 근거:** 4/1에 Negative/Risk가 동반 증가하며 실제 주가 하락이 발생했고, 기사에서도 유가 후퇴(이란 휴전 기대)와 프로젝트 차질 우려가 직접적으로 언급됨. 즉 **단기 변동성이 커진 구간**이라 “지금 즉시 강한 매수”의 근거 강도가 낮아짐.\n* **결론:** 펀더멘털 재료(상향/ LNG)는 긍정적이나, 단기 이벤트(유가 방향/프로젝트 불확실성)가 섞여 있어 **진입 타이밍을 더 확인**하는 전략이 합리적입니다."
 }

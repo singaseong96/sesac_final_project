@@ -1,333 +1,322 @@
 {
   "meta": {
     "symbol": "JPM",
-    "analysis_date": "2026-04-01T03:08:15.836018+00:00",
-    "news_period": "2026-03-29 ~ 2026-03-31",
-    "news_count": 48,
+    "analysis_date": "2026-04-02T03:20:34.750169+00:00",
+    "news_period": "2026-03-30 ~ 2026-04-01",
+    "news_count": 46,
     "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
     "Neutral": 15,
-    "Positive": 13,
-    "Risk": 8,
-    "Growth": 8,
-    "Mixed": 3,
+    "Risk": 12,
+    "Positive": 9,
+    "Growth": 7,
+    "Mixed": 2,
     "Negative": 1
   },
   "sentiment_by_date": {
-    "2026-03-29": {
-      "Neutral": 2,
-      "Positive": 1
-    },
     "2026-03-30": {
-      "Risk": 5,
-      "Neutral": 4,
-      "Positive": 4,
-      "Mixed": 1
+      "Risk": 3,
+      "Positive": 1,
+      "Neutral": 1
     },
     "2026-03-31": {
-      "Neutral": 9,
-      "Positive": 8,
-      "Growth": 8,
-      "Risk": 3,
-      "Mixed": 2,
-      "Negative": 1
+      "Positive": 3,
+      "Growth": 3,
+      "Neutral": 3,
+      "Mixed": 1
+    },
+    "2026-04-01": {
+      "Neutral": 11,
+      "Risk": 9,
+      "Positive": 5,
+      "Growth": 4,
+      "Negative": 1,
+      "Mixed": 1
     }
   },
   "news_with_sentiment": [
     {
+      "date": "2026-04-01 23:50:55",
+      "title": "J.P. Morgan, VOLVO(AB)(VOLVF.US)에 매수 의견으로 커버리지 개시, 목표주가 38.08달러 제시 - news.futunn.com",
+      "url": "https://news.futunn.com/en/post/70971747/jp-morgan-initiates-volvo-ab-volvfus-with-buy-rating-announces?level=1&data_ticket=1775092966639861",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 21:30:29",
+      "title": "JP모건, 6억 7,500만 달러 대출로 625 Fulton Street 리파이낸싱 - Commercial Observer",
+      "url": "https://commercialobserver.com/2026/04/jp-morgan-625-fulton-brooklyn-apartments/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 21:12:00",
+      "title": "JPMorgan Chase(NYSE:JPM) 섹터 전개, 변화하는 시장 역학을 반영 - Kalkine Media",
+      "url": "https://kalkinemedia.com/us/stocks/financial/jpmorgan-nysejpm-chase-sector-developments-reflect-shifting-market-dynamics",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 19:21:50",
+      "title": "JP Morgan, 삼성중공업의 VLGC 신규 건조 발주와 연계 - Tradewinds News",
+      "url": "https://www.tradewindsnews.com/shipyards/jp-morgan-confirms-order-for-vlgc-newbuilding-duo-at-samsung-heavy-industries/2-1-1969158",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 18:48:20",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM), 바클레이스로부터 '매수' 의견 부여 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-given-buy-rating-at-barclays-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 18:48:17",
+      "title": "HSBC, JPMorgan Chase & Co. (NYSE:JPM) 주가 전망 하향 조정 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/hsbc-has-lowered-expectations-for-jpmorgan-chase-co-nysejpm-stock-price-2026-04-01/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-04-01 18:35:12",
+      "title": "JPMorgan Chase (JPM) 가치 평가 점검: American Dream Initiative가 장기 소상공인 대출 확대에 나서다 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-jpm-valuation-check-as-american-dream-initiat",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 17:49:08",
+      "title": "여름 휴가철 사기를 조심하세요 - J.P. Morgan",
+      "url": "https://www.jpmorgan.com/insights/fraud/fraud-prevention/do-not-get-burned-by-scams-on-your-summer-holiday",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 16:44:27",
+      "title": "JPMorgan Chase (JPM), 업계 전반의 대규모 자금 유출을 이끄는 어려운 환경 직면 - Yahoo Finance UK",
+      "url": "https://uk.finance.yahoo.com/news/jpmorgan-chase-jpm-faces-challenging-164427705.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 16:14:04",
+      "title": "J.P. Morgan, 베일리의 Reuters 인터뷰 이후 2026년 BoE 금리 인상은 한 차례뿐이라고 전망 - Global Banking & Finance Review®",
+      "url": "https://www.globalbankingandfinance.com/j-p-morgan-sees-one-boe-rate-hike-2026-baileys-reuters/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 16:01:27",
+      "title": "Jamie Dimon, 경쟁 심화 속 JPMorgan의 예측시장 진출 시사 - CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/01/jamie-dimon-signals-jpmorgan-entry-into-prediction-markets-as-competition-surges",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 15:55:17",
+      "title": "JPMorgan Chase(JPM)는 분기 실적을 상회할까? 예측... - Polymarket",
+      "url": "https://polymarket.com/event/jpm-quarterly-earnings-gaap-eps-04-14-2026-5pt43",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 15:28:16",
+      "title": "JPMorgan Chase & Co.(JPM): 억만장자 Rob Citrone이 선호하는 이 은행주 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-billionaire-152816126.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAFgx0lvli2Q9jZHKUxJHl627WNlI1CS0khxJPp4A8pF6h1DZNGu-QoeheurklrxgYkWBWVTmRmjoTLQMslWWwiu8gFlu3ffB-HCzxyzFts9q2c_BvbAS7D0kPk-msQnYNGllYpPK4r4ivWSpKINRno5d98ajAGL9rBEDHBu_G0qA",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 13:20:35",
+      "title": "어제 큰 폭으로 움직인 주식: Chewy, Broadcom, Microsoft, RXO, 그리고 JPMorgan Chase - StockStory",
+      "url": "https://stockstory.org/us/stocks/nyse/chwy/news/why-it-moves-summary/stocks-making-big-moves-yesterday-chewy-broadcom-microsoft-rxo-and-jpmorgan-chase",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 12:30:00",
+      "title": "Macy’s, Inc.가 J.P. Morgan 제12회 연례 Retail Round Up에 참여 - Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260401562103/en/Macys-Inc.-to-Participate-in-J.P.-Morgan-12th-Annual-Retail-Round-Up",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 12:19:22",
+      "title": "JPMorgan Chase의 American Dream 이니셔티브와 그것이 JPMorgan(JPM) 가치평가에 의미할 수 있는 것 살펴보기 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/look-jpmorgan-chase-american-dream-121922091.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAFgx0lvli2Q9jZHKUxJHl627WNlI1CS0khxJPp4A8pF6h1DZNGu-QoeheurklrxgYkWBWVTmRmjoTLQMslWWwiu8gFlu3ffB-HCzxyzFts9q2c_BvbAS7D0kPk-msQnYNGllYpPK4r4ivWSpKINRno5d98ajAGL9rBEDHBu_G0qA",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 12:11:41",
+      "title": "Wealthcare Advisory Partners LLC, JPMorgan Chase & Co. $JPM 지분 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthcare-advisory-partners-llc-raises-stake-in-jpmorgan-chase-co-jpm-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 11:47:41",
+      "title": "JP Morgan-Chase CEO Jamie Dimon, 경기침체 우려에도 이란 전쟁 지지 의외의 입장 표명: ‘이미 오래전에 그랬어야 했다’ - AOL.com",
+      "url": "https://www.aol.com/articles/jp-morgan-chase-ceo-jamie-113450574.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 11:34:00",
+      "title": "JP Morgan-Chase CEO Jamie Dimon, 이란 전쟁 지지 입장 의외로 표명 - the-independent.com",
+      "url": "https://www.the-independent.com/news/world/americas/jp-morgan-dimon-supports-iran-war-b2949996.html",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 11:02:28",
+      "title": "뉴스 콘텐츠 허브 - JP Morgan 관련 이해관계, VLGC 발주와 연결되며 투자 규모가 10억 달러로 확대 - rivieramm.com",
+      "url": "https://www.rivieramm.com/news-content-hub/news-content-hub/jp-morgan-interests-linked-to-vlgc-order-pushing-investment-toward-us1bn-88351",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 10:06:54",
+      "title": "‘신중하게 투자에 머물라’: J.P. Morgan, 시장에 대해 여전히 긍정적 전망 유지 – ‘강력 매수’ 기술주 2종 선별 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stay-invested-caution-j-p-100654486.html",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-04-01 09:40:33",
+      "title": "JP5D ETF 분석: 배당금, 수익률 GETTEX:JP5D - TradingView",
+      "url": "https://www.tradingview.com/symbols/GETTEX-JP5D/analysis/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 09:20:19",
+      "title": "Generali Investments CEE investicni spolecnost a.s., JPMorgan Chase & Co. $JPM 주식 보유액 1,395만 달러 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-generali-investments-cee-investicni-spolecnost-as-has-1395-million-stock-holdings-in-jpmorgan-chase-co-jpm-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 09:20:18",
+      "title": "Pallas Capital Advisors LLC, JPMorgan Chase & Co. $JPM 주식 3,592주 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pallas-capital-advisors-llc-sells-3592-shares-of-jpmorgan-chase-co-jpm-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 09:20:13",
+      "title": "Generate Investment Management Ltd, JPMorgan Chase & Co. $JPM 주식 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-generate-investment-management-ltd-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 07:59:21",
+      "title": "JPMorgan Chase & Co. $JPM 주식, Exchange Traded Concepts LLC가 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-exchange-traded-concepts-llc-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 07:42:00",
+      "title": "이란, Meta와 JP Morgan 등 미국 소유 기업에 위협 제기 - businessinsider.com",
+      "url": "https://www.businessinsider.com/iran-irgc-threatens-us-owned-companies-meta-jpmorgan-2026-4",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 07:24:41",
+      "title": "속보 - 플레이북: 단기 금리, 전략 산업 및 금 - J.P. Morgan Private Bank",
+      "url": "https://privatebank.jpmorgan.com/apac/en/insights/markets-and-investing/up-to-speed/week-of-apr-01",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 03:25:00",
+      "title": "JPMorgan Chase(JPM) 주가 상승, 알아둘 점 - Yahoo Finance UK",
+      "url": "https://uk.finance.yahoo.com/news/jpmorgan-chase-jpm-stock-know-032519697.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 02:55:05",
+      "title": "Jamie Dimon, 암호화 토큰을 \"탈중앙화된 폰지 사기\"라고 발언 - C-SPAN",
+      "url": "https://www.c-span.org/video/?c5032117/jamie-dimon-calls-crypto-tokens-decentralized-ponzi-schemes",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 00:40:25",
+      "title": "JPMorgan Chase (JPM) 주가, 800억 달러 규모의 소상공인 대출 약정으로 상승 - MEXC",
+      "url": "https://www.mexc.com/news/994526",
+      "sentiment": "Growth"
+    },
+    {
       "date": "2026-03-31 21:26:53",
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) 3.7% 상승 - 이유는 다음과 같습니다 - marketbeat.com",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) 3.7% 상승 거래 - 이유는 다음과 같습니다 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-trading-up-37-heres-why-2026-03-31/",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-03-31 21:23:37",
-      "title": "JPMorgan의 38억 달러 AI 데이터센터 채권에 140억 달러 주문 몰려 - tradingview.com",
-      "url": "https://www.tradingview.com/news/gurufocus:af8eb2d02094b:0-jpmorgan-s-3-8b-ai-data-center-bond-draws-14b-in-orders/",
-      "sentiment": "Risk"
-    },
-    {
       "date": "2026-03-31 19:12:05",
-      "title": "J.P. Morgan Private Capital, 팀 확대 - FIN News",
+      "title": "J.P. Morgan Private Capital 팀 확장 - FIN News",
       "url": "https://www.fin-news.com/2026/03/31/j-p-morgan-private-capital-expands-team/",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-03-31 19:04:33",
-      "title": "JPMorgan Chase(JPM) 주가 상승, 알아야 할 사항 - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/JPM/pressreleases/1072758/jpmorgan-chase-jpm-stock-is-up-what-you-need-to-know/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-31 18:15:53",
-      "title": "JPMorgan Chase & Co 주식(JPM), 3월 31일 3.42% 상승: 어떤 신호를 보내는가? - TradingKey",
-      "url": "https://www.tradingkey.com/news/Market-Movers/261739624-market-movers-jpm-20260331",
-      "sentiment": "Positive"
-    },
-    {
       "date": "2026-03-31 16:24:49",
-      "title": "JPMorgan Chase의 아메리칸 드림 추진, 소상공인과 밸류에이션 스토리 부각 - simplywall.st",
+      "title": "JPMorgan Chase의 아메리칸 드림 추진, 소상공인과 밸류에이션 스토리를 부각 - simplywall.st",
       "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-american-dream-push-highlights-small-business",
       "sentiment": "Growth"
     },
     {
-      "date": "2026-03-31 16:06:00",
-      "title": "JPMorgan, 미쓰비시 제휴로 블록체인 플랫폼 확대 - tradingview.com",
-      "url": "https://www.tradingview.com/news/zacks:0e9089f87094b:0-jpmorgan-scales-blockchain-platform-via-mitsubishi-tie-up/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-31 16:02:45",
-      "title": "노동시장은 ‘정말로 방어적이다’라고 J.P. Morgan의 필 캠포리얼이 말하다 - CNBC",
-      "url": "https://www.cnbc.com/video/2026/03/31/the-labor-market-is-really-insulated-says-jp-morgans-phil-camporeale.html",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-31 15:51:01",
-      "title": "JPMorgan, 소상공인 대출에 800억 달러 투입: 숫자상 389달러 강세 시나리오 시사 - TIKR.com",
+      "title": "JPMorgan, 소상공인 대출에 800억 달러 약정: 수치상 389달러 강세 시나리오 제시 - TIKR.com",
       "url": "https://www.tikr.com/blog/jpmorgan-commits-80-billion-to-small-business-lending-numbers-point-to-a-389-bull-case",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-31 15:04:00",
-      "title": "JP Morgan, EMEA 무역 및 운전자본 팀 강화 - Global Trade Review (GTR)",
-      "url": "https://www.gtreview.com/news/on-the-move/jp-morgan-strengthens-emea-trade-and-working-capital-team/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 14:16:44",
-      "title": "미쓰비시, Kinexys - J.P. Morgan과 함께 그룹 내 현금 관리를 고도화",
-      "url": "https://www.jpmorgan.com/payments/newsroom/mitsubishi-cash-management-kinexys",
       "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-31 14:11:11",
-      "title": "JPMorgan(JPM.US), 중소기업 대출을 확대할 계획 - 富途牛牛",
-      "url": "https://news.futunn.com/en/post/70912232/jpmorgan-jpmus-will-increase-its-lending-to-small-businesses?level=1&data_ticket=1775006624882232",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-31 13:55:00",
-      "title": "JPMorgan, ‘American Dream Initiative’에 따라 중소기업 대출 800억 달러 약속",
-      "url": "https://www.capitalbrief.com/briefing/jpmorgan-pledges-usd80b-in-small-business-lending-under-american-dream-initiative-57e5c0fa-343b-45d8-8041-34007b02564f/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-31 13:35:44",
-      "title": "JPMorgan, 수요 부진 속 Mativ 대출 5억 달러를 95에 주선",
-      "url": "https://www.tradingview.com/news/gurufocus:6cf540660094b:0-jpmorgan-leads-500m-mativ-loan-at-95-amid-weak-demand/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-31 13:18:00",
-      "title": "JPM, 중소기업 대출 확대 예정 - AASTOCKS.com",
-      "url": "https://www.aastocks.com/en/usq/news/comment.aspx?source=AAFN&id=NOW.1515002&catg=1",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-31 13:18:00",
-      "title": "JPM, 중소기업 대출 확대 계획 - AASTOCKS.com",
-      "url": "https://www.aastocks.com/en/stocks/news/aafn-news/NOW.1515002/2",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-31 12:52:08",
-      "title": "메자닌 채권 스프레드가 확대되다, JP Morgan이 5억2,300만달러 비프라임 RMBS를 가격 책정 - GlobalCapital",
-      "url": "https://www.globalcapital.com/securitization/article/2g6clveluy9lj8ei9xm9s/securitization/rmbs/mezz-notes-come-wide-as-jp-morgan-prices-523m-non-prime-rmbs",
-      "sentiment": "Risk"
     },
     {
       "date": "2026-03-31 12:44:05",
-      "title": "J.P. Morgan Private Capital, वरिष्ठ 인사 영입으로 팀 확대 - tradingview.com",
+      "title": "J.P. Morgan Private Capital, 고위급 인재 영입으로 팀 확대 - TradingView",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA4WDNNR:0-j-p-morgan-private-capital-expands-team-with-senior-hires/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 12:30:00",
-      "title": "J.P. Morgan Private Capital, वरिष्ठ 인사 영입으로 팀 확대 – 회사 발표 - Financial Times",
-      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603310830PR_NEWS_USPRX____NY23205-1",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-31 11:56:00",
-      "title": "J.P. Morgan, Cushman & Wakefield(CWK)에 대해 여전히 보유 의견 유지 - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CWK/pressreleases/1060854/jp-morgan-remains-a-hold-on-cushman-wakefield-cwk/",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-31 11:48:27",
-      "title": "Wells Fargo, JPMorgan Chase (JPM)에 대한 매수 의견 유지 - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/JPM-N/pressreleases/1060585/wells-fargo-keeps-their-buy-rating-on-jpmorgan-chase-jpm/",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-31 11:21:38",
-      "title": "Synergy Asset Management LLC, JPMorgan Chase & Co. $JPM 주식 16,801주 매수 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-synergy-asset-management-llc-purchases-16801-shares-of-jpmorgan-chase-co-jpm-2026-03-31/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 10:42:34",
-      "title": "JPMorgan Chase(JPM) 주가, 800억달러 중소기업 대출 확대 계획 - 이유는 이렇다 - CoinCentral",
-      "url": "https://coincentral.com/jpmorgan-chase-jpm-stock-plans-80b-small-business-lending-push-heres-why/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-31 10:00:00",
-      "title": "JPMorganChase, 지역 경제 기회 확대를 위한 American Dream Initiative 출범 - Business Wire",
-      "url": "https://www.businesswire.com/news/home/20260331050943/en/JPMorganChase-Launches-American-Dream-Initiative-to-Expand-Local-Economic-Opportunity",
       "sentiment": "Positive"
     },
     {
+      "date": "2026-03-31 12:30:00",
+      "title": "J.P. Morgan Private Capital, 고위급 인재 영입으로 팀 확대 - prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/jp-morgan-private-capital-expands-team-with-senior-hires-302729882.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 11:41:00",
+      "title": "Wells Fargo, JPMorgan Chase(JPM)에 대한 매수 의견 유지 - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/JPM/pressreleases/1060585/wells-fargo-keeps-their-buy-rating-on-jpmorgan-chase-jpm/",
+      "sentiment": "Mixed"
+    },
+    {
       "date": "2026-03-31 09:09:00",
-      "title": "NatWest Group plc, JPMorgan Chase & Co. $JPM 보유 비중 확대 - marketbeat.com",
+      "title": "NatWest Group plc, JPMorgan Chase & Co. $JPM 지분 확대 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-natwest-group-plc-raises-position-in-jpmorgan-chase-co-jpm-2026-03-31/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 08:51:51",
-      "title": "Mitsubishi, JP Morgan의 24/7 블록체인 결제 시스템 채택 - ledgerinsights.com",
-      "url": "https://www.ledgerinsights.com/mitsubishi-adopts-jp-morgans-24-7-blockchain-payments/",
-      "sentiment": "Growth"
-    },
-    {
       "date": "2026-03-31 07:56:36",
-      "title": "JPMorgan Chase & Co. $JPM, Dakota Wealth Management의 9번째로 큰 포지션 - marketbeat.com",
+      "title": "JPMorgan Chase & Co. $JPM, Dakota Wealth Management의 9번째 대형 보유 종목 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-is-dakota-wealth-managements-9th-largest-position-2026-03-31/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 07:56:35",
-      "title": "Fort Washington Investment Advisors Inc. OH, JPMorgan Chase & Co. $JPM 주식 보유 확대 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-fort-washington-investment-advisors-inc-oh-grows-stock-holdings-in-jpmorgan-chase-co-jpm-2026-03-31/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 07:56:34",
-      "title": "Geremia Financial Services LLC, JPMorgan Chase & Co. $JPM 주식 4,451주 매입 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-geremia-financial-services-llc-purchases-shares-of-4451-jpmorgan-chase-co-jpm-2026-03-31/",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-31 06:04:00",
-      "title": "최근 주가 변동 이후 JPMorgan Chase(JPM)를 재평가할 시점인가? - sg.finance.yahoo.com",
-      "url": "https://sg.finance.yahoo.com/news/time-reassess-jpmorgan-chase-jpm-060436573.html",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-31 05:37:42",
-      "title": "전 Koreatown 은행 지점장, JP Morgan Chase 상대 소송 합의 - 2UrbanGirls",
-      "url": "https://2urbangirls.com/2026/03/former-koreatown-bank-manager-settles-suit-against-jp-morgan-chase/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 22:39:12",
-      "title": "Truist, 거시경제 압박이 전망을 짓누르자 JPMorgan Chase & Co.(JPM) 목표주가 하향 - Insider Monkey",
-      "url": "https://www.insidermonkey.com/blog/jpmorgan-chase-co-jpm-price-target-cut-by-truist-as-macro-pressures-weigh-on-outlook-1728061/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-30 19:36:00",
-      "title": "캐너리 워프에 사무실을 짓기 위해 JP Morgan은 얼마나 많은 인센티브를 필요로 할까? | Nils Pratley - The Guardian",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/mar/30/how-many-sweeteners-does-jp-morgan-need-to-build-an-office-in-canary-wharf",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-30 19:06:19",
-      "title": "기업을 위한 신용 관리 및 신용 의사결정 가이드 - J.P. Morgan",
-      "url": "https://www.jpmorgan.com/insights/business-planning/credit-management-and-credit-decisioning-guide-for-businesses",
+      "title": "최근 주가 변동 이후 JPMorgan Chase(JPM)를 재평가할 때인가? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/time-reassess-jpmorgan-chase-jpm-060436573.html",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-30 18:26:34",
-      "title": "JPMorgan Chase & Co.(JPM) 비중확대 등급, Piper Sandler에서 재확인 - marketbeat.com",
+      "title": "JPMorgan Chase & Co.(JPM)에 대한 비중확대 의견, Piper Sandler가 재확인 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-cos-jpm-overweight-rating-reaffirmed-at-piper-sandler-2026-03-30/",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-03-30 17:32:51",
-      "title": "JPMorganChase, 스포츠 전설들과 협력해 선수들의 재무 관리 역량 강화 - Indianapolis Recorder",
-      "url": "https://indianapolisrecorder.com/jpmorganchase-partners-with-sports-legends-to-help-athletes-master-their-finances/",
-      "sentiment": "Positive"
-    },
-    {
       "date": "2026-03-30 15:45:03",
-      "title": "JPMorgan Chase & Co. (JPM)는 훌륭한 선택이 될 수 있다 - Yahoo Finance",
+      "title": "JPMorgan Chase & Co.(JPM)는 좋은 선택이 될 수 있다 - Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-could-154503178.html",
-      "sentiment": "Positive"
+      "sentiment": "Neutral"
     },
     {
       "date": "2026-03-30 14:00:00",
-      "title": "폭풍 속의 요새: 다우가 조정 국면에 들어서는 가운데 JPMorgan Chase(JPM)를 심층 분석하다 - FinancialContent",
+      "title": "폭풍 속의 요새: 다우가 조정 국면에 들어서며 JPMorgan Chase(JPM)를 심층 분석 - FinancialContent",
       "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-3-30-the-fortress-in-the-storm-a-deep-dive-into-jpmorgan-chase-jpm-as-the-dow-enters-correction-territory",
       "sentiment": "Risk"
     },
     {
-      "date": "2026-03-30 13:45:07",
-      "title": "유럽 주식, 2022년 에너지 충격보다 더 비관적인 전망을 이미 반영 중이라고 JP Morgan 주장 - Yahoo! Finance Canada",
-      "url": "https://ca.finance.yahoo.com/news/european-equities-already-pricing-more-134507354.html",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-30 13:36:09",
-      "title": "파이퍼 샌들러, JPMorgan(JPM.US)에 매수 의견 유지, 목표주가 325달러로 하향 - Moomoo",
-      "url": "https://www.moomoo.com/news/post/67626411/piper-sandler-maintains-jpmorgan-jpmus-with-buy-rating-cuts-target?level=1&data_ticket=1775006986719761",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 11:48:05",
-      "title": "World Investment Advisors, JPMorgan Chase & Co. $JPM 보유 지분 확대 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-holdings-lifted-by-world-investment-advisors-2026-03-30/",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-30 10:49:00",
-      "title": "JPM, 유가를 20달러 끌어올릴 수 있는 취약성 경고 - Rigzone",
+      "title": "JPM, 유가를 20달러 끌어올릴 수 있는 취약점 경고 - Rigzone",
       "url": "https://www.rigzone.com/news/jpm_warns_of_vulnerability_that_could_add_20_to_oil_price-30-mar-2026-183325-article/",
       "sentiment": "Risk"
     },
     {
       "date": "2026-03-30 10:23:51",
-      "title": "투자자들이 JPM(JPM)에 어떻게 반응할 수 있을까: 사모대출에 대한 신중함과 전략적 시장 포지셔닝의 균형 - simplywall.st",
+      "title": "JPM(JPM)에 투자자들이 어떻게 반응할 수 있을까: 민간신용에 대한 신중함과 전략적 시장 포지셔닝의 균형 - simplywall.st",
       "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/how-investors-may-respond-to-jpm-jpm-balancing-caution-on-pr",
       "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-30 07:56:32",
-      "title": "Ferguson Wellman Capital Management Inc., JPMorgan Chase & Co. $JPM 주식 4,265주 추가 매수 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ferguson-wellman-capital-management-inc-acquires-4265-shares-of-jpmorgan-chase-co-jpm-2026-03-30/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 02:08:16",
-      "title": "J.P. Morgan Payments, 결제 소프트웨어 분야의 AI 발전으로 인정받아 - The Digital Banker",
-      "url": "https://thedigitalbanker.com/j-p-morgan-payments-recognised-for-advancing-ai-in-payments-software/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-29 09:27:22",
-      "title": "Moody National Bank Trust Division, JPMorgan Chase & Co. $JPM 주식 매도 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-moody-national-bank-trust-division-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 07:46:21",
-      "title": "체코 국립은행, JPMorgan Chase & Co. $JPM 주식 매입 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-acquired-by-czech-national-bank-2026-03-29/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 04:22:06",
-      "title": "최근 주가 약세 이후 JPMorgan Chase(JPM)를 재검토할 때인가? - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/is-it-time-to-reconsider-jpmorgan-chase-jpm-after-recent-sha",
-      "sentiment": "Positive"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-29 ──\n  [Neutral] Moody National Bank Trust Division, JPMorgan Chase & Co. $JPM 주식 매도 - marketbeat.com\n  [Neutral] 체코 국립은행, JPMorgan Chase & Co. $JPM 주식 매입 - marketbeat.com\n  [Positive] 최근 주가 약세 이후 JPMorgan Chase(JPM)를 재검토할 때인가? - simplywall.st\n\n── 2026-03-30 ──\n  [Risk] Truist, 거시경제 압박이 전망을 짓누르자 JPMorgan Chase & Co.(JPM) 목표주가 하향 - Insider Monkey\n  [Mixed] 캐너리 워프에 사무실을 짓기 위해 JP Morgan은 얼마나 많은 인센티브를 필요로 할까? | Nils Pratley - The Guardian\n  [Neutral] 기업을 위한 신용 관리 및 신용 의사결정 가이드 - J.P. Morgan\n  [Positive] JPMorgan Chase & Co.(JPM) 비중확대 등급, Piper Sandler에서 재확인 - marketbeat.com\n  [Positive] JPMorganChase, 스포츠 전설들과 협력해 선수들의 재무 관리 역량 강화 - Indianapolis Recorder\n  [Positive] JPMorgan Chase & Co. (JPM)는 훌륭한 선택이 될 수 있다 - Yahoo Finance\n  [Risk] 폭풍 속의 요새: 다우가 조정 국면에 들어서는 가운데 JPMorgan Chase(JPM)를 심층 분석하다 - FinancialContent\n  [Risk] 유럽 주식, 2022년 에너지 충격보다 더 비관적인 전망을 이미 반영 중이라고 JP Morgan 주장 - Yahoo! Finance Canada\n  [Neutral] 파이퍼 샌들러, JPMorgan(JPM.US)에 매수 의견 유지, 목표주가 325달러로 하향 - Moomoo\n  [Neutral] World Investment Advisors, JPMorgan Chase & Co. $JPM 보유 지분 확대 - marketbeat.com\n  [Risk] JPM, 유가를 20달러 끌어올릴 수 있는 취약성 경고 - Rigzone\n  [Risk] 투자자들이 JPM(JPM)에 어떻게 반응할 수 있을까: 사모대출에 대한 신중함과 전략적 시장 포지셔닝의 균형 - simplywall.st\n  [Neutral] Ferguson Wellman Capital Management Inc., JPMorgan Chase & Co. $JPM 주식 4,265주 추가 매수 - marketbeat.com\n  [Positive] J.P. Morgan Payments, 결제 소프트웨어 분야의 AI 발전으로 인정받아 - The Digital Banker\n\n── 2026-03-31 ──\n  [Positive] JPMorgan Chase & Co. (NYSE:JPM) 3.7% 상승 - 이유는 다음과 같습니다 - marketbeat.com\n  [Risk] JPMorgan의 38억 달러 AI 데이터센터 채권에 140억 달러 주문 몰려 - tradingview.com\n  [Positive] J.P. Morgan Private Capital, 팀 확대 - FIN News\n  [Positive] JPMorgan Chase(JPM) 주가 상승, 알아야 할 사항 - The Globe and Mail\n  [Positive] JPMorgan Chase & Co 주식(JPM), 3월 31일 3.42% 상승: 어떤 신호를 보내는가? - TradingKey\n  [Growth] JPMorgan Chase의 아메리칸 드림 추진, 소상공인과 밸류에이션 스토리 부각 - simplywall.st\n  [Positive] JPMorgan, 미쓰비시 제휴로 블록체인 플랫폼 확대 - tradingview.com\n  [Neutral] 노동시장은 ‘정말로 방어적이다’라고 J.P. Morgan의 필 캠포리얼이 말하다 - CNBC\n  [Positive] JPMorgan, 소상공인 대출에 800억 달러 투입: 숫자상 389달러 강세 시나리오 시사 - TIKR.com\n  [Neutral] JP Morgan, EMEA 무역 및 운전자본 팀 강화 - Global Trade Review (GTR)\n  [Growth] 미쓰비시, Kinexys - J.P. Morgan과 함께 그룹 내 현금 관리를 고도화\n  [Growth] JPMorgan(JPM.US), 중소기업 대출을 확대할 계획 - 富途牛牛\n  [Positive] JPMorgan, ‘American Dream Initiative’에 따라 중소기업 대출 800억 달러 약속\n  [Risk] JPMorgan, 수요 부진 속 Mativ 대출 5억 달러를 95에 주선\n  [Growth] JPM, 중소기업 대출 확대 예정 - AASTOCKS.com\n  [Growth] JPM, 중소기업 대출 확대 계획 - AASTOCKS.com\n  [Risk] 메자닌 채권 스프레드가 확대되다, JP Morgan이 5억2,300만달러 비프라임 RMBS를 가격 책정 - GlobalCapital\n  [Neutral] J.P. Morgan Private Capital, वरिष्ठ 인사 영입으로 팀 확대 - tradingview.com\n  [Growth] J.P. Morgan Private Capital, वरिष्ठ 인사 영입으로 팀 확대 – 회사 발표 - Financial Times\n  [Negative] J.P. Morgan, Cushman & Wakefield(CWK)에 대해 여전히 보유 의견 유지 - The Globe and Mail\n  [Mixed] Wells Fargo, JPMorgan Chase (JPM)에 대한 매수 의견 유지 - The Globe and Mail\n  [Neutral] Synergy Asset Management LLC, JPMorgan Chase & Co. $JPM 주식 16,801주 매수 - marketbeat.com\n  [Growth] JPMorgan Chase(JPM) 주가, 800억달러 중소기업 대출 확대 계획 - 이유는 이렇다 - CoinCentral\n  [Positive] JPMorganChase, 지역 경제 기회 확대를 위한 American Dream Initiative 출범 - Business Wire\n  [Neutral] NatWest Group plc, JPMorgan Chase & Co. $JPM 보유 비중 확대 - marketbeat.com\n  [Growth] Mitsubishi, JP Morgan의 24/7 블록체인 결제 시스템 채택 - ledgerinsights.com\n  [Neutral] JPMorgan Chase & Co. $JPM, Dakota Wealth Management의 9번째로 큰 포지션 - marketbeat.com\n  [Neutral] Fort Washington Investment Advisors Inc. OH, JPMorgan Chase & Co. $JPM 주식 보유 확대 - marketbeat.com\n  [Neutral] Geremia Financial Services LLC, JPMorgan Chase & Co. $JPM 주식 4,451주 매입 - marketbeat.com\n  [Mixed] 최근 주가 변동 이후 JPMorgan Chase(JPM)를 재평가할 시점인가? - sg.finance.yahoo.com\n  [Neutral] 전 Koreatown 은행 지점장, JP Morgan Chase 상대 소송 합의 - 2UrbanGirls",
-    "sentiment_block": "총 뉴스 48건 분석 결과:\n  Positive    13건 ( 27.1%) █████\n  Growth       8건 ( 16.7%) ███\n  Neutral     15건 ( 31.2%) ██████\n  Mixed        3건 (  6.2%) █\n  Risk         8건 ( 16.7%) ███\n  Negative     1건 (  2.1%) \n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:2, Positive:1\n  2026-03-30: Risk:5, Neutral:4, Positive:4, Mixed:1\n  2026-03-31: Neutral:9, Positive:8, Growth:8, Risk:3, Mixed:2, Negative:1",
+    "news_block": "\n── 2026-03-30 ──\n  [Positive] JPMorgan Chase & Co.(JPM)에 대한 비중확대 의견, Piper Sandler가 재확인 - MarketBeat\n  [Neutral] JPMorgan Chase & Co.(JPM)는 좋은 선택이 될 수 있다 - Yahoo Finance\n  [Risk] 폭풍 속의 요새: 다우가 조정 국면에 들어서며 JPMorgan Chase(JPM)를 심층 분석 - FinancialContent\n  [Risk] JPM, 유가를 20달러 끌어올릴 수 있는 취약점 경고 - Rigzone\n  [Risk] JPM(JPM)에 투자자들이 어떻게 반응할 수 있을까: 민간신용에 대한 신중함과 전략적 시장 포지셔닝의 균형 - simplywall.st\n\n── 2026-03-31 ──\n  [Positive] JPMorgan Chase & Co. (NYSE:JPM) 3.7% 상승 거래 - 이유는 다음과 같습니다 - MarketBeat\n  [Positive] J.P. Morgan Private Capital 팀 확장 - FIN News\n  [Growth] JPMorgan Chase의 아메리칸 드림 추진, 소상공인과 밸류에이션 스토리를 부각 - simplywall.st\n  [Growth] JPMorgan, 소상공인 대출에 800억 달러 약정: 수치상 389달러 강세 시나리오 제시 - TIKR.com\n  [Positive] J.P. Morgan Private Capital, 고위급 인재 영입으로 팀 확대 - TradingView\n  [Growth] J.P. Morgan Private Capital, 고위급 인재 영입으로 팀 확대 - prnewswire.com\n  [Mixed] Wells Fargo, JPMorgan Chase(JPM)에 대한 매수 의견 유지 - theglobeandmail.com\n  [Neutral] NatWest Group plc, JPMorgan Chase & Co. $JPM 지분 확대 - MarketBeat\n  [Neutral] JPMorgan Chase & Co. $JPM, Dakota Wealth Management의 9번째 대형 보유 종목 - MarketBeat\n  [Neutral] 최근 주가 변동 이후 JPMorgan Chase(JPM)를 재평가할 때인가? - Yahoo Finance\n\n── 2026-04-01 ──\n  [Positive] J.P. Morgan, VOLVO(AB)(VOLVF.US)에 매수 의견으로 커버리지 개시, 목표주가 38.08달러 제시 - news.futunn.com\n  [Neutral] JP모건, 6억 7,500만 달러 대출로 625 Fulton Street 리파이낸싱 - Commercial Observer\n  [Neutral] JPMorgan Chase(NYSE:JPM) 섹터 전개, 변화하는 시장 역학을 반영 - Kalkine Media\n  [Positive] JP Morgan, 삼성중공업의 VLGC 신규 건조 발주와 연계 - Tradewinds News\n  [Neutral] JPMorgan Chase & Co. (NYSE:JPM), 바클레이스로부터 '매수' 의견 부여 - MarketBeat\n  [Negative] HSBC, JPMorgan Chase & Co. (NYSE:JPM) 주가 전망 하향 조정 - MarketBeat\n  [Growth] JPMorgan Chase (JPM) 가치 평가 점검: American Dream Initiative가 장기 소상공인 대출 확대에 나서다 - simplywall.st\n  [Risk] 여름 휴가철 사기를 조심하세요 - J.P. Morgan\n  [Risk] JPMorgan Chase (JPM), 업계 전반의 대규모 자금 유출을 이끄는 어려운 환경 직면 - Yahoo Finance UK\n  [Risk] J.P. Morgan, 베일리의 Reuters 인터뷰 이후 2026년 BoE 금리 인상은 한 차례뿐이라고 전망 - Global Banking & Finance Review®\n  [Risk] Jamie Dimon, 경쟁 심화 속 JPMorgan의 예측시장 진출 시사 - CoinDesk\n  [Growth] JPMorgan Chase(JPM)는 분기 실적을 상회할까? 예측... - Polymarket\n  [Positive] JPMorgan Chase & Co.(JPM): 억만장자 Rob Citrone이 선호하는 이 은행주 - Yahoo Finance\n  [Positive] 어제 큰 폭으로 움직인 주식: Chewy, Broadcom, Microsoft, RXO, 그리고 JPMorgan Chase - StockStory\n  [Neutral] Macy’s, Inc.가 J.P. Morgan 제12회 연례 Retail Round Up에 참여 - Business Wire\n  [Positive] JPMorgan Chase의 American Dream 이니셔티브와 그것이 JPMorgan(JPM) 가치평가에 의미할 수 있는 것 살펴보기 - Yahoo Finance\n  [Neutral] Wealthcare Advisory Partners LLC, JPMorgan Chase & Co. $JPM 지분 확대 - MarketBeat\n  [Risk] JP Morgan-Chase CEO Jamie Dimon, 경기침체 우려에도 이란 전쟁 지지 의외의 입장 표명: ‘이미 오래전에 그랬어야 했다’ - AOL.com\n  [Risk] JP Morgan-Chase CEO Jamie Dimon, 이란 전쟁 지지 입장 의외로 표명 - the-independent.com\n  [Growth] 뉴스 콘텐츠 허브 - JP Morgan 관련 이해관계, VLGC 발주와 연결되며 투자 규모가 10억 달러로 확대 - rivieramm.com\n  [Mixed] ‘신중하게 투자에 머물라’: J.P. Morgan, 시장에 대해 여전히 긍정적 전망 유지 – ‘강력 매수’ 기술주 2종 선별 - Yahoo Finance\n  [Neutral] JP5D ETF 분석: 배당금, 수익률 GETTEX:JP5D - TradingView\n  [Neutral] Generali Investments CEE investicni spolecnost a.s., JPMorgan Chase & Co. $JPM 주식 보유액 1,395만 달러 - MarketBeat\n  [Neutral] Pallas Capital Advisors LLC, JPMorgan Chase & Co. $JPM 주식 3,592주 매도 - MarketBeat\n  [Neutral] Generate Investment Management Ltd, JPMorgan Chase & Co. $JPM 주식 매도 - MarketBeat\n  [Neutral] JPMorgan Chase & Co. $JPM 주식, Exchange Traded Concepts LLC가 매도 - MarketBeat\n  [Risk] 이란, Meta와 JP Morgan 등 미국 소유 기업에 위협 제기 - businessinsider.com\n  [Risk] 속보 - 플레이북: 단기 금리, 전략 산업 및 금 - J.P. Morgan Private Bank\n  [Neutral] JPMorgan Chase(JPM) 주가 상승, 알아둘 점 - Yahoo Finance UK\n  [Risk] Jamie Dimon, 암호화 토큰을 \"탈중앙화된 폰지 사기\"라고 발언 - C-SPAN\n  [Growth] JPMorgan Chase (JPM) 주가, 800억 달러 규모의 소상공인 대출 약정으로 상승 - MEXC",
+    "sentiment_block": "총 뉴스 46건 분석 결과:\n  Positive     9건 ( 19.6%) ███\n  Growth       7건 ( 15.2%) ███\n  Neutral     15건 ( 32.6%) ██████\n  Mixed        2건 (  4.3%) \n  Risk        12건 ( 26.1%) █████\n  Negative     1건 (  2.2%) \n\n날짜별 감정 흐름:\n  2026-03-30: Risk:3, Positive:1, Neutral:1\n  2026-03-31: Positive:3, Growth:3, Neutral:3, Mixed:1\n  2026-04-01: Neutral:11, Risk:9, Positive:5, Growth:4, Negative:1, Mixed:1",
     "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 1  Buy: 32  Hold: 25  Sell: 2  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $391  Low: $280  Consensus: $336.1  Median: $332.5\n▶ 실적 추정치 (2028-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $665.9771214334068  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "[핵심 요약]\n* 최근 3일간 뉴스 흐름은 **전반적으로 우호적(Positive/Growth 비중↑)** 이었고, 특히 **AI 인프라(데이터센터)·결제/블록체인 협력·중소기업 대출 확대(American Dream Initiative 800억달러 약속)** 같은 성장/사업 확장 모멘텀이 반복적으로 제시됨.\n* 반면 **거시 압박(목표주가 하향), 특정 신용/대출 구조의 리스크 경고(사모대출·취약성·RMBS/메자닌 스프레드)** 가 일부 뉴스로 동시 제기되어, 단기 변동성 요인은 남아 있음.\n* 애널리스트 합산은 **Buy(대다수) 쪽으로 기울어 있고(Strong Buy 1 + Buy 32)**, 목표주가 컨센서스는 **$336.1(중간 $332.5), 저점 $280~고점 $391**로 폭이 존재(불확실성은 반영).\n\n[전체 흐름 분석]\n* **3/29**: 전반은 중립 속에 “주가 약세 후 재검토”류의 관점이 섞이며 바닥 다지기 기대가 일부 형성.\n* **3/30**: 가장 뚜렷한 특징은 **Risk 뉴스가 증가**(목표주가 하향, 유가 민감도 취약성, 사모대출 신중함, 시장/유럽 전망 비관 반영 등). 동시에 **비중확대/리포트 재확인(Piper Sandler 등)과 결제 AI 성과**가 함께 나오며 방향성은 단일하지 않았음.\n* **3/31**: 단기 주가 상승(여러 기사에서 3.7% 상승 언급)과 함께 **American Dream Initiative 및 중소기업 대출 확대(800억달러)**, **사내 인력 확충(Private Capital 팀 확대)**, **블록체인/결제 플랫폼 고도화(미쓰비시 제휴)** 같은 “실행 모멘텀”이 집중. 다만 **AI 데이터센터 관련 채권 주문(수요) 이슈**와 **대출/신용 스프레드 관련 경고**가 섞이며 ‘좋지만 비용/리스크도 동반’하는 구도.\n\n[긍정 요인]\n* **성장 스토리의 일관성**: American Dream Initiative로 **중소기업 대출 800억달러 약속/확대 계획**이 반복 등장(3/31 중심).\n* **사업 확장 및 경쟁력 강화 신호**:  \n  * **미쓰비시 제휴(블록체인/24-7 결제·현금관리 고도화)**  \n  * **결제 소프트웨어 분야 AI 발전 인정**\n* **자본/조직 역량 강화**: **J.P. Morgan Private Capital 팀 확대 및 주요 인사 영입** 관련 긍정 흐름.\n* **월가 컨센서스가 대체로 우호적**: 감정분석(Positive 27.1% + Growth 16.7%) 및 애널리스트 합산이 **Buy 쏠림(Strong Buy 1 / Buy 32 / Hold 25)**.\n\n[부정 요인]\n* **거시/전망 불확실성**: 3/30에 **목표주가 하향(Truist)**, “거시경제 압박” 언급이 존재.\n* **신용 관련 리스크 경고가 동시 등장**:  \n  * 사모대출에 대한 **신중함/전략적 포지셔닝 경계**  \n  * **메자닌 채권 스프레드 확대**, 특정 **RMBS 가격 책정/구조 리스크** 관련 기사  \n* **외부 변수 민감도**: **유가를 20달러 끌어올릴 수 있는 취약성 경고** 등 거시 요인 연결.\n* **단기적으로 ‘나쁜 소식도 섞인’ 상승**: 3/31 주가 상승 흐름에도 불구하고 리스크성 헤드라인이 함께 있어, 추격매수 시 변동성 확대 가능성.\n\n[투자 인사이트]\n* 이번 3일 데이터에서의 핵심은 “경기/신용의 불확실성(3/30 Risk 중심)”과 “성장 실행(3/31의 대출 확대·제휴·조직 확충 중심)”이 **동시에 작동**하고 있다는 점입니다.  \n  → 즉, 투자 포인트는 단순히 단기 모멘텀이라기보다 **중소기업 대출 확대와 결제/블록체인 확장으로 중장기 수익원 다변화**에 있습니다.\n* 다만 신용 스프레드/메자닌 RMBS 등 **구조적 신용 지표에서의 경계**가 섞여 있어, 시장이 스트레스를 받는 구간에서는 “성장 뉴스가 나와도 주가 변동”이 커질 수 있습니다.  \n  → 따라서 공격적 진입보다 **분할 접근 또는 보수적 포지션 사이징**이 더 논리적입니다.\n* 애널리스트 컨센서스(중간 $332.5)와 고점($391) 간 괴리가 있는 만큼, 현재는 “확신의 구간”이라기보다 **상단 기대치가 열려 있지만(상향 여지) 불확실성도 반영된 구간**으로 해석됩니다.\n\n[투자 판단]\n**투자: 보류(Watch & Buy 조건부)**\n\n[판단 근거]\n* **긍정(Positive/Growth) 우세 + 애널리스트 Buy 쏠림**은 “중기적으로는 우호적”이라는 신호입니다.\n* 그러나 **3/30~3/31에 걸친 Risk성 뉴스(목표주가 하향, 신용 스프레드/대출 구조 경계, 거시 압박)**가 반복되어, 단기 매수 타이밍에서는 변동성 리스크가 큽니다.\n* 따라서 “즉시 강한 매수(투자)”보다는, 데이터가 보여주는 **성장 실행 모멘텀은 인정하되 신용/거시 불확실성의 해소 여부를 확인한 뒤 단계적 진입**이 합리적입니다."
+  "investment_judgment": "[핵심 요약]\n* 최근 3일은 **JPM을 “비중확대/매수”로 보는 시각이 우세(Positive 다수)**했지만, 동시에 **거시·시장 환경 리스크와 일부 전망 하향(HSBC) 및 금리/자금 유출 우려(Risk 다수)**가 확대\n* 촉매는 **(1) American Dream/소상공인 대출 관련 약정(800억달러), (2) Private Capital 팀 확장** 등 “성장 스토리”와 연결\n* 다만 4/1에 **Neutral과 Risk 비중이 급증**하며 단기 변동성/불확실성이 커지는 흐름\n\n[전체 흐름 분석]\n* 3/30: JPM 관련 커버리지/의견은 긍정이 있었으나, “조정 국면/유가 관련 취약점/민간신용 신중” 같은 **리스크 프레임**도 동시 제기\n* 3/31: **주가 상승(3.7%) + 소상공인 대출 약정 및 Private Capital 인력 확장**이 맞물리며 감정이 전반적으로 개선\n* 4/1: 데이터 상으로 **Neutral(11건)과 Risk(9건)가 크게 증가**. HSBC의 전망 하향, “자금 유출을 이끄는 어려운 환경” 같은 매크로/자금흐름 이슈가 부각되며 투자심리가 흔들리는 구간으로 해석됨\n\n[긍정 요인]\n* **자금 집행/영업 확장 스토리 강화**\n  * 소상공인 대출 **800억달러 약정** 및 “American Dream” 이니셔티브가 가치평가 재평가로 연결될 가능성(여러 기사에서 반복)\n* **Private Capital 사업 역량 강화**\n  * Private Capital 팀 **확장(고위급 인재 영입)** 관련 긍정 뉴스가 누적 → 고마진/자산관리·자문 역량 확충 기대와 연결\n* **증권사 커버리지/평가 의견의 우위**\n  * 3일간 “비중확대/매수” 류가 다수(애널리스트 합산도 Buy가 Hold보다 우세)\n\n[부정 요인]\n* **거시/시장 환경 및 자금흐름 리스크가 단기 심리에 부담**\n  * 4/1에 “업계 전반의 대규모 자금 유출을 이끄는 어려운 환경” 같은 Risk가 등장(해석상 조달/운용 환경 악화 우려)\n* **금리 관련 불확실성**\n  * BoE 금리 인상 관련 전망(인상 횟수 제한 시사) 및 베일리 인터뷰 후 금리 경로 불확실성 언급이 리스크로 반영\n* **일부 기관의 전망 하향**\n  * **HSBC의 JPM 주가 전망 하향**은 단기 멀티플/기대치 조정 가능성을 시사\n* **지정학/대외 변수 리스크**\n  * 이란 관련 위협/발언 등은 JPM의 특정 펀더멘털을 직접 단정하기 어렵지만, “리스크 프리미엄”을 높일 재료로 작용\n\n[투자 인사이트]\n* 결론적으로 최근 흐름은 **“성장(소상공인 대출/Private Capital 확장)”의 내러티브가 단기 모멘텀을 만들었지만, 4/1부터는 “거시·자금 유출/금리 불확실성”이 투자심리를 제약**하는 구조입니다.\n* 따라서 투자전략은 다음처럼 정리하는 것이 합리적입니다.\n  * **장기 관점:** American Dream/소상공인 대출 약정과 Private Capital 인력 확장은 “자산/수수료 기반 확대”로 이어질 수 있어 긍정적\n  * **단기 관점:** Risk 비중이 커진 4/1 흐름을 고려하면, 단순 추격매수보다는 **조정 시 분할 접근**이 유리할 가능성\n* 애널리스트 의견도 **Buy(32) 비중이 Hold(25)보다 높아** “완전 회피”보다는 “보유~추가” 쪽 가설에 힘이 실립니다. 다만 Risk 증가 구간이 있어 가격 변동성 관리가 필요합니다.\n\n[투자 판단]\n**투자(단, 분할 접근/리스크 관리 전제)**\n\n[판단 근거]\n* 뉴스 감정 통계상 Positive(19.6%)가 Negative(2.2%) 대비 크게 우세하고, 3/31에 주가 상승 및 성장성 이슈가 동반되었음\n* 동시에 4/1에 Neutral과 Risk가 급증했으므로 “지금 당장 공격적 매수”보다는 **리스크 프레임(자금 유출/금리 불확실성/전망 하향) 반영한 점진적 접근**이 타당\n* 애널리스트 등급 합산이 **Strong Buy 1 + Buy 32 + Hold 25**로 전반적으로 긍정 편향이며, 완전한 매도 시그널이 압도적이지 않음\n* 목표주가 컨센서스(Consensus $336.1, High $391 / Low $280)는 “상·하방 괴리”가 있으므로, 성장 모멘텀은 유지하되 단기 변동성에 대비하는 접근이 합리적(추격 리스크 회피)"
 }

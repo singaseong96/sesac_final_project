@@ -1,358 +1,354 @@
 {
   "meta": {
     "symbol": "V",
-    "analysis_date": "2026-04-01T03:12:26.216423+00:00",
-    "news_period": "2026-03-29 ~ 2026-03-31",
-    "news_count": 63,
+    "analysis_date": "2026-04-02T03:24:30.526272+00:00",
+    "news_period": "2026-03-30 ~ 2026-04-01",
+    "news_count": 58,
     "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 41,
-    "Risk": 7,
-    "Positive": 6,
-    "Growth": 5,
-    "Negative": 4
+    "Neutral": 29,
+    "Risk": 8,
+    "Negative": 8,
+    "Growth": 7,
+    "Positive": 3,
+    "Mixed": 3
   },
   "sentiment_by_date": {
-    "2026-03-29": {
-      "Neutral": 1
-    },
     "2026-03-30": {
-      "Neutral": 5,
+      "Neutral": 3,
       "Risk": 2,
-      "Negative": 1,
       "Growth": 1
     },
     "2026-03-31": {
-      "Neutral": 35,
-      "Positive": 6,
-      "Risk": 5,
-      "Growth": 4,
-      "Negative": 3
+      "Negative": 1,
+      "Neutral": 1
+    },
+    "2026-04-01": {
+      "Neutral": 25,
+      "Negative": 7,
+      "Risk": 6,
+      "Growth": 6,
+      "Positive": 3,
+      "Mixed": 3
     }
   },
   "news_with_sentiment": [
     {
-      "date": "2026-03-31 23:23:01",
-      "title": "예고: 바이에른 대 유나이티드 위민 - 맨체스터 유나이티드",
+      "date": "2026-04-01 22:37:46",
+      "title": "보도: Penn State 농구 가드 Freddie Dilione V, 이적 포털에 들어갈 예정 - Onward State",
+      "url": "https://onwardstate.com/2026/04/01/report-penn-state-hoops-guard-freddie-dilione-v-to-enter-transfer-portal/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 22:31:43",
+      "title": "대법원, 출생시민권 문제에서 트럼프에 불리한 판결 가능성 보여 - SCOTUSblog",
+      "url": "https://www.scotusblog.com/2026/04/supreme-court-appears-likely-to-side-against-trump-on-birthright-citizenship/",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 22:13:12",
+      "title": "Penn State 농구 가드 Freddie Dilione V, 이적 포털에 진입 - blackshoediaries.com",
+      "url": "https://www.blackshoediaries.com/mens-basketball/87312/penn-state-basketball-guard-freddie-dilione-v-enters-transfer-portal",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 22:12:00",
+      "title": "전 Tennessee, Penn State 가드, 이적 포털에 들어갈 예정 - College Sports Wire",
+      "url": "https://collegesportswire.usatoday.com/story/sports/college/college-basketball/2026/04/01/penn-state-basketball-freddie-dilione-transfer-portal/89427192007/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-04-01 21:59:16",
+      "title": "Penn State 가드 Freddie Dilione V, 이적 포털 진입 예정 - On3",
+      "url": "https://www.on3.com/news/penn-state-guard-freddie-dilione-v-plans-to-enter-transfer-portal/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 21:35:54",
+      "title": "페기 V. 퀵 부고 - The Detroit News",
+      "url": "https://www.detroitnews.com/obituaries/pdet1446862",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 21:34:00",
+      "title": "GM, 차세대 V-8 엔진 위해 새기노 공장에 1억5,000만 달러 투자 - WJRT ABC12",
+      "url": "https://www.abc12.com/news/top-stories/gm-investing-150m-in-saginaw-plant-for-next-gen-v-8-engines/article_9706a19e-ee24-49f3-bfb1-4e77320ff134.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 21:17:00",
+      "title": "보도: 펜 스테이트 남자 농구 가드 프레디 딜리오네 V, 이적 포털 진입 - The Daily Collegian",
+      "url": "https://www.psucollegian.com/sports/men_basketball/report-penn-state-men-s-basketball-guard-freddie-dilione-v-enters-transfer-portal/article_3818fab9-eeff-458a-be8c-e1058d8eb825.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 21:16:05",
+      "title": "Visa(NYSE:V), 애널리스트 하향 조정 이후 1.2% 하락 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/visa-nysev-trading-down-12-following-analyst-downgrade-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 21:05:01",
+      "title": "Alienware, AMD의 플래그십 듀얼 3D V-Cache CPU를 탑재한 최초의 사전 조립 PC 공개 - TweakTown",
+      "url": "https://www.tweaktown.com/news/110822/alienware-announces-the-first-pre-built-pc-to-feature-amds-flagship-dual-3d-v-cache-cpu/index.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 20:54:21",
+      "title": "Chiles v. Salazar: SCOTUS에 한 표의 찬사 - wilsontimes.com",
+      "url": "https://www.wilsontimes.com/columns/chiles-v-salazar-one-cheer-for-scotus-cbf084a3",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-04-01 20:44:28",
+      "title": "비정상적인 옵션 거래: TSLA, FTNT 등 시장 베팅 유입, TSLA V/OI 비율 260.0에 도달 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67798203/unusual-options-activity-tsla-ftnt-and-others-attract-market-bets?level=1&data_ticket=1775092281418537",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 20:25:00",
+      "title": "Caroline Sheldon의 세 번째 팀 선정으로 4명의 All-Ohio 주니어가 탄생 - Cincinnati Enquirer",
+      "url": "https://www.cincinnati.com/story/sports/high-school/2026/04/01/division-iv-v-vi-vii-all-ohio-girls-basketball-teams-2026/89425062007/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 20:13:23",
+      "title": "Wayne T. Brantley, Sr. 부고 - ronaldvhall.com",
+      "url": "https://www.ronaldvhall.com/obituary/WayneT-BrantleySr",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 20:07:53",
+      "title": "V Modern Italian, Tampa의 새로운 Rome Collective에서 올여름 개장 예정 - Tampa Bay Times",
+      "url": "https://www.tampabay.com/life-culture/food/2026/04/01/v-modern-italian-tampa-rome-collective-tastes-pretty-good/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 19:41:00",
+      "title": "홀트의 퍼스트 팀, 드그레이의 세컨드 팀 선정이 All-Ohio 명단에서 주목받아 - Canton Repository",
+      "url": "https://www.cantonrep.com/story/sports/high-school/2026/04/01/division-iv-v-vi-vii-all-ohio-boys-basketball-teams-2026-colonel-crawford-galion-wynford-crestline/89066697007/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 19:39:12",
+      "title": "다시 생각하는 이민: 행정부의 수정주의적 역사 서술 에피소드(트럼프 대 바바라 구두변론의 핵심 정리) - AILA",
+      "url": "https://www.aila.org/library/think-immigration-the-administrations-episode-of-revisionist-history-takeaways-from-trump-v-barbara-oral-argument",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 19:13:50",
+      "title": "Visa Inc. (V), 모바일 뱅킹 앱에서 반복 결제 추적을 더 쉽게 만들다 - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/visa-inc-v-makes-it-easy-to-track-recurring-payments-on-mobile-banking-apps-1730263/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 18:43:55",
+      "title": "새로운 AI 분쟁 도구와 Ramp 파트너십 이후 Visa(V)에 대한 강세 논리는 바뀔 수 있다 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-v/visa/news/the-bull-case-for-visa-v-could-change-following-new-ai-dispu",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-04-01 18:43:55",
+      "title": "프리뷰: 바이에른 vs 유나이티드 여성팀 - 맨체스터 유나이티드",
       "url": "https://www.manutd.com/en/news/detail/how-to-watch-and-follow-second-leg-v-bayern-1-april-2026",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 23:18:37",
-      "title": "상파울루 대 인테르나시오나우: 시청 방법, 팁 및 킥오프 시간 - OneFootball",
-      "url": "https://onefootball.com/en/news/sao-paulo-v-internacional-where-to-watch-tips-and-kick-off-time-42642740",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 23:07:05",
-      "title": "잉글랜드 대 일본: 월드컵 조건을 모사하기 위한 평가전 중 급수 휴식 도입 - BBC",
-      "url": "https://www.bbc.com/sport/football/articles/cwy3j4r421yo",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 22:41:20",
-      "title": "하이 대 게르하르트 코니히: 파라다이스의 문제 재판 - Court TV",
-      "url": "https://www.courttv.com/news/hi-v-gerhardt-konig-trouble-in-paradise-trial/",
+      "date": "2026-04-01 16:49:17",
+      "title": "위대한 트럼프 도서관 강탈 - 더 불워크",
+      "url": "https://www.thebulwark.com/p/the-great-trump-library-robbery?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true",
       "sentiment": "Negative"
     },
     {
-      "date": "2026-03-31 22:40:20",
-      "title": "인테르나시오나우 대 상파울루: 상위권 도약과 중위권 상승이 브라질레이랑에서 맞붙다 - OneFootball",
-      "url": "https://onefootball.com/en/news/internacional-v-sao-paulo-top-three-push-meets-mid-table-climb-in-the-brasileirao-42642604",
+      "date": "2026-04-01 16:31:32",
+      "title": "비자: 세계적 수준의 복리 성장주에 대한 보기 드문 할인 (NYSE:V) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4887866-visa-rare-discount-on-world-class-compounder",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 22:38:49",
-      "title": "SCOTUS, 기독교 상담사의 비밀보장 권리를 옹호 - National Catholic Register",
-      "url": "https://www.ncregister.com/commentaries/scotus-chiles-v-salazar",
+      "date": "2026-04-01 16:31:18",
+      "title": "인라인 포어 성능을 내는 V-트윈 모터사이클 10종 - Top Speed",
+      "url": "https://www.topspeed.com/v-twin-motorcycles-deliver-inline-four-performance/",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-03-31 22:16:00",
-      "title": "어머니가 2013년 GTA V를 사도록 아들에게 카드를 쓰게 했다가 자신도 모르게 실제 맞춤형 Dodge Viper 경품에 당첨됐다 - supercarblondie.com",
-      "url": "https://supercarblondie.com/mom-gta-v-custom-dodge-viper-prize/",
-      "sentiment": "Neutral"
+      "date": "2026-04-01 15:42:00",
+      "title": "트럼프 대 바바라 구두변론에 대한 공동 성명 - Urban Milwaukee",
+      "url": "https://urbanmilwaukee.com/pressrelease/joint-statement-on-trump-v-barbara-oral-argument/",
+      "sentiment": "Negative"
     },
     {
-      "date": "2026-03-31 22:10:00",
-      "title": "새 Ryzen 칩은 캐시 기술을 그 어느 때보다 강하게 밀어붙이고 있다 - TechRadar",
-      "url": "https://www.techradar.com/pro/performance-without-compromise-amd-debuts-first-dual-3d-v-cache-ryzen-cpu-in-potential-lowdown-against-threadripper-and-epyc-siblings",
+      "date": "2026-04-01 15:40:04",
+      "title": "CPAY와 V: 지금 더 나은 가치주인 것은 무엇인가? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cpay-v-better-value-stock-154004012.html",
       "sentiment": "Growth"
     },
     {
-      "date": "2026-03-31 22:00:20",
-      "title": "드문 ‘V자형 바닥’을 형성하며 미국 증시 반등 - Yahoo Finance",
-      "url": "https://finance.yahoo.com/video/us-stocks-rebound-as-market-achieves-rare-v-bottom-220000272.html",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-31 21:48:14",
-      "title": "우루과이 평가전 이후, 카노비오가 Fluminense 대 Corinthians전 결장 - OneFootball",
-      "url": "https://onefootball.com/en/news/after-uruguay-friendlies-canobbio-misses-fluminense-v-corinthians-42642419",
+      "date": "2026-04-01 15:27:38",
+      "title": "Richard \"Rich\" V. Porterfield 부고 - Pitman Funeral Home",
+      "url": "https://www.pitmanfuneralhome.com/obituary/RichardRich-Porterfield",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 21:45:00",
-      "title": "문제에 시달리는 상파울루: 인터전서 10명 결장, 로제르는 새 얼굴 발탁 - OneFootball",
-      "url": "https://onefootball.com/en/news/beset-by-problems-sao-paulo-miss-10-v-inter-roger-names-new-faces-42641887",
+      "date": "2026-04-01 15:02:18",
+      "title": "Milan Futuro 대 Villa Valle, Serie D 2025/2026: 경기 미리보기 - AC Milan",
+      "url": "https://www.acmilan.com/en/news/articles/milan-futuro/2026-04-01/milan-futuro-v-villa-valle-match-preview",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 14:41:33",
+      "title": "가까운 거주 가능 외계행성 탐사(CHES). V. 각분리 변화로부터 도출한 행성 매개변수 - astrobiology.com",
+      "url": "https://astrobiology.com/2026/04/closeby-habitable-exoplanet-survey-ches-v-planetary-parameters-derived-from-angular-separation-variations.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 14:32:50",
+      "title": "SCOTUS 구두 변론 생중계: 출생시 시민권 - aclu.org",
+      "url": "https://www.aclu.org/news/immigrants-rights/live-coverage-birthright-citizenship-scotus-oral-arguments",
       "sentiment": "Risk"
     },
     {
-      "date": "2026-03-31 21:41:07",
-      "title": "V자형의 이유 - Austin Daily Herald",
-      "url": "https://www.austindailyherald.com/opinion/the-why-of-the-v-05e07aa1",
+      "date": "2026-04-01 14:07:52",
+      "title": "Liverpool 대 Chelsea: 새로운 경기 일정 발표 - Liverpool FC",
+      "url": "https://www.liverpoolfc.com/news/liverpool-v-chelsea-new-fixture-details-announced",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 21:41:00",
-      "title": "앤서니 V. ‘토니’ 루소, 63세, 아놀드 - Leader Publications",
-      "url": "https://www.myleaderpaper.com/obituaries/obituary-for-anthony-v-tony-russo-of-arnold/article_9e0d427b-a359-478d-aec0-32dc87f8f1f7.html",
+      "date": "2026-04-01 14:06:39",
+      "title": "Itauma, Wilder & Wardley 대 Dubois 경기 생중계, BBC에서 - AOL.com",
+      "url": "https://www.aol.com/itauma-wilder-wardley-v-dubois-083442388.html",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 21:16:14",
-      "title": "북마케도니아전 아일랜드 선수 평점: 다라 오셰이와 핀 아자즈가 무승부 속에서 돋보여 - The Irish Times",
-      "url": "https://www.irishtimes.com/sport/soccer/2026/03/31/ireland-player-ratings-v-north-macedonia-dara-oshea-and-finn-azaz-stand-out-in-stalemate/",
+      "date": "2026-04-01 14:00:09",
+      "title": "맨체스터 시티 대 브렌트퍼드 프리미어리그 경기, Sky Sports에서 중계 - Brentford FC",
+      "url": "https://www.brentfordfc.com/en/news/article/first-team-manchester-city-v-brentford-premier-league-sky-sports",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 21:14:19",
-      "title": "FIFA 월드컵 - UEFA 예선 - 결선 - 보스니아 헤르체고비나 대 이탈리아 - UnionLeader.com",
-      "url": "https://www.unionleader.com/fifa-world-cup---uefa-qualifiers---finals---bosnia-and-herzegovina/image_7deb58c5-4243-54bd-a56d-6e6c8a110e35.html",
+      "date": "2026-04-01 13:28:19",
+      "title": "Lamine Yamal, Spain 대 Egypt 친선경기 중 들린 인종차별적 야유를 규탄 - BBC",
+      "url": "https://www.bbc.com/sport/football/articles/cz6737pdnwpo",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 21:10:31",
-      "title": "터키, 코소보를 꺾고 24년 만에 월드컵 본선 진출 - BBC",
-      "url": "https://www.bbc.com/sport/football/live/c3ex17zp5wjt",
-      "sentiment": "Positive"
+      "date": "2026-04-01 13:25:11",
+      "title": "Estée Lauder(EL) 웨이브 V 회복, 향후 강한 상승 여력 시사 - FXStreet",
+      "url": "https://www.fxstreet.com/news/estee-lauder-el-wave-v-recovery-signals-strong-upside-ahead-202604011325",
+      "sentiment": "Growth"
     },
     {
-      "date": "2026-03-31 21:08:33",
-      "title": "사피로 대 포드: 헨리 포드를 고소한 유대인, 제니퍼 바디, 캐럴 킹, 게일런 로스, 벤 쉔크만과 함께 - Moment Magazine",
-      "url": "https://momentmag.com/sapiro-v-ford-the-jew-who-sued-henry-ford-with-jennifer-bardi-carol-king-gaylen-ross-and-ben-shenkman/",
+      "date": "2026-04-01 13:19:24",
+      "title": "Helen V. (Harrigle) Humphreys 부고 - phillyburbs.com",
+      "url": "https://www.phillyburbs.com/obituaries/psom1446386",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 12:56:07",
+      "title": "뉴캐슬-선덜랜드 더비 인종차별적 학대 혐의로 남성 체포 - BBC",
+      "url": "https://www.bbc.com/news/articles/cz0edgk4xejo",
       "sentiment": "Negative"
     },
     {
-      "date": "2026-03-31 20:55:36",
-      "title": "Visa Inc. (V), 금융권의 온체인 전환 가속화를 위해 Canton Network에 합류 - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-inc-v-joins-canton-190036493.html",
-      "sentiment": "Growth"
+      "date": "2026-04-01 12:39:00",
+      "title": "트럼프 대 바버 구두변론에 관한 24명의 법무장관 공동 성명 - Insider NJ",
+      "url": "https://www.insidernj.com/press-release/joint-statement-by-24-attorneys-general-on-trump-v-barbara-oral-argument/",
+      "sentiment": "Risk"
     },
     {
-      "date": "2026-03-31 20:44:00",
-      "title": "확장보다 실행: V Group, Inc. Regionals Pacific 리스트에서 117위 기록 - PRWeb",
-      "url": "https://www.prweb.com/releases/execution-over-expansion-v-group-ranks-no-117-on-inc-regionals-pacific-list-302730427.html",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-31 20:30:10",
-      "title": "UBS Group, Visa(NYSE:V) 주가 전망을 하향 조정 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/ubs-group-has-lowered-expectations-for-visa-nysev-stock-price-2026-03-31/",
+      "date": "2026-04-01 12:27:00",
+      "title": "2026년 AAA급 야구팀에 인기 있는 3전 2선승제 결승이 돌아온다 - Democrat and Chronicle",
+      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/04/01/section-v-brings-back-popular-3-game-final-in-class-aaa-baseball/89415128007/?gca-cat=p&gnt-cfr=1",
       "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 11:50:00",
+      "title": "여자 챔피언스리그 아스널 대 첼시 경기 시청 방법, 최신 팀 소식, 예상 선발 라인업 등 - sports.yahoo.com",
+      "url": "https://sports.yahoo.com/articles/watch-arsenal-v-chelsea-women-115000058.html",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-04-01 11:42:37",
+      "title": "통계 포인트: 코번트리 시티 대 더비 카운티 - sports.yahoo.com",
+      "url": "https://sports.yahoo.com/articles/pick-stats-coventry-city-v-114237775.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 11:30:00",
+      "title": "V의 정체가 드러났다 — 어느 정도는… - The Miami Hurricane",
+      "url": "https://themiamihurricane.com/2026/04/01/identity-of-v-revealed-kind-of/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 11:20:00",
+      "title": "리즈 유나이티드 대 셀틱 – 1970년 유러피언컵 준결승 – 잉글랜드의 오만 - Yahoo Sports Canada",
+      "url": "https://ca.sports.yahoo.com/news/leeds-united-v-celtic-1970-112000170.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 11:11:57",
+      "title": "포트리의 킹 조지 5세 공원이 트러스트에 넘어가 - BBC",
+      "url": "https://www.bbc.com/news/articles/cpqxeyp38d5o",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 11:02:00",
+      "title": "Euclid 대 Ambler: 미국 도시계획에 대한 100년 전의 교훈 - usa.streetsblog.org",
+      "url": "https://usa.streetsblog.org/2026/04/01/euclid-v-amblers-lesson-for-american-urbanism",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-04-01 09:01:06",
+      "title": "State v. Houston의 흥미로운 사례 - Maryland Daily Record",
+      "url": "https://thedailyrecord.com/2026/04/01/maryland-supreme-court-ethics-state-v-houston/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-04-01 07:17:30",
+      "title": "Ramp의 Visa(V) AI 청구서 결제 계약이 임베디드 결제 투자 스토리를 어떻게 바꿨나 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ramp-visa-v-ai-bill-071730386.html",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-04-01 04:42:23",
+      "title": "Phyllis V. Stambone - Scranton Times-Tribune",
+      "url": "https://www.thetimes-tribune.com/obituaries/phyllis-v-stambone-archbald-pa/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 02:36:34",
+      "title": "Cameron Art Museum, Ayana V. Jackson 작품 수집 - WECT",
+      "url": "https://www.wect.com/2026/03/31/cameron-art-museum-acquires-ayana-v-jackson-work/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 02:22:00",
+      "title": "Columbia County Sheriff, County Highway V에서 발생한 사건에 대응 - wkow.com",
+      "url": "https://www.wkow.com/news/columbia-county-sheriff-responding-to-incident-on-county-highway-v/article_e455e96c-4bd0-4bff-b953-ae14f55d34bd.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 01:57:00",
+      "title": "상원 대 하원, 중단된 법안 분쟁으로 미시간주 대법원 출석 예정 - Michigan Public",
+      "url": "https://www.michiganpublic.org/politics-government/2026-04-01/senate-v-house-to-appear-before-michigan-supreme-court-in-dispute-over-stalled-bills",
+      "sentiment": "Risk"
     },
     {
       "date": "2026-03-31 20:23:44",
-      "title": "Amazon 대 Perplexity: 법원, 권한·동의·에이전틱 AI를 심리하다 - jdsupra.com",
+      "title": "Amazon 대 Perplexity: 법원, 승인·동의·에이전틱 AI를 저울질하다 - JD Supra",
       "url": "https://www.jdsupra.com/legalnews/amazon-v-perplexity-courts-weigh-5417167/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-31 19:47:11",
-      "title": "아일랜드 공화국 대 북마케도니아 - 누가 인상적이었나요? - BBC",
-      "url": "https://www.bbc.com/sport/football/articles/crm1k7ggmg2o",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 19:43:00",
-      "title": "🎥 보스니아 대 이탈리아에서 난장판! 아파트 블록 화염에 휩싸여, 바스토니 퇴장 - Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/bosnia-vs-italy-goes-flames-194300284.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 19:00:15",
-      "title": "첼시 여자팀 (1) 대 아스널 (3) 프리뷰 - Arseblog News",
-      "url": "https://arseblog.news/2026/03/chelsea-women-1-v-arsenal-3-preview/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 18:56:00",
-      "title": "바이에른 대 유나이티드: 팀 소식은? - Manchester United",
-      "url": "https://www.manutd.com/en/news/detail/man-utd-women-team-news-pre-bayern-munich-away-terland",
       "sentiment": "Negative"
     },
     {
-      "date": "2026-03-31 18:38:00",
-      "title": "Clare V. 가방은 조용한 럭셔리에 맞선 다채로운 반항이고, 나는 이 스타일을 응원한다 - Business Insider",
-      "url": "https://www.businessinsider.com/guides/style/clare-v-review",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 18:24:40",
-      "title": "GTA V 성우 Shawn Fonteno, 캠퍼스 방문해 수업에 깜짝 등장 - The Daily Beacon",
-      "url": "https://utdailybeacon.com/210950/news/gta-v-voice-actor-shawn-fonteno-visits-campus-surprises-class/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 18:20:00",
-      "title": "소년 라크로스 시즌을 좌우할 다섯 가지 질문 - Democrat and Chronicle",
-      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-boys-lacrosse-five-questions-for-2026-season/89112337007/?gca-cat=p&gnt-cfr=1",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 18:05:00",
-      "title": "올봄 소년 라크로스 시즌을 좌우할 핵심 맞대결 다섯 가지 - Democrat and Chronicle",
-      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-boys-lacrosse-five-matchups-to-watch-this-spring/89327190007/?gca-cat=p&gnt-cfr=1",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 18:02:05",
-      "title": "Liquid, DraculaN Season 6 하위조에서 HAVU를 상대로 생존하며 진출 - Dust2.us",
-      "url": "https://www.dust2.us/news/72275/liquid-survive-and-advance-in-lower-bracket-v-havu-at-draculan-season-6",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-31 17:41:00",
-      "title": "이 123명의 섹션 V 선수들이 AGR 남자 라크로스 관찰 명단에 올랐다 - Democrat and Chronicle",
-      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-boys-lacrosse-watch-list-for-all-greater-rochester-team/89112364007/?gca-cat=p&gnt-cfr=1",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 16:59:00",
-      "title": "스툴럭 스튜디오(Stunlock Studios)는 더 이상 V Rising의 새로운 콘텐츠를 만들지 않고, 대신 V Rising 세계관을 배경으로 한 새로운 게임으로 이동한다 - Wccftech",
-      "url": "https://wccftech.com/v-rising-studio-getting-no-new-content-stunlock-studio-moving-to-new-project/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-31 16:47:00",
-      "title": "부고: Geist, Timothy V. - WTAP",
-      "url": "https://www.wtap.com/2026/03/31/obituary-geist-timothy-v/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 16:45:50",
-      "title": "Elastos, v.1.2를 앞두고 ElatOS 개발 업데이트 공개 - tradingview.com",
-      "url": "https://www.tradingview.com/news/coindar:090b38b82094b:0-elastos-shares-elatos-development-update-ahead-of-v-1-2/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-31 16:41:36",
-      "title": "쿠바를 침공할 준비가 된 사람은 누구인가?! - The Bulwark",
-      "url": "https://www.thebulwark.com/p/whos-ready-to-invade-cuba",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-31 16:16:00",
-      "title": "Nikki V와 함께하는 차 한잔 — KCTV",
-      "url": "https://www.kctv5.com/2026/03/31/spillin-tea-with-nikki-v/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 15:55:35",
-      "title": "도로 주행이 가능한 1960년대 레이스카를 소유하고 싶으신가요? Lola, V-8 엔진 탑재 T70의 연속 생산 모델을 방금 발표 - Car and Driver",
-      "url": "https://www.caranddriver.com/news/a70894413/lola-t70-v8-powered-continuation-announced/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 14:58:12",
-      "title": "UND, 대학 아이스하키 역대 기록에 근접 - Grand Forks Herald",
-      "url": "https://www.grandforksherald.com/sports/und-hockey/und-closing-in-on-all-time-college-hockey-record",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-31 14:50:00",
-      "title": "Section V 야구, 2027년부터 1루 안전 베이스 의무화 - Democrat and Chronicle",
-      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-baseball-to-require-safety-base-at-first-base-by-2027/89381554007/?gca-cat=p&gnt-cfr=1",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 14:42:00",
-      "title": "더 많은 Section V 야구팀, 2026년 타이틀을 가져가다 - Democrat and Chronicle",
-      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-baseball-adds-classifications-for-2026-season/89377014007/?gca-cat=p&gnt-cfr=1",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-31 14:31:05",
-      "title": "Oretha \"Honey\" Byrd 부고 - Ronald V. Hall Funeral Home",
+      "title": "Oretha \"Honey\" Byrd 부고 - ronaldvhall.com",
       "url": "https://www.ronaldvhall.com/obituary/OrethaHoney-Byrd",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 14:30:00",
-      "title": "여전히 기준이 되는 Section V 소프트볼 기록들 - Democrat and Chronicle",
-      "url": "https://www.democratandchronicle.com/story/sports/high-school/2026/03/31/section-v-softball-records-for-hitting-pitching-coaching/89376526007/?gca-cat=p&gnt-cfr=1",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 14:26:19",
-      "title": "Cameron Art Museum, Ayana V. Jackson 작품 수집 - WECT",
-      "url": "https://www.wect.com/2026/03/31/cameron-art-museum-acquires-ayana-v-jackson-work/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-31 14:15:33",
-      "title": "'Gen V'에서 남은 7가지 질문, 'The Boys'가 답할 수 있다 - tvinsider.com",
-      "url": "https://www.tvinsider.com/gallery/gen-v-season-2-questions-for-the-boys-season-5/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 13:53:44",
-      "title": "반대의견의 딜레마와 Trump v. CASA - Divided Argument | Substack",
-      "url": "https://blog.dividedargument.com/p/the-dissenters-dilemma-and-trump",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-31 09:24:13",
-      "title": "너무 씨가 없어 침해가 아니다? Nador cott v Asda와 종속 품종 문제 - Wolters Kluwer",
-      "url": "https://legalblogs.wolterskluwer.com/patent-blog/too-seedless-to-infringe-nador-cott-v-asda-and-the-dependent-variety-question/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 08:25:11",
-      "title": "BTS의 V, 영어 정복 선언: '이번엔 변명 없다' - chosun.com",
-      "url": "https://www.chosun.com/english/kpop-culture-en/2026/03/31/U2UY6Z4Z2RDU7KHPXFGVBEH3QA/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 08:01:04",
-      "title": "목사 엠마 V. 네프 - Cadillac News",
-      "url": "https://www.cadillacnews.com/obituaries/reverend-emma-v-neff/article_6567e76d-1856-54f3-982f-c852e8fbaa2f.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 05:02:57",
-      "title": "Sandra V. Lizotte - Monadnock Ledger-Transcript",
-      "url": "https://ledgertranscript.com/2026/03/31/obit-sandra-v-lizotte-211136152/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 04:26:47",
-      "title": "포르투갈 평가전에서 미국은 다시 강도와 투지를 되찾아야 한다: '그건 절대 양보할 수 없다' - FOX Sports",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-2026-usa-portugal-pochettino",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 04:25:43",
-      "title": "Mary V. Flynn - citizensvoice.com",
-      "url": "https://www.citizensvoice.com/obituaries/mary-v-flynn-austin-tx/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 03:41:10",
-      "title": "웨일스 대 북아일랜드 - 누구도 원하지 않는 경기 - BBC",
-      "url": "https://www.bbc.com/sport/football/articles/cwyvnrqd3zxo",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 02:02:32",
-      "title": "V Foundation for Cancer Research Sonoma Epicurean 5주년 행사, 획기적 암 연구 기금 마련 위해 350만 달러 모금 - Wine Industry Advisor",
-      "url": "https://wineindustryadvisor.com/2026/03/30/5th-anniversary-v-foundation-for-cancer-research-sonoma-epicurean-raises-3-5m/",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-30 21:07:43",
-      "title": "출시 미리보기: SLS, Falcon 9, Atlas V, Soyuz 발사가 빡빡한 발사 일정 구성 - NASASpaceFlight.com -",
+      "title": "발사 프리뷰: SLS, Falcon 9, Atlas V, Soyuz 발사가 빼곡한 발사 일정 구성 - NASASpaceFlight.com -",
       "url": "https://www.nasaspaceflight.com/2026/03/launch-preview-033026/",
       "sentiment": "Neutral"
     },
@@ -363,16 +359,10 @@
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-30 17:24:49",
-      "title": "Souper Cereal v. Pistfriend가 편향된 이유: 내가 맞고, 당신이 틀렸다 - The Irvington Voice",
-      "url": "https://ihsvoice.com/2026/03/30/why-souper-cereal-v-pistfriend-was-biased-im-right-youre-wrong/",
+      "date": "2026-03-30 15:25:00",
+      "title": "Bernie Sanders와 AOC, Eugene V. Debs 시상식을 위해 Terre Haute 방문 - WFYI",
+      "url": "https://www.wfyi.org/show/cultural-manifesto/2026-03-30/bernie-sanders-and-aoc-in-terre-haute-for-the-eugene-v-debs-awards-ceremony",
       "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 14:34:37",
-      "title": "State v. Ducker 브리프: 노스캐롤라이나 주민들의 수정헌법 제2조 권리를 옹호하며 - Cato Institute",
-      "url": "https://www.cato.org/blog/state-v-ducker-brief-defending-second-amendment-rights-north-carolinians",
-      "sentiment": "Risk"
     },
     {
       "date": "2026-03-30 13:40:41",
@@ -381,40 +371,22 @@
       "sentiment": "Risk"
     },
     {
-      "date": "2026-03-30 13:26:01",
-      "title": "PTX Metals Inc. (PTX.V) 주가, 뉴스, 시세 & 히스토리 - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/PTX.V/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 12:00:00",
-      "title": "불법적인 투표용지 압류에 맞서기 (Cervantes v. Bianco) - Campaign Legal Center",
-      "url": "https://campaignlegal.org/cases-actions/defending-against-unlawful-seizure-ballots-cervantes-v-bianco",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-30 06:25:03",
-      "title": "이 잘생긴 얼굴 때문에 BTS V는 한때 꿈을 포기했다 — 잠시였지만 - The Korea Times",
-      "url": "https://www.koreatimes.co.kr/entertainment/others/20260330/this-handsome-face-made-bts-v-give-up-his-dream-for-a-while",
-      "sentiment": "Neutral"
+      "date": "2026-03-30 13:31:08",
+      "title": "출생시 시민권: 애니메이션으로 보는 해설 - SCOTUSblog",
+      "url": "https://www.scotusblog.com/2026/03/trump-v-barbara-an-animated-explainer/",
+      "sentiment": "Risk"
     },
     {
       "date": "2026-03-30 02:15:00",
-      "title": "애리조나를 키우기 2026 V.2 - Lone Star Ball",
+      "title": "어리조나 올리기 2026 V.2 - 론 스타 볼",
       "url": "https://www.lonestarball.com/texas_rangers_prospects_and_minor_league_news/89383/raising-arizona-2026-v-2",
       "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-29 20:15:35",
-      "title": "V.com 주말 투표: 여러분은 자신의 바이올린 또는 비올라 자세를 어떻게 평가하나요? - Violinist.com",
-      "url": "https://www.violinist.com/blog/laurie/20263/30703/",
-      "sentiment": "Neutral"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-29 ──\n  [Neutral] V.com 주말 투표: 여러분은 자신의 바이올린 또는 비올라 자세를 어떻게 평가하나요? - Violinist.com\n\n── 2026-03-30 ──\n  [Neutral] 출시 미리보기: SLS, Falcon 9, Atlas V, Soyuz 발사가 빡빡한 발사 일정 구성 - NASASpaceFlight.com -\n  [Neutral] Richard V. Cassineri 부고 - plainvillefh.com\n  [Neutral] Souper Cereal v. Pistfriend가 편향된 이유: 내가 맞고, 당신이 틀렸다 - The Irvington Voice\n  [Risk] State v. Ducker 브리프: 노스캐롤라이나 주민들의 수정헌법 제2조 권리를 옹호하며 - Cato Institute\n  [Risk] Trump v. Barbara: 출생시 시민권을 재정의할 수 있는 대법원 사건 - Jurist.org\n  [Neutral] PTX Metals Inc. (PTX.V) 주가, 뉴스, 시세 & 히스토리 - Yahoo Finance\n  [Negative] 불법적인 투표용지 압류에 맞서기 (Cervantes v. Bianco) - Campaign Legal Center\n  [Neutral] 이 잘생긴 얼굴 때문에 BTS V는 한때 꿈을 포기했다 — 잠시였지만 - The Korea Times\n  [Growth] 애리조나를 키우기 2026 V.2 - Lone Star Ball\n\n── 2026-03-31 ──\n  [Neutral] 예고: 바이에른 대 유나이티드 위민 - 맨체스터 유나이티드\n  [Neutral] 상파울루 대 인테르나시오나우: 시청 방법, 팁 및 킥오프 시간 - OneFootball\n  [Neutral] 잉글랜드 대 일본: 월드컵 조건을 모사하기 위한 평가전 중 급수 휴식 도입 - BBC\n  [Negative] 하이 대 게르하르트 코니히: 파라다이스의 문제 재판 - Court TV\n  [Neutral] 인테르나시오나우 대 상파울루: 상위권 도약과 중위권 상승이 브라질레이랑에서 맞붙다 - OneFootball\n  [Positive] SCOTUS, 기독교 상담사의 비밀보장 권리를 옹호 - National Catholic Register\n  [Neutral] 어머니가 2013년 GTA V를 사도록 아들에게 카드를 쓰게 했다가 자신도 모르게 실제 맞춤형 Dodge Viper 경품에 당첨됐다 - supercarblondie.com\n  [Growth] 새 Ryzen 칩은 캐시 기술을 그 어느 때보다 강하게 밀어붙이고 있다 - TechRadar\n  [Positive] 드문 ‘V자형 바닥’을 형성하며 미국 증시 반등 - Yahoo Finance\n  [Neutral] 우루과이 평가전 이후, 카노비오가 Fluminense 대 Corinthians전 결장 - OneFootball\n  [Risk] 문제에 시달리는 상파울루: 인터전서 10명 결장, 로제르는 새 얼굴 발탁 - OneFootball\n  [Neutral] V자형의 이유 - Austin Daily Herald\n  [Neutral] 앤서니 V. ‘토니’ 루소, 63세, 아놀드 - Leader Publications\n  [Neutral] 북마케도니아전 아일랜드 선수 평점: 다라 오셰이와 핀 아자즈가 무승부 속에서 돋보여 - The Irish Times\n  [Neutral] FIFA 월드컵 - UEFA 예선 - 결선 - 보스니아 헤르체고비나 대 이탈리아 - UnionLeader.com\n  [Positive] 터키, 코소보를 꺾고 24년 만에 월드컵 본선 진출 - BBC\n  [Negative] 사피로 대 포드: 헨리 포드를 고소한 유대인, 제니퍼 바디, 캐럴 킹, 게일런 로스, 벤 쉔크만과 함께 - Moment Magazine\n  [Growth] Visa Inc. (V), 금융권의 온체인 전환 가속화를 위해 Canton Network에 합류 - Yahoo Finance\n  [Growth] 확장보다 실행: V Group, Inc. Regionals Pacific 리스트에서 117위 기록 - PRWeb\n  [Neutral] UBS Group, Visa(NYSE:V) 주가 전망을 하향 조정 - marketbeat.com\n  [Risk] Amazon 대 Perplexity: 법원, 권한·동의·에이전틱 AI를 심리하다 - jdsupra.com\n  [Neutral] 아일랜드 공화국 대 북마케도니아 - 누가 인상적이었나요? - BBC\n  [Neutral] 🎥 보스니아 대 이탈리아에서 난장판! 아파트 블록 화염에 휩싸여, 바스토니 퇴장 - Yahoo Sports\n  [Neutral] 첼시 여자팀 (1) 대 아스널 (3) 프리뷰 - Arseblog News\n  [Negative] 바이에른 대 유나이티드: 팀 소식은? - Manchester United\n  [Neutral] Clare V. 가방은 조용한 럭셔리에 맞선 다채로운 반항이고, 나는 이 스타일을 응원한다 - Business Insider\n  [Neutral] GTA V 성우 Shawn Fonteno, 캠퍼스 방문해 수업에 깜짝 등장 - The Daily Beacon\n  [Neutral] 소년 라크로스 시즌을 좌우할 다섯 가지 질문 - Democrat and Chronicle\n  [Neutral] 올봄 소년 라크로스 시즌을 좌우할 핵심 맞대결 다섯 가지 - Democrat and Chronicle\n  [Positive] Liquid, DraculaN Season 6 하위조에서 HAVU를 상대로 생존하며 진출 - Dust2.us\n  [Neutral] 이 123명의 섹션 V 선수들이 AGR 남자 라크로스 관찰 명단에 올랐다 - Democrat and Chronicle\n  [Risk] 스툴럭 스튜디오(Stunlock Studios)는 더 이상 V Rising의 새로운 콘텐츠를 만들지 않고, 대신 V Rising 세계관을 배경으로 한 새로운 게임으로 이동한다 - Wccftech\n  [Neutral] 부고: Geist, Timothy V. - WTAP\n  [Growth] Elastos, v.1.2를 앞두고 ElatOS 개발 업데이트 공개 - tradingview.com\n  [Risk] 쿠바를 침공할 준비가 된 사람은 누구인가?! - The Bulwark\n  [Neutral] Nikki V와 함께하는 차 한잔 — KCTV\n  [Neutral] 도로 주행이 가능한 1960년대 레이스카를 소유하고 싶으신가요? Lola, V-8 엔진 탑재 T70의 연속 생산 모델을 방금 발표 - Car and Driver\n  [Positive] UND, 대학 아이스하키 역대 기록에 근접 - Grand Forks Herald\n  [Neutral] Section V 야구, 2027년부터 1루 안전 베이스 의무화 - Democrat and Chronicle\n  [Neutral] 더 많은 Section V 야구팀, 2026년 타이틀을 가져가다 - Democrat and Chronicle\n  [Neutral] Oretha \"Honey\" Byrd 부고 - Ronald V. Hall Funeral Home\n  [Neutral] 여전히 기준이 되는 Section V 소프트볼 기록들 - Democrat and Chronicle\n  [Positive] Cameron Art Museum, Ayana V. Jackson 작품 수집 - WECT\n  [Neutral] 'Gen V'에서 남은 7가지 질문, 'The Boys'가 답할 수 있다 - tvinsider.com\n  [Risk] 반대의견의 딜레마와 Trump v. CASA - Divided Argument | Substack\n  [Neutral] 너무 씨가 없어 침해가 아니다? Nador cott v Asda와 종속 품종 문제 - Wolters Kluwer\n  [Neutral] BTS의 V, 영어 정복 선언: '이번엔 변명 없다' - chosun.com\n  [Neutral] 목사 엠마 V. 네프 - Cadillac News\n  [Neutral] Sandra V. Lizotte - Monadnock Ledger-Transcript\n  [Neutral] 포르투갈 평가전에서 미국은 다시 강도와 투지를 되찾아야 한다: '그건 절대 양보할 수 없다' - FOX Sports\n  [Neutral] Mary V. Flynn - citizensvoice.com\n  [Neutral] 웨일스 대 북아일랜드 - 누구도 원하지 않는 경기 - BBC\n  [Neutral] V Foundation for Cancer Research Sonoma Epicurean 5주년 행사, 획기적 암 연구 기금 마련 위해 350만 달러 모금 - Wine Industry Advisor",
-    "sentiment_block": "총 뉴스 63건 분석 결과:\n  Positive     6건 (  9.5%) █\n  Growth       5건 (  7.9%) █\n  Neutral     41건 ( 65.1%) █████████████\n  Mixed        0건 (  0.0%) \n  Risk         7건 ( 11.1%) ██\n  Negative     4건 (  6.3%) █\n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:1\n  2026-03-30: Neutral:5, Risk:2, Negative:1, Growth:1\n  2026-03-31: Neutral:35, Positive:6, Risk:5, Growth:4, Negative:3",
+    "news_block": "\n── 2026-03-30 ──\n  [Neutral] 발사 프리뷰: SLS, Falcon 9, Atlas V, Soyuz 발사가 빼곡한 발사 일정 구성 - NASASpaceFlight.com -\n  [Neutral] Richard V. Cassineri 부고 - plainvillefh.com\n  [Neutral] Bernie Sanders와 AOC, Eugene V. Debs 시상식을 위해 Terre Haute 방문 - WFYI\n  [Risk] Trump v. Barbara: 출생시 시민권을 재정의할 수 있는 대법원 사건 - Jurist.org\n  [Risk] 출생시 시민권: 애니메이션으로 보는 해설 - SCOTUSblog\n  [Growth] 어리조나 올리기 2026 V.2 - 론 스타 볼\n\n── 2026-03-31 ──\n  [Negative] Amazon 대 Perplexity: 법원, 승인·동의·에이전틱 AI를 저울질하다 - JD Supra\n  [Neutral] Oretha \"Honey\" Byrd 부고 - ronaldvhall.com\n\n── 2026-04-01 ──\n  [Neutral] 보도: Penn State 농구 가드 Freddie Dilione V, 이적 포털에 들어갈 예정 - Onward State\n  [Risk] 대법원, 출생시민권 문제에서 트럼프에 불리한 판결 가능성 보여 - SCOTUSblog\n  [Neutral] Penn State 농구 가드 Freddie Dilione V, 이적 포털에 진입 - blackshoediaries.com\n  [Negative] 전 Tennessee, Penn State 가드, 이적 포털에 들어갈 예정 - College Sports Wire\n  [Neutral] Penn State 가드 Freddie Dilione V, 이적 포털 진입 예정 - On3\n  [Neutral] 페기 V. 퀵 부고 - The Detroit News\n  [Positive] GM, 차세대 V-8 엔진 위해 새기노 공장에 1억5,000만 달러 투자 - WJRT ABC12\n  [Neutral] 보도: 펜 스테이트 남자 농구 가드 프레디 딜리오네 V, 이적 포털 진입 - The Daily Collegian\n  [Neutral] Visa(NYSE:V), 애널리스트 하향 조정 이후 1.2% 하락 - MarketBeat\n  [Growth] Alienware, AMD의 플래그십 듀얼 3D V-Cache CPU를 탑재한 최초의 사전 조립 PC 공개 - TweakTown\n  [Negative] Chiles v. Salazar: SCOTUS에 한 표의 찬사 - wilsontimes.com\n  [Risk] 비정상적인 옵션 거래: TSLA, FTNT 등 시장 베팅 유입, TSLA V/OI 비율 260.0에 도달 - Moomoo\n  [Neutral] Caroline Sheldon의 세 번째 팀 선정으로 4명의 All-Ohio 주니어가 탄생 - Cincinnati Enquirer\n  [Neutral] Wayne T. Brantley, Sr. 부고 - ronaldvhall.com\n  [Positive] V Modern Italian, Tampa의 새로운 Rome Collective에서 올여름 개장 예정 - Tampa Bay Times\n  [Neutral] 홀트의 퍼스트 팀, 드그레이의 세컨드 팀 선정이 All-Ohio 명단에서 주목받아 - Canton Repository\n  [Risk] 다시 생각하는 이민: 행정부의 수정주의적 역사 서술 에피소드(트럼프 대 바바라 구두변론의 핵심 정리) - AILA\n  [Growth] Visa Inc. (V), 모바일 뱅킹 앱에서 반복 결제 추적을 더 쉽게 만들다 - Insider Monkey\n  [Mixed] 새로운 AI 분쟁 도구와 Ramp 파트너십 이후 Visa(V)에 대한 강세 논리는 바뀔 수 있다 - simplywall.st\n  [Neutral] 프리뷰: 바이에른 vs 유나이티드 여성팀 - 맨체스터 유나이티드\n  [Negative] 위대한 트럼프 도서관 강탈 - 더 불워크\n  [Neutral] 비자: 세계적 수준의 복리 성장주에 대한 보기 드문 할인 (NYSE:V) - Seeking Alpha\n  [Positive] 인라인 포어 성능을 내는 V-트윈 모터사이클 10종 - Top Speed\n  [Negative] 트럼프 대 바바라 구두변론에 대한 공동 성명 - Urban Milwaukee\n  [Growth] CPAY와 V: 지금 더 나은 가치주인 것은 무엇인가? - Yahoo Finance\n  [Neutral] Richard \"Rich\" V. Porterfield 부고 - Pitman Funeral Home\n  [Neutral] Milan Futuro 대 Villa Valle, Serie D 2025/2026: 경기 미리보기 - AC Milan\n  [Growth] 가까운 거주 가능 외계행성 탐사(CHES). V. 각분리 변화로부터 도출한 행성 매개변수 - astrobiology.com\n  [Risk] SCOTUS 구두 변론 생중계: 출생시 시민권 - aclu.org\n  [Neutral] Liverpool 대 Chelsea: 새로운 경기 일정 발표 - Liverpool FC\n  [Neutral] Itauma, Wilder & Wardley 대 Dubois 경기 생중계, BBC에서 - AOL.com\n  [Neutral] 맨체스터 시티 대 브렌트퍼드 프리미어리그 경기, Sky Sports에서 중계 - Brentford FC\n  [Neutral] Lamine Yamal, Spain 대 Egypt 친선경기 중 들린 인종차별적 야유를 규탄 - BBC\n  [Growth] Estée Lauder(EL) 웨이브 V 회복, 향후 강한 상승 여력 시사 - FXStreet\n  [Neutral] Helen V. (Harrigle) Humphreys 부고 - phillyburbs.com\n  [Negative] 뉴캐슬-선덜랜드 더비 인종차별적 학대 혐의로 남성 체포 - BBC\n  [Risk] 트럼프 대 바버 구두변론에 관한 24명의 법무장관 공동 성명 - Insider NJ\n  [Neutral] 2026년 AAA급 야구팀에 인기 있는 3전 2선승제 결승이 돌아온다 - Democrat and Chronicle\n  [Mixed] 여자 챔피언스리그 아스널 대 첼시 경기 시청 방법, 최신 팀 소식, 예상 선발 라인업 등 - sports.yahoo.com\n  [Growth] 통계 포인트: 코번트리 시티 대 더비 카운티 - sports.yahoo.com\n  [Neutral] V의 정체가 드러났다 — 어느 정도는… - The Miami Hurricane\n  [Neutral] 리즈 유나이티드 대 셀틱 – 1970년 유러피언컵 준결승 – 잉글랜드의 오만 - Yahoo Sports Canada\n  [Neutral] 포트리의 킹 조지 5세 공원이 트러스트에 넘어가 - BBC\n  [Negative] Euclid 대 Ambler: 미국 도시계획에 대한 100년 전의 교훈 - usa.streetsblog.org\n  [Negative] State v. Houston의 흥미로운 사례 - Maryland Daily Record\n  [Mixed] Ramp의 Visa(V) AI 청구서 결제 계약이 임베디드 결제 투자 스토리를 어떻게 바꿨나 - Yahoo Finance\n  [Neutral] Phyllis V. Stambone - Scranton Times-Tribune\n  [Neutral] Cameron Art Museum, Ayana V. Jackson 작품 수집 - WECT\n  [Neutral] Columbia County Sheriff, County Highway V에서 발생한 사건에 대응 - wkow.com\n  [Risk] 상원 대 하원, 중단된 법안 분쟁으로 미시간주 대법원 출석 예정 - Michigan Public",
+    "sentiment_block": "총 뉴스 58건 분석 결과:\n  Positive     3건 (  5.2%) █\n  Growth       7건 ( 12.1%) ██\n  Neutral     29건 ( 50.0%) ██████████\n  Mixed        3건 (  5.2%) █\n  Risk         8건 ( 13.8%) ██\n  Negative     8건 ( 13.8%) ██\n\n날짜별 감정 흐름:\n  2026-03-30: Neutral:3, Risk:2, Growth:1\n  2026-03-31: Negative:1, Neutral:1\n  2026-04-01: Neutral:25, Negative:7, Risk:6, Growth:6, Positive:3, Mixed:3",
     "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 52  Hold: 8  Sell: 0  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $425  Low: $160  Consensus: $377.83  Median: $394.5\n▶ 실적 추정치 (2030-09)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "[핵심 요약]\n* 최근 3일은 전반적으로 **Neutral(41/63)** 비중이 압도적이었고, **Risk(7건), Negative(4건)**도 함께 존재해 단기 모멘텀은 제한적입니다.\n* 그럼에도 **Growth/Positive는 누적(Positive 6 + Growth 5)**으로 나타났으며, 특히 **Visa(V)** 관련 온체인/전환 가속 뉴스 흐름이 확인됩니다.\n* 애널리스트 컨센서스는 **Buy 우위(52 Buy / 8 Hold)**이며 목표주가 **Consensus $377.83(High $425 / Low $160)**로, “추세는 우호적이나 변동성(목표가 스프레드)이 큼”을 시사합니다.\n\n---\n\n[전체 흐름 분석]\n* 감정 흐름은 **3/29~3/30은 Neutral 중심 + 일부 Risk/Negative**, **3/31에는 Neutral 급증(35건)과 함께 Positive/Growth도 동반 증가**하는 패턴입니다.  \n* 즉, 시장 내 특정 방향성(강한 매수/강한 매도)으로의 쏠림보다는 **관련 이슈(사회/법/스포츠/기술/업계/특정 기업)들이 섞인 ‘정보 체력’ 구간**에 가깝습니다.\n* 그 가운데 투자 관점에서 “자산 가격에 연결될 수 있는 성장 내러티브”는 **Visa(V) - 온체인 전환 가속( Canto Network 합류 )** 같은 기업/산업성 이슈에서 상대적으로 더 명확히 포착됩니다.\n\n---\n\n[긍정 요인]\n* **Visa(V) Growth:** “금융권의 온체인 전환 가속을 위해 Canton Network에 합류” → 결제/금융 인프라의 디지털 전환 기대를 강화할 수 있는 형태의 성장 뉴스입니다.\n* **증시 반등/기술 관련 Positive/Growth가 함께 등장:** 예) “미국 증시 V자형 바닥” 관련 Positive, “Ryzen 캐시 기술 강화” 같은 Growth → 전반적 위험선호/기술 섹터 관심을 지지하는 배경 역할 가능.\n* **애널리스트 합산 등급:** Strong Buy 0이지만 **Buy가 52로 압도적**, 이는 기본적으로 주가 하방보다는 상방 기대가 우세한 컨센서스임을 의미합니다.\n* **목표주가 중앙값이 높음:** Consensus $377.83, Median $394.5로 “컨센서스 상방 여지”가 읽힙니다.\n\n---\n\n[부정 요인]\n* **Risk/Negative가 동반 존재(총 11.1% Risk + 6.3% Negative):**  \n  * 법/권리/규정 관련 이슈들(Risk, Negative)이 다수로 나타나 **정책/규제 불확실성 프리미엄**이 커질 수 있습니다.\n  * 애널리스트 측면에서도 **목표가 Low $160 vs High $425의 스프레드가 매우 큼** → 이는 기대가 갈리는 구간이며, 특정 시나리오에 따라 가격 변동성이 커질 수 있음을 내포합니다.\n* **Visa 관련 애널리스트 의견도 혼재:** “UBS Group, Visa 주가 전망 하향”이 Neutral/그 외 뉴스 흐름 속에 존재 → 성장 내러티브와 별개로 **단기 가정(실적/가이던스/밸류에이션) 조정이 있었을 가능성**을 시사합니다.\n\n---\n\n[투자 인사이트]\n* 결론적으로 이번 3일 정보는 “단일 이벤트로 시장이 방향성을 강하게 바꾼” 그림이라기보다는, **디지털/온체인 전환 같은 구조적 성장 테마(특히 Visa) + 전반적 시장 분위기(V자형 바닥 언급) + 규제/법적 불확실성(Risk)**이 **같이 작동**하는 구간입니다.\n* 따라서 투자 접근은 다음처럼 정리됩니다.\n  * **장기/중기 관점:** Visa의 온체인 전환 관련 뉴스는 테마 정합성이 있어 **추세 추종(비중 유지/점진 매수)** 쪽 논리가 상대적으로 강함.\n  * **단기 관점:** Risk/Negative 및 UBS 전망 하향(존재) + 목표가 스프레드 확대는 **단기 변동성 관리(분할 접근/리스크 제한)**가 필요함.\n\n---\n\n[투자 판단]\n* **투자: 투자(단, 분할 접근/리스크 관리 전제)**\n\n---\n\n[판단 근거]\n* **정량(감정) 근거:** Positive(9.5%) + Growth(7.9%)는 Risk/Negative(11.1% + 6.3%)를 압도하진 않지만, “완전히 부정으로 기울었다”기보다는 **성장/우호 신호가 동반된 중립 우위 흐름**입니다.\n* **펀더멘털/애널리스트 근거:** 합산 등급이 **Buy 52, Hold 8**으로 Buy 쏠림이 명확하며, 목표가 **Consensus/Median이 높게 형성**되어 있습니다.\n* **상충 정보 반영:** “UBS 전망 하향” 같은 부정 신호가 있어 **일괄 매수보다 분할 접근이 합리적**입니다(목표가 스프레드가 큰 점도 이를 뒷받침).\n* **추정치 제한 고려:** 제공된 애널리스트 실적 추정치(2030-09)는 **매출/EPS가 $0.0B/$0.00으로 제시**되어 있어 정교한 밸류에이션 근거는 부족합니다. 그 대신 **뉴스 흐름(온체인 전환) + 컨센서스(Buy 우위)** 중심으로 판단했습니다."
+  "investment_judgment": "[핵심 요약]\n* 최근 3일은 **특정 자산(가령 Visa(V))에 대한 개별 호재/악재 뉴스가 산발적으로 등장**했지만, 시장/정책 리스크(특히 **미 연방 대법원 ‘출생시 시민권’ 관련**)가 “Risk” 비중을 키우며 **전반적인 불확실성**을 확대.\n* 그럼에도 4/1에 **성장(Growth)·긍정(Positive) 뉴스가 동시 다발적으로 확대**되어, 단기적으로는 “실적/기술/밸류” 쪽 기대가 일부 유입된 흐름.\n* 애널리스트 컨센서스는 대체로 **매수 우위(Buy 52, Hold 8)**이나, 이번 뉴스 흐름만으로는 “즉시 강한 확신”을 주기보다는 **리스크 관리가 필요한 구간**으로 해석됨.\n\n[전체 흐름 분석]\n* 감정 분포상(총 58건) **Neutral 50%**로 대부분이 정보성/중립이었고, **Risk 13.8% + Negative 13.8% = 부정 축이 약 27.6%**를 차지.\n* 날짜별로는 3/30이 Neutral 중심(Neutral 3, Risk 2, Growth 1)인 반면, **4/1이 이벤트 밀도가 가장 높아(Neutral 25, Negative 7, Risk 6, Growth 6, Positive 3, Mixed 3)** 시장 변동성이 커진 양상.\n* 특히 4/1에 반복적으로 등장하는 키워드가 **(1) 법/정책 이슈(대법원 구두변론, 출생시 시민권 등) (2) Visa 관련 업데이트(모바일 결제·AI/파트너십 관련, 일부 분석 리포트/가격 코멘트) (3) 일부 기업 설비투자(GM) 및 기술(AMD/PC 등)**로, 자산별 “방향성”이 완전히 한쪽으로 수렴하지는 않음.\n* 다만 Visa 관련 뉴스는 **기술/상품 개선(모바일 결제 추적), AI/계약 관련 스토리, 가치/할인 프레이밍** 등이 섞여 있어 “성장 기대 vs 논쟁적/변동 가능성”이 동시에 존재.\n\n[긍정 요인]\n* **Visa(V) 관련 ‘플랫폼/기능 고도화’ 성격의 Growth/기능 개선 뉴스 존재**\n  * 예: 모바일 뱅킹 앱에서 **반복 결제 추적을 더 쉽게**(Insider Monkey) → 결제/소비 데이터 활용 및 사용자 경험 개선 기대.\n* 애널리스트 측면에서 **전반적 등급이 매수 우위**\n  * Strong Buy 0, Buy 52, Hold 8, Sell 계열 0 → 기본 방향은 “긍정적”\n* (섹터/수요 간접 요인) **GM의 차세대 V-8 엔진 관련 투자** 같은 실물 투자 신호가 4/1 Positive로 잡혀, 경제/제조 사이클 기대를 일부 지지.\n\n[부정 요인]\n* **SCOTUS(대법원) ‘출생시 시민권’ 이슈가 Risk로 반복**\n  * 3/30, 4/1 모두 Risk/불리 가능성(트럼프에 불리한 판결 가능성 등) 언급이 있어, 단기 시장 심리(규제/정치 불확실성) 부담.\n* **Visa에 대한 시각이 완전히 일관되지 않음(혼재)**\n  * 일부는 강세/가치(할인) 프레이밍(Seeking Alpha의 “할인”), 또 일부는 “AI 분쟁 도구/ Ramp 파트너십 이후 논리가 바뀔 수 있다”(simplywall.st, Mixed) → 스토리의 변동성.\n* **시장 내 단기 베팅/옵션 관련 Risk 신호 존재**\n  * TSLA/FTNT 등에서 옵션 거래 베팅 유입, TSLA V/OI 260.0 등( Moomoo ) → 일부 과열/변동성 확대 가능성.\n\n[투자 인사이트]\n* 이번 3일 흐름은 “특정 기업의 단일 호재로 추세가 확정”되기보다는,\n  * **(1) 정책/법률 불확실성(Risk)이 시장 전반의 변동성을 키우는 가운데**\n  * **(2) 일부(특히 Visa)에서 결제/데이터/AI 관련 제품 고도화 및 가치 논리가 동시에 제시**\n  되는 구조로 보임.\n* 따라서 투자 관점의 결론은 **“강한 추격 매수보다는, 불확실성에 따른 변동을 감안한 포지셔닝”**이 합리적.\n  * 특히 Visa 관련 뉴스는 기능 개선(긍정)과 논쟁/불확실성(Mixed·Risk)이 같이 있어, **실적/가이던스 확인 전에는 이벤트 모멘텀에 과잉 반응하기보다 분할 접근**이 적합.\n* 애널리스트가 전반적으로 Buy로 기울어 있어도, 이번 뉴스 흐름의 큰 축은 정책 리스크이므로 **단기 타이밍 리스크를 낮추는 전략**(분할매수/보수적 진입)이 중요.\n\n[투자 판단]\n* **보류(Invest 보류, 조건부 접근)**\n\n[판단 근거]\n* 뉴스 감정 기준으로 부정 축(Risk+Negative)이 **약 27.6%**로 무시하기 어려운 수준이며, 특히 SCOTUS(출생시 시민권) 이슈가 반복되어 **단기 시장 불확실성이 상존**.\n* Visa 관련 뉴스는 긍정(Growth/기능개선)과 Mixed/리스크(논리 변동 가능성)가 공존 → **단기 방향성 확정 근거가 약함**.\n* 그럼에도 애널리스트 컨센서스는 Buy 우위(Strong Sell/Sell 0, Buy 52)라서 “비투자”까지는 부족하지만, 현재 뉴스 흐름만으로는 **바로 투자 확신을 주는 구조가 아니므로 보류**가 타당.\n* 결론적으로: **장기 관점에서는 긍정적 내러티브가 있으나, 단기 정책/심리 리스크가 커서 진입 타이밍을 조정**하는 것이 최적."
 }

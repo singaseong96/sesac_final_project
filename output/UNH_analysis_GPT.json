@@ -1,154 +1,163 @@
 {
   "meta": {
     "symbol": "UNH",
-    "analysis_date": "2026-04-01T03:14:37.273254+00:00",
-    "news_period": "2026-03-29 ~ 2026-03-31",
-    "news_count": 19,
+    "analysis_date": "2026-04-02T03:26:58.271726+00:00",
+    "news_period": "2026-03-30 ~ 2026-04-01",
+    "news_count": 20,
     "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 13,
-    "Negative": 2,
-    "Risk": 2,
-    "Mixed": 1,
-    "Positive": 1
+    "Neutral": 7,
+    "Positive": 4,
+    "Risk": 4,
+    "Mixed": 3,
+    "Growth": 1,
+    "Negative": 1
   },
   "sentiment_by_date": {
-    "2026-03-29": {
-      "Neutral": 2,
-      "Negative": 1
-    },
     "2026-03-30": {
-      "Neutral": 5,
-      "Risk": 2,
-      "Positive": 1
+      "Neutral": 3,
+      "Negative": 1,
+      "Mixed": 1
     },
     "2026-03-31": {
-      "Neutral": 6,
+      "Neutral": 3,
+      "Mixed": 1
+    },
+    "2026-04-01": {
+      "Positive": 4,
+      "Risk": 4,
       "Mixed": 1,
-      "Negative": 1
+      "Growth": 1,
+      "Neutral": 1
     }
   },
   "news_with_sentiment": [
     {
+      "date": "2026-04-01 17:36:00",
+      "title": "UnitedHealth Group 주식(UNH) 급락, 버핏 매입가 아래로 떨어진 데 대한 의견 - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/UnitedHealth+Group+Stock+%28UNH%29+Opinions+on+Plunge+Below+Buffett+Purchase+Price",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-04-01 16:10:04",
+      "title": "UnitedHealth(UNH)는 다음 실적 발표에서도 다시 예상치를 웃돌까? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-unh-beat-estimates-again-161004412.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 15:40:06",
+      "title": "UnitedHealth 합의로 행동 건강 패리티와 향후 위험에 주목 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/healthcare/nyse-unh/unitedhealth-group/news/unitedhealth-settlement-puts-focus-on-behavioral-health-pari",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 14:46:59",
+      "title": "월스트리트가 UnitedHealth의 실적 잠재력을 과소평가하는 이유 - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/04/01/why-raymond-james-says-wall-street-is-underestimating-unitedhealths-earnings-power/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 14:42:59",
+      "title": "월스트리트가 UNH 주가 목표치를 제시 - Finbold",
+      "url": "https://finbold.com/wall-street-sets-unh-stock-price-target/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 14:08:14",
+      "title": "UnitedHealth 주식, Raymond James에서 투자의견 상향 (UNH:NYSE) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4571364-unitedhealth-stock-upgraded-raymond-james",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 13:12:43",
+      "title": "애널리스트들, 헬스케어 기업들에 대한 인사이트 제공: Centessa Pharmaceuticals(CNTA), UnitedHealth(UNH) 및 Adagio Medical Holdings(ADGM) - theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/UNH-N/pressreleases/1090113/analysts-offer-insights-on-healthcare-companies-centessa-pharmaceuticals-cnta-unitedhealth-unh-and-adagio-medical-holdings-adgm/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 12:46:50",
+      "title": "UNH, 주 및 연방 차원의 반발 속 DEI 약속 조정 - The New Hampshire",
+      "url": "https://www.tnhdigital.com/article/2026/04/unh-navigates-dei-commitments-amid-state-and-federal-pushback",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 12:35:06",
+      "title": "더럼 타운홀 회의, 캠퍼스 내 총기 문제 논의 - The New Hampshire",
+      "url": "https://www.tnhdigital.com/article/2026/04/durham-town-hall-meeting-discusses-guns-on-campus",
+      "sentiment": "Risk"
+    },
+    {
+      "date": "2026-04-01 09:57:14",
+      "title": "Raymond James, UnitedHealth(UNH.US) 투자의견 Buy로 상향, 목표주가 330달러 제시 - news.futunn.com",
+      "url": "https://news.futunn.com/en/post/70967187/raymond-james-upgrades-unitedhealth-unhus-to-buy-rating-announces-target?level=1&data_ticket=1775092966639861",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 06:10:41",
+      "title": "단체, UNH의 동물 연구 시설 환경 문제에 대해 벌금 부과 요구 - AOL.com",
+      "url": "https://www.aol.com/group-demands-unh-face-fines-224900743.html",
+      "sentiment": "Risk"
+    },
+    {
       "date": "2026-03-31 21:48:45",
-      "title": "UnitedHealth Group(NYSE:UNH) 3.2% 상승 거래 중 - 매수해야 할까? - marketbeat.com",
+      "title": "UnitedHealth Group(NYSE:UNH) 3.2% 상승 거래 - 매수해야 할까? - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-nyseunh-trading-32-higher-should-you-buy-2026-03-31/",
       "sentiment": "Mixed"
     },
     {
-      "date": "2026-03-31 14:22:08",
-      "title": "Bernstein, UnitedHealth(UNH.US) 매수 등급 유지, 목표주가 405달러 유지 - 富途牛牛",
-      "url": "https://news.futunn.com/en/post/70911534/bernstein-maintains-unitedhealth-unhus-with-buy-rating-maintains-target-price?level=1&data_ticket=1775006624882232",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 10:19:25",
-      "title": "J. Safra Sarasin Holding AG, UnitedHealth Group Incorporated $UNH 주식 19,591주 추가 매수 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-safra-sarasin-holding-ag-acquires-19591-shares-of-unitedhealth-group-incorporated-unh-2026-03-31/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 10:07:18",
-      "title": "알라바마 연금제도, UnitedHealth Group Incorporated $UNH 주식 보유액 6,361만 달러 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-retirement-systems-of-alabama-has-6361-million-stock-position-in-unitedhealth-group-incorporated-unh-2026-03-31/",
+      "date": "2026-03-31 16:05:16",
+      "title": "$UnitedHealth (UNH.US)$ - Moomoo",
+      "url": "https://www.moomoo.com/community/feed/unitedhealth-unh-us-116324638130182",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-31 09:43:14",
-      "title": "Mn Services Vermogensbeheer B.V., UnitedHealth Group Incorporated $UNH 보유 비중 확대 - marketbeat.com",
+      "title": "Mn Services Vermogensbeheer B.V.의 UnitedHealth Group Incorporated $UNH 보유 지분 증가 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-increases-position-in-unitedhealth-group-incorporated-unh-2026-03-31/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-31 09:08:00",
-      "title": "임금 격차 신화, 데넷 로드 단절, UNH 캠퍼스의 총기: 독자투고 - Seacoastonline.com",
+      "title": "임금 격차 신화, Dennett Road 단절, UNH 캠퍼스 내 총기: 독자투고 - Seacoastonline.com",
       "url": "https://www.seacoastonline.com/story/opinion/letters/2026/03/31/wage-gap-myth-dennett-road-disconnect-guns-on-unh-campus-letters/89391761007/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 08:06:00",
-      "title": "UNH 주가, 워런 버핏의 매입가 아래로 다시 하락… 연간 매출은 30년 만에 첫 감소 직면 — AI가 장기 해법이 될 수 있다 - stocktwits.com",
-      "url": "https://stocktwits.com/news-articles/markets/equity/unh-stock-below-buffett-entry-price-first-revenue-decline-30-years-ai/cZEPohoRINz",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-31 04:22:05",
-      "title": "UNHU | Direxion Daily UNH Bull 기관 보유 - Quiver Quantitative",
-      "url": "https://www.quiverquant.com/stock/UNHU/institutions/",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-30 22:01:17",
-      "title": "UnitedHealth Group(NYSE:UNH) 주가 1.1% 상승 - 이유는 다음과 같습니다 - marketbeat.com",
+      "title": "UnitedHealth Group(NYSE:UNH) 1.1% 상승 거래 - 이유는 다음과 같습니다 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/unitedhealth-group-nyseunh-trading-up-11-heres-why-2026-03-30/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-30 16:34:15",
-      "title": "독자투고: UNH는 주 내 최대 규모 간호대학의 본거지다 - NH Business Review",
+      "date": "2026-03-30 15:31:01",
+      "title": "독자 투고: UNH는 주(州) 최대 간호학교의 본고장입니다 - NH Business Review",
       "url": "https://www.nhbr.com/letter-to-the-editor-unh-is-home-to-the-states-largest-school-of-nursing/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-30 14:20:42",
-      "title": "Unitedhealth Group Inc 주식(UNH), 3월 30일 3.89% 하락: 투자자가 알아야 할 사항 - TradingKey",
+      "date": "2026-03-30 14:16:46",
+      "title": "Unitedhealth Group Inc 주식(UNH), 3월 30일 3.89% 하락: 투자자가 알아야 할 점 - TradingKey",
       "url": "https://www.tradingkey.com/news/Market-Movers/261734131-market-movers-unh-20260330",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-30 11:15:05",
-      "title": "UnitedHealth UNH 배당, 시장 변화 신호 - Colitco",
-      "url": "https://colitco.com/unitedhealth-unh-dividend-schd-dip-buying-3003202615/",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-30 10:45:48",
-      "title": "TrueMark Investments LLC, UnitedHealth Group Incorporated $UNH에 346만 달러 신규 투자 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-truemark-investments-llc-makes-new-346-million-investment-in-unitedhealth-group-incorporated-unh-2026-03-30/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 08:40:50",
-      "title": "Donaldson Capital Management LLC, UnitedHealth Group Incorporated $UNH 주식 보유 축소 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-donaldson-capital-management-llc-lowers-stock-holdings-in-unitedhealth-group-incorporated-unh-2026-03-30/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 07:11:15",
-      "title": "메인 여자 농구팀, America East 챔피언십 경기에서 시즌 마무리 - The Maine Campus",
-      "url": "https://mainecampus.com/category/sports/2026/03/maine-womens-basketball-season-ends-in-america-east-championship-game/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-30 07:00:00",
-      "title": "전략에서 사이버보안 리더십으로: Gina Yacone의 CISO로의 여정 - University of New Hampshire",
-      "url": "https://www.unh.edu/wildcat-voices/2026/03/strategy-cybersecurity-leadership-gina-yacones-journey-ciso",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 16:57:40",
-      "title": "Warren Buffett, 역사적인 UnitedHealth 주식 베팅으로 2억 6,500만 달러 이상 손실 - Finbold",
-      "url": "https://finbold.com/warren-buffett-has-lost-over-265-million-on-historic-unitedhealth-stock-bet/",
       "sentiment": "Negative"
     },
     {
-      "date": "2026-03-29 11:27:31",
-      "title": "UnitedHealth Group Incorporated $UNH 보유지분, Wedge Capital Management L L P NC에 의해 축소 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-unitedhealth-group-incorporated-unh-holdings-lowered-by-wedge-capital-management-l-l-p-nc-2026-03-29/",
-      "sentiment": "Neutral"
+      "date": "2026-03-30 11:15:05",
+      "title": "UnitedHealth UNH 배당, 시장 변화를 시사 - colitco.com",
+      "url": "https://colitco.com/unitedhealth-unh-dividend-schd-dip-buying-3003202615/",
+      "sentiment": "Mixed"
     },
     {
-      "date": "2026-03-29 07:03:16",
-      "title": "UnitedHealth Group Incorporated $UNH 주식, Acropolis Investment Management LLC가 매도 - Defense World",
-      "url": "https://www.defenseworld.net/2026/03/29/unitedhealth-group-incorporated-unh-shares-sold-by-acropolis-investment-management-llc.html",
+      "date": "2026-03-30 08:06:39",
+      "title": "Exchange Traded Concepts LLC, UnitedHealth Group Incorporated $UNH 보유 주식 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-grows-stock-holdings-in-unitedhealth-group-incorporated-unh-2026-03-30/",
       "sentiment": "Neutral"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-29 ──\n  [Negative] Warren Buffett, 역사적인 UnitedHealth 주식 베팅으로 2억 6,500만 달러 이상 손실 - Finbold\n  [Neutral] UnitedHealth Group Incorporated $UNH 보유지분, Wedge Capital Management L L P NC에 의해 축소 - marketbeat.com\n  [Neutral] UnitedHealth Group Incorporated $UNH 주식, Acropolis Investment Management LLC가 매도 - Defense World\n\n── 2026-03-30 ──\n  [Neutral] UnitedHealth Group(NYSE:UNH) 주가 1.1% 상승 - 이유는 다음과 같습니다 - marketbeat.com\n  [Neutral] 독자투고: UNH는 주 내 최대 규모 간호대학의 본거지다 - NH Business Review\n  [Risk] Unitedhealth Group Inc 주식(UNH), 3월 30일 3.89% 하락: 투자자가 알아야 할 사항 - TradingKey\n  [Risk] UnitedHealth UNH 배당, 시장 변화 신호 - Colitco\n  [Neutral] TrueMark Investments LLC, UnitedHealth Group Incorporated $UNH에 346만 달러 신규 투자 - marketbeat.com\n  [Neutral] Donaldson Capital Management LLC, UnitedHealth Group Incorporated $UNH 주식 보유 축소 - marketbeat.com\n  [Positive] 메인 여자 농구팀, America East 챔피언십 경기에서 시즌 마무리 - The Maine Campus\n  [Neutral] 전략에서 사이버보안 리더십으로: Gina Yacone의 CISO로의 여정 - University of New Hampshire\n\n── 2026-03-31 ──\n  [Mixed] UnitedHealth Group(NYSE:UNH) 3.2% 상승 거래 중 - 매수해야 할까? - marketbeat.com\n  [Neutral] Bernstein, UnitedHealth(UNH.US) 매수 등급 유지, 목표주가 405달러 유지 - 富途牛牛\n  [Neutral] J. Safra Sarasin Holding AG, UnitedHealth Group Incorporated $UNH 주식 19,591주 추가 매수 - marketbeat.com\n  [Neutral] 알라바마 연금제도, UnitedHealth Group Incorporated $UNH 주식 보유액 6,361만 달러 - marketbeat.com\n  [Neutral] Mn Services Vermogensbeheer B.V., UnitedHealth Group Incorporated $UNH 보유 비중 확대 - marketbeat.com\n  [Neutral] 임금 격차 신화, 데넷 로드 단절, UNH 캠퍼스의 총기: 독자투고 - Seacoastonline.com\n  [Negative] UNH 주가, 워런 버핏의 매입가 아래로 다시 하락… 연간 매출은 30년 만에 첫 감소 직면 — AI가 장기 해법이 될 수 있다 - stocktwits.com\n  [Neutral] UNHU | Direxion Daily UNH Bull 기관 보유 - Quiver Quantitative",
-    "sentiment_block": "총 뉴스 19건 분석 결과:\n  Positive     1건 (  5.3%) █\n  Growth       0건 (  0.0%) \n  Neutral     13건 ( 68.4%) █████████████\n  Mixed        1건 (  5.3%) █\n  Risk         2건 ( 10.5%) ██\n  Negative     2건 ( 10.5%) ██\n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:2, Negative:1\n  2026-03-30: Neutral:5, Risk:2, Positive:1\n  2026-03-31: Neutral:6, Mixed:1, Negative:1",
+    "news_block": "\n── 2026-03-30 ──\n  [Neutral] UnitedHealth Group(NYSE:UNH) 1.1% 상승 거래 - 이유는 다음과 같습니다 - MarketBeat\n  [Neutral] 독자 투고: UNH는 주(州) 최대 간호학교의 본고장입니다 - NH Business Review\n  [Negative] Unitedhealth Group Inc 주식(UNH), 3월 30일 3.89% 하락: 투자자가 알아야 할 점 - TradingKey\n  [Mixed] UnitedHealth UNH 배당, 시장 변화를 시사 - colitco.com\n  [Neutral] Exchange Traded Concepts LLC, UnitedHealth Group Incorporated $UNH 보유 주식 확대 - MarketBeat\n\n── 2026-03-31 ──\n  [Mixed] UnitedHealth Group(NYSE:UNH) 3.2% 상승 거래 - 매수해야 할까? - MarketBeat\n  [Neutral] $UnitedHealth (UNH.US)$ - Moomoo\n  [Neutral] Mn Services Vermogensbeheer B.V.의 UnitedHealth Group Incorporated $UNH 보유 지분 증가 - MarketBeat\n  [Neutral] 임금 격차 신화, Dennett Road 단절, UNH 캠퍼스 내 총기: 독자투고 - Seacoastonline.com\n\n── 2026-04-01 ──\n  [Mixed] UnitedHealth Group 주식(UNH) 급락, 버핏 매입가 아래로 떨어진 데 대한 의견 - Quiver Quantitative\n  [Positive] UnitedHealth(UNH)는 다음 실적 발표에서도 다시 예상치를 웃돌까? - Yahoo Finance\n  [Risk] UnitedHealth 합의로 행동 건강 패리티와 향후 위험에 주목 - simplywall.st\n  [Growth] 월스트리트가 UnitedHealth의 실적 잠재력을 과소평가하는 이유 - 24/7 Wall St.\n  [Positive] 월스트리트가 UNH 주가 목표치를 제시 - Finbold\n  [Positive] UnitedHealth 주식, Raymond James에서 투자의견 상향 (UNH:NYSE) - Seeking Alpha\n  [Neutral] 애널리스트들, 헬스케어 기업들에 대한 인사이트 제공: Centessa Pharmaceuticals(CNTA), UnitedHealth(UNH) 및 Adagio Medical Holdings(ADGM) - theglobeandmail.com\n  [Risk] UNH, 주 및 연방 차원의 반발 속 DEI 약속 조정 - The New Hampshire\n  [Risk] 더럼 타운홀 회의, 캠퍼스 내 총기 문제 논의 - The New Hampshire\n  [Positive] Raymond James, UnitedHealth(UNH.US) 투자의견 Buy로 상향, 목표주가 330달러 제시 - news.futunn.com\n  [Risk] 단체, UNH의 동물 연구 시설 환경 문제에 대해 벌금 부과 요구 - AOL.com",
+    "sentiment_block": "총 뉴스 20건 분석 결과:\n  Positive     4건 ( 20.0%) ████\n  Growth       1건 (  5.0%) █\n  Neutral      7건 ( 35.0%) ███████\n  Mixed        3건 ( 15.0%) ███\n  Risk         4건 ( 20.0%) ████\n  Negative     1건 (  5.0%) █\n\n날짜별 감정 흐름:\n  2026-03-30: Neutral:3, Negative:1, Mixed:1\n  2026-03-31: Neutral:3, Mixed:1\n  2026-04-01: Positive:4, Risk:4, Mixed:1, Growth:1, Neutral:1",
     "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 1  Buy: 40  Hold: 7  Sell: 4  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $444  Low: $327  Consensus: $385.38  Median: $390.5\n▶ 실적 추정치 (2030-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $213.24694651127882  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "[핵심 요약]\n* 최근 3일은 **중립(대부분)** 흐름 속에서, UNH 관련 이슈가 **(1) 대규모 투자자 포지션 변화/매도·비중 축소**, **(2) 매출 둔화·배당 관련 시장 해석**, **(3) 단기 변동(상승/하락 혼재)**로 엇갈렸음.\n* 애널리스트 컨센서스는 **Buy 우위(Strong Buy 1, Buy 40)**이나, 일부 뉴스는 **버핏 관련 손실/주가가 매입가 아래로 하락**, **연간 매출 감소 첫 진입 신호**를 제기.\n\n[전체 흐름 분석]\n* **03/29~03/31 전반**: 감정분포는 Neutral이 68.4%로 지배적이며, 방향성 있는 “대세 호재/대세 악재”보다 **포지셔닝(기관/펀드의 매수·매도)과 실적 해석(매출 감소·배당 신호)**이 주가에 반복적으로 영향을 준 패턴.\n* **03/30~03/31**: 주가가 “소폭 상승”과 “일중/단기 하락(리스크 기사)”이 함께 나타나, 시장이 **기본 체력은 인정하되(애널리스트 다수 매수), 단기 불확실성에는 민감**한 상태로 해석됨.\n* **기관 트렌드**: 일부는 신규 투자/비중 확대(예: 신규투자 346만 달러, 추가 매수 사례), 반면 다른 쪽은 보유 축소/매도(버핏 관련 손실 언급, 보유지분 축소, 매도)로 **순수한 한 방향 흐름이라기보다 재조정**에 가까움.\n\n[긍정 요인]\n* **애널리스트 수급/시각 우위**: 합산 등급에서 **Buy가 Hold/Sell보다 압도적으로 많음**(Buy 40, Hold 7, Sell 4).\n* **목표주가 컨센서스 상단 여지**: 합의 **Consensus $385.38(High $444 / Low $327)**로, 시장 기대치가 완전히 꺾이지는 않음.\n* **일부 기관의 추가 매수/신규 투자** 뉴스 존재: 특정 운용사들의 **추가 매수 또는 신규 투자** 사례가 확인됨(완전한 이탈 국면으로 보기 어려움).\n\n[부정 요인]\n* **실적/성장 우려를 직접 언급한 부정성**: “**연간 매출 30년 만에 첫 감소**” 및 “장기 해법이 AI일 수 있다” 같은 프레이밍이 단기 리스크로 작동.\n* **주가가 매입가 아래로 하락** 관련 부정 기사: “워런 버핏 매입가 아래로 다시 하락… 손실” 류의 메시지는 심리 측면 부담.\n* **배당을 ‘시장 변화 신호’로 해석**하는 리스크성 기사: 배당 관련 해석이 나쁜 방향으로 연결될 경우 변동성 확대 요인.\n* **기관 포지션 축소/매도**: 보유지분 감소·매도 관련 중립/리스크성 기사들이 함께 존재해, ‘모두가 확신하는 국면’은 아님.\n\n[투자 인사이트]\n* 결론적으로 최근 3일은 **“장기 성장 스토리에는 컨센서스가 우호적(Buy 다수)”**이지만, **단기적으로는 실적(매출 둔화/감소)과 자본배분(배당) 해석, 그리고 대형 투자자 포지션 재조정**이 동시에 나타난 구간입니다.\n* 따라서 투자 관점의 핵심은 **방향성 베팅(적극 매수) vs 확인 후 진입(보류)**의 균형입니다.\n  * 애널리스트 다수가 Buy이므로 **기본 우량주/중장기 코어 후보**로 볼 근거는 있으나,\n  * 뉴스 흐름에서 **“매출 감소 첫 진입” 같은 이벤트성 우려**가 섞여 있어, 현 구간에서는 **추가 하락/변동성 확대 가능성**을 배제하기 어렵습니다.\n* 실무적으로는 “즉시 올인”보다는, **실적(매출 흐름)과 배당 관련 회사 스탠스가 명확해지는지**를 확인하면서 **분할 접근**이 더 합리적입니다(이번 데이터는 그 ‘확인’이 충분히 제공되기 전 단계로 해석).\n\n[투자 판단]\n* **보류(관망) — 단, 중장기 코어로는 ‘조건부 접근’이 합리적**\n\n[판단 근거]\n* **찬성 근거**: 애널리스트 등급이 Buy 중심(Strong Buy 1 / Buy 40)이고, 목표주가 컨센서스도 매력 구간(Consensus $385.38, High $444)으로 제시됨.\n* **보류 근거**: 동시에 뉴스에서는 **매출 감소 첫 진입 우려**, **배당을 부정 신호로 해석**, **대형 투자자 손실/주가 하락 관련 심리 자극**, **기관 보유 축소/매도**가 함께 등장.  \n  → 즉, “좋다/나쁘다”가 아니라 **불확실성이 섞인 재평가 구간**이라서, 제공된 3일 데이터만으로는 적극 매수의 확신이 부족함.\n* **정량 한계**: 입력 데이터에 현재가 및 TTM 멀티플(P/E 등)이 “N/A”로 제공되어, DCF 내재가치(DCF $213.25) 대비 현재가 검증이 불가능. 이런 상황에서 공격적 투자 결정보다는 보류가 더 근거 중심적임."
+  "investment_judgment": "[핵심 요약]\n* 최근 3일간 UNH는 **단기 변동성(3/30~3/31 혼조, 4/1 급변/급락 언급)** 속에서도, 4/1을 중심으로 **애널리스트 목표주가 상향(예: Raymond James Buy, 목표 330달러 제시 등) 및 실적 기대(실적 상회 가능성)**가 재부각됨.\n* 동시에 4/1에는 **규정/정책·사회 이슈(DEI 관련 반발, 동물 연구 시설 환경 문제 벌금 요구, 캠퍼스 내 총기 이슈 등)** 같은 **리스크성 뉴스가 동반**되어 투자심리를 상쇄.\n\n[전체 흐름 분석]\n* 3/30~3/31: “상승/보합”이 섞여 나오지만, 한편으로 **하락(3.89% 하락 언급)**도 있어 방향성은 약함. 기관/지분 확대(보유 확대) 같은 수급 관련 중립 신호가 일부 존재.\n* 4/1: **목표주가 상향·실적 상회 기대(긍정)**가 집중되었지만, **DEI 조정, 환경/벌금 요구 등 리스크(부정/위험)**도 같은 날 다수 등장.  \n→ 결론적으로 **펀더멘털 기대(실적/목표주가) vs. 비재무 리스크(규제·사회 이슈)의 줄다리기** 구도가 형성.\n\n[긍정 요인]\n* **애널리스트 톤 개선**: 애널리스트 합산 등급에서 Buy(40) 비중이 크고, 4/1에 **투자의견 상향 및 목표주가 제시(컨센서스 385.38, High 444, Median 390.5)**가 확인됨.\n* **실적 모멘텀 기대**: “다음 실적 발표에서 예상치 상회” 같은 **실적 기대 뉴스**가 다수(Positive/Growth).\n* **수급 측면의 지지 신호**: 보유 지분 확대(Exchange Traded Concepts, Mn Services Vermogensbeheer 등)와 같은 중립 신호가 있어 단기 매도만으로 수급이 악화됐다고 보기 어려움.\n* **배당 관련 ‘시장 변화’ 언급(혼재)**: 배당 이슈가 “긍정”으로만 나오진 않지만, 최소한 주주환원/자본배분 관련 관심이 지속됨.\n\n[부정 요인]\n* **단기 주가 변동성 확대**: 4/1에 “급락”이 언급되며, 긍정 뉴스에도 불구하고 가격이 흔들리는 모습.\n* **리스크성 이벤트 동시다발**(특히 4/1):\n  * **DEI 약속 조정 및 반발(리스크)**: 정책/평판 이슈로 비용·운영 불확실성 가능.\n  * **동물 연구 시설 환경 문제 벌금 요구(리스크)**: 규제/벌금 성격의 직접 비용 위험.\n  * **캠퍼스 내 총기 문제(리스크)**: 이슈 성격상 평판/운영 이슈로 단기 민감도 확대 가능.\n* 감정 흐름상 4/1은 **Positive(4)와 Risk(4)가 동시에 최대로 등장** → “좋은 재료”가 있어도 “사건/규제 리스크”가 투자심리를 제한했음을 시사.\n\n[투자 인사이트]\n* 이번 3일은 **“밸류에이션 업사이드 기대(목표주가 상향, 실적 기대)”가 반영되려는 흐름**과 **“비재무(사회/규제/환경) 리스크가 단기 주가를 압박”**하는 흐름이 동시에 나타났습니다.\n* 따라서 투자 관점에서의 핵심은:\n  * **중장기(실적·가이던스/업계 업사이드)**는 긍정 신호가 상대적으로 우세(애널리스트 Buy 중심, 목표가 컨센서스 존재).\n  * 다만 **단기 진입(타이밍)**은 불리할 수 있음: 4/1처럼 리스크 뉴스가 몰릴 때는 목표주가 상향이 즉시 주가를 방어하지 못한 정황이 있음.\n* 결론적으로, “좋은 실적 기대”를 전제로 하되, **리스크성 이슈(규제/벌금/정책·평판)에서 뉴스 공백이 생길 때** 또는 **실적 발표를 통해 불확실성이 축소될 때** 매력도가 커질 가능성이 큼.\n\n[투자 판단]\n* **투자: 보류(Watch / 분할 접근 권고)**\n\n[판단 근거]\n* 긍정 요인이 확실합니다: 애널리스트 등급에서 **Buy(40) 압도적**, 목표주가 **컨센서스 385.38(중간값 390.5, High 444)**로 상향 기대가 존재.\n* 그러나 4/1에 **Risk가 Positive와 동일한 수준(각 4건)**으로 동시에 확대되었고, “급락” 언급처럼 **단기 주가가 기대 재료를 즉시 흡수하지 못하는 흐름**이 관찰됩니다.\n* 입력 데이터에는 현재가 수치가 없어(“현재가: $N/A”) 정확한 수익률/밸류에이션 매력도를 단정할 수 없습니다. 따라서 **단기 타이밍을 확정하기보다 보류 후 조건부 진입**이 데이터 기반으로 가장 보수적·합리적입니다."
 }

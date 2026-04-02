@@ -1,104 +1,290 @@
 {
   "meta": {
     "symbol": "GS",
-    "analysis_date": "2026-04-01T03:13:09.052441+00:00",
-    "news_period": "2026-03-29 ~ 2026-03-31",
-    "news_count": 44,
+    "analysis_date": "2026-04-02T03:25:22.440636+00:00",
+    "news_period": "2026-03-30 ~ 2026-04-01",
+    "news_count": 57,
     "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 25,
-    "Positive": 7,
-    "Growth": 6,
-    "Mixed": 3,
-    "Risk": 2,
-    "Negative": 1
+    "Neutral": 24,
+    "Positive": 14,
+    "Growth": 13,
+    "Risk": 4,
+    "Negative": 1,
+    "Mixed": 1
   },
   "sentiment_by_date": {
-    "2026-03-29": {
-      "Neutral": 7,
-      "Positive": 1,
-      "Mixed": 1
-    },
     "2026-03-30": {
-      "Neutral": 11,
-      "Growth": 3,
-      "Positive": 2,
+      "Neutral": 5,
+      "Growth": 2,
+      "Positive": 1,
       "Risk": 1
     },
     "2026-03-31": {
       "Neutral": 7,
-      "Positive": 4,
-      "Growth": 3,
-      "Mixed": 2,
-      "Negative": 1,
-      "Risk": 1
+      "Positive": 3,
+      "Risk": 3,
+      "Growth": 2,
+      "Mixed": 1
+    },
+    "2026-04-01": {
+      "Neutral": 12,
+      "Positive": 10,
+      "Growth": 9,
+      "Negative": 1
     }
   },
   "news_with_sentiment": [
     {
-      "date": "2026-03-31 23:42:00",
-      "title": "NH증권, 원가 안정화로 전망 개선되자 GS건설 목표주가 상향 - CHOSUNBIZ - biz.chosun.com",
-      "url": "https://biz.chosun.com/en/en-finance/2026/04/01/ZUYDEKBSIBFZLNU3U64XTQEG6A/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-31 23:10:07",
-      "title": "[클릭 e스탁] “GS건설, 신사업 중심 구조 개편 예상... 목표주가 상향” - 아시아경제",
-      "url": "https://www.asiae.co.kr/en/article/notable-stocks/2026040108100600631",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-31 20:19:00",
-      "title": "IAPP GS 2일차: 프라이버시에 대한 법원의 권한과 미·EU 데이터법 긴장 - Law.com",
-      "url": "https://www.law.com/legaltechnews/2026/03/31/iapp-gs-day-2-courts-powers-over-privacy-and-us-eu-data-law-tension-/?slreturn=20260331215839",
+      "date": "2026-04-01 22:53:00",
+      "title": "'우리가 이렇게 할 수 있는 것은 정말 좋은 기회입니다': GS Athletics 봉사의 날 - WJCL",
+      "url": "https://www.wjcl.com/article/ga-southern-athletics-day-of-service/70910654",
       "sentiment": "Neutral"
     },
     {
+      "date": "2026-04-01 21:45:03",
+      "title": "골드만삭스(GS), 시장보다 더 큰 상승폭 기록: 핵심 사실 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-rises-higher-214503038.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 20:43:09",
+      "title": "ABFOVXX 계절성 차트 - tradingview.com",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ABFOVXX/seasonals/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 19:48:58",
+      "title": "ABFOVXX 주가 및 차트 — NASDAQ:ABFOVXX - tradingview.com",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ABFOVXX/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 18:48:19",
+      "title": "골드만삭스 그룹(NYSE:GS) 목표주가를 HSBC에서 729.00달러로 하향 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/the-goldman-sachs-group-nysegs-price-target-lowered-to-72900-at-hsbc-2026-04-01/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-04-01 18:48:17",
+      "title": "Morgan Stanley, Goldman Sachs Group(NYSE:GS)에 새로운 1,021.00달러 목표주가 제시 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/the-goldman-sachs-group-nysegs-given-new-102100-price-target-at-morgan-stanley-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 18:30:11",
+      "title": "SSC GD GS Classes 2026 | SSC GD GS Practice Set 20 | SSC GD GS 2026 | Sonveer Sir의 GS",
+      "url": "https://mshale.com/9f6bcbe3-News/0f62b5fd-g1zBMM22RsM",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 17:10:38",
+      "title": "종이보다 더한 것: Buick Heritage Alliance는 자동차도 보존한다 - Old Cars Weekly",
+      "url": "https://www.oldcarsweekly.com/more-than-paper-the-buick-heritage-alliance-also-preserves-cars",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 16:10:03",
+      "title": "Goldman(GS), 다음 실적 발표에서도 다시 예상을 상회할까? - Yahoo Finance Australia",
+      "url": "https://au.finance.yahoo.com/news/goldman-gs-beat-estimates-again-161003884.html",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 16:01:42",
+      "title": "실바 33점, GS칼텍스 챔피언결정전 1차전 승리 - 서울경제",
+      "url": "https://en.sedaily.com/sports/2026/04/02/silva-scores-33-as-gs-caltex-takes-game-1-in-championship",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 15:41:55",
+      "title": "Goldman Sachs(GS)가 분기 실적을 상회할까? 예측...",
+      "url": "https://polymarket.com/event/gs-quarterly-earnings-gaap-eps-04-13-2026-15pt95",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 15:35:00",
+      "title": "GS 칼텍스, 김천 개막전 승리로 V리그 결승 57.9% 우위 확보 - CHOSUNBIZ",
+      "url": "https://biz.chosun.com/en/en-sports/2026/04/02/XGZFCRSFARB67ISICYZPUHOZ64/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 15:33:41",
+      "title": "GS 칼텍스 KIXX, 1차전 승리로 우승 확률 57.9% 확보 - 조선일보",
+      "url": "https://www.chosun.com/english/sports-en/2026/04/02/GZ6GDBR3TRCJDA4247WV3RYYYA/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 15:24:00",
+      "title": "MLB DFS 픽: 4/1/26 수요일 선발 투수 랭킹 - DraftKings Network",
+      "url": "https://dknetwork.draftkings.com/2026/04/01/mlb-dfs-picks-starting-pitcher-rankings-for-wednesday-4-1-26/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 13:45:42",
+      "title": "GS 칼텍스, 한국도로공사 상대로 챔피언결정전 개막전 승리 - 조선일보",
+      "url": "https://www.chosun.com/english/sports-en/2026/04/01/KHTJJ4YDBVAOBDLD5J436DG36A/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 12:40:34",
+      "title": "멈추지 않는 '3위 팀의 반란' 이후 GS칼텍스, 준PO·PO를 제치고 챔피언결정전 1차전 승리... 실바 33점 폭발 '우승 확률 57.9%' - starnewskorea.com",
+      "url": "https://www.starnewskorea.com/en/sports/2026/04/01/2026040121055760531",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 12:28:50",
+      "title": "Thermo Fisher Scientific, 바이오의약품 개발 가속화를 위한 Gibco CHOvantage GS 세포주 개발 키트 출시 - biopharmaapac.com",
+      "url": "https://biopharmaapac.com/news/120/7775/thermo-fisher-scientific-launches-gibco-chovantage-gs-cell-line-development-kit-to-accelerate-biologics-development.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 11:40:21",
+      "title": "GS건설 주식: 투자자 관심을 형성하는 핵심 사업 동력과 전략적 변화 - AD HOC NEWS",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/gs-engineering-and-const-stock-key-business-drivers-and-strategic/69047714",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 11:07:18",
+      "title": "Barclays, Goldman Sachs(GS.US)에 대해 매수 의견 유지, 목표주가 1,048달러 유지 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67766828/barclays-maintains-goldman-sachs-gsus-with-buy-rating-maintains-target?level=1&data_ticket=1775092281418537",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 11:00:15",
+      "title": "실적 성장 기준으로 주식 스크리닝을 해보니 Goldman Sachs Group(NYSE:GS)은 손쉽게 통과했다 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ran-stock-scan-earnings-growth-110015560.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 10:36:39",
+      "title": "Nisa Investment Advisors LLC, The Goldman Sachs Group, Inc. $GS 보유 비중 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-raises-holdings-in-the-goldman-sachs-group-inc-gs-2026-04-01/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 08:44:52",
+      "title": "GS Caltex Bae, who finished his 30th party, took his first step looking at the new decade. Who will - 매일경제",
+      "url": "https://www.mk.co.kr/en/sports/12005270",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 06:54:00",
+      "title": "태안 엑스포, GS리테일과 전국 홍보 강화 협력 - CHOSUNBIZ",
+      "url": "https://biz.chosun.com/en/en-society/2026/04/01/A5KFLHI5FZFD7L2IL7Y7RPFS2Y/?outputType=amp",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 06:13:00",
+      "title": "김성원, GS글로벌에 4만주 매입으로 힘 실어…한국서 가치 성장 다짐 - CHOSUNBIZ",
+      "url": "https://biz.chosun.com/en/en-industry/2026/04/01/3XE3JWRQZJGV5LBSNKEQW3HKJI/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 06:02:56",
+      "title": "GS 워리어스 대 워싱턴 위저즈 전체 경기 하이라이트 | 01/24/2019 NBA 시즌 [64dd61] - Fathom Journal",
+      "url": "https://fathomjournal.org/2df5b8d5smm/d64dd61a-p06uJrzH_2g.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 06:02:31",
+      "title": "GS Global CEO, 성장 자신감 표명 위해 주식 매입 - koreaherald.com",
+      "url": "https://www.koreaherald.com/article/10707774",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 06:01:59",
+      "title": "GS건설, 액화수소 저장 국책과제 수행기관으로 선정 - 매일경제",
+      "url": "https://www.mk.co.kr/en/realestate/12005011",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 05:53:38",
+      "title": "쿠팡 앱 이용자, 4개월 만에 반등... GS샵 두 자릿수 성장 - 아시아경제",
+      "url": "https://www.asiae.co.kr/en/article/distribution/2026040114495701684",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 05:21:54",
+      "title": "GS건설, 국책 액화수소 저장 기술 사업 주관기관 선정 - 서울경제",
+      "url": "https://en.sedaily.com/finance/2026/04/01/gs-ec-selected-to-lead-national-liquid-hydrogen-storage",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 05:15:13",
+      "title": "ABDDDXX 주가 및 차트 — NASDAQ:ABDDDXX - tradingview.com",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ABDDDXX/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 04:37:54",
+      "title": "GS글로벌 김성원 대표, 회사 주식 1억 원어치 매입 - 매일경제",
+      "url": "https://www.mk.co.kr/en/business/12004907",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-01 02:59:53",
+      "title": "갈라타사라이, 전국 팬들을 위해 'GS 카페' 선보인다 - Hürriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/galatasaray-to-roll-out-gs-kafe-for-fans-nationwide-220504",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-03-31 23:42:00",
+      "title": "NH증권, 비용 안정화로 GS건설 전망 개선되자 목표가 상향 - CHOSUNBIZ - Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-finance/2026/04/01/ZUYDEKBSIBFZLNU3U64XTQEG6A/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-03-31 22:31:04",
+      "title": "라이브 크리켓 - 아일랜드 대 스코틀랜드 GS Holding T20 3개국 시리즈 [21dfc0] - Fathom Journal",
+      "url": "https://fathomjournal.org/3058ac75smm/d21dfc02-onHMsPW5tSg.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 21:03:44",
+      "title": "🟢 장-루이 루메가스(Ecologistes-G.s-L'Après) 시장 후보 인터뷰! 🗳️ [523913] - Fathom Journal",
+      "url": "https://fathomjournal.org/b0fed08asmm/7523913c-bFajhmnqi6Y.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-03-31 20:19:00",
+      "title": "IAPP GS 2일차: 프라이버시에 대한 법원의 권한과 미국-EU 데이터법 긴장 - Law.com",
+      "url": "https://www.law.com/legaltechnews/2026/03/31/iapp-gs-day-2-courts-powers-over-privacy-and-us-eu-data-law-tension-/?slreturn=20260401213917",
+      "sentiment": "Risk"
+    },
+    {
       "date": "2026-03-31 19:16:56",
-      "title": "골드만삭스그룹 Inc 주식(GS), 3월 31일 4.95% 상승: 움직임의 배경 - TradingKey",
+      "title": "Goldman Sachs Group Inc 주식(GS), 3월 31일 4.95% 상승: 변동의 배경 - TradingKey",
       "url": "https://www.tradingkey.com/news/Market-Movers/261739762-market-movers-gs-20260331",
       "sentiment": "Growth"
     },
     {
-      "date": "2026-03-31 17:34:38",
-      "title": "마크 윌프, 2026 NFL 오프시즌·쿼터백실·롭 브르제진스키·단장 선임·2028 NFL 드래프트 유치 제안 등 논의 - Minnesota Vikings",
-      "url": "https://www.vikings.com/video/mark-wilf-talks-2026-nfl-offseason-quarterback-room-rob-brzezinski-general-manager-search-proposal-to-host-2028-nfl-draft-more",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 17:03:12",
-      "title": "런치브레이크: ESPN, NFL 드래프트 유망주들의 ‘완벽한 적합’ 지목 - Minnesota Vikings",
-      "url": "https://www.vikings.com/news/2026-nfl-draft-prospects-projections-brian-oneill-high-school",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-31 16:00:00",
-      "title": "MLB DFS 픽: 화요일 3/31/26 선발 투수 랭킹 - DraftKings Network",
+      "title": "MLB DFS 픽: 3월 31일 화요일 선발투수 랭킹 - DraftKings Network",
       "url": "https://dknetwork.draftkings.com/2026/03/31/mlb-dfs-picks-starting-pitcher-rankings-for-tuesday-3-31-26/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-31 15:50:36",
-      "title": "마무리: G의 Travel Your Heart Out 로드쇼, Planeterra를 위해 1만 달러 모금 - Travel Market Report",
+      "title": "마침표: G의 Travel Your Heart Out 로드쇼, Planeterra를 위해 1만 달러 모금 - Travel Market Report",
       "url": "https://www.travelmarketreport.com/canada/packaged-travel/articles/thats-a-wrap-gs-travel-your-heart-out-roadshow-raises-10k-for-planeterra",
       "sentiment": "Positive"
     },
     {
       "date": "2026-03-31 15:40:55",
-      "title": "Gen.G의 Ruler, 세금 회피 논란으로 LCK 징계 가능성 직면 - invenglobal.com",
+      "title": "Gen.G의 Ruler, 세금 회피 논란 이후 LCK 징계 가능성 직면 - Inven Global",
       "url": "https://www.invenglobal.com/articles/20374/gengs-ruler-faces-possible-lck-discipline-after-tax-avoidance-controversy",
-      "sentiment": "Negative"
-    },
-    {
-      "date": "2026-03-31 15:10:01",
-      "title": "한국 정유사들, 비싼 미국산 원유 확보에 속도 - Businesskorea",
-      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=266610",
       "sentiment": "Risk"
     },
     {
+      "date": "2026-03-31 12:08:20",
+      "title": "평가: BYD Song Pro GS 2026 - 이제 더 완성도 높아짐 [ae9d74] - Fathom Journal",
+      "url": "https://fathomjournal.org/92722f5fsmm/0ae9d74b-nSv22jJk66w.html",
+      "sentiment": "Neutral"
+    },
+    {
       "date": "2026-03-31 11:08:00",
-      "title": "웰스 파고, 골드만삭스 그룹(GS)에 대한 매수 의견 재확인 - The Globe and Mail",
+      "title": "Wells Fargo, Goldman Sachs Group(GS)에 대해 매수 의견 재확인 - theglobeandmail.com",
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/GS/pressreleases/1059738/wells-fargo-reaffirms-their-buy-rating-on-goldman-sachs-group-gs/",
       "sentiment": "Mixed"
     },
@@ -109,80 +295,56 @@
       "sentiment": "Growth"
     },
     {
+      "date": "2026-03-31 09:51:28",
+      "title": "【휘발유 가격】하룻밤 사이 ‘리터당 7엔’ 오른 주유소도 이란·중동 정세 긴장으로 상승세 지속 우려 [b98f5c] - Fathom Journal",
+      "url": "https://fathomjournal.org/0b943d13smm/ab98f5c9-GuyA1GwajHI.html",
+      "sentiment": "Risk"
+    },
+    {
       "date": "2026-03-31 09:43:15",
-      "title": "Mn Services Vermogensbeheer B.V., The Goldman Sachs Group, Inc. $GS 보유 지분 확대 - marketbeat.com",
+      "title": "Mn Services Vermogensbeheer B.V.가 The Goldman Sachs Group, Inc.($GS) 지분을 확대 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-boosts-holdings-in-the-goldman-sachs-group-inc-gs-2026-03-31/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-31 08:07:00",
-      "title": "그랜드 소레일 첫 플래그십 GS Plus 80 Long Cruise 진수 - Sail World Cruising",
+      "title": "첫 번째 Grand Soleil 플래그십 GS Plus 80 Long Cruise 진수 - Sail World Cruising",
       "url": "https://www.sailworldcruising.com/news/294867/Grand-Soleil-GS-Plus-80-Long-Cruise-launched",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-03-31 08:00:00",
-      "title": "자매 대결: 엘리자베스와 메리 보콕, 미국 내셔널스 3일차 GS에서 1-2위 차지 - AspenTimes.com",
-      "url": "https://www.aspentimes.com/news/sister-act-elisabeth-and-mary-bocock-go-1-2-in-gs-on-day-3-of-u-s-nationals-in-vail/",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-31 06:49:44",
-      "title": "The Goldman Sachs Group, Inc. (NYSE:GS), 애널리스트들로부터 종합 추천 의견 ‘보유(Hold)’ 받아 - marketbeat.com",
+      "title": "The Goldman Sachs Group, Inc.(NYSE:GS), 애널리스트들로부터 평균 추천 의견 ‘보유’ 받아 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/the-goldman-sachs-group-inc-nysegs-receives-consensus-recommendation-of-hold-from-analysts-2026-03-31/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 06:09:46",
-      "title": "GS 인증을 받은 중국 최고의 VDE 절연 수공구 솔루션 제공업체 HEXON이 주목받는 이유 - Issuewire",
-      "url": "https://www.issuewire.com/why-hexon-is-the-top-rated-vde-insulated-hand-tool-solutions-provider-from-china-with-gs-certification-1861073457856329",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-31 00:00:00",
-      "title": "골드만삭스(GS)는 분기 실적을 상회할까? 예측... - Polymarket",
-      "url": "https://polymarket.com/event/gs-quarterly-earnings-gaap-eps-04-13-2026-15pt95",
-      "sentiment": "Positive"
+      "date": "2026-03-31 00:36:28",
+      "title": "Gas One GS-3400P 리뷰 - GearLab",
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-stove/gas-one-gs-3400p",
+      "sentiment": "Neutral"
     },
     {
       "date": "2026-03-30 23:38:36",
-      "title": "보콕 자매, Stifel이 후원하는 미국 알파인 내셔널 챔피언십 여자 GS에서 1·2위 차지 - Ski Racing Media",
+      "title": "보콕 자매, Stifel 후원 미국 알파인 전국선수권 여자 대회전에서 1–2위 - Ski Racing Media",
       "url": "https://skiracing.com/womens-giant-slalom-us-alpine-nationals-presented-by-stifel-results/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 23:13:56",
-      "title": "오늘, 'GS Corporate Bonds/One U.S. Equity Strategy Fund 2026-03'와 같은 투자신탁이 설립되었습니다. - 富途牛牛",
-      "url": "https://news.futunn.com/en/post/70859414/today-investment-trusts-such-as-gs-corporate-bonds-one-us?level=1&data_ticket=1775006624882232",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-03-30 21:58:08",
-      "title": "Georgia Southern @ North Florida - 시청/청취 - SIDEARM Showcase 제공 - Georgia Southern University Athletics",
-      "url": "https://gseagles.com/watch/?Live=2884&type=Live",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 19:43:00",
-      "title": "IAPP GS Day One: OpenAI, Anthropic 변호사들, AI에서의 프라이버시-안전 딜레마를 논의 - Law.com",
-      "url": "https://www.law.com/legaltechnews/2026/03/30/iapp-gs-day-one-openai-anthropic-attorneys-delve-into-the-privacy-safety-tradeoff-in-ai-/",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-30 16:00:00",
-      "title": "MLB DFS 픽: 3/30/26 월요일 선발투수 랭킹 - DraftKings Network",
+      "title": "MLB DFS 픽: 3월 30일 월요일 선발투수 랭킹 - DraftKings Network",
       "url": "https://dknetwork.draftkings.com/2026/03/30/mlb-dfs-picks-starting-pitcher-rankings-for-monday-3-30-26/",
       "sentiment": "Growth"
     },
     {
       "date": "2026-03-30 13:52:28",
-      "title": "Becky G의 캐미 탑, 새 노래 발표와 함께 거울 앞에서 눈길을 사로잡는 순간",
+      "title": "Becky G의 캐미 탑, 새 노래 발표와 함께 거울 앞에서 시선을 사로잡는 순간 - Reality Tea",
       "url": "https://www.realitytea.com/2026/03/30/becky-g-cami-top-mirror-dance-new-song-photo/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-30 13:30:03",
-      "title": "Why Goldman Sachs (GS) is a Top Stock for the Long-Term - Yahoo Finance",
+      "title": "왜 Goldman Sachs(GS)가 장기 투자에 적합한 핵심 종목인지 - Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-goldman-sachs-gs-top-133003429.html",
       "sentiment": "Neutral"
     },
@@ -193,118 +355,34 @@
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-30 11:43:20",
-      "title": "Wells Fargo, Goldman Sachs(GS.US)에 매수 의견 유지, 목표주가 1,050달러 유지 - 富途牛牛",
-      "url": "https://news.futunn.com/en/post/70830905/wells-fargo-maintains-goldman-sachs-gsus-with-buy-rating-maintains?level=1&data_ticket=1775006624882232",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-30 08:28:44",
-      "title": "Donaldson Capital Management LLC, The Goldman Sachs Group, Inc. $GS 지분 6,450만 달러 보유 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-donaldson-capital-management-llc-has-6450-million-holdings-in-the-goldman-sachs-group-inc-gs-2026-03-30/",
+      "date": "2026-03-30 11:46:02",
+      "title": "Coach G’s Corner: Michigan - Local 3 News",
+      "url": "https://www.local3news.com/local-sports/coach-g-s-corner-michigan/article_7e98e402-acf4-47b7-828e-debf7f778486.html",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-30 08:27:58",
-      "title": "GS Microelectronics U.S., Inc., Tarana와의 계약으로 6G, 7G 및 Wi‑Fi 7 개발 가속 - TechAfrica News",
+      "title": "GS Microelectronics U.S., Inc., Tarana와의 계약으로 6G, 7G 및 Wi‑Fi 7 개발 가속 - techafricanews.com",
       "url": "https://techafricanews.com/2026/03/30/gs-microelectronics-u-s-inc-accelerates-6g-7g-and-wi-fi-7-development-with-tarana-deal/",
       "sentiment": "Growth"
     },
     {
       "date": "2026-03-30 07:24:14",
-      "title": "GS Center란 무엇인가? – 와세다대학교 일본어교육센터 - waseda.jp",
+      "title": "GS Center란 무엇인가? – 와세다대학 일본어교육연구센터 - waseda.jp",
       "url": "https://www.waseda.jp/inst/cjl/news-en/2026/03/30/18450/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-30 07:10:40",
-      "title": "Tongwei, 하이브리드 이종접합 백콘택트 태양전지 기술로 진출 - pv magazine International",
-      "url": "https://www.pv-magazine.com/2026/03/30/tongwei-moves-into-hybrid-heterojunction-back-contact-solar-cell-technology/",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-30 02:58:11",
-      "title": "ABIOPXX 시즌별 차트 - tradingview.com",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-ABIOPXX/seasonals/",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-03-30 02:46:00",
-      "title": "골드만삭스, 가격 충격으로 채용이 둔화되면서 실업률이 연준 전망을 상회할 것으로 봐 - CNBC",
+      "title": "골드만삭스, 가격 충격으로 고용이 위축되면서 실업률이 연준 전망을 상회할 것으로 봐 - CNBC",
       "url": "https://www.cnbc.com/video/2026/03/30/goldman-sachs-expects-unemployment-rate-to-rise-further-than-fed-projections-due-to-price-shocks-likely-dampening-hiring-appetite.html",
       "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-30 02:40:38",
-      "title": "GS Finance Corp. Capped Point to Point Fully Principally Protected Note ABFFIXX - tradingview.com",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-ABFFIXX/seasonals/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 00:24:09",
-      "title": "AARFHXX 시즌별 차트 - tradingview.com",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-AARFHXX/seasonals/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 22:15:25",
-      "title": "GS건설, 옛 호텔 부지에 49층 '창원 자이 더 스카이' 공개 - 조선닷컴",
-      "url": "https://www.chosun.com/english/industry-en/2026/03/30/XE66BJHQ7JFR5MK33KNXUB7VRM/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-29 21:12:11",
-      "title": "골든스테이트 워리어스 vs. 덴버 너기츠 배당률, 베팅 라인, 전문가 픽, 경기 예측, DFS 예측 및 선수 프로프 예측 - 일요일 03/29 19:00 PM - SportsLine",
-      "url": "https://www.sportsline.com/NBA/game-forecast/NBA_20260329_GS@DEN/",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-29 20:57:41",
-      "title": "AARFHXX 주가 및 차트 — NASDAQ:AARFHXX - tradingview.com",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-AARFHXX/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 19:47:22",
-      "title": "포틀랜드 파이어 2026 정규 시즌 WNBA 일정 - ESPN Singapore",
-      "url": "https://www.espn.com.sg/wnba/team/schedule/_/name/POR",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 17:50:12",
-      "title": "ABEFVXX 계절성 차트 - tradingview.com",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-ABEFVXX/seasonals/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 17:41:46",
-      "title": "ABFYMXX 주가 및 차트 — NASDAQ:ABFYMXX - tradingview.com",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-ABFYMXX/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 17:31:07",
-      "title": "ABNQPXX 계절성 차트 - tradingview.com",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-ABNQPXX/seasonals/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 12:54:46",
-      "title": "Alexis Pinturault 월드컵 GS 아델보덴 1위 (2017-07-01) [424266] - Fathom Journal",
-      "url": "https://fathomjournal.org/97d2d509smm/e4242663-TLFM4VWATiM.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-29 10:43:05",
-      "title": "Game Plan Financial Advisors LLC, The Goldman Sachs Group, Inc. $GS 보유 비중 확대 - marketbeat.com",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-game-plan-financial-advisors-llc-increases-position-in-the-goldman-sachs-group-inc-gs-2026-03-29/",
-      "sentiment": "Neutral"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-29 ──\n  [Positive] GS건설, 옛 호텔 부지에 49층 '창원 자이 더 스카이' 공개 - 조선닷컴\n  [Mixed] 골든스테이트 워리어스 vs. 덴버 너기츠 배당률, 베팅 라인, 전문가 픽, 경기 예측, DFS 예측 및 선수 프로프 예측 - 일요일 03/29 19:00 PM - SportsLine\n  [Neutral] AARFHXX 주가 및 차트 — NASDAQ:AARFHXX - tradingview.com\n  [Neutral] 포틀랜드 파이어 2026 정규 시즌 WNBA 일정 - ESPN Singapore\n  [Neutral] ABEFVXX 계절성 차트 - tradingview.com\n  [Neutral] ABFYMXX 주가 및 차트 — NASDAQ:ABFYMXX - tradingview.com\n  [Neutral] ABNQPXX 계절성 차트 - tradingview.com\n  [Neutral] Alexis Pinturault 월드컵 GS 아델보덴 1위 (2017-07-01) [424266] - Fathom Journal\n  [Neutral] Game Plan Financial Advisors LLC, The Goldman Sachs Group, Inc. $GS 보유 비중 확대 - marketbeat.com\n\n── 2026-03-30 ──\n  [Neutral] 보콕 자매, Stifel이 후원하는 미국 알파인 내셔널 챔피언십 여자 GS에서 1·2위 차지 - Ski Racing Media\n  [Positive] 오늘, 'GS Corporate Bonds/One U.S. Equity Strategy Fund 2026-03'와 같은 투자신탁이 설립되었습니다. - 富途牛牛\n  [Neutral] Georgia Southern @ North Florida - 시청/청취 - SIDEARM Showcase 제공 - Georgia Southern University Athletics\n  [Neutral] IAPP GS Day One: OpenAI, Anthropic 변호사들, AI에서의 프라이버시-안전 딜레마를 논의 - Law.com\n  [Growth] MLB DFS 픽: 3/30/26 월요일 선발투수 랭킹 - DraftKings Network\n  [Neutral] Becky G의 캐미 탑, 새 노래 발표와 함께 거울 앞에서 눈길을 사로잡는 순간\n  [Neutral] Why Goldman Sachs (GS) is a Top Stock for the Long-Term - Yahoo Finance\n  [Neutral] The Number Ones: Polo G의 “Rapstar” - Stereogum\n  [Positive] Wells Fargo, Goldman Sachs(GS.US)에 매수 의견 유지, 목표주가 1,050달러 유지 - 富途牛牛\n  [Neutral] Donaldson Capital Management LLC, The Goldman Sachs Group, Inc. $GS 지분 6,450만 달러 보유 - marketbeat.com\n  [Growth] GS Microelectronics U.S., Inc., Tarana와의 계약으로 6G, 7G 및 Wi‑Fi 7 개발 가속 - TechAfrica News\n  [Neutral] GS Center란 무엇인가? – 와세다대학교 일본어교육센터 - waseda.jp\n  [Growth] Tongwei, 하이브리드 이종접합 백콘택트 태양전지 기술로 진출 - pv magazine International\n  [Neutral] ABIOPXX 시즌별 차트 - tradingview.com\n  [Risk] 골드만삭스, 가격 충격으로 채용이 둔화되면서 실업률이 연준 전망을 상회할 것으로 봐 - CNBC\n  [Neutral] GS Finance Corp. Capped Point to Point Fully Principally Protected Note ABFFIXX - tradingview.com\n  [Neutral] AARFHXX 시즌별 차트 - tradingview.com\n\n── 2026-03-31 ──\n  [Growth] NH증권, 원가 안정화로 전망 개선되자 GS건설 목표주가 상향 - CHOSUNBIZ - biz.chosun.com\n  [Mixed] [클릭 e스탁] “GS건설, 신사업 중심 구조 개편 예상... 목표주가 상향” - 아시아경제\n  [Neutral] IAPP GS 2일차: 프라이버시에 대한 법원의 권한과 미·EU 데이터법 긴장 - Law.com\n  [Growth] 골드만삭스그룹 Inc 주식(GS), 3월 31일 4.95% 상승: 움직임의 배경 - TradingKey\n  [Neutral] 마크 윌프, 2026 NFL 오프시즌·쿼터백실·롭 브르제진스키·단장 선임·2028 NFL 드래프트 유치 제안 등 논의 - Minnesota Vikings\n  [Neutral] 런치브레이크: ESPN, NFL 드래프트 유망주들의 ‘완벽한 적합’ 지목 - Minnesota Vikings\n  [Neutral] MLB DFS 픽: 화요일 3/31/26 선발 투수 랭킹 - DraftKings Network\n  [Positive] 마무리: G의 Travel Your Heart Out 로드쇼, Planeterra를 위해 1만 달러 모금 - Travel Market Report\n  [Negative] Gen.G의 Ruler, 세금 회피 논란으로 LCK 징계 가능성 직면 - invenglobal.com\n  [Risk] 한국 정유사들, 비싼 미국산 원유 확보에 속도 - Businesskorea\n  [Mixed] 웰스 파고, 골드만삭스 그룹(GS)에 대한 매수 의견 재확인 - The Globe and Mail\n  [Growth] ENTSO-G의 새 개발 계획에 포함된 여러 그리스 수소 프로젝트 - Balkan Green Energy News\n  [Neutral] Mn Services Vermogensbeheer B.V., The Goldman Sachs Group, Inc. $GS 보유 지분 확대 - marketbeat.com\n  [Positive] 그랜드 소레일 첫 플래그십 GS Plus 80 Long Cruise 진수 - Sail World Cruising\n  [Neutral] 자매 대결: 엘리자베스와 메리 보콕, 미국 내셔널스 3일차 GS에서 1-2위 차지 - AspenTimes.com\n  [Neutral] The Goldman Sachs Group, Inc. (NYSE:GS), 애널리스트들로부터 종합 추천 의견 ‘보유(Hold)’ 받아 - marketbeat.com\n  [Positive] GS 인증을 받은 중국 최고의 VDE 절연 수공구 솔루션 제공업체 HEXON이 주목받는 이유 - Issuewire\n  [Positive] 골드만삭스(GS)는 분기 실적을 상회할까? 예측... - Polymarket",
-    "sentiment_block": "총 뉴스 44건 분석 결과:\n  Positive     7건 ( 15.9%) ███\n  Growth       6건 ( 13.6%) ██\n  Neutral     25건 ( 56.8%) ███████████\n  Mixed        3건 (  6.8%) █\n  Risk         2건 (  4.5%) \n  Negative     1건 (  2.3%) \n\n날짜별 감정 흐름:\n  2026-03-29: Neutral:7, Positive:1, Mixed:1\n  2026-03-30: Neutral:11, Growth:3, Positive:2, Risk:1\n  2026-03-31: Neutral:7, Positive:4, Growth:3, Mixed:2, Negative:1, Risk:1",
+    "news_block": "\n── 2026-03-30 ──\n  [Positive] 보콕 자매, Stifel 후원 미국 알파인 전국선수권 여자 대회전에서 1–2위 - Ski Racing Media\n  [Growth] MLB DFS 픽: 3월 30일 월요일 선발투수 랭킹 - DraftKings Network\n  [Neutral] Becky G의 캐미 탑, 새 노래 발표와 함께 거울 앞에서 시선을 사로잡는 순간 - Reality Tea\n  [Neutral] 왜 Goldman Sachs(GS)가 장기 투자에 적합한 핵심 종목인지 - Yahoo Finance\n  [Neutral] The Number Ones: Polo G의 “Rapstar” - Stereogum\n  [Neutral] Coach G’s Corner: Michigan - Local 3 News\n  [Growth] GS Microelectronics U.S., Inc., Tarana와의 계약으로 6G, 7G 및 Wi‑Fi 7 개발 가속 - techafricanews.com\n  [Neutral] GS Center란 무엇인가? – 와세다대학 일본어교육연구센터 - waseda.jp\n  [Risk] 골드만삭스, 가격 충격으로 고용이 위축되면서 실업률이 연준 전망을 상회할 것으로 봐 - CNBC\n\n── 2026-03-31 ──\n  [Positive] NH증권, 비용 안정화로 GS건설 전망 개선되자 목표가 상향 - CHOSUNBIZ - Chosunbiz\n  [Neutral] 라이브 크리켓 - 아일랜드 대 스코틀랜드 GS Holding T20 3개국 시리즈 [21dfc0] - Fathom Journal\n  [Neutral] 🟢 장-루이 루메가스(Ecologistes-G.s-L'Après) 시장 후보 인터뷰! 🗳️ [523913] - Fathom Journal\n  [Risk] IAPP GS 2일차: 프라이버시에 대한 법원의 권한과 미국-EU 데이터법 긴장 - Law.com\n  [Growth] Goldman Sachs Group Inc 주식(GS), 3월 31일 4.95% 상승: 변동의 배경 - TradingKey\n  [Neutral] MLB DFS 픽: 3월 31일 화요일 선발투수 랭킹 - DraftKings Network\n  [Positive] 마침표: G의 Travel Your Heart Out 로드쇼, Planeterra를 위해 1만 달러 모금 - Travel Market Report\n  [Risk] Gen.G의 Ruler, 세금 회피 논란 이후 LCK 징계 가능성 직면 - Inven Global\n  [Neutral] 평가: BYD Song Pro GS 2026 - 이제 더 완성도 높아짐 [ae9d74] - Fathom Journal\n  [Mixed] Wells Fargo, Goldman Sachs Group(GS)에 대해 매수 의견 재확인 - theglobeandmail.com\n  [Growth] ENTSO-G의 새 개발 계획에 포함된 여러 그리스 수소 프로젝트 - Balkan Green Energy News\n  [Risk] 【휘발유 가격】하룻밤 사이 ‘리터당 7엔’ 오른 주유소도 이란·중동 정세 긴장으로 상승세 지속 우려 [b98f5c] - Fathom Journal\n  [Neutral] Mn Services Vermogensbeheer B.V.가 The Goldman Sachs Group, Inc.($GS) 지분을 확대 - MarketBeat\n  [Positive] 첫 번째 Grand Soleil 플래그십 GS Plus 80 Long Cruise 진수 - Sail World Cruising\n  [Neutral] The Goldman Sachs Group, Inc.(NYSE:GS), 애널리스트들로부터 평균 추천 의견 ‘보유’ 받아 - MarketBeat\n  [Neutral] Gas One GS-3400P 리뷰 - GearLab\n\n── 2026-04-01 ──\n  [Neutral] '우리가 이렇게 할 수 있는 것은 정말 좋은 기회입니다': GS Athletics 봉사의 날 - WJCL\n  [Positive] 골드만삭스(GS), 시장보다 더 큰 상승폭 기록: 핵심 사실 - Yahoo Finance\n  [Neutral] ABFOVXX 계절성 차트 - tradingview.com\n  [Neutral] ABFOVXX 주가 및 차트 — NASDAQ:ABFOVXX - tradingview.com\n  [Negative] 골드만삭스 그룹(NYSE:GS) 목표주가를 HSBC에서 729.00달러로 하향 - MarketBeat\n  [Neutral] Morgan Stanley, Goldman Sachs Group(NYSE:GS)에 새로운 1,021.00달러 목표주가 제시 - MarketBeat\n  [Neutral] SSC GD GS Classes 2026 | SSC GD GS Practice Set 20 | SSC GD GS 2026 | Sonveer Sir의 GS\n  [Neutral] 종이보다 더한 것: Buick Heritage Alliance는 자동차도 보존한다 - Old Cars Weekly\n  [Positive] Goldman(GS), 다음 실적 발표에서도 다시 예상을 상회할까? - Yahoo Finance Australia\n  [Neutral] 실바 33점, GS칼텍스 챔피언결정전 1차전 승리 - 서울경제\n  [Growth] Goldman Sachs(GS)가 분기 실적을 상회할까? 예측...\n  [Positive] GS 칼텍스, 김천 개막전 승리로 V리그 결승 57.9% 우위 확보 - CHOSUNBIZ\n  [Positive] GS 칼텍스 KIXX, 1차전 승리로 우승 확률 57.9% 확보 - 조선일보\n  [Neutral] MLB DFS 픽: 4/1/26 수요일 선발 투수 랭킹 - DraftKings Network\n  [Positive] GS 칼텍스, 한국도로공사 상대로 챔피언결정전 개막전 승리 - 조선일보\n  [Positive] 멈추지 않는 '3위 팀의 반란' 이후 GS칼텍스, 준PO·PO를 제치고 챔피언결정전 1차전 승리... 실바 33점 폭발 '우승 확률 57.9%' - starnewskorea.com\n  [Growth] Thermo Fisher Scientific, 바이오의약품 개발 가속화를 위한 Gibco CHOvantage GS 세포주 개발 키트 출시 - biopharmaapac.com\n  [Growth] GS건설 주식: 투자자 관심을 형성하는 핵심 사업 동력과 전략적 변화 - AD HOC NEWS\n  [Positive] Barclays, Goldman Sachs(GS.US)에 대해 매수 의견 유지, 목표주가 1,048달러 유지 - Moomoo\n  [Growth] 실적 성장 기준으로 주식 스크리닝을 해보니 Goldman Sachs Group(NYSE:GS)은 손쉽게 통과했다 - Yahoo Finance\n  [Neutral] Nisa Investment Advisors LLC, The Goldman Sachs Group, Inc. $GS 보유 비중 확대 - MarketBeat\n  [Neutral] GS Caltex Bae, who finished his 30th party, took his first step looking at the new decade. Who will - 매일경제\n  [Neutral] 태안 엑스포, GS리테일과 전국 홍보 강화 협력 - CHOSUNBIZ\n  [Positive] 김성원, GS글로벌에 4만주 매입으로 힘 실어…한국서 가치 성장 다짐 - CHOSUNBIZ\n  [Growth] GS 워리어스 대 워싱턴 위저즈 전체 경기 하이라이트 | 01/24/2019 NBA 시즌 [64dd61] - Fathom Journal\n  [Growth] GS Global CEO, 성장 자신감 표명 위해 주식 매입 - koreaherald.com\n  [Growth] GS건설, 액화수소 저장 국책과제 수행기관으로 선정 - 매일경제\n  [Positive] 쿠팡 앱 이용자, 4개월 만에 반등... GS샵 두 자릿수 성장 - 아시아경제\n  [Growth] GS건설, 국책 액화수소 저장 기술 사업 주관기관 선정 - 서울경제\n  [Neutral] ABDDDXX 주가 및 차트 — NASDAQ:ABDDDXX - tradingview.com\n  [Positive] GS글로벌 김성원 대표, 회사 주식 1억 원어치 매입 - 매일경제\n  [Growth] 갈라타사라이, 전국 팬들을 위해 'GS 카페' 선보인다 - Hürriyet Daily News",
+    "sentiment_block": "총 뉴스 57건 분석 결과:\n  Positive    14건 ( 24.6%) ████\n  Growth      13건 ( 22.8%) ████\n  Neutral     24건 ( 42.1%) ████████\n  Mixed        1건 (  1.8%) \n  Risk         4건 (  7.0%) █\n  Negative     1건 (  1.8%) \n\n날짜별 감정 흐름:\n  2026-03-30: Neutral:5, Growth:2, Positive:1, Risk:1\n  2026-03-31: Neutral:7, Positive:3, Risk:3, Growth:2, Mixed:1\n  2026-04-01: Neutral:12, Positive:10, Growth:9, Negative:1",
     "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 22  Hold: 29  Sell: 3  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $1100  Low: $604  Consensus: $915.15  Median: $990\n▶ 실적 추정치 (2029-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $878.8132286857374  현재가: $N/A\n▶ FMP 종합 등급\n  등급: C+  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": ""
+  "investment_judgment": "[핵심 요약]\n* 최근 3일간 뉴스 흐름은 **골드만삭스(GS) 관련 “기대/상승(긍정·성장)”과 “거시/목표주가 하향 등 리스크”가 함께** 나타남.\n* 감정 흐름은 **3/31에 Risk가 상대적으로 집중**(Risk 3건)됐고, **4/1에는 Positive·Growth가 크게 증가**(Positive 10, Growth 9)하며 단기 모멘텀이 강화.\n* 애널리스트 컨센서스는 **Buy 22 / Hold 29 / Sell 3**로 “강한 확신(Strong Buy)”보다는 **중립~매수 우위**이며, **목표주가 하방(HSBC 729)과 상방(다른 기관 1,048 유지 등)이 공존**.\n\n[전체 흐름 분석]\n* **3/30~3/31:** GS(골드만삭스) 관련해서는 “장기 투자 적합(중립)” 및 “상승(성장/Positive 일부)”이 있었지만, 동시에 **가격 충격이 고용을 압박해 실업률이 연준 전망을 상회할 수 있다는 거시 리스크(CNBC)**, 그리고 **프라이버시/데이터법 긴장(Risk)** 같은 규제·경기 불확실성 신호가 동반.\n* **4/1:** 같은 기간 동안 **“시장보다 더 큰 상승폭” “실적 기대 상회 여부” “매수 유지/목표가 유지” “보유 의견 다수”**가 쌓이며, 뉴스 톤이 전반적으로 우호적으로 전환.  \n* 다만 **HSBC의 목표주가 하향(729달러)** 같은 반대 신호도 동시에 존재해, 모멘텀은 개선됐지만 **밸류에이션/전망의 변동성(기관별 시각차)**은 남아있는 형태.\n\n[긍정 요인]\n* 단기 모멘텀 강화: 4/1에 **Positive(10)·Growth(9)가 크게 증가**(감정 흐름상 톤 전환).\n* 애널리스트 측면에서 매수 우위: **Buy 22, Hold 29**로 “투자 가능성”이 완전히 꺾인 구간은 아님.\n* 기관별 커버리지/의견이 일부 상방을 지지: **Barclays는 매수 의견 유지 및 목표주가 1,048달러 유지**, **Wells Fargo도 매수 재확인** 등(상방 논리 존재).\n* 뉴스에 실적 기대 및 주가 강세 관련 내용이 다수: “다음 실적에서 예상 상회” 같은 기대성 기사 흐름(Positive).\n\n[부정 요인]\n* 거시/고용·실업 리스크: **가격 충격 → 고용 위축 → 실업률이 연준 전망 상회** 가능성 제시(CNBC Risk). 이는 브로커리지/투자은행 및 전반 금융활동 수요에 부담 요인이 될 수 있음.\n* 목표주가 하향 신호: **HSBC가 목표주가를 729달러로 하향**(명시적 Negative).\n* 규제/데이터 관련 불확실성: **미국-EU 데이터법 긴장 및 프라이버시 권한** 이슈(Risk)로, 금융/테크·서비스 전반에 비용·리스크 요인으로 해석될 여지.\n* 애널리스트 합산 등급은 “중립~매수” 성격이 강함: Strong Buy가 0이고 **Hold가 가장 큼(29)**.\n\n[투자 인사이트]\n* 이번 3일의 핵심은 “호재로만 단순 상승”이 아니라, **단기 주가 모멘텀(4/1 긍정 톤 강화)은 생겼지만, 거시 리스크 및 기관별 목표주가 괴리(특히 HSBC 하향)가 함께 존재**한다는 점입니다.\n* 따라서 투자 전략은 다음처럼 정리하는 것이 합리적입니다.\n  * **장기 확신(Strong Buy)보다는 ‘분할 접근/조건부 접근’**이 더 적합: 이유는 Hold 비중이 가장 크고, 목표주가 범위가 넓기 때문입니다.\n  * **실적/매크로 확인이 중요**: “다음 실적 상회 기대”가 긍정 재료이긴 하나, 동시에 “실업률 전망 상회” 같은 거시 변수는 실적 가시성을 흔들 수 있어, 실제 실적 확인 전에는 변동성 허용이 필요합니다.\n  * 결론적으로, 현재 흐름은 **단기 트레이드보다는(모멘텀은 있으나 리스크 공존) ‘코어 보유 또는 보수적 매수’에 더 가깝습니다.**\n\n[투자 판단]\n**투자: 보류(보수적 접근)**\n\n[판단 근거]\n* 애널리스트가 **Buy가 많긴 하나(Hold도 최다)** Strong Buy가 없고, **목표주가가 729~1,048 등 폭이 큼** → “확실한 상승 방향의 강한 합의”가 약함.\n* 감정상으로는 4/1에 긍정 전환이 뚜렷하지만, **3/31에 Risk가 집중**되었고(CNBC의 거시/고용 리스크 등), **HSBC 목표주가 하향**이 같은 기간 등장 → 하방 리스크가 완전히 해소된 것으로 보기 어려움.\n* 종합하면 “단기 모멘텀은 개선”되었으나, **거시·규제·목표주가 상충 신호가 동시 존재**하므로, 지금 시점의 최선은 **즉시 공격적 투자보다는 보류 후(또는 소액 분할 후) 실적/매크로 확인**입니다."
 }
