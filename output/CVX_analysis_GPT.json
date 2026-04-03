@@ -1,298 +1,317 @@
 {
   "meta": {
     "symbol": "CVX",
-    "analysis_date": "2026-04-02T03:26:16.258637+00:00",
-    "news_period": "2026-03-30 ~ 2026-04-01",
-    "news_count": 64,
+    "analysis_date": "2026-04-03T03:08:49.468543+00:00",
+    "news_period": "2026-03-31 ~ 2026-04-02",
+    "news_count": 55,
     "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 26,
-    "Positive": 14,
+    "Neutral": 22,
     "Growth": 11,
-    "Mixed": 6,
-    "Risk": 6,
-    "Negative": 1
+    "Positive": 11,
+    "Negative": 4,
+    "Risk": 4,
+    "Mixed": 3
   },
   "sentiment_by_date": {
-    "2026-03-30": {
-      "Neutral": 7,
-      "Growth": 3,
-      "Positive": 2,
-      "Risk": 1
-    },
     "2026-03-31": {
       "Neutral": 9,
-      "Positive": 4,
-      "Growth": 3,
-      "Mixed": 3,
-      "Risk": 1
+      "Positive": 3,
+      "Mixed": 2,
+      "Negative": 1,
+      "Risk": 1,
+      "Growth": 1
     },
     "2026-04-01": {
-      "Neutral": 10,
-      "Positive": 8,
+      "Neutral": 11,
       "Growth": 5,
-      "Risk": 4,
-      "Mixed": 3,
+      "Positive": 5,
+      "Risk": 3,
+      "Negative": 2,
+      "Mixed": 1
+    },
+    "2026-04-02": {
+      "Growth": 5,
+      "Positive": 3,
+      "Neutral": 2,
       "Negative": 1
     }
   },
   "news_with_sentiment": [
     {
-      "date": "2026-04-01 23:25:44",
-      "title": "이 3개 에너지주는 2026년 S&P 500을 웃돌 수 있다 - theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1102199/these-3-energy-stocks-may-outperform-the-sp-500-in-2026/",
+      "date": "2026-04-02 20:59:27",
+      "title": "Chevron 옵션 거래 적중: 4월 2일 97,417계약 거래, 미결제약정 62.08만 계약 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67862656/chevron-options-spot-on-on-april-2nd-97417-contracts-were?level=1&data_ticket=1775178799217923",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 20:19:00",
+      "title": "Chevron(CVX) 주가는 3년 뒤 어디에 있을까? - The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/04/02/where-will-cvx-stock-be-in-3-years/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-02 19:46:01",
+      "title": "Chevron(CVX) 주가는 3년 뒤 어디에 있을까? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/1122893/where-will-chevron-cvx-stock-be-in-3-years/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-02 18:19:35",
+      "title": "Chevron: 장기화된 이란 전쟁이 촉매제 (NYSE:CVX) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4888157-chevron-prolonged-iran-war-a-catalyst",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-02 18:09:00",
+      "title": "Subsea7, Aseng 가스 수익화 프로젝트 신규 계약 수주 - TradingView",
+      "url": "https://www.tradingview.com/news/zacks:168449099094b:0-subsea7-secures-new-contract-for-the-aseng-gas-monetisation-project/",
       "sentiment": "Positive"
     },
     {
+      "date": "2026-04-02 16:01:01",
+      "title": "Chevron(NYSE:CVX), Citigroup에서 새로운 목표주가 235달러 제시 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/chevron-nysecvx-given-new-23500-price-target-at-citigroup-2026-04-02/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-02 15:14:43",
+      "title": "Chevron(NYSE:CVX) 내부자, 주식 857만 4,660달러어치 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/chevron-nysecvx-insider-sells-857466000-in-stock-2026-04-02/",
+      "sentiment": "Negative"
+    },
+    {
+      "date": "2026-04-02 14:18:09",
+      "title": "Chevron과 ExxonMobil: 새로운 원유 환경에서 어떤 에너지주가 승자가 될까? - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/04/02/chevron-vs-exxonmobil-which-energy-stock-will-win-in-the-new-oil-landscape/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-02 14:13:43",
+      "title": "Chevron, Microsoft의 AI 야망을 뒷받침할 70억 달러 규모 가스 발전소를 지을 수 있다. 에너지 대기업을 매수할 때인가? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1116041/chevron-could-build-a-7-billion-gas-plant-to-power-microsofts-ai-ambitions-time-to-buy-the-energy-giant/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-02 12:35:00",
+      "title": "Chevron의 로보틱스 전략이 유전의 미래인가? - Yahoo Finance Australia",
+      "url": "https://au.finance.yahoo.com/news/chevrons-robotics-strategy-future-oilfields-123500723.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-02 05:32:23",
+      "title": "10년 집계: Chevron 주식, 1,610억 달러의 이익을 안겨줘 - Trefis",
+      "url": "https://www.trefis.com/data/companies/CVX/no-login-required/HyuhsXn3/Ten-Year-Tally-Chevron-Stock-Delivers-161-Bil-Gain",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 23:25:44",
+      "title": "이 3개 에너지주는 2026년에 S&P 500을 웃돌 수 있다 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1102199/these-3-energy-stocks-may-outperform-the-sp-500-in-2026/",
+      "sentiment": "Growth"
+    },
+    {
       "date": "2026-04-01 21:45:52",
-      "title": "오늘의 주식시장, 4월 1일: 시장 랠리와 유가 이틀 연속 하락 - theglobeandmail.com",
+      "title": "오늘의 증시, 4월 1일: 시장 랠리와 유가, 2거래일 연속 하락 - The Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/1101509/stock-market-today-april-1-markets-rally-and-oil-prices-fall-for-second-day-running/",
-      "sentiment": "Mixed"
+      "sentiment": "Positive"
     },
     {
       "date": "2026-04-01 21:41:52",
-      "title": "셰브론(NYSE:CVX) 주가 4.5% 하락 - 다음은? - MarketBeat",
+      "title": "Chevron(NYSE:CVX) 주가 4.5% 하락 - 다음은? - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/chevron-nysecvx-shares-down-45-whats-next-2026-04-01/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-04-01 21:08:13",
       "title": "Chevron(CVX.US) 임원, 보통주 857만 달러어치 매도 - Moomoo",
-      "url": "https://www.moomoo.com/news/post/67799259/chevron-cvxus-officer-sells-us-8-57-million-in-common?level=1&data_ticket=1775092281418537",
+      "url": "https://www.moomoo.com/news/post/67799259/chevron-cvxus-officer-sells-us-8-57-million-in-common?level=1&data_ticket=1775178799217923",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-04-01 21:08:13",
-      "title": "셰브론 옵션 거래, 정확히 맞았다: 4월 1일 10.748만 계약 거래, 미결제약정 59.683만 계약 - Moomoo",
-      "url": "https://www.moomoo.com/news/post/67798366/chevron-options-spot-on-on-april-1st-107-48k-contracts?level=1&data_ticket=1775092281418537",
+      "title": "Chevron 옵션 거래 ‘적중’: 4월 1일 10만 7,480계약이 거래됐고, 미결제약정은 59만 6,830계약 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67798366/chevron-options-spot-on-on-april-1st-107-48k-contracts?level=1&data_ticket=1775178799217923",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-01 20:51:33",
+      "title": "수요일 장 마감 후 주목할 종목: EL, SHAK, CVX (EL:NYSE) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4571868-stocks-to-watch-after-market-on-wednesday-el-shak-cvx",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-04-01 20:11:12",
       "title": "Chevron, Microsoft 및 Engine No. 1과의 독점 전력 공급 계약 확인 (CVX:NYSE) - Seeking Alpha",
       "url": "https://seekingalpha.com/news/4571831-chevron-confirms-exclusive-power-supply-deal-with-microsoft-engine-no-1",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-04-01 19:39:00",
-      "title": "다우존스지수에 끔찍한 한 달, 한 종목은 빛났다 - Investor's Business Daily",
-      "url": "https://www.investors.com/news/dow-jones-industrials-chevron-cvx-stock/",
       "sentiment": "Neutral"
     },
     {
+      "date": "2026-04-01 19:39:00",
+      "title": "다우존스 지수에 참담한 한 달, 한 종목은 빛났다 - Investor's Business Daily",
+      "url": "https://www.investors.com/news/dow-jones-industrials-chevron-cvx-stock/",
+      "sentiment": "Negative"
+    },
+    {
       "date": "2026-04-01 18:13:37",
-      "title": "엑손 모빌과 Chevron 5% 하락: 이란 대통령이 미국 석유주에 방금 한 일 - 24/7 Wall St.",
+      "title": "Exxon Mobil과 Chevron 5% 하락: 이란 대통령이 미국 원유 주식에 막 한 일 - 24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/04/01/exxon-mobil-and-chevron-fall-5-what-irans-president-just-did-to-u-s-oil-stocks/",
       "sentiment": "Negative"
     },
     {
       "date": "2026-04-01 17:43:00",
-      "title": "Chevron 주가가 오늘 하락한 이유는 다음과 같습니다 - The Motley Fool",
+      "title": "오늘 셰브런 주가가 하락한 이유 - The Motley Fool",
       "url": "https://www.fool.com/investing/2026/04/01/heres-why-chevron-stock-dipped-lower-today/",
       "sentiment": "Risk"
     },
     {
       "date": "2026-04-01 17:14:03",
-      "title": "Chevron 주가가 오늘 하락한 이유는 다음과 같습니다 - theglobeandmail.com",
+      "title": "오늘 셰브런 주가가 하락한 이유 - The Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1095928/heres-why-chevron-stock-dipped-lower-today/",
       "sentiment": "Risk"
     },
     {
       "date": "2026-04-01 17:12:01",
-      "title": "마이크로소프트와의 AI 중심 가스 발전 베팅이 Chevron의 CVX 투자 논리를 재편하고 있는가? - Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/chevron-ai-focused-gas-power-171201940.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAFgx0lvli2Q9jZHKUxJHl627WNlI1CS0khxJPp4A8pF6h1DZNGu-QoeheurklrxgYkWBWVTmRmjoTLQMslWWwiu8gFlu3ffB-HCzxyzFts9q2c_BvbAS7D0kPk-msQnYNGllYpPK4r4ivWSpKINRno5d98ajAGL9rBEDHBu_G0qA",
+      "title": "셰브런의 AI 중심 가스 발전 베팅은 마이크로소프트와 함께 CVX의 투자 논리를 재편하고 있는가? - finance.yahoo.com",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/chevron-ai-focused-gas-power-171201940.html",
       "sentiment": "Mixed"
     },
     {
       "date": "2026-04-01 16:13:07",
-      "title": "Chevron-Microsoft 거래, 70억 달러 규모 텍사스 AI 에너지 프로젝트에 동력 제공 - theglobeandmail.com",
+      "title": "셰브런-마이크로소프트 계약, 70억 달러 텍사스 AI 에너지 프로젝트 추진 - The Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1094757/chevron-microsoft-deal-powers-7b-texas-ai-energy-project/",
       "sentiment": "Growth"
     },
     {
       "date": "2026-04-01 16:13:07",
-      "title": "XOM의 우위 있는 업스트림 자산이 어떻게 성장 엔진으로 작용하는가 - theglobeandmail.com",
+      "title": "엑손의 유리한 업스트림 자산이 어떻게 성장 엔진으로 작용하는가 - The Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1094753/heres-how-xoms-advantaged-upstream-assets-act-as-its-growth-engine/",
       "sentiment": "Growth"
     },
     {
-      "date": "2026-04-01 16:10:02",
-      "title": "Chevron(CVX)이 다시 실적 추정치를 상회할 수 있는 이유 - Yahoo Finance UK",
-      "url": "https://uk.finance.yahoo.com/news/why-chevron-cvx-could-beat-161002906.html",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-04-01 14:09:00",
-      "title": "새로운 에너지 요새: 2026년 Chevron(CVX)에 대한 심층 리서치 특집 - FinancialContent",
-      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-4-1-the-new-energy-fortress-a-deep-dive-research-feature-on-chevron-cvx-in-2026",
-      "sentiment": "Growth"
+      "date": "2026-04-01 16:00:06",
+      "title": "Chevron (CVX), 매수로 상향: 알아두어야 할 사항 - finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-upgraded-buy-heres-160006237.html",
+      "sentiment": "Positive"
     },
     {
       "date": "2026-04-01 13:40:04",
-      "title": "이것이 Chevron(CVX)이 강력한 가치주인 이유 - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-chevron-cvx-strong-134004818.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAFgx0lvli2Q9jZHKUxJHl627WNlI1CS0khxJPp4A8pF6h1DZNGu-QoeheurklrxgYkWBWVTmRmjoTLQMslWWwiu8gFlu3ffB-HCzxyzFts9q2c_BvbAS7D0kPk-msQnYNGllYpPK4r4ivWSpKINRno5d98ajAGL9rBEDHBu_G0qA",
+      "title": "Chevron (CVX)가 강력한 가치주인 이유 - finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-chevron-cvx-strong-134004818.html",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-04-01 12:38:00",
-      "title": "Chevron의 리더십 변화는 안전 우선순위를 정유소 신뢰성 및 수익성과 연결한다 - simplywall.st",
+      "title": "Chevron 경영진 교체, 안전 우선순위와 정제소 신뢰성 및 수익률을 연결하다 - simplywall.st",
       "url": "https://simplywall.st/stocks/us/energy/nyse-cvx/chevron/news/chevron-leadership-shift-connects-safety-priorities-with-ref",
-      "sentiment": "Positive"
+      "sentiment": "Risk"
     },
     {
       "date": "2026-04-01 11:00:54",
-      "title": "Moody Lynn & Lieberson LLC, Chevron Corporation 주식 18,614주 매도 - MarketBeat",
+      "title": "Moody Lynn & Lieberson LLC, Chevron Corporation $CVX 18,614주 매도 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-moody-lynn-lieberson-llc-sells-18614-shares-of-chevron-corporation-cvx-2026-04-01/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-04-01 11:00:53",
-      "title": "Shrier Wealth Management LLC, Chevron Corporation $CVX에 신규 포지션 편입 - MarketBeat",
+      "title": "Shrier Wealth Management LLC, Chevron Corporation $CVX에 신규 포지션 취득 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-shrier-wealth-management-llc-takes-position-in-chevron-corporation-cvx-2026-04-01/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-04-01 10:44:56",
-      "title": "워런 버핏은 2026년 이 두 개의 대규모 석유 베팅에서 얼마나 벌었나 - Finbold",
-      "url": "https://finbold.com/how-much-did-warren-buffett-make-on-these-2-massive-oil-bets-in-2026/",
-      "sentiment": "Positive"
-    },
-    {
       "date": "2026-04-01 10:28:36",
-      "title": "Meyer Handelman Co., Chevron Corporation $CVX 주식 지분 3,206만 달러 보유 - MarketBeat",
+      "title": "Meyer Handelman Co., Chevron Corporation $CVX에서 3,206만 달러 규모의 주식 포지션 보유 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-meyer-handelman-co-has-3206-million-stock-position-in-chevron-corporation-cvx-2026-04-01/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-04-01 10:09:35",
-      "title": "TD Cowen, Chevron 목표주가를 168달러에서 214달러로 조정, 투자의견 '보유' 유지 - Moomoo",
-      "url": "https://www.moomoo.com/news/post/67768017/td-cowen-adjusts-price-target-on-chevron-to-214-from?level=1&data_ticket=1775092281418537",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-04-01 09:33:52",
-      "title": "지금 급등 중이며 너무 늦기 전에 사둘 만한 에너지주 3종 - theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1083926/3-energy-stocks-surging-right-now-and-worth-buying-before-its-too-late/",
-      "sentiment": "Risk"
-    },
-    {
       "date": "2026-04-01 09:02:12",
-      "title": "Capital Advisors Inc. OK, Chevron Corporation $CVX 주식 45,453주 매수 - MarketBeat",
+      "title": "Capital Advisors Inc. OK, Chevron Corporation $CVX 주식 45,453주 매입 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-capital-advisors-inc-ok-purchases-45453-shares-of-chevron-corporation-cvx-2026-04-01/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-04-01 08:34:02",
-      "title": "Fortitude Family Office LLC, Chevron Corporation $CVX 주식 563만 달러어치 보유 - MarketBeat",
+      "title": "Fortitude Family Office LLC, Chevron Corporation $CVX 주식 보유액 563만 달러 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-fortitude-family-office-llc-has-563-million-stock-holdings-in-chevron-corporation-cvx-2026-04-01/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-04-01 06:37:04",
-      "title": "Vanguard Energy ETF와 Chevron 중 무엇을 사야 할까? - theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/1082144/should-you-buy-vanguard-energy-etf-or-chevron/",
+      "date": "2026-04-01 06:57:00",
+      "title": "Chevron, 적도기니 Aseng 가스 프로젝트에 대한 최종 투자 결정 내려 - TradingView",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N40K0DJ:0-chevron-takes-final-investment-decision-on-aseng-gas-project-in-equatorial-guinea/",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-04-01 06:37:02",
-      "title": "Chevron(CVX) 목표주가 212달러로 상향 - Insider Monkey",
-      "url": "https://www.insidermonkey.com/blog/chevron-cvx-price-target-raised-to-212-1729627/",
-      "sentiment": "Positive"
+      "date": "2026-04-01 06:37:04",
+      "title": "Vanguard Energy ETF와 Chevron 중 어느 것을 사야 할까? - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/1082144/should-you-buy-vanguard-energy-etf-or-chevron/",
+      "sentiment": "Growth"
     },
     {
       "date": "2026-04-01 06:31:00",
-      "title": "Chevron(CVX) 목표주가 212달러로 상향 - Yahoo Finance UK",
-      "url": "https://uk.finance.yahoo.com/news/chevron-cvx-price-target-raised-063112845.html",
+      "title": "Chevron (CVX) 목표주가 212달러로 상향 - finance.yahoo.com",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/chevron-cvx-price-target-raised-063112845.html",
       "sentiment": "Positive"
     },
     {
       "date": "2026-04-01 02:09:00",
-      "title": "Microsoft(MSFT.US)와 Chevron(CVX.US), 70억 달러 규모 발전소 프로젝트 논의 - AASTOCKS.com",
-      "url": "http://www.aastocks.com/en/usq/quote/stock-news-content.aspx?symbol=MSFT&id=NOW.1515331&source=AAFN",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-04-01 01:02:49",
-      "title": "지금 사서 수십 년간 보유할 최고의 오일주 2개 - AOL.com",
-      "url": "https://www.aol.com/articles/2-best-oil-stocks-buy-003500442.html",
+      "title": "Microsoft(MSFT.US)와 Chevron(CVX.US), 70억 달러 발전소 프로젝트 논의 - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/usq/quote/stock-news-content.aspx?symbol=MSFT&id=NOW.1515331&source=AAFN",
       "sentiment": "Growth"
     },
     {
       "date": "2026-04-01 00:05:00",
-      "title": "워런 버핏이 198억 달러를 걸었지만, AI가 아니었다 - The Motley Fool",
+      "title": "워런 버핏은 198억 달러를 베팅했는데, AI가 아니었다 - The Motley Fool",
       "url": "https://www.fool.com/investing/2026/03/31/warren-buffett-made-a-198-billion-bet-and-its-not/",
-      "sentiment": "Growth"
+      "sentiment": "Positive"
     },
     {
       "date": "2026-03-31 23:40:00",
-      "title": "왜 셰브런과 엑손 주식을 보유하는 것이 여전히 가치 있는가 - tradingview.com",
+      "title": "Chevron과 Exxon 주식을 보유하는 것이 여전히 가치 있는 이유 - TradingView",
       "url": "https://www.tradingview.com/news/zacks:6c4036e36094b:0-why-holding-chevron-exxon-stock-is-still-worthwhile/",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-03-31 23:28:52",
-      "title": "워런 버핏이 198억 달러를 걸었지만, AI가 아니었다 - theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/1077825/warren-buffett-made-a-19-8-billion-bet-and-it-s-not-on-ai/",
-      "sentiment": "Growth"
-    },
-    {
       "date": "2026-03-31 21:30:37",
-      "title": "셰브런(NYSE:CVX) 주가 1.9% 하락 - 이유는 다음과 같다 - MarketBeat",
+      "title": "Chevron(NYSE:CVX) 주가 1.9% 하락 - 이유는 다음과 같습니다 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/chevron-nysecvx-trading-down-19-heres-why-2026-03-31/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 21:30:04",
-      "title": "셰브런 옵션 급증: 3월 31일 70,265계약 거래, 미결제약정 58.379만 계약 - Moomoo",
-      "url": "https://www.moomoo.com/news/post/67727782/chevron-options-spot-on-on-march-31st-70265-contracts-were?level=1&data_ticket=1775092281418537",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-31 17:25:07",
-      "title": "현재 변동성을 견뎌낼 수 있는 2개의 석유주 - AOL.com",
-      "url": "https://www.aol.com/finance/2-oil-stocks-weather-current-172300910.html",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-31 16:03:13",
-      "title": "유가는 수년 만의 최고치 근처에 있다. 1,000달러로 매수하기 가장 좋은 에너지주는 무엇일까? - theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CVX/pressreleases/1067868/oil-prices-are-near-multiyear-highs-heres-the-best-energy-stock-to-buy-with-1000/",
-      "sentiment": "Positive"
+      "sentiment": "Negative"
     },
     {
       "date": "2026-03-31 15:26:00",
-      "title": "셰브론, 리비아 NOC와 협력해 해상 잠재력 개척 - tradingview.com",
+      "title": "Chevron, 리비아 NOC와 해상 잠재력 발굴을 위한 파트너십 체결 - TradingView",
       "url": "https://www.tradingview.com/news/zacks:67093f494094b:0-chevron-partners-with-libya-s-noc-to-unlock-offshore-potential/",
-      "sentiment": "Growth"
+      "sentiment": "Positive"
     },
     {
       "date": "2026-03-31 14:41:36",
-      "title": "셰브론 주가 2026년 36% 상승. 애널리스트들이 251달러 목표주가를 보는 이유 - TIKR.com",
+      "title": "Chevron 주가는 2026년에 36% 상승했다. 애널리스트들이 251달러 목표가를 제시하는 이유는 다음과 같다 - TIKR.com",
       "url": "https://www.tikr.com/blog/chevron-stock-is-up-36-in-2026-heres-why-analysts-see-a-251-target",
       "sentiment": "Mixed"
     },
     {
       "date": "2026-03-31 13:00:06",
-      "title": "Chevron Corporation(CVX)이 투자자들의 관심을 끌고 있다: 알아야 할 사항 - Yahoo Finance Singapore",
+      "title": "Chevron Corporation(CVX)은 투자자들의 관심을 끌고 있다: 알아야 할 사항 - Yahoo Finance Singapore",
       "url": "https://sg.finance.yahoo.com/news/chevron-corporation-cvx-attracting-investor-130006529.html",
-      "sentiment": "Growth"
+      "sentiment": "Neutral"
     },
     {
       "date": "2026-03-31 11:42:56",
-      "title": "J.P. Morgan, Chevron(CVX.US)에 대해 매수 의견 유지",
-      "url": "https://news.futunn.com/en/post/70903786/jp-morgan-maintains-chevron-cvxus-with-buy-rating?level=1&data_ticket=1775092966639861",
-      "sentiment": "Positive"
+      "title": "J.P. Morgan, Chevron(CVX.US)에 매수 의견 유지 - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70903786/jp-morgan-maintains-chevron-cvxus-with-buy-rating?level=1&data_ticket=1775179140233438",
+      "sentiment": "Neutral"
     },
     {
       "date": "2026-03-31 10:43:00",
-      "title": "Chevron 주가가 40% 급등한 이유는?",
+      "title": "Chevron 주가가 40% 급등한 이유는? - Trefis",
       "url": "https://www.trefis.com/stock/cvx/articles2/595299/why-chevron-stock-jumped-40/2026-03-31",
       "sentiment": "Mixed"
     },
     {
       "date": "2026-03-31 10:41:27",
-      "title": "Rochester Wealth Strategies LLC, Chevron Corporation $CVX 지분 확대 - MarketBeat",
+      "title": "Rochester Wealth Strategies LLC, Chevron Corporation $CVX 주식 보유량 확대 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-rochester-wealth-strategies-llc-grows-stock-position-in-chevron-corporation-cvx-2026-03-31/",
       "sentiment": "Neutral"
     },
@@ -310,13 +329,13 @@
     },
     {
       "date": "2026-03-31 10:07:18",
-      "title": "알라바마 퇴직연금 시스템, Chevron Corporation $CVX 지분 축소 - MarketBeat",
+      "title": "Retirement Systems of Alabama, Chevron Corporation $CVX 지분 축소 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-retirement-systems-of-alabama-decreases-stake-in-chevron-corporation-cvx-2026-03-31/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-31 09:33:10",
-      "title": "Chevron Corporation $CVX 주식, Hennion & Walsh Asset Management Inc.가 매각 - MarketBeat",
+      "title": "Hennion & Walsh Asset Management Inc., Chevron Corporation $CVX 주식 매도 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-chevron-corporation-cvx-shares-sold-by-hennion-walsh-asset-management-inc-2026-03-31/",
       "sentiment": "Neutral"
     },
@@ -328,105 +347,33 @@
     },
     {
       "date": "2026-03-31 08:36:40",
-      "title": "Clg LLC, Chevron Corporation $CVX 주식 매각 - MarketBeat",
+      "title": "Clg LLC, Chevron Corporation $CVX 주식 매도 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-chevron-corporation-cvx-shares-sold-by-clg-llc-2026-03-31/",
       "sentiment": "Neutral"
     },
     {
+      "date": "2026-03-31 07:00:00",
+      "title": "워런 버핏, 4분기에 석유에 대규모 베팅: 2026년 Berkshire Hathaway의 Chevron 주식 평가이익은 얼마나? - Sahm",
+      "url": "https://www.sahmcapital.com/news/content/warren-buffett-bet-big-on-oil-in-q4-heres-how-much-berkshire-hathaway-is-up-on-chevron-stock-in-2026-2026-03-31",
+      "sentiment": "Positive"
+    },
+    {
       "date": "2026-03-31 05:05:00",
-      "title": "강한 장기 주가 상승 이후 Chevron(CVX)을 지금 고려하기엔 너무 늦었나? - Yahoo Finance",
+      "title": "강한 다년간 주가 상승 후 Chevron(CVX)을 고려하기에는 너무 늦었나? - finance.yahoo.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/too-consider-chevron-cvx-strong-050510039.html",
       "sentiment": "Risk"
     },
     {
-      "date": "2026-03-31 03:23:17",
-      "title": "Chevron(CVX)은 강한 다년간 주가 상승 이후 장기 가치를 제대로 반영하고 있나 - simplywall.st",
-      "url": "https://simplywall.st/stocks/us/energy/nyse-cvx/chevron/news/is-chevron-cvx-pricing-reflect-long-term-value-after-strong",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-30 20:47:27",
-      "title": "애널리스트 상향 조정과 유가 급등 속 Chevron Corporation 주가, 52주 신고가 경신 - AD HOC NEWS",
-      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/chevron-corporation-stock-hits-new-52-week-high-on-analyst-upgrades-amid/69032615",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-30 20:04:14",
-      "title": "핵심 사실: Chevron, 자산 재검토; 리비아 해상 블록에 대한 양해각서(MoU) 체결 - tradingview.com",
-      "url": "https://www.tradingview.com/news/tradingview:586a4538fdc09:0-key-facts-chevron-reconsiders-assets-signs-mou-on-libya-offshore-block/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 16:20:01",
-      "title": "Chevron(CVX)가 급등할 가능성이 높은 이유 - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-chevron-cvx-might-well-162001971.html",
+      "date": "2026-03-31 03:23:18",
+      "title": "강한 다년간 주가 상승 후 Chevron(CVX)의 가격이 장기 가치를 반영하는가 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/energy/nyse-cvx/chevron/news/is-chevron-cvx-pricing-reflect-long-term-value-after-strong/amp",
       "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-30 16:00:03",
-      "title": "Chevron(CVX)가 강한 모멘텀 주식인 이유: 지금 매수해야 하나? - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-chevron-cvx-strong-momentum-160003915.html",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-30 15:40:02",
-      "title": "SSL vs. CVX: 어느 주식이 더 나은 가치주인가? - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ssl-vs-cvx-stock-better-154002358.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 14:16:52",
-      "title": "Chevron(NYSE:CVX), 애널리스트 상향 조정으로 12개월 최고가 경신 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/chevron-nysecvx-sets-new-12-month-high-on-analyst-upgrade-2026-03-30/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-30 14:12:00",
-      "title": "CVX, 사이클론 피해로 웨스트스톤 LNG 가동 중단 장기화 직면 - Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/cvx-faces-extended-wheatstone-lng-141200101.html",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-30 13:52:00",
-      "title": "신뢰의 거인: 새로운 글로벌 에너지 시대 속 Chevron(CVX)에 대한 심층 리서치 특집 - FinancialContent",
-      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-3-30-the-titan-of-reliability-a-deep-dive-research-feature-on-chevron-cvx-amidst-a-new-global-energy-era",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-30 13:30:03",
-      "title": "월가 애널리스트들은 Chevron(CVX)을 좋은 투자처로 보고 있다: 정말 그럴까? - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-chevron-133003466.html",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 10:55:49",
-      "title": "R.H. Dinel Investment Counsel Inc., Chevron Corporation $CVX 지분 축소 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-rh-dinel-investment-counsel-inc-trims-stock-position-in-chevron-corporation-cvx-2026-03-30/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 10:07:48",
-      "title": "Goelzer Investment Management Inc., Chevron Corporation $CVX 지분 확대 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-goelzer-investment-management-inc-boosts-stake-in-chevron-corporation-cvx-2026-03-30/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 10:07:47",
-      "title": "Spire Wealth Management, Chevron Corporation $CVX 지분 축소 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-spire-wealth-management-lowers-position-in-chevron-corporation-cvx-2026-03-30/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 08:08:36",
-      "title": "Exchange Traded Concepts LLC가 Chevron Corporation $CVX 주식 매도 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-chevron-corporation-cvx-shares-sold-by-exchange-traded-concepts-llc-2026-03-30/",
-      "sentiment": "Neutral"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-30 ──\n  [Positive] 애널리스트 상향 조정과 유가 급등 속 Chevron Corporation 주가, 52주 신고가 경신 - AD HOC NEWS\n  [Neutral] 핵심 사실: Chevron, 자산 재검토; 리비아 해상 블록에 대한 양해각서(MoU) 체결 - tradingview.com\n  [Growth] Chevron(CVX)가 급등할 가능성이 높은 이유 - Yahoo Finance\n  [Growth] Chevron(CVX)가 강한 모멘텀 주식인 이유: 지금 매수해야 하나? - Yahoo Finance\n  [Neutral] SSL vs. CVX: 어느 주식이 더 나은 가치주인가? - Yahoo Finance\n  [Positive] Chevron(NYSE:CVX), 애널리스트 상향 조정으로 12개월 최고가 경신 - MarketBeat\n  [Risk] CVX, 사이클론 피해로 웨스트스톤 LNG 가동 중단 장기화 직면 - Yahoo Finance\n  [Growth] 신뢰의 거인: 새로운 글로벌 에너지 시대 속 Chevron(CVX)에 대한 심층 리서치 특집 - FinancialContent\n  [Neutral] 월가 애널리스트들은 Chevron(CVX)을 좋은 투자처로 보고 있다: 정말 그럴까? - Yahoo Finance\n  [Neutral] R.H. Dinel Investment Counsel Inc., Chevron Corporation $CVX 지분 축소 - MarketBeat\n  [Neutral] Goelzer Investment Management Inc., Chevron Corporation $CVX 지분 확대 - MarketBeat\n  [Neutral] Spire Wealth Management, Chevron Corporation $CVX 지분 축소 - MarketBeat\n  [Neutral] Exchange Traded Concepts LLC가 Chevron Corporation $CVX 주식 매도 - MarketBeat\n\n── 2026-03-31 ──\n  [Positive] 왜 셰브런과 엑손 주식을 보유하는 것이 여전히 가치 있는가 - tradingview.com\n  [Growth] 워런 버핏이 198억 달러를 걸었지만, AI가 아니었다 - theglobeandmail.com\n  [Neutral] 셰브런(NYSE:CVX) 주가 1.9% 하락 - 이유는 다음과 같다 - MarketBeat\n  [Neutral] 셰브런 옵션 급증: 3월 31일 70,265계약 거래, 미결제약정 58.379만 계약 - Moomoo\n  [Mixed] 현재 변동성을 견뎌낼 수 있는 2개의 석유주 - AOL.com\n  [Positive] 유가는 수년 만의 최고치 근처에 있다. 1,000달러로 매수하기 가장 좋은 에너지주는 무엇일까? - theglobeandmail.com\n  [Growth] 셰브론, 리비아 NOC와 협력해 해상 잠재력 개척 - tradingview.com\n  [Mixed] 셰브론 주가 2026년 36% 상승. 애널리스트들이 251달러 목표주가를 보는 이유 - TIKR.com\n  [Growth] Chevron Corporation(CVX)이 투자자들의 관심을 끌고 있다: 알아야 할 사항 - Yahoo Finance Singapore\n  [Positive] J.P. Morgan, Chevron(CVX.US)에 대해 매수 의견 유지\n  [Mixed] Chevron 주가가 40% 급등한 이유는?\n  [Neutral] Rochester Wealth Strategies LLC, Chevron Corporation $CVX 지분 확대 - MarketBeat\n  [Neutral] Infinity Wealth Counsel LLC, Chevron Corporation $CVX 신규 주식 매입 - MarketBeat\n  [Neutral] James Hambro & Partners LLP, Chevron Corporation $CVX 주식 매입 - MarketBeat\n  [Neutral] 알라바마 퇴직연금 시스템, Chevron Corporation $CVX 지분 축소 - MarketBeat\n  [Neutral] Chevron Corporation $CVX 주식, Hennion & Walsh Asset Management Inc.가 매각 - MarketBeat\n  [Neutral] Financial Planning Hawaii Inc., Chevron Corporation $CVX 주식 12,987주 매입 - MarketBeat\n  [Neutral] Clg LLC, Chevron Corporation $CVX 주식 매각 - MarketBeat\n  [Risk] 강한 장기 주가 상승 이후 Chevron(CVX)을 지금 고려하기엔 너무 늦었나? - Yahoo Finance\n  [Positive] Chevron(CVX)은 강한 다년간 주가 상승 이후 장기 가치를 제대로 반영하고 있나 - simplywall.st\n\n── 2026-04-01 ──\n  [Positive] 이 3개 에너지주는 2026년 S&P 500을 웃돌 수 있다 - theglobeandmail.com\n  [Mixed] 오늘의 주식시장, 4월 1일: 시장 랠리와 유가 이틀 연속 하락 - theglobeandmail.com\n  [Neutral] 셰브론(NYSE:CVX) 주가 4.5% 하락 - 다음은? - MarketBeat\n  [Neutral] Chevron(CVX.US) 임원, 보통주 857만 달러어치 매도 - Moomoo\n  [Neutral] 셰브론 옵션 거래, 정확히 맞았다: 4월 1일 10.748만 계약 거래, 미결제약정 59.683만 계약 - Moomoo\n  [Risk] Chevron, Microsoft 및 Engine No. 1과의 독점 전력 공급 계약 확인 (CVX:NYSE) - Seeking Alpha\n  [Neutral] 다우존스지수에 끔찍한 한 달, 한 종목은 빛났다 - Investor's Business Daily\n  [Negative] 엑손 모빌과 Chevron 5% 하락: 이란 대통령이 미국 석유주에 방금 한 일 - 24/7 Wall St.\n  [Risk] Chevron 주가가 오늘 하락한 이유는 다음과 같습니다 - The Motley Fool\n  [Risk] Chevron 주가가 오늘 하락한 이유는 다음과 같습니다 - theglobeandmail.com\n  [Mixed] 마이크로소프트와의 AI 중심 가스 발전 베팅이 Chevron의 CVX 투자 논리를 재편하고 있는가? - Yahoo Finance\n  [Growth] Chevron-Microsoft 거래, 70억 달러 규모 텍사스 AI 에너지 프로젝트에 동력 제공 - theglobeandmail.com\n  [Growth] XOM의 우위 있는 업스트림 자산이 어떻게 성장 엔진으로 작용하는가 - theglobeandmail.com\n  [Mixed] Chevron(CVX)이 다시 실적 추정치를 상회할 수 있는 이유 - Yahoo Finance UK\n  [Growth] 새로운 에너지 요새: 2026년 Chevron(CVX)에 대한 심층 리서치 특집 - FinancialContent\n  [Neutral] 이것이 Chevron(CVX)이 강력한 가치주인 이유 - Yahoo Finance\n  [Positive] Chevron의 리더십 변화는 안전 우선순위를 정유소 신뢰성 및 수익성과 연결한다 - simplywall.st\n  [Neutral] Moody Lynn & Lieberson LLC, Chevron Corporation 주식 18,614주 매도 - MarketBeat\n  [Neutral] Shrier Wealth Management LLC, Chevron Corporation $CVX에 신규 포지션 편입 - MarketBeat\n  [Positive] 워런 버핏은 2026년 이 두 개의 대규모 석유 베팅에서 얼마나 벌었나 - Finbold\n  [Neutral] Meyer Handelman Co., Chevron Corporation $CVX 주식 지분 3,206만 달러 보유 - MarketBeat\n  [Positive] TD Cowen, Chevron 목표주가를 168달러에서 214달러로 조정, 투자의견 '보유' 유지 - Moomoo\n  [Risk] 지금 급등 중이며 너무 늦기 전에 사둘 만한 에너지주 3종 - theglobeandmail.com\n  [Neutral] Capital Advisors Inc. OK, Chevron Corporation $CVX 주식 45,453주 매수 - MarketBeat\n  [Neutral] Fortitude Family Office LLC, Chevron Corporation $CVX 주식 563만 달러어치 보유 - MarketBeat\n  [Positive] Vanguard Energy ETF와 Chevron 중 무엇을 사야 할까? - theglobeandmail.com\n  [Positive] Chevron(CVX) 목표주가 212달러로 상향 - Insider Monkey\n  [Positive] Chevron(CVX) 목표주가 212달러로 상향 - Yahoo Finance UK\n  [Positive] Microsoft(MSFT.US)와 Chevron(CVX.US), 70억 달러 규모 발전소 프로젝트 논의 - AASTOCKS.com\n  [Growth] 지금 사서 수십 년간 보유할 최고의 오일주 2개 - AOL.com\n  [Growth] 워런 버핏이 198억 달러를 걸었지만, AI가 아니었다 - The Motley Fool",
-    "sentiment_block": "총 뉴스 64건 분석 결과:\n  Positive    14건 ( 21.9%) ████\n  Growth      11건 ( 17.2%) ███\n  Neutral     26건 ( 40.6%) ████████\n  Mixed        6건 (  9.4%) █\n  Risk         6건 (  9.4%) █\n  Negative     1건 (  1.6%) \n\n날짜별 감정 흐름:\n  2026-03-30: Neutral:7, Growth:3, Positive:2, Risk:1\n  2026-03-31: Neutral:9, Positive:4, Growth:3, Mixed:3, Risk:1\n  2026-04-01: Neutral:10, Positive:8, Growth:5, Risk:4, Mixed:3, Negative:1",
+    "news_block": "\n── 2026-03-31 ──\n  [Positive] Chevron과 Exxon 주식을 보유하는 것이 여전히 가치 있는 이유 - TradingView\n  [Negative] Chevron(NYSE:CVX) 주가 1.9% 하락 - 이유는 다음과 같습니다 - MarketBeat\n  [Positive] Chevron, 리비아 NOC와 해상 잠재력 발굴을 위한 파트너십 체결 - TradingView\n  [Mixed] Chevron 주가는 2026년에 36% 상승했다. 애널리스트들이 251달러 목표가를 제시하는 이유는 다음과 같다 - TIKR.com\n  [Neutral] Chevron Corporation(CVX)은 투자자들의 관심을 끌고 있다: 알아야 할 사항 - Yahoo Finance Singapore\n  [Neutral] J.P. Morgan, Chevron(CVX.US)에 매수 의견 유지 - 富途牛牛\n  [Mixed] Chevron 주가가 40% 급등한 이유는? - Trefis\n  [Neutral] Rochester Wealth Strategies LLC, Chevron Corporation $CVX 주식 보유량 확대 - MarketBeat\n  [Neutral] Infinity Wealth Counsel LLC, Chevron Corporation $CVX 신규 주식 매입 - MarketBeat\n  [Neutral] James Hambro & Partners LLP, Chevron Corporation $CVX 주식 매입 - MarketBeat\n  [Neutral] Retirement Systems of Alabama, Chevron Corporation $CVX 지분 축소 - MarketBeat\n  [Neutral] Hennion & Walsh Asset Management Inc., Chevron Corporation $CVX 주식 매도 - MarketBeat\n  [Neutral] Financial Planning Hawaii Inc., Chevron Corporation $CVX 주식 12,987주 매입 - MarketBeat\n  [Neutral] Clg LLC, Chevron Corporation $CVX 주식 매도 - MarketBeat\n  [Positive] 워런 버핏, 4분기에 석유에 대규모 베팅: 2026년 Berkshire Hathaway의 Chevron 주식 평가이익은 얼마나? - Sahm\n  [Risk] 강한 다년간 주가 상승 후 Chevron(CVX)을 고려하기에는 너무 늦었나? - finance.yahoo.com\n  [Growth] 강한 다년간 주가 상승 후 Chevron(CVX)의 가격이 장기 가치를 반영하는가 - simplywall.st\n\n── 2026-04-01 ──\n  [Growth] 이 3개 에너지주는 2026년에 S&P 500을 웃돌 수 있다 - The Globe and Mail\n  [Positive] 오늘의 증시, 4월 1일: 시장 랠리와 유가, 2거래일 연속 하락 - The Globe and Mail\n  [Neutral] Chevron(NYSE:CVX) 주가 4.5% 하락 - 다음은? - MarketBeat\n  [Neutral] Chevron(CVX.US) 임원, 보통주 857만 달러어치 매도 - Moomoo\n  [Neutral] Chevron 옵션 거래 ‘적중’: 4월 1일 10만 7,480계약이 거래됐고, 미결제약정은 59만 6,830계약 - Moomoo\n  [Neutral] 수요일 장 마감 후 주목할 종목: EL, SHAK, CVX (EL:NYSE) - Seeking Alpha\n  [Neutral] Chevron, Microsoft 및 Engine No. 1과의 독점 전력 공급 계약 확인 (CVX:NYSE) - Seeking Alpha\n  [Negative] 다우존스 지수에 참담한 한 달, 한 종목은 빛났다 - Investor's Business Daily\n  [Negative] Exxon Mobil과 Chevron 5% 하락: 이란 대통령이 미국 원유 주식에 막 한 일 - 24/7 Wall St.\n  [Risk] 오늘 셰브런 주가가 하락한 이유 - The Motley Fool\n  [Risk] 오늘 셰브런 주가가 하락한 이유 - The Globe and Mail\n  [Mixed] 셰브런의 AI 중심 가스 발전 베팅은 마이크로소프트와 함께 CVX의 투자 논리를 재편하고 있는가? - finance.yahoo.com\n  [Growth] 셰브런-마이크로소프트 계약, 70억 달러 텍사스 AI 에너지 프로젝트 추진 - The Globe and Mail\n  [Growth] 엑손의 유리한 업스트림 자산이 어떻게 성장 엔진으로 작용하는가 - The Globe and Mail\n  [Positive] Chevron (CVX), 매수로 상향: 알아두어야 할 사항 - finance.yahoo.com\n  [Neutral] Chevron (CVX)가 강력한 가치주인 이유 - finance.yahoo.com\n  [Risk] Chevron 경영진 교체, 안전 우선순위와 정제소 신뢰성 및 수익률을 연결하다 - simplywall.st\n  [Neutral] Moody Lynn & Lieberson LLC, Chevron Corporation $CVX 18,614주 매도 - MarketBeat\n  [Neutral] Shrier Wealth Management LLC, Chevron Corporation $CVX에 신규 포지션 취득 - MarketBeat\n  [Neutral] Meyer Handelman Co., Chevron Corporation $CVX에서 3,206만 달러 규모의 주식 포지션 보유 - MarketBeat\n  [Neutral] Capital Advisors Inc. OK, Chevron Corporation $CVX 주식 45,453주 매입 - MarketBeat\n  [Neutral] Fortitude Family Office LLC, Chevron Corporation $CVX 주식 보유액 563만 달러 - MarketBeat\n  [Positive] Chevron, 적도기니 Aseng 가스 프로젝트에 대한 최종 투자 결정 내려 - TradingView\n  [Growth] Vanguard Energy ETF와 Chevron 중 어느 것을 사야 할까? - The Globe and Mail\n  [Positive] Chevron (CVX) 목표주가 212달러로 상향 - finance.yahoo.com\n  [Growth] Microsoft(MSFT.US)와 Chevron(CVX.US), 70억 달러 발전소 프로젝트 논의 - AASTOCKS.com\n  [Positive] 워런 버핏은 198억 달러를 베팅했는데, AI가 아니었다 - The Motley Fool\n\n── 2026-04-02 ──\n  [Neutral] Chevron 옵션 거래 적중: 4월 2일 97,417계약 거래, 미결제약정 62.08만 계약 - Moomoo\n  [Growth] Chevron(CVX) 주가는 3년 뒤 어디에 있을까? - The Motley Fool\n  [Growth] Chevron(CVX) 주가는 3년 뒤 어디에 있을까? - The Globe and Mail\n  [Growth] Chevron: 장기화된 이란 전쟁이 촉매제 (NYSE:CVX) - Seeking Alpha\n  [Positive] Subsea7, Aseng 가스 수익화 프로젝트 신규 계약 수주 - TradingView\n  [Positive] Chevron(NYSE:CVX), Citigroup에서 새로운 목표주가 235달러 제시 - MarketBeat\n  [Negative] Chevron(NYSE:CVX) 내부자, 주식 857만 4,660달러어치 매도 - MarketBeat\n  [Positive] Chevron과 ExxonMobil: 새로운 원유 환경에서 어떤 에너지주가 승자가 될까? - 24/7 Wall St.\n  [Growth] Chevron, Microsoft의 AI 야망을 뒷받침할 70억 달러 규모 가스 발전소를 지을 수 있다. 에너지 대기업을 매수할 때인가? - The Globe and Mail\n  [Growth] Chevron의 로보틱스 전략이 유전의 미래인가? - Yahoo Finance Australia\n  [Neutral] 10년 집계: Chevron 주식, 1,610억 달러의 이익을 안겨줘 - Trefis",
+    "sentiment_block": "총 뉴스 55건 분석 결과:\n  Positive    11건 ( 20.0%) ████\n  Growth      11건 ( 20.0%) ████\n  Neutral     22건 ( 40.0%) ████████\n  Mixed        3건 (  5.5%) █\n  Risk         4건 (  7.3%) █\n  Negative     4건 (  7.3%) █\n\n날짜별 감정 흐름:\n  2026-03-31: Neutral:9, Positive:3, Mixed:2, Negative:1, Risk:1, Growth:1\n  2026-04-01: Neutral:11, Growth:5, Positive:5, Risk:3, Negative:2, Mixed:1\n  2026-04-02: Growth:5, Positive:3, Neutral:2, Negative:1",
     "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 33  Hold: 15  Sell: 3  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $212  Low: $160  Consensus: $184.54  Median: $180\n▶ 실적 추정치 (2030-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $150.00952101613078  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "[핵심 요약]\n* 최근 3일간 CVX는 **유가 강세(고점권) + 애널리스트 상향/목표주가 상향 + 리비아/에너지 프로젝트 모멘텀**으로 전반적 강세 흐름이 형성됨.\n* 다만 3/30~4/1 사이 **주가 급등 이후 단기 조정(하락일 동반), 옵션/변동성 확대, LNG 가동중단·계약/리스크 이슈**가 함께 노출.\n* 애널리스트 컨센서스는 **Consensus $184.54(High $212 / Low $160)**, 등급 합산은 **Buy 우위(33 Buy, 15 Hold, 3 Sell)**로 “긍정적이되 아직 보수적 시각도 존재”하는 구간.\n\n[전체 흐름 분석]\n* 3/30: **유가 급등 + 애널리스트 상향**이 결합되며 “재평가 국면”이 시작(52주 신고가 경신 언급).\n* 3/31: 강세 흐름이 이어지되 **주가 변동(소폭 하락)과 옵션 거래/미결제 증가**가 관측되어, 시장이 상승분을 소화하는 과정(변동성 확대)을 보임.\n* 4/1: **유가 이틀 연속 하락(시장 랠리 속도 조절 신호)**과 함께 CVX는 **하락일(4.5% 하락)**이 나타남. 동시에 **Microsoft 연계 발전소/AI 에너지 프로젝트 논의** 등 장기 성장 스토리는 유지되며 “단기 조정 vs 중장기 내러티브”가 충돌하는 모습.\n\n[긍정 요인]\n* **거시/가격 동력:** 뉴스 전반에 “유가 수년 만의 최고치” 및 고점권 언급 → 정유/에너지 마진 기대에 우호적.\n* **월가 시각 개선:** 애널리스트 **상향 조정**과 **목표주가 상향(예: 212달러 언급, TD Cowen도 상향)**이 다수 관측.\n* **사업/지역 모멘텀:** 리비아 NOC와 **해상 잠재력 협력(MoU)** 같은 구체적 협력 이슈가 반복 노출.\n* **중장기 내러티브 확장:** **Microsoft와의 전력공급/AI 에너지 프로젝트(텍사스 70억 달러 규모 논의)**가 등장해 투자 논리(에너지 인프라 가치) 확장.\n\n[부정 요인]\n* **단기 조정 신호:** 4/1에 **주가 4.5% 하락** 및 “급등 이후 너무 늦었나”류의 우려성 기사/리스크가 동반.\n* **변동성/포지셔닝 부담:** 옵션 계약 급증, 미결제 증가 등은 단기적으로 가격이 흔들릴 가능성을 의미.\n* **운영 리스크:** **사이클론 피해로 WestStone LNG 가동 중단 장기화** 리스크가 제시됨(공급/현금흐름에 불리).\n* **경쟁/대외 이벤트:** 엑손과의 동반 하락을 특정 이슈(이란 관련 언급)에 연결한 부정 기사 존재(직접 계량 근거는 없으나 “감내해야 할 지정학 변수”로 해석 필요).\n* **내부자/기관 거래 혼재:** 매도/매수/신규 편입/축소가 섞여 나타남(시장 확신이 일방적이진 않음).\n\n[투자 인사이트]\n* 이번 3일 흐름의 핵심은 **(1) 유가 모멘텀 + (2) 애널리스트 재평가 + (3) 프로젝트/지역 뉴스로 중장기 논리 보강**이 동시에 진행됐다는 점입니다.  \n* 그러나 **4/1의 하락과 옵션/변동성 신호**는, “좋은 뉴스가 있어도 가격이 이미 선반영된 구간에서 단기 수급이 흔들릴 수 있음”을 시사합니다.\n* 따라서 투자 접근은 **추격매수보다는**:\n  * 목표주가 상향/상향 근거가 이어지는지(추가 뉴스/추가 리포트),\n  * LNG 가동 중단 같은 운영 리스크가 해소/완화되는지,\n  * 유가 방향(고점권 유지 vs 재하락)  \n  를 확인하면서 **분할 접근 또는 보수적 비중**이 유리합니다.\n\n[투자 판단]\n* **보류(기다림) — 단, 조건부 접근(분할 매수) 관점은 가능**\n\n[판단 근거]\n* **긍정 쪽 근거가 확실**: Buy 우위(33 Buy), 목표주가 상향(Consensus $184.54, High $212), 유가 고점권/사업 협력 모멘텀/중장기 내러티브(Microsoft 연계) 다수.\n* **하지만 단기 비대칭 리스크도 존재**: 4/1 하락, 변동성/옵션 수급 신호, LNG 가동 중단 장기화 리스크가 함께 제시되어 “지금 당장 공격적으로 들어가기엔 가격·실행 리스크가 동반”되는 구간.\n* 결론적으로, **중장기 품질(월가 및 내러티브)은 긍정**이나 **단기 타이밍은 아직 불리**하므로 “보류 후 조건 확인”이 더 합리적입니다."
+  "investment_judgment": "[핵심 요약]\n* 최근 3일간 Chevron(CVX) 이슈는 **AI 연계 에너지/가스 프로젝트(마이크로소프트와의 70억 달러 발전소 논의, 리비아·적도기니 Aseng 가스 프로젝트 최종투자결정)**가 주도하며, 목표주가 상향(212달러), 업종 내 아웃퍼폼 기대(에너지주 S&P500 상회) 등 **성장 내러티브**가 강화됨.\n* 동시에 **유가/지정학(이란 관련 충격 언급)**, **내부자 매도(임원·내부자 857만 달러 매도 및 다수 매도/축소 뉴스)**, **최근 큰 주가 상승 후 ‘지금이 너무 늦었나’ 우려**가 단기 변동성을 키움.\n* 애널리스트 합산은 **Buy 33 / Hold 15 / Sell 3**로 전반적으론 우호적이나, 감정/뉴스는 중립 비중이 높고(40%), 단기 하락·리스크(7~8%)도 공존.\n\n[전체 흐름 분석]\n* **뉴스 흐름의 중심축은 “전통 에너지 → AI/전력 인프라와 결합한 성장”**으로 이동. 특히 MS 연계 전력/가스 발전 프로젝트와 Aseng(적도기니) 최종투자결정이 반복적으로 등장해, 단순 유가 민감주보다 **구체적 CAPEX/프로젝트 가시성**을 시장이 재평가하는 흐름으로 해석됨.\n* 다만 4/1~4/2에 걸쳐 **주가가 하락한 날(4.5% 하락 등)**과 함께 **내부자 매도, 경영진 교체 리스크, 지정학(이란) 관련 변동성**이 동반되어, “좋은 재료가 있어도 단기에는 흔들릴 수 있는” 구간으로 보임.\n* 수급 관점에서는 “보유 확대/신규 매수”도 보이지만, 같은 기간 내부자 매도 신호가 함께 존재해 **상승 추세가 완전히 일방향은 아니라는 균형**이 필요.\n\n[긍정 요인]\n* **AI/에너지 전환 내러티브 구체화**\n  * MS와 **70억 달러 텍사스 AI 에너지(가스 발전) 프로젝트 논의/계약 확인**이 반복 노출(성장·테마 강화).\n  * **Aseng 가스 프로젝트 최종 투자 결정**(리비아 NOC 파트너십 포함) → “사업화 단계” 진입 가능성.\n* **월가 기대치 상향/우호적 리포트**\n  * 목표주가 **상향(212달러, Citi 235달러 언급)** 및 매수 상향/유지.\n* **시장 전반의 우호 환경 기대**\n  * “에너지주가 2026년 S&P500 상회” 같은 업종 상대강점 전망이 다수.\n\n[부정 요인]\n* **단기 변동성 요인**\n  * 4/1에 **주가 하락** 및 유가/지정학 충격 언급(이란 대통령 관련) → 단기 가격 조정 가능.\n* **내부자 매도(신호 혼재)**\n  * 임원/내부자가 **857만 달러어치 매도** 및 다수 매도/축소 뉴스가 동시 존재.\n  * 수급은 매수도 있으나, 내부자 매도는 “기대 대비 단기 이익 실현/보수적 시각”으로 해석될 수 있음.\n* **‘이미 많이 올랐다’는 밸류에이션/타이밍 우려**\n  * 장기간 상승 이후 “너무 늦었나/장기 가치 반영 여부” 같은 평가가 함께 등장.\n\n[투자 인사이트]\n* 결론적으로, 최근 3일은 **(1) 프로젝트/투자결정(Aseng·리비아) + (2) MS 연계 전력 인프라(70억 달러)로 성장 경로가 구체화**되며 기대가 쌓인 구간입니다. 이 조합은 전통 업황 민감만으로 보기 어려운 **리레이팅 재료**가 될 수 있습니다.\n* 다만 **내부자 매도와 지정학 변수, 그리고 단기 하락이 동시에 관측**되어 “재료가 좋아도 주가가 즉시 매끄럽게 오르지 않을 수 있는” 신호가 있습니다. 즉, 투자 관점에서의 전략은 **추격 매수보다는 ‘가격 조정 시점’ 또는 ‘확인(추가 상승/내부자 흐름 안정)’을 선호**하는 쪽이 더 합리적입니다.\n* 애널리스트 컨센서스는 **낮은 값 160~높은 값 212, 컨센 184.54**로 범위가 있고, 제공된 DCF 내재가치(약 **150**)가 컨센보다 낮아 **현재 가격이 데이터상 확정되지 않은 상황에서 “완전한 안전마진”은 즉시 단정하기 어렵습니다.**(현재가 미제공)\n\n[투자 판단]\n* **보류(관망 후 단계적 접근)**\n\n[판단 근거]\n* **찬성 근거(성장 모멘텀):** Aseng 최종 투자 결정, 리비아 파트너십, MS 연계 70억 달러 발전소 논의 등 “가시적 프로젝트” 뉴스가 다수이며 목표주가 상향 흐름도 존재.\n* **유보 근거(리스크/타이밍):** 동시에 내부자 매도(임원 매도 포함), 지정학/유가 변동성 언급, 최근 상승에 대한 “너무 늦었나” 우려가 있어 단기 변동 가능성이 큼.\n* **애널리스트 쪽도 완전한 만장일치는 아님:** Buy가 우세하나 Hold도 15, Sell도 3 존재. 이는 단기 가격/밸류에이션 관점에서 보수적 투자자 비중도 있음을 의미.\n* 따라서 현 구간은 **좋은 재료가 이미 반영될 가능성과 단기 흔들림**이 공존하므로, “즉시 투자”보다는 **가격이 조정되거나(또는 내부자/주가 흐름이 안정된 뒤) 확인 후 진입**이 더 근거 있는 선택입니다."
 }

@@ -1,62 +1,205 @@
 {
   "meta": {
     "symbol": "TSM",
-    "analysis_date": "2026-04-02T03:23:42.145621+00:00",
-    "news_period": "2026-03-30 ~ 2026-04-01",
-    "news_count": 51,
+    "analysis_date": "2026-04-03T03:05:55.493814+00:00",
+    "news_period": "2026-03-31 ~ 2026-04-02",
+    "news_count": 52,
     "model": "gpt-5.4-nano"
   },
   "sentiment_summary": {
-    "Neutral": 21,
-    "Growth": 13,
-    "Positive": 11,
-    "Mixed": 5,
+    "Neutral": 25,
+    "Growth": 15,
+    "Positive": 9,
+    "Mixed": 2,
     "Risk": 1
   },
   "sentiment_by_date": {
-    "2026-03-30": {
+    "2026-03-31": {
       "Neutral": 6,
       "Growth": 4,
-      "Mixed": 4,
-      "Positive": 4,
+      "Positive": 2,
       "Risk": 1
     },
-    "2026-03-31": {
+    "2026-04-01": {
       "Neutral": 7,
       "Growth": 4,
-      "Positive": 2
+      "Positive": 3
     },
-    "2026-04-01": {
-      "Neutral": 8,
-      "Positive": 5,
-      "Growth": 5,
-      "Mixed": 1
+    "2026-04-02": {
+      "Neutral": 12,
+      "Growth": 7,
+      "Positive": 4,
+      "Mixed": 2
     }
   },
   "news_with_sentiment": [
     {
-      "date": "2026-04-01 21:49:51",
-      "title": "Taiwan Semiconductor Manufacturing(NYSE:TSM) 주가 1.2% 상승 - 여전히 매수할 만한가? - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/taiwan-semiconductor-manufacturing-nysetsm-stock-price-up-12-still-a-buy-2026-04-01/",
+      "date": "2026-04-02 21:09:52",
+      "title": "TSMC: AI 파운드리 우위는 여전히 더 뛸 여지가 있다 (NYSE:TSM) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4888193-tsmc-the-ai-foundry-supremacy-still-has-room-to-run",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-02 20:49:11",
+      "title": "대만 반도체 옵션, 적중: 4월 2일 141,450계약 거래, 미결제약정 166만 계약 - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/71058473/taiwan-semiconductor-options-spot-on-on-april-2nd-141-45k?level=1&data_ticket=1775179140233438",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 20:13:55",
+      "title": "TSMC 일본 3nm 승인과 엔비디아 AI 수요, 그리고 현재 밸류에이션 - Yahoo Finance Singapore",
+      "url": "https://sg.finance.yahoo.com/news/tsmc-japan-3nm-approval-nvidia-201355157.html",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-02 18:25:25",
+      "title": "지켜볼 만한 제조업 주식 - 4월 2일 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/manufacturing-stocks-worth-watching-april-2nd-2026-04-02/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 16:53:22",
+      "title": "4월 16일 대만 반도체의 실적 상회 폭은 얼마나 클까? - AOL.com",
+      "url": "https://www.aol.com/articles/big-taiwan-semiconductor-beat-april-160240549.html",
       "sentiment": "Positive"
     },
     {
-      "date": "2026-04-01 21:38:56",
-      "title": "Nomura Taiwan High Tech Fund 수익률 164%로 동종 펀드 99%를 상회 - TradingView",
-      "url": "https://www.tradingview.com/news/gurufocus:6cea97556094b:0-nomura-taiwan-high-tech-fund-returns-164-outperforms-99-of-peers/",
+      "date": "2026-04-02 16:46:07",
+      "title": "TSM 주가 전망: TSM 장중 $326까지 하락 — 목표주가 $400 - TradingNEWS",
+      "url": "https://www.tradingnews.com/news/tsm-stock-price-forecast-tsm-drops-326-usd-as-iran-war-hammers-tech-400-target",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-04-02 16:02:40",
+      "title": "4월 16일에 TSMC의 실적 상회 폭은 얼마나 클까? - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/04/02/how-big-will-taiwan-semiconductors-beat-be-on-april-16/",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-02 15:56:22",
+      "title": "TSMC: AI 플레이보다 훨씬 더 큰 기업, 최근의 불안은 좋은 기회를 제공한다 (TSM) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4888106-tsmc-much-more-than-just-ai-play-recent-jitters-present-great-opportunity",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-02 13:48:24",
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd 주식(TSM) 4월 2일 3.14% 하락 출발: 주요 동인 공개 - TradingKey",
+      "url": "https://www.tradingkey.com/news/Market-Movers/261747734-market-movers-tsm-20260402",
+      "sentiment": "Mixed"
+    },
+    {
+      "date": "2026-04-02 13:19:20",
+      "title": "오늘의 프리마켓 급등주 및 주요 투자의견 | MU, TSM, OXY 등 - Moomoo",
+      "url": "https://www.moomoo.com/news/post/67846371/today-s-pre-market-movers-and-top-ratings-mu-tsm?level=1&data_ticket=1775178799217923",
       "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-02 12:15:56",
+      "title": "은퇴자들은 이 ETF로 반도체 거물로부터 주간 수익을 받고 있다 - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/04/02/retirees-are-using-this-etf-to-collect-weekly-income-from-a-chipmaker-giant/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 12:03:10",
+      "title": "World Investment Advisors, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 비중 확대 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-world-investment-advisors-increases-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-04-02/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-02 11:37:09",
+      "title": "HF Advisory Group LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유액 5,950만 달러 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hf-advisory-group-llc-has-5950-million-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-04-02/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 10:47:21",
+      "title": "TB Alternative Assets Ltd., Taiwan Semiconductor Manufacturing Company Ltd.에 292만 달러 신규 투자 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-tb-alternative-assets-ltd-makes-new-292-million-investment-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-04-02/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 10:44:33",
+      "title": "Blue Trust Inc., Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 비중 축소 - Defense World",
+      "url": "https://www.defenseworld.net/2026/04/02/blue-trust-inc-lowers-holdings-in-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 10:40:27",
+      "title": "Pictet North America Advisors SA, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 포지션 5,533만 달러 보유 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pictet-north-america-advisors-sa-has-5533-million-stock-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-04-02/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 10:35:07",
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식, PICTET BANK & TRUST Ltd가 매도 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-pictet-bank-trust-ltd-2026-04-02/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 10:35:07",
+      "title": "Trust Co. of Vermont, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 지분 2,785만 달러 보유 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-trust-co-of-vermont-has-2785-million-stake-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-04-02/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 10:09:31",
+      "title": "Brookstone Capital Management, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 4,155주 매입 - Defense World",
+      "url": "https://www.defenseworld.net/2026/04/02/brookstone-capital-management-purchases-4155-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 09:34:16",
+      "title": "애널리스트들은 기술주 상위 종목에 낙관적: nCino(NCNO), Oracle(ORCL) - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/1109085/analysts-are-bullish-on-top-technology-stocks-ncino-ncno-oracle-orcl/",
+      "sentiment": "Positive"
+    },
+    {
+      "date": "2026-04-02 08:36:44",
+      "title": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 주식 늘려 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-empirical-financial-services-llc-dba-empirical-wealth-management-increases-stock-holdings-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-04-02/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 07:38:29",
+      "title": "Bank Pictet & Cie Europe AG, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 지분 9,046만 달러 보유 - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-pictet-cie-europe-ag-has-9046-million-stake-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-04-02/",
+      "sentiment": "Neutral"
+    },
+    {
+      "date": "2026-04-02 02:53:39",
+      "title": "J.P. Morgan, Taiwan Semiconductor( TSM.US)의 상반기 매출총이익률 강한 성장 전망… 올해와 내년 이익 추정치 상향 - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/71005520/jp-morgan-forecasts-strong-growth-in-taiwan-semiconductor-s-tsmus?level=1&data_ticket=1775179140233438",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-02 02:02:00",
+      "title": "JPM, TSMC( TSM.US)의 1H26 매출총이익률 강한 성장 예상… FY26-27 이익 전망 상향 - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/usq/quote/stock-news-content.aspx?symbol=TSM&id=NOW.1515717",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-02 00:45:47",
+      "title": "TSMC 일본 3나노 승인, AI 칩 생산능력에 새로운 차원 추가 - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/tsmc-japan-3nm-approval-adds-new-dimension-to-ai-chip-capaci",
+      "sentiment": "Growth"
+    },
+    {
+      "date": "2026-04-01 19:34:00",
+      "title": "이 새로운 스핀오프는 주목할 만한 원자력 및 AI 칩 수혜주다 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/1122841/this-new-spinoff-is-a-nuclear-and-ai-chip-beneficiary-worth-watching/",
+      "sentiment": "Growth"
     },
     {
       "date": "2026-04-01 17:31:58",
-      "title": "주목할 만한 제조업 주식 - 4월 1일 - MarketBeat",
+      "title": "주목할 만한 제조업 종목 - 4월 1일 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/promising-manufacturing-stocks-to-research-april-1st-2026-04-01/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-04-01 14:36:52",
-      "title": "TSM vs. AVGO: 어느 반도체 주식이 더 나은가? - AOL.com",
-      "url": "https://www.aol.com/articles/tsm-vs-avgo-better-semiconductor-160812154.html",
-      "sentiment": "Mixed"
+      "date": "2026-04-01 15:01:11",
+      "title": "긍정적 신호: URSULA BURNS, Taiwan Semiconductor 주식을 32만2천 달러어치 매수하며 신뢰 보여 - Benzinga",
+      "url": "https://www.benzinga.com/insights/news/26/04/51602238/positive-signal-ursula-burns-shows-faith-buying-322k-in-taiwan-semiconductor-stock",
+      "sentiment": "Positive"
     },
     {
       "date": "2026-04-01 13:01:59",
@@ -66,32 +209,26 @@
     },
     {
       "date": "2026-04-01 11:27:13",
-      "title": "PFG Private Wealth Management LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM에 64만3,000달러 규모의 포지션 보유 - MarketBeat",
+      "title": "PFG Private Wealth Management LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM에 64만3천 달러 포지션 취득 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-pfg-private-wealth-management-llc-takes-643000-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-04-01/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-04-01 11:18:29",
-      "title": "TSMC(TSM) 주가, 일본 3나노 확장과 AI 칩 수요로 6% 상승 - mexc.co",
-      "url": "https://www.mexc.co/en-PH/news/997270",
-      "sentiment": "Growth"
-    },
-    {
       "date": "2026-04-01 11:01:00",
-      "title": "내부자 매수: $TSM 이사, 1,000주 매입 - Quiver Quantitative",
+      "title": "내부자 매입: $TSM 이사, 1,000주 매수 - quiverquant.com",
       "url": "https://www.quiverquant.com/news/Insider+Purchase%3A+Director+at+%24TSM+Buys+1%2C000+Shares",
       "sentiment": "Positive"
     },
     {
       "date": "2026-04-01 10:58:50",
-      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM는 PineStone Asset Management Inc.의 최대 보유 종목 - MarketBeat",
+      "title": "타이완 반도체 제조, 주식회사 $TSM은 PineStone Asset Management Inc.의 최대 보유 종목 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-is-pinestone-asset-management-incs-largest-position-2026-04-01/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-04-01 10:33:31",
-      "title": "바클레이즈, Taiwan Semiconductor(TSM.US) 투자의견 '매수' 유지, 목표주가 450달러 유지 - news.futunn.com",
-      "url": "https://news.futunn.com/en/post/70967285/barclays-maintains-taiwan-semiconductor-tsmus-with-buy-rating-maintains-target?level=1&data_ticket=1775092966639861",
+      "title": "Barclays, Taiwan Semiconductor(TSM.US) 매수 의견 유지, 목표주가 450달러 유지 - 富途牛牛",
+      "url": "https://news.futunn.com/en/post/70967285/barclays-maintains-taiwan-semiconductor-tsmus-with-buy-rating-maintains-target?level=1&data_ticket=1775179140233438",
       "sentiment": "Positive"
     },
     {
@@ -101,51 +238,33 @@
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-04-01 09:23:11",
-      "title": "수요일 Taiwan Semiconductor 주가는 무슨 일이 있었나? - Taiwan Semiconductor (NYSE:TSM) - Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51591878/taiwan-semiconductor-eyes-cutting-edge-3nm-production-in-japan-by-2028",
-      "sentiment": "Growth"
-    },
-    {
       "date": "2026-04-01 09:08:10",
-      "title": "SG Americas Securities LLC, Direxion Daily TSM Bull 2X Shares $TSMX 11만3,400주 매수 - MarketBeat",
+      "title": "SG Americas Securities LLC, Direxion Daily TSM Bull 2X Shares $TSMX 113,400주 매수 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-sg-americas-securities-llc-purchases-113400-shares-of-direxion-daily-tsm-bull-2x-shares-tsmx-2026-04-01/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-04-01 08:49:42",
-      "title": "TSMC(TSM) 주가, 일본 3nm 확장 및 AI 칩 수요로 6% 상승 - CoinCentral",
+      "title": "TSMC(TSM) 주가, 일본 3nm 확장과 AI 칩 수요로 6% 상승 - CoinCentral",
       "url": "https://coincentral.com/tsmc-stock-climbs-japan-3nm-expansion-ai-chip-demand-17b-investment/",
       "sentiment": "Growth"
     },
     {
-      "date": "2026-04-01 08:42:19",
-      "title": "Burns Matteson Capital Management LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 1,855주 취득 - defenseworld.net",
-      "url": "https://www.defenseworld.net/2026/04/01/burns-matteson-capital-management-llc-acquires-shares-of-1855-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
-      "sentiment": "Neutral"
-    },
-    {
       "date": "2026-04-01 08:07:31",
-      "title": "Dock Street Asset Management Inc., Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 확대 - MarketBeat",
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. TSM 보유 비중, Dock Street Asset Management Inc.가 확대 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-holdings-raised-by-dock-street-asset-management-inc-2026-04-01/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-04-01 08:05:19",
-      "title": "Archford Capital Strategies LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 4,695주 매수 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-archford-capital-strategies-llc-buys-4695-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-04-01/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-04-01 03:58:00",
-      "title": "TSMC(TSM.US), 2028년까지 일본에서 3nm 칩 대량 생산 시작 계획 - AASTOCKS.com",
-      "url": "http://www.aastocks.com/en/stocks/news/aafn-news/NOW.1515428/2",
+      "title": "TSMC, 2028년까지 일본에서 3nm 칩 양산 시작 계획 - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/usq/quote/stock-news-content.aspx?symbol=TSM&id=NOW.1515428&source=AAFN",
       "sentiment": "Growth"
     },
     {
       "date": "2026-04-01 03:58:00",
-      "title": "TSMC, 2028년까지 일본에서 3nm 칩 대량 생산 시작 계획 - AASTOCKS.com",
-      "url": "http://www.aastocks.com/en/usq/quote/stock-news-content.aspx?symbol=TSM&id=NOW.1515428&source=AAFN",
+      "title": "TSMC(TSM.US), 2028년까지 일본에서 3nm 칩 양산 시작 계획 - AASTOCKS.com",
+      "url": "https://www.aastocks.com/en/stocks/news/aafn-news/NOW.1515428/2",
       "sentiment": "Growth"
     },
     {
@@ -156,33 +275,33 @@
     },
     {
       "date": "2026-03-31 21:30:37",
-      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) 주가 6.8% 상승 - 이유는 이렇다 - MarketBeat",
+      "title": "Taiwan Semiconductor Manufacturing(NYSE:TSM) 주가 6.8% 상승 - 이유는 이겁니다 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/taiwan-semiconductor-manufacturing-nysetsm-shares-up-68-heres-why-2026-03-31/",
       "sentiment": "Positive"
     },
     {
       "date": "2026-03-31 14:20:04",
-      "title": "Taiwan Semiconductor Manufacturing Co Ltd 주식(TSM), 3월 31일 3.09% 상승: 변동 배경 - TradingKey",
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd 주식(TSM), 3월 31일 3.09% 상승: 움직임의 배경 - TradingKey",
       "url": "https://www.tradingkey.com/news/Market-Movers/261738756-market-movers-tsm-20260331",
       "sentiment": "Growth"
     },
     {
       "date": "2026-03-31 13:34:48",
-      "title": "AI 수요가 밸류에이션을 재편하는 가운데 TSMC, 2나노 시대 개막 - simplywall.st",
+      "title": "TSMC, AI 수요가 밸류에이션을 재정의하는 가운데 2나노미터 시대로 진입 - simplywall.st",
       "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/tsmc-starts-2-nanometer-era-as-ai-demand-reframes-valuation",
       "sentiment": "Growth"
     },
     {
       "date": "2026-03-31 13:34:05",
-      "title": "TSM의 첨단 패키징 확대가 새로운 성장 국면을 열까? - Zacks Investment Research",
+      "title": "TSM의 첨단 패키징 확대가 새로운 성장 국면을 열어줄까? - Zacks Investment Research",
       "url": "https://www.zacks.com/stock/news/2892141/will-tsms-advanced-packaging-push-unlock-a-new-growth-phase",
-      "sentiment": "Neutral"
+      "sentiment": "Risk"
     },
     {
       "date": "2026-03-31 13:09:02",
       "title": "Taiwan Semiconductor Manufacturing Company Limited(TSM), 강한 수요와 업계 선도 제조 역량으로 상승 - Yahoo Finance UK",
       "url": "https://uk.finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-130902244.html",
-      "sentiment": "Growth"
+      "sentiment": "Positive"
     },
     {
       "date": "2026-03-31 11:45:41",
@@ -191,14 +310,8 @@
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-31 11:30:37",
-      "title": "400K달러 내부자 매수 이후 TSM 주식이 주목받아 - TheTradable",
-      "url": "https://thetradable.com/stocks/tsm-stock-draws-attention-after-400k-insider-buy--a",
-      "sentiment": "Positive"
-    },
-    {
       "date": "2026-03-31 11:05:43",
-      "title": "Raub Brock Capital Management LP의 Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 매도 - MarketBeat",
+      "title": "Raub Brock Capital Management LP, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 매도 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-raub-brock-capital-management-lp-2026-03-31/",
       "sentiment": "Neutral"
     },
@@ -216,135 +329,27 @@
     },
     {
       "date": "2026-03-31 08:44:49",
-      "title": "Boston Common Asset Management LLC, Taiwan Semiconductor Manufacturing Company Ltd. 지분 1억 6,473만 달러 보유 - MarketBeat",
+      "title": "Boston Common Asset Management LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 지분 1억 6,473만 달러 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-boston-common-asset-management-llc-has-16473-million-holdings-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-31/",
       "sentiment": "Neutral"
     },
     {
       "date": "2026-03-31 07:38:44",
-      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식을 Allspring Global Investments Holdings LLC가 매도 - MarketBeat",
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식, Allspring Global Investments Holdings LLC가 매도 - MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-allspring-global-investments-holdings-llc-2026-03-31/",
       "sentiment": "Neutral"
     },
     {
-      "date": "2026-03-30 22:22:07",
-      "title": "Nvidia, Apple, Alphabet과 함께 3조 달러 클럽에 합류하기 전에 매수할 만한 훌륭한 성장주 1종목 - theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/1050856/1-brilliant-growth-stock-to-buy-before-it-joins-nvidia-apple-and-alphabet-in-the-3-trillion-club/",
+      "date": "2026-03-31 07:00:00",
+      "title": "TSMC, AI 수요가 밸류에이션을 재편하는 가운데 2나노미터 시대를 시작 - Sahm",
+      "url": "https://www.sahmcapital.com/news/content/tsmc-starts-2-nanometer-era-as-ai-demand-reframes-valuation-2026-03-31",
       "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-30 21:37:29",
-      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) 주가 3.1% 하락 - 매도 시점인가? - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/taiwan-semiconductor-manufacturing-nysetsm-shares-down-31-time-to-sell-2026-03-30/",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-30 21:06:17",
-      "title": "Taiwan Semiconductor 옵션 거래 활발: 3월 30일 14만 5,460계약 거래, 미결제약정 162만 계약 - news.futunn.com",
-      "url": "https://news.futunn.com/en/post/70855996/taiwan-semiconductor-options-spot-on-on-march-30th-145-46k?level=1&data_ticket=1775092966639861",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 20:26:40",
-      "title": "TSM, 자동화된 마인크래프트 건축용 osu ai 출시 - VPEsports",
-      "url": "https://vpesports.com/featured-news/tsms-osu-ai-app-minecraft-building",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-30 18:45:00",
-      "title": "내부자 주식 매입: 2026년 3월 30일 - Quiver Quantitative",
-      "url": "https://www.quiverquant.com/news/Insider+Stock+Purchases%3A+March+30%2C+2026",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-30 18:28:06",
-      "title": "오늘 주목할 만한 유망 제조업 주식 5선 - 3월 30일 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/promising-manufacturing-stocks-to-watch-today-march-30th-2026-03-30/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 18:15:40",
-      "title": "Taiwan Semiconductor Manufacturing Co Ltd 주식(TSM), 3월 30일 3.42% 하락: 종합 분석 - TradingKey",
-      "url": "https://www.tradingkey.com/news/Market-Movers/261734872-market-movers-tsm-20260330",
-      "sentiment": "Risk"
-    },
-    {
-      "date": "2026-03-30 17:33:00",
-      "title": "TSMC 주식(TSM) 생산능력 제약에 대한 의견 - Quiver Quantitative",
-      "url": "https://www.quiverquant.com/news/TSMC+Stock+%28TSM%29+Opinions+on+Capacity+Constraints",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-30 14:05:47",
-      "title": "TSMC의 2nm 양산 확대와 AI 수요, 성장 및 밸류에이션 서사를 재편하다 - Yahoo Finance Singapore",
-      "url": "https://sg.finance.yahoo.com/news/tsmc-2nm-ramp-ai-demand-140547329.html",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-30 13:08:51",
-      "title": "타이완 반도체 제조(TSM)는 견조한 기초 사업 성장의 수혜를 보고 있다 - Insider Monkey",
-      "url": "https://www.insidermonkey.com/blog/taiwan-semiconductor-manufacturing-co-tsm-is-benefiting-from-strong-underlying-business-growth-1727584/?amp=1",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 13:01:06",
-      "title": "강한 수요가 4분기 타이완 반도체 제조 회사(TSM)를 끌어올렸다 - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-demand-lifted-taiwan-semiconductor-130106361.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAFgx0lvli2Q9jZHKUxJHl627WNlI1CS0khxJPp4A8pF6h1DZNGu-QoeheurklrxgYkWBWVTmRmjoTLQMslWWwiu8gFlu3ffB-HCzxyzFts9q2c_BvbAS7D0kPk-msQnYNGllYpPK4r4ivWSpKINRno5d98ajAGL9rBEDHBu_G0qA",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-30 12:56:04",
-      "title": "타이완 반도체 제조(TSM)는 견조한 기초 사업 성장의 수혜를 보고 있다 - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-co-tsm-125604873.html",
-      "sentiment": "Growth"
-    },
-    {
-      "date": "2026-03-30 11:30:09",
-      "title": "MOR Wealth Management LLC, 대만 반도체 제조 주식회사에 71만9,000달러 신규 투자 단행 $TSM - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-mor-wealth-management-llc-makes-new-719000-investment-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-30/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 11:16:05",
-      "title": "타이완 반도체 제조 주식회사(TSM) 주식, Private Advisory Group LLC가 매수 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-bought-by-private-advisory-group-llc-2026-03-30/",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-30 10:45:50",
-      "title": "TrueMark Investments LLC, 타이완 반도체 제조 주식회사(TSM) 지분 374만 달러어치 보유 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-truemark-investments-llc-has-374-million-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-30/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 10:45:00",
-      "title": "$TSM 부사장, 자사주 2,000주 매수 - Quiver Quantitative",
-      "url": "https://www.quiverquant.com/news/Insider+Purchase%3A+VP+of+%24TSM+Buys+2%2C000+Shares",
-      "sentiment": "Positive"
-    },
-    {
-      "date": "2026-03-30 10:05:51",
-      "title": "타이완 반도체(TSM) 주가: TSMC는 상승한 반면 Nvidia, Apple, Meta는 모두 하락한 이유 - MEXC",
-      "url": "https://www.mexc.com/news/991208",
-      "sentiment": "Mixed"
-    },
-    {
-      "date": "2026-03-30 08:40:48",
-      "title": "Donaldson Capital Management LLC, 타이완 반도체 제조 주식회사(TSM) 보유 확대 - MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-donaldson-capital-management-llc-boosts-holdings-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-03-30/",
-      "sentiment": "Neutral"
-    },
-    {
-      "date": "2026-03-30 08:34:34",
-      "title": "Taiwan Semiconductor (TSM) 주가: Nvidia, Apple, Meta는 모두 하락했지만 TSMC는 상승세인 이유 - CoinCentral",
-      "url": "https://coincentral.com/taiwan-semiconductor-tsm-stock-tsmc-is-up-while-nvidia-apple-and-meta-are-all-down-heres-why/",
-      "sentiment": "Positive"
     }
   ],
   "analyst_context": {
-    "news_block": "\n── 2026-03-30 ──\n  [Growth] Nvidia, Apple, Alphabet과 함께 3조 달러 클럽에 합류하기 전에 매수할 만한 훌륭한 성장주 1종목 - theglobeandmail.com\n  [Mixed] Taiwan Semiconductor Manufacturing (NYSE:TSM) 주가 3.1% 하락 - 매도 시점인가? - MarketBeat\n  [Neutral] Taiwan Semiconductor 옵션 거래 활발: 3월 30일 14만 5,460계약 거래, 미결제약정 162만 계약 - news.futunn.com\n  [Mixed] TSM, 자동화된 마인크래프트 건축용 osu ai 출시 - VPEsports\n  [Positive] 내부자 주식 매입: 2026년 3월 30일 - Quiver Quantitative\n  [Neutral] 오늘 주목할 만한 유망 제조업 주식 5선 - 3월 30일 - MarketBeat\n  [Risk] Taiwan Semiconductor Manufacturing Co Ltd 주식(TSM), 3월 30일 3.42% 하락: 종합 분석 - TradingKey\n  [Mixed] TSMC 주식(TSM) 생산능력 제약에 대한 의견 - Quiver Quantitative\n  [Growth] TSMC의 2nm 양산 확대와 AI 수요, 성장 및 밸류에이션 서사를 재편하다 - Yahoo Finance Singapore\n  [Neutral] 타이완 반도체 제조(TSM)는 견조한 기초 사업 성장의 수혜를 보고 있다 - Insider Monkey\n  [Growth] 강한 수요가 4분기 타이완 반도체 제조 회사(TSM)를 끌어올렸다 - Yahoo Finance\n  [Growth] 타이완 반도체 제조(TSM)는 견조한 기초 사업 성장의 수혜를 보고 있다 - Yahoo Finance\n  [Neutral] MOR Wealth Management LLC, 대만 반도체 제조 주식회사에 71만9,000달러 신규 투자 단행 $TSM - MarketBeat\n  [Positive] 타이완 반도체 제조 주식회사(TSM) 주식, Private Advisory Group LLC가 매수 - MarketBeat\n  [Neutral] TrueMark Investments LLC, 타이완 반도체 제조 주식회사(TSM) 지분 374만 달러어치 보유 - MarketBeat\n  [Positive] $TSM 부사장, 자사주 2,000주 매수 - Quiver Quantitative\n  [Mixed] 타이완 반도체(TSM) 주가: TSMC는 상승한 반면 Nvidia, Apple, Meta는 모두 하락한 이유 - MEXC\n  [Neutral] Donaldson Capital Management LLC, 타이완 반도체 제조 주식회사(TSM) 보유 확대 - MarketBeat\n  [Positive] Taiwan Semiconductor (TSM) 주가: Nvidia, Apple, Meta는 모두 하락했지만 TSMC는 상승세인 이유 - CoinCentral\n\n── 2026-03-31 ──\n  [Growth] 주식 트레이더들, Taiwan Semiconductor Manufacturing(NYSE:TSM) 콜옵션 대량 매수 - MarketBeat\n  [Positive] Taiwan Semiconductor Manufacturing (NYSE:TSM) 주가 6.8% 상승 - 이유는 이렇다 - MarketBeat\n  [Growth] Taiwan Semiconductor Manufacturing Co Ltd 주식(TSM), 3월 31일 3.09% 상승: 변동 배경 - TradingKey\n  [Growth] AI 수요가 밸류에이션을 재편하는 가운데 TSMC, 2나노 시대 개막 - simplywall.st\n  [Neutral] TSM의 첨단 패키징 확대가 새로운 성장 국면을 열까? - Zacks Investment Research\n  [Growth] Taiwan Semiconductor Manufacturing Company Limited(TSM), 강한 수요와 업계 선도 제조 역량으로 상승 - Yahoo Finance UK\n  [Neutral] Vaughan Nelson Investment Management L.P., Taiwan Semiconductor Manufacturing Company Ltd. $TSM 지분 2억 1,895만 달러 보유 - MarketBeat\n  [Positive] 400K달러 내부자 매수 이후 TSM 주식이 주목받아 - TheTradable\n  [Neutral] Raub Brock Capital Management LP의 Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 매도 - MarketBeat\n  [Neutral] Northstar Advisory Group LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 1,768주 매도 - MarketBeat\n  [Neutral] J. Safra Sarasin Holding AG, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 20,787주 매도 - MarketBeat\n  [Neutral] Boston Common Asset Management LLC, Taiwan Semiconductor Manufacturing Company Ltd. 지분 1억 6,473만 달러 보유 - MarketBeat\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식을 Allspring Global Investments Holdings LLC가 매도 - MarketBeat\n\n── 2026-04-01 ──\n  [Positive] Taiwan Semiconductor Manufacturing(NYSE:TSM) 주가 1.2% 상승 - 여전히 매수할 만한가? - MarketBeat\n  [Positive] Nomura Taiwan High Tech Fund 수익률 164%로 동종 펀드 99%를 상회 - TradingView\n  [Neutral] 주목할 만한 제조업 주식 - 4월 1일 - MarketBeat\n  [Mixed] TSM vs. AVGO: 어느 반도체 주식이 더 나은가? - AOL.com\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식, Victory Financial Group LLC가 매수 - MarketBeat\n  [Neutral] PFG Private Wealth Management LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM에 64만3,000달러 규모의 포지션 보유 - MarketBeat\n  [Growth] TSMC(TSM) 주가, 일본 3나노 확장과 AI 칩 수요로 6% 상승 - mexc.co\n  [Positive] 내부자 매수: $TSM 이사, 1,000주 매입 - Quiver Quantitative\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM는 PineStone Asset Management Inc.의 최대 보유 종목 - MarketBeat\n  [Positive] 바클레이즈, Taiwan Semiconductor(TSM.US) 투자의견 '매수' 유지, 목표주가 450달러 유지 - news.futunn.com\n  [Neutral] Meyer Handelman Co., Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 확대 - MarketBeat\n  [Growth] 수요일 Taiwan Semiconductor 주가는 무슨 일이 있었나? - Taiwan Semiconductor (NYSE:TSM) - Benzinga\n  [Neutral] SG Americas Securities LLC, Direxion Daily TSM Bull 2X Shares $TSMX 11만3,400주 매수 - MarketBeat\n  [Growth] TSMC(TSM) 주가, 일본 3nm 확장 및 AI 칩 수요로 6% 상승 - CoinCentral\n  [Neutral] Burns Matteson Capital Management LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 1,855주 취득 - defenseworld.net\n  [Positive] Dock Street Asset Management Inc., Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 확대 - MarketBeat\n  [Neutral] Archford Capital Strategies LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 4,695주 매수 - MarketBeat\n  [Growth] TSMC(TSM.US), 2028년까지 일본에서 3nm 칩 대량 생산 시작 계획 - AASTOCKS.com\n  [Growth] TSMC, 2028년까지 일본에서 3nm 칩 대량 생산 시작 계획 - AASTOCKS.com",
-    "sentiment_block": "총 뉴스 51건 분석 결과:\n  Positive    11건 ( 21.6%) ████\n  Growth      13건 ( 25.5%) █████\n  Neutral     21건 ( 41.2%) ████████\n  Mixed        5건 (  9.8%) █\n  Risk         1건 (  2.0%) \n  Negative     0건 (  0.0%) \n\n날짜별 감정 흐름:\n  2026-03-30: Neutral:6, Growth:4, Mixed:4, Positive:4, Risk:1\n  2026-03-31: Neutral:7, Growth:4, Positive:2\n  2026-04-01: Neutral:8, Positive:5, Growth:5, Mixed:1",
+    "news_block": "\n── 2026-03-31 ──\n  [Growth] 주식 트레이더들, Taiwan Semiconductor Manufacturing(NYSE:TSM) 콜옵션 대량 매수 - MarketBeat\n  [Positive] Taiwan Semiconductor Manufacturing(NYSE:TSM) 주가 6.8% 상승 - 이유는 이겁니다 - MarketBeat\n  [Growth] Taiwan Semiconductor Manufacturing Co Ltd 주식(TSM), 3월 31일 3.09% 상승: 움직임의 배경 - TradingKey\n  [Growth] TSMC, AI 수요가 밸류에이션을 재정의하는 가운데 2나노미터 시대로 진입 - simplywall.st\n  [Risk] TSM의 첨단 패키징 확대가 새로운 성장 국면을 열어줄까? - Zacks Investment Research\n  [Positive] Taiwan Semiconductor Manufacturing Company Limited(TSM), 강한 수요와 업계 선도 제조 역량으로 상승 - Yahoo Finance UK\n  [Neutral] Vaughan Nelson Investment Management L.P., Taiwan Semiconductor Manufacturing Company Ltd. $TSM 지분 2억 1,895만 달러 보유 - MarketBeat\n  [Neutral] Raub Brock Capital Management LP, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 매도 - MarketBeat\n  [Neutral] Northstar Advisory Group LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 1,768주 매도 - MarketBeat\n  [Neutral] J. Safra Sarasin Holding AG, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 20,787주 매도 - MarketBeat\n  [Neutral] Boston Common Asset Management LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 지분 1억 6,473만 달러 - MarketBeat\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식, Allspring Global Investments Holdings LLC가 매도 - MarketBeat\n  [Growth] TSMC, AI 수요가 밸류에이션을 재편하는 가운데 2나노미터 시대를 시작 - Sahm\n\n── 2026-04-01 ──\n  [Growth] 이 새로운 스핀오프는 주목할 만한 원자력 및 AI 칩 수혜주다 - The Globe and Mail\n  [Neutral] 주목할 만한 제조업 종목 - 4월 1일 - MarketBeat\n  [Positive] 긍정적 신호: URSULA BURNS, Taiwan Semiconductor 주식을 32만2천 달러어치 매수하며 신뢰 보여 - Benzinga\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식, Victory Financial Group LLC가 매수 - MarketBeat\n  [Neutral] PFG Private Wealth Management LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM에 64만3천 달러 포지션 취득 - MarketBeat\n  [Positive] 내부자 매입: $TSM 이사, 1,000주 매수 - quiverquant.com\n  [Neutral] 타이완 반도체 제조, 주식회사 $TSM은 PineStone Asset Management Inc.의 최대 보유 종목 - MarketBeat\n  [Positive] Barclays, Taiwan Semiconductor(TSM.US) 매수 의견 유지, 목표주가 450달러 유지 - 富途牛牛\n  [Neutral] Meyer Handelman Co., Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 확대 - MarketBeat\n  [Neutral] SG Americas Securities LLC, Direxion Daily TSM Bull 2X Shares $TSMX 113,400주 매수 - MarketBeat\n  [Growth] TSMC(TSM) 주가, 일본 3nm 확장과 AI 칩 수요로 6% 상승 - CoinCentral\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. TSM 보유 비중, Dock Street Asset Management Inc.가 확대 - MarketBeat\n  [Growth] TSMC, 2028년까지 일본에서 3nm 칩 양산 시작 계획 - AASTOCKS.com\n  [Growth] TSMC(TSM.US), 2028년까지 일본에서 3nm 칩 양산 시작 계획 - AASTOCKS.com\n\n── 2026-04-02 ──\n  [Growth] TSMC: AI 파운드리 우위는 여전히 더 뛸 여지가 있다 (NYSE:TSM) - Seeking Alpha\n  [Neutral] 대만 반도체 옵션, 적중: 4월 2일 141,450계약 거래, 미결제약정 166만 계약 - 富途牛牛\n  [Growth] TSMC 일본 3nm 승인과 엔비디아 AI 수요, 그리고 현재 밸류에이션 - Yahoo Finance Singapore\n  [Neutral] 지켜볼 만한 제조업 주식 - 4월 2일 - MarketBeat\n  [Positive] 4월 16일 대만 반도체의 실적 상회 폭은 얼마나 클까? - AOL.com\n  [Mixed] TSM 주가 전망: TSM 장중 $326까지 하락 — 목표주가 $400 - TradingNEWS\n  [Growth] 4월 16일에 TSMC의 실적 상회 폭은 얼마나 클까? - 24/7 Wall St.\n  [Growth] TSMC: AI 플레이보다 훨씬 더 큰 기업, 최근의 불안은 좋은 기회를 제공한다 (TSM) - Seeking Alpha\n  [Mixed] Taiwan Semiconductor Manufacturing Co Ltd 주식(TSM) 4월 2일 3.14% 하락 출발: 주요 동인 공개 - TradingKey\n  [Positive] 오늘의 프리마켓 급등주 및 주요 투자의견 | MU, TSM, OXY 등 - Moomoo\n  [Neutral] 은퇴자들은 이 ETF로 반도체 거물로부터 주간 수익을 받고 있다 - 24/7 Wall St.\n  [Positive] World Investment Advisors, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 비중 확대 - MarketBeat\n  [Neutral] HF Advisory Group LLC, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유액 5,950만 달러 - MarketBeat\n  [Neutral] TB Alternative Assets Ltd., Taiwan Semiconductor Manufacturing Company Ltd.에 292만 달러 신규 투자 - MarketBeat\n  [Neutral] Blue Trust Inc., Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 비중 축소 - Defense World\n  [Neutral] Pictet North America Advisors SA, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 포지션 5,533만 달러 보유 - MarketBeat\n  [Neutral] Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식, PICTET BANK & TRUST Ltd가 매도 - MarketBeat\n  [Neutral] Trust Co. of Vermont, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 지분 2,785만 달러 보유 - MarketBeat\n  [Neutral] Brookstone Capital Management, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 주식 4,155주 매입 - Defense World\n  [Positive] 애널리스트들은 기술주 상위 종목에 낙관적: nCino(NCNO), Oracle(ORCL) - The Globe and Mail\n  [Neutral] Empirical Financial Services LLC d.b.a. Empirical Wealth Management, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 보유 주식 늘려 - MarketBeat\n  [Neutral] Bank Pictet & Cie Europe AG, Taiwan Semiconductor Manufacturing Company Ltd. $TSM 지분 9,046만 달러 보유 - MarketBeat\n  [Growth] J.P. Morgan, Taiwan Semiconductor( TSM.US)의 상반기 매출총이익률 강한 성장 전망… 올해와 내년 이익 추정치 상향 - 富途牛牛\n  [Growth] JPM, TSMC( TSM.US)의 1H26 매출총이익률 강한 성장 예상… FY26-27 이익 전망 상향 - AASTOCKS.com\n  [Growth] TSMC 일본 3나노 승인, AI 칩 생산능력에 새로운 차원 추가 - simplywall.st",
+    "sentiment_block": "총 뉴스 52건 분석 결과:\n  Positive     9건 ( 17.3%) ███\n  Growth      15건 ( 28.8%) █████\n  Neutral     25건 ( 48.1%) █████████\n  Mixed        2건 (  3.8%) \n  Risk         1건 (  1.9%) \n  Negative     0건 (  0.0%) \n\n날짜별 감정 흐름:\n  2026-03-31: Neutral:6, Growth:4, Positive:2, Risk:1\n  2026-04-01: Neutral:7, Growth:4, Positive:3\n  2026-04-02: Neutral:12, Growth:7, Positive:4, Mixed:2",
     "analyst_block": "▶ 애널리스트 등급 합산\n  Strong Buy: 0  Buy: 16  Hold: 7  Sell: 0  Strong Sell: 0\n▶ 목표주가 컨센서스\n  High: $450  Low: $330  Consensus: $408  Median: $410\n▶ 실적 추정치 (2029-12)\n  예상 매출: $0.0B  예상 EPS: $0.00\n▶ DCF 내재가치\n  DCF: $154.97456631073626  현재가: $N/A\n▶ FMP 종합 등급\n  등급: B+  점수: N/A\n▶ 핵심 밸류에이션 (TTM)\n  P/E: N/A  P/B: N/A  EV/EBITDA: N/A  ROE: N/A"
   },
-  "investment_judgment": "[핵심 요약]\n* 최근 3일 동안 **TSM은 AI 수요와 첨단 공정(2nm/3nm)·패키징 확대 기대**가 주가 흐름을 지지했고, **내부자 매수/기관 포지션 확대** 같은 수급 신호가 반복적으로 등장\n* 단기적으로는 **변동성(3/30 하락 후 3/31·4/1 반등)**과 일부 “생산능력 제약/차익실현성 매도” 뉴스가 섞였으나, 전반 감정은 **Positive+Growth 우위**\n* 애널리스트 컨센서스는 **Buy(16) 중심**, 목표주가 범위 **$330~$450(컨센서스 $408~$410)**로 상방 여지가 존재\n\n[전체 흐름 분석]\n* 3/30: 감정이 Neutral·Growth·Mixed가 혼재되며 **약세(3.1% 하락)** 신호가 먼저 나타남. 다만 옵션 거래 활발, 내부자 매수 등 “기대/포지셔닝” 재료도 동반.\n* 3/31: **콜옵션 대량 매수 + 주가 6.8% 상승**. 이는 시장이 단기 기대(상승 시나리오)에 베팅하는 흐름으로 해석 가능.\n* 4/1: 추가로 **내부자 매수(이사 1,000주 등), 일본 3nm 확장/AI 칩 수요 언급, 바클레이즈 ‘매수’ 유지(목표주가 450달러 유지)**가 이어지며 **완만한 추가 상승(1.2% + 6% 언급)**과 “서사 재편”이 강화.\n\n[긍정 요인]\n* **AI 수요가 밸류에이션/성장 서사를 재편**한다는 내러티브가 3일 내내 반복 (Growth 다수)\n* **2nm 양산 확대, 첨단 패키징 확대, 일본 3nm(2028년) 대량생산 계획** 등 로드맵 중심의 긍정 재료가 누적\n* **내부자 매수**가 여러 차례 관측 (3/30·3/31·4/1)\n* **기관/고객 자금 유입 신호(보유 확대, 신규 투자 등)**가 다수\n* 감정비율: Positive(21.6%) + Growth(25.5%) = **47.1%**로, Neutral(41.2%)을 상회\n\n[부정 요인]\n* **3/30 하락(3.1%, 3.42% 하락 언급)**처럼 단기 변동성이 존재\n* 일부 콘텐츠는 **생산능력 제약** 또는 “매도” 흐름을 섞어 언급(예: 일부 펀드/관리자의 매도 관측)\n* Mixed 뉴스 일부(자동화된 마인크래프트 관련 등)처럼 본질과 거리가 있는 이슈도 포함되어 있어, 단기 뉴스 품질은 편차가 있음\n\n[투자 인사이트]\n* 이번 3일의 핵심은 “단순 기술적 반등”보다 **AI 수요 → 첨단 공정(2nm/3nm)·패키징 → 성장 재평가 기대**로 이어지는 서사 강화입니다. 이 흐름이 내부자 매수와 옵션/기관 수급과 같이 관측되어, 기대가 ‘일회성’에 그치기보다는 **포지셔닝이 누적**되는 형태에 가깝습니다.\n* 다만 “생산능력 제약” 같은 리스크가 전혀 없었다고 보기 어렵기 때문에, 공격적 매수라기보다는 **컨센서스 목표주가(약 $408~$410) 상단을 향해 갈 수 있는 트렌드에 편승하되, 변동성 구간에서는 분할 접근**이 더 합리적입니다.\n* 상충 신호(일부 매도/제약 언급 vs 다수 매수/긍정 전망)는 “장기 성장 서사”는 유지되지만 **단기 실현/조정이 반복될 수 있음**을 시사합니다.\n\n[투자 판단]\n**투자: 투자(단, 분할 접근 권장)**\n\n[판단 근거]\n* **애널리스트 등급이 Buy 중심(Strong Buy 0, Buy 16, Hold 7)**이며, 목표주가 **컨센서스 $408~$410**로 긍정적 기대가 우세\n* 감정 분석에서도 **Positive+Growth(47.1%) > Neutral(41.2%)**로 전체 톤이 우호적\n* 수급 측면에서 **내부자 매수 반복 + 콜옵션 대량 매수(3/31) + 보유 확대/신규 투자 관측**이 동반되어, 상승 기대가 시장 참여자 행동으로 확인됨\n* 부정 요인은 존재(하락/제약/일부 매도)하지만, 3일 흐름에서는 그보다 **AI·미세공정/패키징 로드맵과 수급이 우위를 점함**"
+  "investment_judgment": ""
 }
